@@ -1,0 +1,2859 @@
+<Map>
+    <item index="11" mapName="1" stars="1" exp="30" areaName="鎮守府正面海域" battleName="近海警備">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="駆逐ロ級"></enemy>
+            <enemy formation="単縦" detail="駆逐ハ級"></enemy>
+            <route position="B"></route>
+            <route position="C"></route>
+            <drop>白雪 初雪 深雪 叢雲 磯波 綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 潮 暁 響 雷 電 初春 子日 若葉 初霜 時雨 村雨 夕立 五月雨 涼風 大潮 満潮 荒潮 霰 霞 天龍 龍田 神通 那珂</drop>
+        </point>
+        <point position="B">
+            <enemy formation="単縦" detail="駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="駆逐ロ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="駆逐ハ級、駆逐ハ級"></enemy>
+            <drop>白雪 初雪 深雪 叢雲 磯波 綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 潮 暁 響 雷 電 初春 子日 若葉 初霜 時雨 村雨 夕立 五月雨 涼風 大潮 満潮 荒潮 霰 霞 天龍 龍田 球磨 多摩 長良 川内 神通 那珂</drop>
+        </point>
+        <point position="C" isBoss="1">
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐ハ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <drop>吹雪 白雪 初雪 深雪 叢雲 磯波 綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 漣 潮 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 五月雨 涼風 朝潮 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 北上 天龍 球磨 多摩 木曾 川内 神通 那珂</drop>
+        </point>
+    </item>
+
+
+
+    <item index="12" mapName="1" stars="1" exp="50" areaName="南西諸島沖" battleName="南西諸島沖警備">
+        <point position="-">
+            <route position="A"></route>
+            <route position="C"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="駆逐ロ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <route position="B"></route>
+            <drop>白雪 初雪 深雪 磯波 綾波 敷波 睦月 如月 文月 菊月 三日月 望月 朧 漣 潮 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 五月雨 涼風 朝潮 大潮 満潮 荒潮 霞 黒潮 天龍 多摩 五十鈴 名取 川内 神通 那珂</drop>
+        </point>
+        <point position="B" isBoss="1">
+            <enemy formation="単縦" detail="軽巡ヘ級、雷巡チ級、駆逐ハ級、駆逐ハ級、駆逐ロ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級、軽巡ホ級、駆逐イ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級、軽巡ホ級、駆逐ロ級、駆逐イ級、駆逐イ級"></enemy>
+            <drop>白雪 初雪 深雪 叢雲 磯波 綾波 敷波 睦月 如月 長月 菊月 朧 曙 漣 潮 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 五月雨 涼風 朝潮 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 北上 天龍 球磨 多摩 長良 五十鈴 名取 川内 神通 那珂 夕張 鳥海 摩耶</drop>
+        </point>
+        <point position="C">
+            <award detail="弾薬+10～20"></award>
+            <route position="D"></route>
+        </point>
+        <point position="D">
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="駆逐ロ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <drop>初雪 深雪 磯波 敷波 睦月 如月 文月 菊月 三日月 望月 朧 曙 漣 潮 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 五月雨 涼風 大潮 荒潮 霞 黒潮 雪風 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂</drop>
+        </point>
+    </item>
+
+
+    <item index="13" mapName="1" stars="2" exp="80" areaName="製油所地帯沿岸" battleName="海上護衛作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級、駆逐ハ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <route position="D"></route>
+            <drop>白雪 初雪 深雪 磯波 綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 涼風 大潮 満潮 荒潮 霞 霰 不知火 黒潮 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 青葉 千歳 千代田 鳳翔</drop>
+        </point>
+        <point position="B">
+            <lost detail="うずしお：弾薬損失"></lost>
+            <route position="C"></route>
+            <route position="E"></route>
+        </point>
+        <point position="C">
+            <award detail="燃料+10～20"></award>
+            <route position="F"></route>
+        </point>
+        <point position="D">
+            <award detail="燃料+10～30"></award>
+            <route position="C"></route>
+            <route position="G"></route>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="軽巡ホ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級、駆逐ハ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <route position="F"></route>
+            <drop>初雪 磯波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 潮 暁 響 雷 電 初春 若葉 初霜 白露 時雨 村雨 夕立 涼風 大潮 満潮 荒潮 霰 不知火 黒潮 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 千歳 千代田</drop>
+        </point>
+        <point position="F">
+            <enemy formation="単縦" detail="重巡リ級、駆逐イ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、重巡リ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、雷巡チ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <drop>白雪 初雪 深雪 磯波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 曙 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 涼風 大潮 満潮 荒潮 霰 霞 不知火 黒潮 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 千歳 千代田</drop>
+        </point>
+        <point position="G" isBoss="1">
+            <enemy formation="単縦、複縦" detail="戦艦ル級、雷巡チ級、軽巡ヘ級、駆逐イ級、駆逐イ級"></enemy>
+            <drop>吹雪 白雪 深雪 叢雲 磯波 綾波 敷波 如月 菊月 三日月 望月 朧 漣 潮 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 五月雨 涼風 荒潮 大潮 霰 不知火 黒潮 北上 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 夕張 古鷹 加古 青葉 衣笠 千歳 千代田 鳳翔</drop>
+        </point>
+    </item>
+
+
+
+    <item index="14" mapName="1" stars="3" exp="100" areaName="南西諸島防衛線" battleName="南1号作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <route position="G"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="重巡リ級、軽巡ヘ級、駆逐イ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、軽巡ヘ級、駆逐ロ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級、軽巡ヘ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、軽巡ヘ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <route position="C"></route>
+            <drop>白雪 初雪 深雪 叢雲 磯波 睦月 如月 皐月 文月 三日月 望月 暁 響 雷 電 初春 子日 初霜 若葉 白露 時雨 夕立 五月雨 涼風 朝潮 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 神通 那珂 古鷹 加古 青葉 妙高 那智 足柄 羽黒 千歳 千代田 鳳翔</drop>
+        </point>
+        <point position="B">
+            <enemy formation="単縦" detail="重巡リ級、軽巡ヘ級、駆逐イ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級、軽巡ヘ級、駆逐ロ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級、軽巡ヘ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <route position="C"></route>
+            <drop>吹雪 白雪 初雪 叢雲 磯波 綾波 敷波 睦月 皐月 文月 長月 菊月 三日月 望月 暁 響 雷 電 子日 若葉 白露 時雨 村雨 夕立 五月雨 涼風 大潮 満潮 霰 陽炎 不知火 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 神通 那珂 古鷹 加古 青葉 妙高 那智 足柄 羽黒 千歳 千代田 鳳翔</drop>
+        </point>
+        <point position="C">
+            <award detail="鋼材+10～20"></award>
+            <route position="D"></route>
+            <route position="E"></route>
+        </point>
+        <point position="D">
+            <award detail="ボーキサイト+10～20"></award>
+            <route position="F"></route>
+        </point>
+        <point position="E">
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ロ級、駆逐ロ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <route position="F"></route>
+            <drop>五月雨 吹雪 白雪 初雪 深雪 磯波 綾波 如月 皐月 文月 響 雷 電 子日 若葉 初霜 白露 夕立 満潮 荒潮 霰 霞 陽炎 不知火 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 那珂 古鷹 青葉 妙高 那智 足柄 羽黒 千歳 千代田 鳳翔</drop>
+        </point>
+        <point position="F" isBoss="1">
+            <enemy formation="輪形" detail="空母ヲ級、軽母ヌ級、重巡リ級、軽巡ヘ級、駆逐ニ級、駆逐ニ級" diZhiKongZhi="18" zhiKongYouShi="27" zhiKongQueBao="54"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級、空母ヲ級、重巡リ級、重巡リ級、軽巡ヘ級、駆逐ニ級" diZhiKongZhi="20" zhiKongYouShi="30" zhiKongQueBao="60"></enemy>
+            <drop>吹雪 初雪 深雪 叢雲 磯波 睦月 如月 文月 長月 菊月 三日月 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 夕立 村雨 五月雨 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 巻雲 天龍 龍田 球磨 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 古鷹 加古 青葉 妙高 那智 足柄 羽黒 摩耶 鳥海 衣笠 千歳 千代田 赤城 鳳翔 龍驤 祥鳳</drop>
+        </point>
+        <point position="G">
+            <award detail="弾薬+10～20"></award>
+            <route position="H"></route>
+        </point>
+        <point position="H">
+            <award detail="鋼材+10～20"></award>
+            <route position="I"></route>
+        </point>
+        <point position="I">
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ロ級、駆逐ロ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <route position="F"></route>
+            <route position="J"></route>
+            <drop>吹雪 初雪 深雪 叢雲 磯波 敷波 綾波 睦月 如月 皐月 文月 菊月 望月 暁 響 雷 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 五月雨 涼風 大潮 満潮 霞 陽炎 黒潮 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 神通 夕張 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 千歳 千代田 赤城 鳳翔 龍驤 祥鳳</drop>
+        </point>
+        <point position="J">
+            <enemy formation="単縦" detail="戦艦ル級、雷巡チ級、軽巡ヘ級、軽巡ヘ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、雷巡チ級、雷巡チ級、軽巡ヘ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="艦ル級、軽巡ホ級、軽巡ホ級、駆逐ニ級、駆逐ニ級、駆逐ニ級"></enemy>
+            <drop>初雪 深雪 磯波 叢雲 如月 菊月 長月 三日月 響 雷 初霜 初春 子日 若葉 白露 村雨 夕立 朝潮 大潮 満潮 荒潮 霰 陽炎 不知火 黒潮 天龍 龍田 球磨 木曾 長良 名取 神通 那珂 古鷹 加古 青葉 妙高 那智 足柄 羽黒 鳥海 千歳 千代田 赤城 鳳翔 扶桑</drop>
+        </point>
+    </item>
+
+
+
+    <item index="15" mapName="1" stars="5" exp="150" areaName="鎮守府近海" battleName="鎮守府近海対潜哨戒">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="潜水カ級" baseLevel="79以下"></enemy>
+            <enemy formation="単縦" detail="潜水カ級elite" baseLevel="80以上"></enemy>
+            <route position="B"></route>
+            <drop>白雪 初雪 深雪 叢雲 磯波 敷波 朧 曙 漣 潮 如月 皐月 文月 長月 菊月 三日月 望月 響 雷 電 子日 若葉 初霜 時雨 村雨 夕立 五月雨 朝潮 大潮 満潮 荒潮 霰 霞 不知火 黒潮 由良 那珂 千歳 千代田 鳳翔</drop>
+        </point>
+        <point position="B">
+            <enemy formation="梯形" detail="潜水カ級、潜水カ級" baseLevel="37"></enemy>
+            <enemy formation="梯形" detail="潜水カ級、潜水カ級、潜水カ級" baseLevel=""></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級" baseLevel="40以上79以下"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級" baseLevel="80以上"></enemy>
+            <route position="C"></route>
+            <route position="D"></route>
+            <routeDetail>4隻以下でC固定。5隻以上でランダム</routeDetail>
+            <drop>白雪 初雪 深雪 叢雲 磯波 敷波 朧 曙 漣 潮 如月 皐月 文月 長月 菊月 三日月 望月 響 雷 電 子日 若葉 初霜 時雨 村雨 夕立 五月雨 大潮 満潮 荒潮 霰 霞 不知火 黒潮 多摩 五十鈴 名取 由良 神通 那珂 千歳 千代田 鳳翔</drop>
+        </point>
+        <point position="C">
+            <enemy formation="単横" detail="潜水ヨ級、潜水カ級、潜水カ級" baseLevel="39以下"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級elite、潜水カ級、潜水カ級" baseLevel="40以上79以下？"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級elite、潜水カ級elite、潜水カ級、潜水カ級" baseLevel="80以上？（49での報告あり）"></enemy>
+            <route position="E"></route>
+            <route position="F"></route>
+            <routeDetail>戦艦（航空戦艦除く）、潜水艦が含まれているとF固定。軽巡3隻（雷巡は含まれない）以上でF固定。以上を満たさず、4隻以下ならばE固定（要検証）</routeDetail>
+            <drop>白雪 初雪 深雪 叢雲 磯波 敷波 朧 曙 漣 潮 如月 文月 長月 菊月 三日月 望月 響 雷 電 子日 若葉 初霜 時雨 夕立 五月雨 大潮 満潮 荒潮 霰 霞 不知火 黒潮 北上 多摩 木曾 五十鈴 名取 由良 神通 那珂 千歳 千代田 鳳翔 伊168 伊58 伊19</drop>
+        </point>
+        <point position="D">
+            <enemy formation="梯形" detail="潜水ヨ級、潜水カ級、潜水カ級" baseLevel="49"></enemy>
+            <enemy formation="" detail="潜水ヨ級elite、潜水カ級、潜水カ級" baseLevel="77"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水ヨ級、潜水カ級elite、潜水カ級" baseLevel="99"></enemy>
+            <route position="H"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>白雪 初雪 叢雲 磯波 敷波 朧 曙 漣 潮 霞 五月雨 如月 皐月 長月 菊月 望月 響 雷 電 若葉 時雨 大潮 満潮 不知火 黒潮 北上 木曾 名取 由良 神通 那珂 千歳 千代田 鳳翔 伊168 伊58 伊19</drop>
+        </point>
+        <point position="E">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="G"></route>
+            <route position="I"></route>
+            <routeDetail>5隻以上でG固定。4隻以下かつ軽空母or航空巡洋艦or水母or揚陸艦のうちいずれか1隻のみでI固定。それ以外はランダム</routeDetail>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ハ級、駆逐ハ級" baseLevel="34"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽巡ヘ級flagship、軽巡ホ級elite、駆逐イ級flagship、駆逐イ級flagship" baseLevel="76" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐イ級flagship" baseLevel="80,99" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <drop>白雪 初雪 深雪 磯波 朧 曙 漣 潮 如月 皐月 文月 長月 菊月 三日月 望月 雷 子日 若葉 初霜 時雨 村雨 夕立 五月雨 大潮 荒潮 霞 不知火 黒潮 北上 多摩 木曾 名取 由良 神通 那珂 千歳 千代田 鳳翔 伊168 伊58</drop>
+        </point>
+        <point position="G">
+            <enemy formation="単縦" detail="雷巡チ級elite、雷巡チ級elite、駆逐ハ級elite、駆逐ロ級、駆逐ロ級" baseLevel="31"></enemy>
+            <enemy formation="" detail="雷巡チ級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ハ級elite、駆逐ハ級elite" baseLevel="41"></enemy>
+            <enemy formation="単縦" detail="雷巡チ級flagship、雷巡チ級flagship、軽巡ト級elite、駆逐ハ級flagship、駆逐ハ級flagship" baseLevel="85,99"></enemy>
+            <drop>白雪 初雪 深雪 叢雲 敷波 皐月 長月 菊月 三日月 望月 朧 曙 漣 響 雷 電 子日 時雨 村雨 夕立 五月雨 大潮 満潮 霰 霞 黒潮 北上 多摩 木曾 五十鈴 名取 由良 那珂 千代田 鳳翔 伊168 伊58</drop>
+        </point>
+        <point position="H">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="I" isBoss="1">
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級" baseLevel="39以下"></enemy>
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級elite、潜水カ級elite" baseLevel="40以上79以下"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級" baseLevel="80以上"></enemy>
+            <drop>吹雪 白雪 初雪 深雪 叢雲 磯波 綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 漣 潮 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 村雨 夕立 五月雨 涼風 朝潮 大潮 満潮 霰 霞 陽炎 不知火 黒潮 浜風 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 古鷹 加古 青葉 衣笠 千代田 鳳翔 飛鷹 隼鷹 伊168 伊58 伊19 伊8</drop>
+        </point>
+    </item>
+
+
+
+    <item index="16" mapName="1" stars="6" exp="100" areaName="鎮守府近海航路" battleName="輸送船団護衛作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="C"></route>
+            <routeDetail>駆逐3隻以下でC。駆逐艦と軽巡のみの艦隊でかつ軽巡1隻以下でA固定。それ以外の駆逐と軽巡のみの編成でA寄りのランダム?重巡、航戦、軽母を含むとC固定。それ以外はランダム?これ以外でもAorC固定がある模様。</routeDetail>
+        </point>
+        <point position="A">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="B">
+            <enemy formation="単縦" detail="重巡リ級flagship、軽巡ヘ級flagship、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、軽母ヌ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級、駆逐イ級" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級、駆逐イ級、駆逐イ級"></enemy>
+            <route position="N"></route>
+            <drop>望月 文月 深雪 初雪 響 電 雷 夕立 村雨 漣 荒潮 子日 若葉 朧 曙 霞 霰 浦風 浜風 朝雲 天龍 龍田 名取 由良 長良 五十鈴 夕張 北上 大淀 青葉 利根 千歳 千代田 鳳翔 隼鷹</drop>
+        </point>
+        <point position="C">
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="H"></route>
+            <drop>皐月 響 村雨 時雨 五月雨 黒潮</drop>
+        </point>
+        <point position="D" isAir="1">
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="132" zhiKongYouShi="198" zhiKongQueBao="396"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="71" zhiKongYouShi="107" zhiKongQueBao="213"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="47" zhiKongYouShi="71" zhiKongQueBao="141"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級、駆逐イ級" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <route position="N"></route>
+        </point>
+        <point position="E">
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="G"></route>
+            <drop>文月 三日月 黒潮 電 子日 初霜 夕立</drop>
+        </point>
+        <point position="F" isAir="1">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="52" zhiKongYouShi="78" zhiKongQueBao="156"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="36" zhiKongYouShi="54" zhiKongQueBao="108"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="47" zhiKongYouShi="71" zhiKongQueBao="141"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="27" zhiKongYouShi="41" zhiKongQueBao="81"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽母ヌ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="52" zhiKongYouShi="78" zhiKongQueBao="156"></enemy>
+            <route position="B"></route>
+        </point>
+        <point position="G">
+            <award detail="弾薬+20"></award>
+            <route position="F"></route>
+            <route position="K"></route>
+            <routeDetail>軽巡1駆逐5（or軽巡1駆逐4練習艦1）でF固定？それ以外(駆逐6隻や軽巡2隻以上等)はランダム。特定の編成の場合K固定の可能性あり(要検証)</routeDetail>
+        </point>
+        <point position="H">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="K"></route>
+        </point>
+        <point position="I">
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単縦" detail="潜水カ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単縦" detail="潜水カ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="D"></route>
+            <drop>五月雨</drop>
+        </point>
+        <point position="J">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、軽母ヌ級、軽母ヌ級、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="118" zhiKongYouShi="177" zhiKongQueBao="354"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級、軽母ヌ級、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="100" zhiKongYouShi="150" zhiKongQueBao="300"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級、軽母ヌ級、軽母ヌ級、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="108" zhiKongYouShi="162" zhiKongQueBao="324"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級、軽母ヌ級、駆逐イ級後期型、駆逐イ級後期型、輸送ワ級" diZhiKongZhi="44" zhiKongYouShi="66" zhiKongQueBao="132"></enemy>
+            <route position="D"></route>
+            <drop>五月雨 黒潮 由良 夕張 利根 千代田</drop>
+        </point>
+        <point position="K">
+            <enemy formation="単縦" detail="重巡リ級flagship、戦艦ル級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、戦艦ル級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、軽巡ト級elite、駆逐イ級後期型、駆逐イ級、駆逐イ級、駆逐イ級"></enemy>
+            <route position="M"></route>
+            <drop>村雨 響 電 若葉 望月 天龍 龍田 長良</drop>
+        </point>
+        <point position="L" isAir="1">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級" diZhiKongZhi="192" zhiKongYouShi="288" zhiKongQueBao="576"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級" diZhiKongZhi="135" zhiKongYouShi="203" zhiKongQueBao="405"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級" diZhiKongZhi="132" zhiKongYouShi="198" zhiKongQueBao="396"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級" diZhiKongZhi="71" zhiKongYouShi="107" zhiKongQueBao="213"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級" diZhiKongZhi="47" zhiKongYouShi="71" zhiKongQueBao="141"></enemy>
+            <route position="I"></route>
+        </point>
+        <point position="M">
+            <award detail="燃料+40"></award>
+            <route position="L"></route>
+            <route position="J"></route>
+            <routeDetail>特定編成を満たすと索敵値関係なしでL？それ以外で索敵一定以上でJ、不足でL</routeDetail>
+        </point>
+        <point position="N" isGoal="1">
+            <award detail="燃料、弾薬、鋼材、ボーキの4種資源からいずれかが入手可能，戦闘なし"></award>
+        </point>
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item index="21" mapName="2" stars="3" exp="120" areaName="カムラン半島" battleName="カ号迎撃戦">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="重巡リ級、軽巡ヘ級、軽巡ヘ級、駆逐イ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、重巡リ級、駆逐ロ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、軽巡ヘ級、駆逐ハ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <route position="B"></route>
+            <route position="D"></route>
+            <drop>白雪 初雪 深雪 叢雲 磯波 如月 皐月 文月 長月 菊月 三日月 望月 響 雷 電 子日 若葉 初霜 時雨 村雨 夕立 五月雨 大潮 満潮 荒潮 霰 不知火 黒潮 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 摩耶 鳥海 利根 筑摩 千歳 千代田 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <award detail="鋼材+10～30"></award>
+            <route position="C"></route>
+        </point>
+        <point position="C">
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、重巡リ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <drop>白雪 初雪 深雪 叢雲 磯波 敷波 如月 菊月 三日月 望月 雷 電 子日 初霜 夕立 時雨 村雨 五月雨 大潮 満潮 荒潮 霰 霞 不知火 黒潮 天龍 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 摩耶 鳥海 千歳 千代田 鳳翔 龍驤 飛鷹 隼鷹 祥鳳</drop>
+        </point>
+        <point position="D">
+            <award detail="高速建造材+1"></award>
+            <route position="E"></route>
+            <route position="F"></route>
+        </point>
+        <point position="E" isBoss="1">
+            <enemy formation="複縦" detail="戦艦ル級、空母ヲ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="20" zhiKongYouShi="30" zhiKongQueBao="60"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級、空母ヲ級、空母ヲ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="20" zhiKongYouShi="30" zhiKongQueBao="60"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級、空母ヲ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <drop>吹雪 白雪 深雪 叢雲 綾波 敷波 睦月 如月 文月 長月 菊月 三日月 暁 雷 電 初春 子日 若葉 初霜 白露 夕立 涼風 五月雨 朝潮 大潮 満潮 荒潮 霰 陽炎 不知火 黒潮 北上 天龍 龍田 球磨 木曾 長良 五十鈴 名取 由良 川内 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、重巡リ級、重巡リ級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級、軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <drop>白雪 初雪 深雪 叢雲 磯波 敷波 皐月 長月 響 電 子日 時雨 夕立 五月雨 満潮 荒潮 霰 不知火 黒潮 球磨 多摩 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 摩耶 鳥海 千歳 千代田 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 榛名 霧島 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="22" mapName="2" stars="4" exp="150" areaName="バシー島沖" battleName="柳輸送作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="E"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦、梯形" detail="軽巡ト級、雷巡チ級、雷巡チ級、駆逐ロ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦、単横" detail="軽巡ヘ級、軽巡ヘ級、駆逐ロ級、駆逐ロ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="雷巡チ級、雷巡チ級、駆逐ハ級、駆逐ロ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <route position="B"></route>
+            <route position="E"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>吹雪 初雪 深雪 叢雲 磯波 敷波 如月 皐月 菊月 文月 長月 三日月 望月 暁 響 雷 電 初春 子日 若葉 初霜 時雨 村雨 夕立 五月雨 朝潮 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 北上 天龍 龍田 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <award detail="ボーキサイト+5～15"></award>
+            <route position="C"></route>
+            <route position="D"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="C">
+            <award detail="高速建造材+1"></award>
+        </point>
+        <point position="D">
+            <enemy formation="複縦" detail="戦艦ル級、軽巡ト級elite、駆逐ニ級、駆逐ニ級、輸送ワ級、輸送ワ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、重巡リ級、輸送ワ級、輸送ワ級、輸送ワ級、輸送ワ級"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級、駆逐ニ級elite、駆逐ニ級、輸送ワ級、輸送ワ級、輸送ワ級"></enemy>
+            <drop>吹雪 白雪 初雪 深雪 叢雲 磯波 如月 文月 長月 菊月 三日月 望月 暁 響 雷 電 初春 子日 初霜 若葉 時雨 村雨 夕立 五月雨 大潮 満潮 霰 陽炎 不知火 黒潮 天龍 龍田 五十鈴 名取 由良 川内 那珂 神通 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 扶桑 山城</drop>
+        </point>
+        <point position="E">
+            <award detail="ボーキサイト+15～35"></award>
+            <route position="F"></route>
+            <route position="G"></route>
+            <routeDetail>正規空母or軽空母or水母(※)を含む艦隊はFに70％、Gに30％。それ以外はFに30％、Gに70％</routeDetail>
+        </point>
+        <point position="F" isBoss="1">
+            <enemy formation="単縦、複縦" detail="重巡リ級elite、重巡リ級、軽巡ヘ級elite、軽巡ヘ級、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級elite、重巡リ級、雷巡チ級elite、軽巡ヘ級、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級elite、空母ヲ級elite、重巡リ級elite、軽巡ト級、駆逐ハ級、駆逐ハ級" diZhiKongZhi="54" zhiKongYouShi="81" zhiKongQueBao="162"></enemy>
+            <drop>浜風 弥生 北上 球磨 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 伊勢 金剛 比叡 霧島 扶桑 山城</drop>
+        </point>
+        <point position="G">
+            <enemy formation="複縦" detail="戦艦ル級、駆逐ニ級elite、駆逐ニ級、輸送ワ級、輸送ワ級、輸送ワ級"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級、軽巡ト級、駆逐ニ級elite、駆逐ニ級、輸送ワ級、輸送ワ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、重巡リ級、輸送ワ級、輸送ワ級、輸送ワ級、輸送ワ級"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級、軽巡ト級elite、駆逐ニ級、駆逐ニ級、輸送ワ級、輸送ワ級"></enemy>
+            <drop>吹雪 白雪 初雪 深雪 叢雲 磯波 敷波 如月 皐月 文月 長月 菊月 三日月 暁 響 雷 電 初春 子日 若葉 白露 時雨 村雨 夕立 五月雨 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 北上 天龍 龍田 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="23" mapName="2" stars="5" exp="200" areaName="東部オリョール海" battleName="01号作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="C"></route>
+        </point>
+        <point position="A">
+            <award detail="燃料+15～45"></award>
+            <route position="B"></route>
+        </point>
+        <point position="B">
+            <enemy formation="複縦" detail="重巡リ級elite、重巡リ級、軽巡ト級、軽巡ヘ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <enemy formation="" detail="重巡リ級elite、軽巡ト級、軽巡ホ級、軽巡ホ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級、雷巡チ級、軽巡ト級elite、軽巡ヘ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="単縦" detail="雷巡チ級elite、軽巡ト級、軽巡ホ級、軽巡ホ級、駆逐イ級、駆逐イ級"></enemy>
+            <route position="E"></route>
+            <drop>白雪 初雪 深雪 磯波 綾波 敷波 睦月 如月 皐月 暁 響 雷 電 初春 子日 初霜 若葉 時雨 村雨 夕立 五月雨 涼風 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 天龍 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 扶桑 山城</drop>
+        </point>
+        <point position="C">
+            <enemy formation="単縦" detail="雷巡チ級elite、軽巡ト級、軽巡ホ級、軽巡ホ級、駆逐イ級、駆逐イ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級、雷巡チ級、軽巡ト級elite、軽巡ヘ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級elite、重巡リ級、軽巡ト級、軽巡ヘ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <route position="D"></route>
+            <route position="H"></route>
+            <routeDetail>正規空母、軽空母、水母（装甲空母は不明）を含む艦隊は70%でD、30%でH，それ以外は50%でD、50%でH</routeDetail>
+            <drop>白雪 初雪 深雪 叢雲 磯波 敷波 睦月 如月 皐月 文月 響 雷 電 初春 子日 初霜 時雨 村雨 夕立 五月雨 涼風 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 天龍 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 伊勢 扶桑 山城</drop>
+        </point>
+        <point position="D">
+            <award detail="弾薬+15～45"></award>
+            <route position="E"></route>
+        </point>
+        <point position="E">
+            <award detail="燃料+15～45"></award>
+            <route position="F"></route>
+            <route position="G"></route>
+            <routeDetail>水母を含む艦隊は70%でG、30%でF，それ以外は50%でG、50%でF</routeDetail>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="空母ヲ級、戦艦ル級、軽母ヌ級、軽母ヌ級、輸送ワ級、輸送ワ級" diZhiKongZhi="26" zhiKongYouShi="39" zhiKongQueBao="78"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、軽母ヌ級、軽母ヌ級、重巡リ級、輸送ワ級、輸送ワ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、軽母ヌ級、軽母ヌ級、軽巡ヘ級、輸送ワ級、輸送ワ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <drop>白雪 初雪 深雪 叢雲 磯波 綾波 睦月 如月 皐月 文月 響 雷 電 初春 子日 若葉 時雨 夕立 五月雨 涼風 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 天龍 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 伊勢 金剛 扶桑 山城</drop>
+        </point>
+        <point position="G" isBoss="1">
+            <enemy formation="複縦" detail="戦艦ル級elite、戦艦ル級、空母ヲ級、重巡リ級、軽巡ヘ級、軽巡ヘ級" diZhiKongZhi="10" zhiKongYouShi="15" zhiKongQueBao="30"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級elite、空母ヲ級、戦艦ル級、重巡リ級、重巡リ級、駆逐ニ級" diZhiKongZhi="37" zhiKongYouShi="56" zhiKongQueBao="111"></enemy>
+            <enemy formation="輪形" detail="戦艦ル級、重巡リ級elite、空母ヲ級、雷巡チ級、雷巡チ級、軽巡ト級" diZhiKongZhi="10" zhiKongYouShi="15" zhiKongQueBao="30"></enemy>
+            <drop>吹雪 敷波 大潮 満潮 荒潮 霰 涼風 霞 巻雲 大井 北上 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 伊168 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="空母ヲ級、戦艦ル級、軽母ヌ級、軽母ヌ級、輸送ワ級、輸送ワ級" diZhiKongZhi="26" zhiKongYouShi="39" zhiKongQueBao="78"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、軽母ヌ級、軽母ヌ級、重巡リ級、輸送ワ級、輸送ワ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、軽母ヌ級、軽母ヌ級、軽巡ヘ級、輸送ワ級、輸送ワ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <route position="I"></route>
+            <drop>白雪 初雪 叢雲 磯波 睦月 如月 文月 響 雷 若葉 初春 子日 初霜 村雨 夕立 涼風 大潮 満潮 霞 陽炎 黒潮 大井 天龍 多摩 木曾 名取 由良 川内 神通 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 霧島 扶桑 山城</drop>
+        </point>
+        <point position="I">
+            <award detail="燃料+15～45"></award>
+            <route position="J"></route>
+            <route position="K"></route>
+            <routeDetail>軽巡を含む艦隊は70%でJ、30%でK，それ以外は50%でJ、50%でK</routeDetail>
+        </point>
+        <point position="J">
+            <award detail="弾薬+15～45"></award>
+        </point>
+        <point position="K">
+            <enemy formation="輪形" detail="空母ヲ級、戦艦ル級、軽母ヌ級、軽母ヌ級、輸送ワ級、輸送ワ級" diZhiKongZhi="26" zhiKongYouShi="39" zhiKongQueBao="78"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、軽母ヌ級、軽母ヌ級、重巡リ級、輸送ワ級、輸送ワ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <enemy formation="複縦" detail="重巡リ級、軽母ヌ級、軽母ヌ級、軽巡ヘ級、輸送ワ級、輸送ワ級" diZhiKongZhi="16" zhiKongYouShi="24" zhiKongQueBao="48"></enemy>
+            <drop>初雪 白雪 叢雲 綾波 皐月 文月 時雨 村雨 夕立 涼風 荒潮 霰 陽炎 不知火 黒潮 天龍 木曾 五十鈴 名取 由良 川内 那珂 最上 妙高 足柄 羽黒 高雄 愛宕 摩耶 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="24" mapName="2" stars="6" exp="300" areaName="沖ノ島海域" battleName="あ号艦隊決戦">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単横" detail="重巡リ級、雷巡チ級、雷巡チ級、軽巡ト級、駆逐ハ級、駆逐ハ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級elite、雷巡チ級elite、雷巡チ級、雷巡チ級、駆逐ハ級、駆逐ハ級"></enemy>
+            <enemy formation="単横" detail="重巡リ級、雷巡チ級elite、雷巡チ級elite、軽巡ト級、駆逐ハ級、駆逐ハ級"></enemy>
+            <enemy formation="複縦" detail="重巡リ級elite、重巡リ級elite、重巡リ級、重巡リ級、駆逐ニ級、駆逐ニ級"></enemy>
+            <route position="B"></route>
+            <route position="F"></route>
+            <route position="K"></route>
+            <drop>島風 吹雪 初雪 深雪 叢雲 磯波 綾波 敷波 電 時雨 朝潮 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 大井 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <award detail="弾薬+20～60"></award>
+            <route position="C"></route>
+        </point>
+        <point position="C">
+            <enemy formation="単縦" detail="戦艦ル級、重巡リ級、重巡リ級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="梯形" detail="戦艦ル級、重巡リ級、軽巡ト級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、戦艦ル級、重巡リ級、重巡リ級、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="D"></route>
+            <drop>島風 吹雪 深雪 叢雲 綾波 朝潮 満潮 荒潮 霰 陽炎 黒潮 大井 北上 天龍 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 扶桑 山城</drop>
+        </point>
+        <point position="D">
+            <enemy formation="複縦" detail="空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite" diZhiKongZhi="68" zhiKongYouShi="102" zhiKongQueBao="204"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <route position="E"></route>
+            <route position="G"></route>
+            <drop>島風 吹雪 白雪 初雪 深雪 磯波 敷波 如月 電 子日 若葉 大潮 満潮 霰 陽炎 不知火 黒潮 大井 北上 龍田 五十鈴 名取 川内 神通 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 扶桑 山城</drop>
+        </point>
+        <point position="E">
+            <award detail="高速修復材+1"></award>
+        </point>
+        <point position="F">
+            <enemy formation="単縦" detail="戦艦ル級、重巡リ級、重巡リ級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、戦艦ル級、重巡リ級、重巡リ級、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="梯形" detail="戦艦ル級、重巡リ級、軽巡ト級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="G"></route>
+            <drop>島風 初雪 叢雲 綾波 子日 朝潮 満潮 荒潮 陽炎 不知火 黒潮 大井 北上 天龍 龍田 木曾 五十鈴 川内 那珂 最上 那智 足柄 羽黒 高雄 愛宕 鳥海 利根 筑摩 千歳 龍驤 飛鷹 祥鳳 伊勢 日向 比叡 扶桑 山城</drop>
+        </point>
+        <point position="G">
+            <ignore detail="戦闘回避"></ignore>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite" diZhiKongZhi="68" zhiKongYouShi="102" zhiKongQueBao="204"></enemy>
+            <route position="H"></route>
+            <route position="I"></route>
+            <drop>島風 吹雪 深雪 叢雲 敷波 黒潮 大井 龍田 川内 神通 最上 加古 足柄 羽黒 鳥海 隼鷹 祥鳳 伊勢 日向 扶桑</drop>
+        </point>
+        <point position="H">
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite" diZhiKongZhi="68" zhiKongYouShi="102" zhiKongQueBao="204"></enemy>
+            <route position="J"></route>
+            <drop>島風 吹雪 潮 朝潮 荒潮 霰 陽炎 不知火 大井 北上 木曾 神通 鬼怒 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 千代田 龍驤 隼鷹 祥鳳 伊勢 日向 霧島 扶桑 山城</drop>
+        </point>
+        <point position="I">
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級elite、雷巡チ級、駆逐ニ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <route position="J"></route>
+            <drop>島風 吹雪 初雪 陽炎 不知火 黒潮 霰 大井 天龍 多摩 川内 神通 高雄 利根 筑摩 千代田 龍驤 隼鷹 伊勢 日向 扶桑</drop>
+        </point>
+        <point position="J" isBoss="1">
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、重巡リ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、戦艦ル級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <drop>雪風 島風 朝潮 大潮 陽炎 黒潮 弥生 山雲 大井 北上 天龍 龍田 川内 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 加賀 蒼龍 龍驤 飛鷹 祥鳳 伊168 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨</drop>
+        </point>
+        <point position="K">
+            <award detail="燃料+20～60"></award>
+            <route position="L"></route>
+        </point>
+        <point position="L">
+            <enemy formation="単縦" detail="戦艦ル級、戦艦ル級、重巡リ級、重巡リ級、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、重巡リ級、重巡リ級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="梯形" detail="戦艦ル級、重巡リ級、軽巡ト級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="M"></route>
+            <route position="O"></route>
+            <drop>島風 吹雪 叢雲 綾波 朝潮 大潮 満潮 陽炎 黒潮 大井 北上 龍田 天龍 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 隼鷹 祥鳳 伊勢 日向 扶桑 山城</drop>
+        </point>
+        <point position="M">
+            <award detail="開発資材+1"></award>
+            <route position="N"></route>
+        </point>
+        <point position="N">
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite" diZhiKongZhi="68" zhiKongYouShi="102" zhiKongQueBao="204"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elte、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <drop>島風 吹雪 初雪 深雪 綾波 朝潮 満潮 荒潮 霰 陽炎 大井 北上 天龍 龍田 多摩 由良 川内 神通 那珂 最上 加古 妙高 那智 羽黒 高雄 愛宕 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 扶桑 山城</drop>
+        </point>
+        <point position="O">
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級elite、雷巡チ級、駆逐ニ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <route position="P"></route>
+            <route position="J"></route>
+            <drop>島風 吹雪 初雪 敷波 大潮 霰 陽炎 黒潮 大井 北上 天龍 多摩 五十鈴 川内 神通 那珂 加古 那智 足柄 羽黒 愛宕 鳥海 利根 筑摩 千歳 千代田 龍驤 祥鳳 伊勢 日向 金剛 扶桑 山城</drop>
+        </point>
+        <point position="P">
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elte、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite" diZhiKongZhi="68" zhiKongYouShi="102" zhiKongQueBao="204"></enemy>
+            <drop>島風 吹雪 初雪 深雪 磯波 朝潮 陽炎 不知火 黒潮 大井 北上 龍田 五十鈴 名取 那珂 最上 加古 妙高 那智 足柄 高雄 愛宕 摩耶 鳥海 利根 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="25" mapName="2" stars="8" exp="250" areaName="沖ノ島沖" battleName="沖ノ島沖戦闘哨戒">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>潜水艦系4以上でA。正規空母・軽空母・装甲空母のいずれかを含む、または水母2隻を含むとB。ドラム缶を1個装備した艦を2以上でA。軽巡1以上かつ駆逐3以上で高確率でA。駆逐4以上で高確率でA。それ以外はランダム</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、軽巡ホ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="69以下?"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="69以下?"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級flagship、雷巡チ級elite、軽巡ホ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="70?～99"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐ロ級flagship、雷巡チ級elite、駆逐ニ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="70?～99"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ロ級flagship、雷巡チ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="100以上"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級flagship、雷巡チ級flagship、駆逐ロ級flagship、駆逐イ級elite、駆逐イ級elite" baseLevel="100以上"></enemy>
+            <route position="C"></route>
+            <route position="D"></route>
+            <routeDetail>潜水系3隻以上でC</routeDetail>
+            <drop>白雪 磯波 皐月 涼風 深雪 天龍 五十鈴 名取 多摩 古鷹 加古 鳥海 羽黒 千代田 飛鷹 隼鷹 龍驤</drop>
+        </point>
+        <point position="B">
+            <enemy formation="輪形" detail="軽母ヌ級flagship、重巡リ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="59以下" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、重巡リ級elite、重巡リ級elite、駆逐ハ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="59以下"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、重巡リ級elite、重巡リ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite" baseLevel="60～89?" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、重巡リ級elite、重巡リ級elite、駆逐ニ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="60～89?"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite" baseLevel="90以上?" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="単縦" detail="軽巡へ級flagship、重巡リ級elite、重巡リ級elite、駆逐ハ級flagship、駆逐ロ級elite、駆逐ロ級elite" baseLevel="90以上?"></enemy>
+            <route position="E"></route>
+            <route position="F"></route>
+            <routeDetail>戦艦を含めたルート固定編成は見つかっていない。潜水艦系3以上はF。正規空母+装甲空母2以上かつ軽空母1以上でF。それ以外はランダム</routeDetail>
+            <drop>初雪 深雪 綾波 睦月 如月 皐月 曙 潮 涼風 大潮 朝潮 天龍 龍田 球磨 多摩 長良 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 鳥海 羽黒 千歳 千代田 飛鷹 隼鷹 龍驤 祥鳳 伊勢 扶桑 山城</drop>
+        </point>
+        <point position="C">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="D" isNight="1">
+            <enemy formation="複縦" detail="軽巡へ級flagship、重巡リ級elite、重巡リ級elite、軽巡ホ級elite、駆逐ハ級elite、駆逐ハ級elite" baseLevel="59以下"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、重巡リ級elite、軽巡へ級elite、駆逐ハ級elite、駆逐ハ級elite" baseLevel="60～89?"></enemy>
+            <enemy formation="単縦" detail="重巡リ級改flagship、重巡リ級elite、重巡リ級elite、軽巡へ級flagship、駆逐ハ級elite、駆逐ハ級elite" baseLevel="90以上?"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級elite、駆逐ハ級elite" baseLevel="90以上?"></enemy>
+            <route position="G"></route>
+            <route position="H"></route>
+            <routeDetail>戦艦と雷巡をともに含むとG。駆逐3以上を含む編成の場合は戦艦1が入っても高確率でH。潜水2を含む場合は戦艦1がはいっても高確率でH。水母1隻でH固定。</routeDetail>
+            <drop>敷波 涼風 五月雨 浜風 長良 大井 那珂 五十鈴 青葉 愛宕 衣笠 扶桑 山城 伊勢</drop>
+        </point>
+        <point position="E">
+            <enemy formation="複縦" detail="戦艦ル級flagship、重巡リ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="49以下"></enemy>
+            <enemy formation="単縦、複縦" detail="戦艦ル級flagship、重巡リ級elite、軽巡ト級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite" baseLevel="50～79?"></enemy>
+            <enemy formation="単縦、複縦" detail="戦艦ル級flagship、重巡リ級elite、雷巡チ級flagship、雷巡チ級flagship、駆逐ニ級elite、駆逐ニ級elite" baseLevel="80以上?"></enemy>
+            <route position="H"></route>
+            <route position="I"></route>
+            <routeDetail>戦艦・航空戦艦・正規空母・装甲空母のいずれかを含むとI。航戦1重3空2でHに行くことがあるとの情報有り。「駆逐艦が2以上」かつ「重巡ちょうど2または航巡ちょうど2隻」含む艦隊は高確率でH。駆逐艦1以下で高確率でI？駆逐2以上だが重巡or航巡が≠2の場合はランダム？</routeDetail>
+            <drop>敷波 綾波 睦月 皐月 五月雨 朝潮 大潮 浜風 天龍 北上 大井 木曾 由良 神通 那珂 名取 古鷹 加古 足柄 羽黒 青葉 利根 衣笠 千歳 千代田 隼鷹 龍驤 祥鳳 伊勢 日向 山城 扶桑</drop>
+        </point>
+        <point position="F">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="G">
+            <award detail="燃料+（50+ドラム缶搭載数×10）※上限150"></award>
+        </point>
+        <point position="H">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="J"></route>
+            <route position="L"></route>
+            <routeDetail>索敵値と索敵装備によりLに行く確率が上昇し、一定以上で固定される。司令レベルが上がるごと必要な索敵値も上がる。</routeDetail>
+        </point>
+        <point position="I">
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、軽巡ホ級elite、駆逐ハ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="69以下?" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ハ級elite、駆逐ハ級elite" baseLevel="50～99" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、軽巡ト級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ニ級elite" baseLevel="70以上?" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、重巡リ級elite、軽巡ト級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ニ級elite" baseLevel="100以上" diZhiKongZhi="102" zhiKongYouShi="153" zhiKongQueBao="306"></enemy>
+            <route position="H"></route>
+            <route position="L"></route>
+            <route position="K"></route>
+            <routeDetail>索敵値と索敵装備によりLに行く確率が上昇し、一定以上で固定される。司令レベルが上がるごと必要な索敵値も上がる。</routeDetail>
+            <drop>白雪 初雪 磯波 睦月 如月 敷波 皐月 曙 浜風 大井 球磨 木曾 長良 川内 那珂 天龍 最上 加古 青葉 妙高 愛宕 衣笠 千代田 千歳 飛鷹 隼鷹 日向 山城 扶桑</drop>
+        </point>
+        <point position="J">
+            <enemy formation="複縦" detail="輸送ワ級elite、重巡リ級flagship、軽巡ホ級elite、駆逐ロ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="49以下"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級flagship、重巡リ級flagship、軽巡ホ級elite、駆逐ハ級elite、駆逐イ級elite、駆逐イ級elite" baseLevel="50～79?"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級flagship、重巡リ級flagship、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite、駆逐ハ級elite" baseLevel="80以上?"></enemy>
+            <drop>睦月 綾波 浜風 大井 五十鈴 名取 長良 那珂 木曾 由良 阿武隈 最上 加古 青葉 衣笠 熊野 飛鷹 隼鷹 龍驤 日向</drop>
+        </point>
+        <point position="K">
+            <award detail="鋼材"></award>
+        </point>
+        <point position="L" isBoss="1">
+            <enemy formation="単縦" detail="戦艦タ級elite、戦艦ル級elite、戦艦ル級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite" baseLevel="69以下"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、戦艦ル級elite、戦艦ル級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite" baseLevel="69以下"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級elite、戦艦ル級elite、戦艦ル級elite、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite" baseLevel="70～99"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、戦艦ル級elite、戦艦ル級elite、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite" baseLevel="70～99"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、戦艦ル級elite、戦艦ル級elite、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite" baseLevel=""></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、戦艦ル級flagship、戦艦ル級elite、重巡リ級elite、駆逐ニ級elite、駆逐ニ級elite" baseLevel=""></enemy>
+            <drop>夕雲 巻雲 弥生 卯月 浜風 浦風 川内 北上 大井 球磨 長良 阿武隈 鬼怒 最上 利根 筑摩 高雄 愛宕 鈴谷 熊野 飛龍 蒼龍 龍驤 鳳翔 祥鳳 瑞鳳 隼鷹 伊168 伊58 伊19 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨 明石</drop>
+        </point>
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item index="31" mapName="3" stars="4" exp="310" areaName="モーレイ海" battleName="モーレイ海哨戒">
+        <point position="-">
+            <route position="A"></route>
+            <route position="D"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="軽巡ホ級flagship、重巡リ級elite、軽巡ト級elite、雷巡チ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="複縦" detail="軽巡ホ級flagship、軽巡ト級elite、軽巡ホ級elite、軽巡ホ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、軽巡ホ級elite、軽巡ヘ級elite、駆逐ロ級elite、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <route position="B"></route>
+            <route position="C"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>吹雪 深雪 叢雲 磯波 綾波 敷波 文月 五月雨 朝潮 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 大井 北上 天龍 龍田 多摩 木曾 五十鈴 由良 川内 神通 那珂 阿武隈 千歳 千代田 加賀 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <award detail="鋼材+35～150"></award>
+        </point>
+        <point position="C">
+            <enemy formation="単縦" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="単縦" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="梯形" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <drop>吹雪 叢雲 磯波 綾波 敷波 五月雨 大潮 満潮 陽炎 天龍 龍田 多摩 五十鈴 名取 由良 神通 那珂 最上 加古 妙高 那智 足柄 羽黒 高雄 摩耶 鳥海 千代田 加賀 龍驤 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="D">
+            <enemy formation="単縦" detail="軽巡ホ級flagship、重巡リ級elite、軽巡ト級elite、雷巡チ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="複縦" detail="軽巡ホ級flagship、軽巡ト級elite、軽巡ホ級elite、軽巡ホ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、軽巡ホ級elite、軽巡ヘ級elite、駆逐ロ級elite、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <route position="E"></route>
+            <route position="F"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>吹雪 初雪 深雪 叢雲 綾波 敷波 曙 五月雨 朝潮 大潮 陽炎 不知火 黒潮 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="E" isBoss="1">
+            <enemy formation="単縦" detail="空母ヲ級flagship、戦艦ル級flagship、戦艦ル級elite、駆逐ハ級flagship、駆逐ニ級elite、輸送ワ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、軽巡ホ級flagship、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級elite、軽巡ホ級flagship、駆逐ロ級flagship、駆逐ニ級elite、輸送ワ級elite"></enemy>
+            <drop>島風 雪風 吹雪 敷波 朝潮 大潮 陽炎 不知火 黒潮 北上 天龍 龍田 鬼怒 最上 妙高 那智 足柄 羽黒 高雄 愛宕 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="F">
+            <enemy formation="単縦" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="単縦、梯形" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <drop>吹雪 深雪 叢雲 磯波 綾波 敷波 五月雨 朝潮 大潮 満潮 霰 霞 陽炎 不知火 天龍 龍田 多摩 木曾 名取 由良 川内 最上 加古 妙高 那智 足柄 羽黒 愛宕 摩耶 鳥海 筑摩 青葉 千歳 千代田 加賀 龍驤 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="32" mapName="3" stars="5" exp="320" areaName="キス島沖" battleName="キス島撤退作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="D"></route>
+            <route position="E"></route>
+            <routeDetail>軽巡旗艦かつ残り艦隊が全て駆逐艦(1隻以上)でDorE，もしくは全隻駆逐艦でDorE，それ以外は全てA</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="軽巡ホ級flagship、雷巡チ級elite、駆逐ハ級elite、駆逐ハ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="雷巡チ級elite、雷巡チ級、雷巡チ級、駆逐ロ級flagship、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、駆逐ハ級、駆逐ハ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <route position="B"></route>
+            <drop>初雪 綾波 敷波 朝潮 大潮 満潮 荒潮 霰 陽炎 不知火 黒潮 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 蒼龍 飛鷹 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <award detail="鋼材+50～150"></award>
+            <route position="C"></route>
+        </point>
+        <point position="C">
+            <enemy formation="複縦" detail="空母ヲ級elite、空母ヲ級elite、戦艦ル級elite、戦艦ル級elite、駆逐ロ級flagship、駆逐ニ級elite" diZhiKongZhi="54" zhiKongYouShi="81" zhiKongQueBao="162"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級elite、空母ヲ級elite、軽母ヌ級elite、重巡リ級elite、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="78" zhiKongYouShi="117" zhiKongQueBao="234"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級elite、空母ヲ級elite、重巡リ級elite、軽巡ト級elite、重巡リ級elite、駆逐ハ級elite" diZhiKongZhi="54" zhiKongYouShi="81" zhiKongQueBao="162"></enemy>
+            <drop>島風 初雪 深雪 磯波 敷波 朝潮 満潮 荒潮 霞 涼風 陽炎 不知火 黒潮 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 蒼龍 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="D">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="B"></route>
+            <route position="F"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="軽巡ホ級flagship、雷巡チ級elite、駆逐ハ級elite、駆逐ハ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="複縦" detail="雷巡チ級elite、雷巡チ級、雷巡チ級、駆逐ロ級flagship、駆逐ロ級、駆逐ロ級"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、駆逐ハ級、駆逐ハ級、駆逐ロ級、駆逐ロ級"></enemy>
+            <route position="F"></route>
+            <drop>初雪 深雪 叢雲 綾波 涼風 大潮 満潮 陽炎 不知火 黒潮 北上 天龍 龍田 多摩 長良 名取 由良 川内 妙高 那智 足柄 羽黒 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 蒼龍 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="F">
+            <enemy formation="単縦" detail="戦艦ル級elite、戦艦ル級elite、重巡リ級elite、重巡リ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級elite、重巡リ級elite、重巡リ級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="梯形" detail="戦艦ル級elite、重巡リ級elite、軽巡ト級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="G"></route>
+            <route position="H"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>初雪 深雪 叢雲 磯波 敷波 朝潮 涼風 陽炎 北上 多摩 木曾 五十鈴 由良 川内 神通 最上 足柄 羽黒 摩耶 鳥海 筑摩 千歳 蒼龍 飛鷹 祥鳳 陸奥 日向 金剛 比叡 榛名 山城</drop>
+        </point>
+        <point position="G">
+            <award detail="家具箱(小)+1"></award>
+        </point>
+        <point position="H" isBoss="1">
+            <enemy formation="複縦" detail="軽巡ホ級flagship、軽巡ト級、駆逐ニ級、駆逐ニ級、輸送ワ級elite、輸送ワ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、軽巡ヘ級elite、軽巡ト級、駆逐ニ級、駆逐ニ級、輸送ワ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、軽巡ホ級elite、駆逐イ級elite、駆逐イ級elite、輸送ワ級、輸送ワ級"></enemy>
+            <drop>雪風 島風 朝潮 大潮 陽炎 黒潮 浜風 長波 大井 北上 天龍 龍田 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="33" mapName="3" stars="7" exp="330" areaName="アルフォンシーノ方面" battleName="アルフォンシーノ方面進出">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、重巡リ級elite、軽巡ト級elite、雷巡チ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、軽巡ト級elite、軽巡ト級elite、軽巡ホ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、軽巡ホ級elite、軽巡ホ級elite、駆逐ロ級elite、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <route position="B"></route>
+            <route position="E"></route>
+            <route position="H"></route>
+            <routeDetail>正規空母+軽空母+装甲空母の合計が1隻以下でB。正規空母+軽空母+装甲空母の合計が2隻以上でE、H</routeDetail>
+            <drop>初雪 深雪 叢雲 磯波 敷波 朝潮 大潮 満潮 荒潮 霞 霰 陽炎 不知火 黒潮 舞風 大井 北上 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊168 陸奥 伊勢 日向 榛名 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="C"></route>
+        </point>
+        <point position="C">
+            <enemy formation="単縦" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="単縦" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="梯形" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <route position="D"></route>
+            <drop>島風 深雪 叢雲 敷波 大潮 黒潮 舞風 大井 北上 天龍 龍田 多摩 木曾 五十鈴 由良 那珂 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 祥鳳 伊168 陸奥 日向 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="D" isBoss="">
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ヘ級elite、駆逐ハ級flagship" diZhiKongZhi="79" zhiKongYouShi="119" zhiKongQueBao="237"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ト級elite、駆逐ハ級flagship" diZhiKongZhi="79" zhiKongYouShi="119" zhiKongQueBao="237"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ホ級flagship、駆逐ニ級elite" diZhiKongZhi="79" zhiKongYouShi="119" zhiKongQueBao="237"></enemy>
+            <drop>島風 磯波 満潮 霞 陽炎 舞風 大井 龍田 名取 由良 那珂 最上 那智 足柄 高雄 愛宕 摩耶 鳥海 千歳 千代田 飛鷹 隼鷹 祥鳳 伊168 陸奥 伊勢 扶桑</drop>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="単縦" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="梯形" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <route position="F"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>初雪 深雪 叢雲 磯波 朝潮 大潮 荒潮 霞 陽炎 不知火 舞風 大井 北上 天龍 龍田 球磨 多摩 木曾 五十鈴 川内 那珂 最上 妙高 那智 足柄 羽黒 愛宕 鳥海 利根 筑摩 千代田 龍驤 飛鷹 祥鳳 伊168 陸奥 伊勢 日向 扶桑 山城</drop>
+        </point>
+        <point position="F">
+            <lost detail="うずしお：弾薬損失"></lost>
+            <route position="G"></route>
+        </point>
+        <point position="G" isBoss="1">
+            <enemy formation="複縦" detail="空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="54" zhiKongYouShi="81" zhiKongQueBao="162"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、軽巡ト級elite、駆逐ニ級elite" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ホ級flagship、駆逐ニ級elite、駆逐ハ級elite" diZhiKongZhi="54" zhiKongYouShi="81" zhiKongQueBao="162"></enemy>
+            <drop>島風 浜風 雪風 朝潮 大潮 陽炎 黒潮 舞風 弥生 山雲 川内 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 千代田 赤城 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 伊58 伊168 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="H">
+            <lost detail="うずしお：弾薬損失"></lost>
+            <route position="I"></route>
+        </point>
+        <point position="I">
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ヘ級elite、駆逐ハ級flagship" diZhiKongZhi="79" zhiKongYouShi="119" zhiKongQueBao="237"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、戦艦ル級elite、駆逐ロ級flagship、駆逐ニ級elite" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <route position="G"></route>
+            <route position="J"></route>
+            <route position="K"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>初雪 叢雲 磯波 敷波 朝潮 満潮 荒潮 陽炎 黒潮 舞風 山雲 大井 北上 天龍 龍田 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 那智 足柄 羽黒 高雄 愛宕 摩耶 利根 千歳 龍驤 飛鷹 隼鷹 祥鳳 伊168 陸奥 伊勢 日向 金剛 山城 扶桑</drop>
+        </point>
+        <point position="J">
+            <award detail="家具箱(中)+1"></award>
+        </point>
+        <point position="K">
+            <award detail="家具箱(大)+1"></award>
+        </point>
+    </item>
+
+
+
+    <item index="34" mapName="3" stars="9" exp="350" areaName="北方海域全域" battleName="北方海域艦隊決戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="J"></route>
+            <route position="K"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、軽巡ト級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="単横" detail="軽巡ホ級flagship、軽巡ヘ級elite、軽巡ヘ級elite、駆逐ハ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="B"></route>
+            <route position="F"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>島風 深雪 綾波 敷波 朝潮 大潮 霰 霞 陽炎 不知火 大井 北上 天龍 龍田 木曾 名取 由良 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 千歳 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、空母ヲ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="27" zhiKongYouShi="41" zhiKongQueBao="81"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、重巡リ級elite、重巡リ級elite、軽巡ホ級flagship、駆逐ロ級flagship、駆逐ハ級elite"></enemy>
+            <enemy formation="梯形" detail="戦艦ル級flagship、軽巡ホ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <route position="C"></route>
+            <drop>島風 叢雲 敷波 朝潮 荒潮 霰 黒潮 大井 天龍 龍田 由良 那珂 那智 足柄 愛宕 摩耶 筑摩 千代田 加賀 蒼龍 飛龍 隼鷹 陸奥 伊勢 日向 榛名 霧島</drop>
+        </point>
+        <point position="C">
+            <lost detail="うずしお：弾薬損失"></lost>
+            <route position="D"></route>
+            <route position="H"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="D">
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ロ級flagship、駆逐ロ級flagship" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ホ級flagship、駆逐ロ級flagship" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <route position="E"></route>
+            <drop>島風 陽炎 龍田 川内 最上 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 筑摩 加賀 飛龍 龍驤 飛鷹 祥鳳 陸奥 金剛 比叡 霧島 扶桑</drop>
+        </point>
+        <point position="E" isBoss="1">
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦ル級flagship、戦艦ル級elite、軽巡ホ級flagship、雷巡チ級elite" diZhiKongZhi="56" zhiKongYouShi="84" zhiKongQueBao="168"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦ル級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite" diZhiKongZhi="56" zhiKongYouShi="84" zhiKongQueBao="168"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、軽巡ト級elite、軽巡ト級elite" diZhiKongZhi="56" zhiKongYouShi="84" zhiKongQueBao="168"></enemy>
+            <drop>雪風 叢雲 朝潮 大潮 陽炎 黒潮 初風 卯月 北上 天龍 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 赤城 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 伊58 伊168 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨</drop>
+        </point>
+        <point position="F">
+            <enemy formation="単縦" detail="戦艦ル級flagship、重巡リ級elite、重巡リ級elite、軽巡ホ級flagship、駆逐ロ級flagship、駆逐ハ級elite"></enemy>
+            <enemy formation="梯形" detail="戦艦ル級flagship、軽巡ホ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、空母ヲ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <route position="G"></route>
+            <drop>島風 叢雲 敷波 大潮 荒潮 陽炎 霞 不知火 黒潮 大井 北上 天龍 龍田 五十鈴 名取 神通 那珂 最上 那智 足柄 羽黒 高雄 愛宕 鳥海 利根 筑摩 千代田 加賀 蒼龍 飛龍 龍驤 飛鷹 祥鳳 陸奥 伊勢 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="G">
+            <award detail="ボーキサイト+50～150"></award>
+            <route position="H"></route>
+        </point>
+        <point position="H">
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、軽巡ホ級flagship、駆逐ハ級flagship"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、重巡リ級elite、重巡リ級elite、駆逐ハ級flagship、駆逐ハ級elite"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ハ級elite"></enemy>
+            <route position="E"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>島風 深雪 叢雲 綾波 敷波 朝潮 霞 不知火 大井 北上 龍田 木曾 五十鈴 名取 由良 那珂 最上 那智 足柄 羽黒 愛宕 摩耶 鳥海 千歳 千代田 加賀 蒼龍 飛龍 飛鷹 隼鷹 陸奥 伊勢 金剛 榛名 霧島 扶桑</drop>
+        </point>
+        <point position="I">
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ロ級flagship、駆逐ロ級flagship" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ニ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <drop>島風 初雪 深雪 叢雲 朝潮 荒潮 不知火 黒潮 大井 北上 天龍 五十鈴 那珂 妙高 羽黒 高雄 愛宕 筑摩 千代田 加賀 蒼龍 飛龍 飛鷹 陸奥 日向 金剛 榛名 霧島 扶桑</drop>
+        </point>
+        <point position="J">
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、軽巡ト級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="単横" detail="軽巡ホ級flagship、軽巡ヘ級elite、軽巡ヘ級elite、駆逐ハ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="F"></route>
+            <route position="L"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>島風 初雪 深雪 叢雲 磯波 朝潮 大潮 荒潮 陽炎 黒潮 大井 北上 龍田 多摩 五十鈴 名取 由良 妙高 那智 足柄 羽黒 高雄 愛宕 鳥海 利根 千歳 千代田 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑</drop>
+        </point>
+        <point position="K">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="L"></route>
+        </point>
+        <point position="L">
+            <enemy formation="梯形" detail="戦艦ル級flagship、軽巡ホ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="54" zhiKongYouShi="81" zhiKongQueBao="162"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、空母ヲ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ハ級elite" diZhiKongZhi="27" zhiKongYouShi="41" zhiKongQueBao="81"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、重巡リ級elite、重巡リ級elite、軽巡ホ級flagship、駆逐ロ級flagship、駆逐ハ級elite"></enemy>
+            <route position="M"></route>
+            <drop>島風 初雪 深雪 叢雲 磯波 綾波 朝潮 大潮 満潮 荒潮 陽炎 不知火 黒潮 大井 天龍 龍田 多摩 木曾 名取 由良 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="M">
+            <award detail="家具箱(中)+1"></award>
+            <route position="H"></route>
+            <route position="N"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="N">
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ニ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ロ級flagship、駆逐ロ級flagship" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="単縦" detail="空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ハ級flagship、駆逐ニ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <route position="O"></route>
+            <drop>島風 深雪 叢雲 綾波 朝潮 大潮 霰 霞 黒潮 大井 天龍 五十鈴 由良 最上 妙高 那智 足柄 羽黒 高雄 愛宕 鳥海 利根 筑摩 千代田 加賀 蒼龍 飛龍 陸奥 伊勢 日向 金剛 比叡 榛名 扶桑</drop>
+        </point>
+        <point position="O">
+            <award detail="家具箱(大)+1"></award>
+        </point>
+    </item>
+
+
+
+    <item index="35" mapName="3" stars="9" exp="400" areaName="北方AL海域" battleName="北方海域戦闘哨戒">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>潜水艦3隻以上でA（雷1軽2潜3で低確率Bという報告有り、要検証）。空母系、雷巡のいずれかを含むとA。戦艦系2隻でA。(戦艦系+重巡+航巡)3隻でA。駆逐5を含み、軽巡が旗艦だと高確率でB？</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦、複縦" detail="軽巡ホ級flagship、戦艦タ級elite、重巡リ級elite、重巡リ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、重巡リ級flagship、戦艦タ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型" baseLevel="100以上"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、戦艦タ級elite、重巡リ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型" baseLevel="99以下"></enemy>
+            <route position="C"></route>
+            <route position="D"></route>
+            <route position="E"></route>
+            <route position="H"></route>
+            <routeDetail>潜水艦4以上、空母系3以上かつ戦艦系2以上、戦艦系3以上かつ空母系1以上、戦艦6で固定、空母系4以上でH固定。雷巡2以上または空母2以上または戦艦3または(重巡+航巡)3以上でC。(戦艦+空母+重巡+航巡+雷巡)5以上でC?上記を満たさず、軽巡ちょうど1かつ駆逐2以上のときE？それ以外はD</routeDetail>
+            <drop>曙 漣 潮 子日 若葉 初霜 暁 響 雷 電 睦月 多摩 木曾 那智 高雄 摩耶 衣笠 龍驤 隼鷹</drop>
+        </point>
+        <point position="B">
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、重巡リ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ロ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、重巡リ級elite、雷巡チ級elite、雷巡チ級、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、重巡リ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="E"></route>
+            <route position="G"></route>
+            <routeDetail>空母系1以上でE固定。(駆逐+潜水)1以下でE固定？(重巡+航巡)2以上または(戦艦系+揚陸艦)1以上でEよりのランダム？軽巡2以下かつ(駆逐+軽巡+水母+潜水)5以上かつ(戦艦+揚陸艦+重巡+航巡)なしでG寄りのランダム。それ以外は少しG寄りのランダム</routeDetail>
+            <drop>漣 潮 響 雷 電 初春 子日 若葉 初霜 多摩 木曾 鬼怒 阿武隈 那智 高雄 摩耶 龍驤 隼鷹</drop>
+        </point>
+        <point position="C">
+            <enemy formation="輪形" detail="空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 重巡リ級elite、 駆逐イ級後期型、 駆逐イ級後期型" diZhiKongZhi="112" zhiKongYouShi="168" zhiKongQueBao="336"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 重巡リ級elite、 駆逐ロ級後期型、 駆逐ロ級後期型" diZhiKongZhi="112" zhiKongYouShi="168" zhiKongQueBao="336"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 駆逐ロ級後期型、 駆逐ロ級後期型" diZhiKongZhi="214" zhiKongYouShi="321" zhiKongQueBao="642"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 軽巡ホ級elite、駆逐イ級後期型、 駆逐イ級後期型" diZhiKongZhi="112" zhiKongYouShi="168" zhiKongQueBao="336"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、 空母ヲ級flagship、戦艦タ級flagship、 重巡リ級elite、 駆逐ロ級後期型、 駆逐ロ級後期型" diZhiKongZhi="186" zhiKongYouShi="279" zhiKongQueBao="558"></enemy>
+            <route position="C"></route>
+            <drop>漣 潮 初春 子日 初霜 若葉 曙 暁 響 雷 電 多摩 木曾 鬼怒 阿武隈 那智 高雄 摩耶 龍驤 隼鷹 伊19 伊168 伊58</drop>
+        </point>
+        <point position="D">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="B"></route>
+        </point>
+        <point position="E">
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、駆逐ハ級後期型、駆逐イ級後期型、駆逐イ級後期型、潜水カ級flagship"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、駆逐ハ級後期型、駆逐ハ級後期型、潜水カ級flagship、潜水カ級elite"></enemy>
+            <enemy formation="複縦" detail="軽母ヌ級flagship、戦艦ル級flagship、戦艦ル級flagship、駆逐ハ級後期型、駆逐ハ級後期型、潜水カ級flagship" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="複縦" detail="軽母ヌ級flagship、戦艦ル級flagship、戦艦ル級flagship、駆逐ロ級後期型、駆逐ロ級後期型、潜水カ級flagship" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <route position="F"></route>
+            <drop>漣 暁 若葉 隼鷹</drop>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="北方棲姫(A)、護衛要塞(A)、護衛要塞(B)、重巡リ級flagship、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="134" zhiKongYouShi="201" zhiKongQueBao="402"></enemy>
+            <enemy formation="輪形" detail="北方棲姫(A)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)" diZhiKongZhi="221" zhiKongYouShi="332" zhiKongQueBao="663"></enemy>
+            <enemy formation="輪形" detail="北方棲姫(本気)(A)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)" diZhiKongZhi="254" zhiKongYouShi="381" zhiKongQueBao="762"></enemy>
+            <enemy formation="輪形" detail="北方棲姫(B)、護衛要塞(A)、護衛要塞(B)、重巡リ級flagship、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="130" zhiKongYouShi="195" zhiKongQueBao="390"></enemy>
+            <enemy formation="輪形" detail="北方棲姫(B)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)" diZhiKongZhi="217" zhiKongYouShi="326" zhiKongQueBao="651"></enemy>
+            <enemy formation="輪形" detail="北方棲姫(本気)(B)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)" diZhiKongZhi="250" zhiKongYouShi="375" zhiKongQueBao="750"></enemy>
+            <route position="I"></route>
+            <route position="K"></route>
+            <routeDetail>(戦艦+空母)の合計が2隻以上かつ揚陸艦1隻で高確率でI。(戦艦+空母)の合計が4隻以上で高確率でI。それ以外で索敵値が十分ならK確定。不足の場合I</routeDetail>
+            <drop>曙 漣 潮 暁 響 雷 電 初春 子日 若葉 初霜 谷風 多摩 木曾 鬼怒 阿武隈 那智 高雄 摩耶 鳥海 明石 龍驤 隼鷹 伊19 伊168 伊58 伊8 まるゆ</drop>
+        </point>
+        <point position="G" >
+            <enemy formation="単縦、複縦" detail="重巡リ級flagship、重巡リ級elite、重巡リ級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、重巡リ級flagship、重巡リ級elite、駆逐ハ級後期型、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、軽巡ト級elite、軽巡ヘ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、重巡リ級flagship、重巡リ級elite、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <route position="J"></route>
+            <route position="K"></route>
+            <routeDetail>索敵値一定以上でK。こちらの索敵値ボーダーはかなり低い模様。</routeDetail>
+            <drop>曙 漣 潮 響 雷 電 子日 若葉 谷風 多摩 木曾 鬼怒 阿武隈 高雄 摩耶 龍驤 隼鷹 伊19 伊168 伊58 伊8</drop>
+        </point>
+        <point position="H">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="I">
+            <award detail="弾薬+（50+ドラム缶搭載数x10？）"></award>
+        </point>
+        <point position="J">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="K" isBoss="1">
+            <enemy formation="複縦" detail="軽巡ツ級、輸送ワ級elite、輸送ワ級elite、戦艦ル級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ツ級、輸送ワ級elite、輸送ワ級elite、戦艦タ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ツ級、輸送ワ級flagship、輸送ワ級flagship、戦艦タ級flagship、駆逐二級後期型、駆逐二級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡ツ級、輸送ワ級elite、輸送ワ級elite、戦艦ル級flagship、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ツ級、輸送ワ級flagship、輸送ワ級flagship、戦艦タ級flagship、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <drop>雪風 島風 吹雪 子日 暁 響 望月 睦月 秋雲 長波 谷風 浜風 天津風 山雲 大井 北上 龍田 球磨 長良 名取 川内 鬼怒 阿武隈 夕張 最上 古鷹 青葉 妙高 高雄 愛宕 摩耶 利根 筑摩 衣笠 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 伊19 伊168 伊58 伊8 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item index="41" mapName="4" stars="4" exp="310" areaName="ジャム島攻略作戦" battleName="ジャム島攻略作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="E"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦、複縦" detail="重巡リ級elite、軽巡ヘ級elite、軽巡ホ級elite、駆逐ニ級elite、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、軽巡ヘ級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <route position="B"></route>
+            <drop>吹雪 叢雲 綾波 敷波 文月 暁 響 雷 電 時雨 朝潮 大潮 荒潮 陽炎 不知火 黒潮 大井 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <enemy formation="梯形、単横" detail="潜水カ級、潜水カ級、潜水カ級、軽巡ホ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <route position="C"></route>
+            <route position="D"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>吹雪 叢雲 綾波 敷波 文月 暁 響 雷 電 時雨 朝潮 荒潮 大潮 不知火 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 加古 妙高 那智 足柄 羽黒 愛宕 摩耶 鳥海 利根 千歳 千代田 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="C">
+            <enemy formation="単縦" detail="戦艦タ級elite、戦艦タ級、駆逐ロ級elite、駆逐ロ級elite、駆逐ロ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級elite、戦艦タ級、駆逐ロ級elite、駆逐ロ級elite、駆逐ロ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、戦艦タ級、駆逐ロ級elite、駆逐ロ級elite、駆逐ロ級elite、駆逐イ級elite"></enemy>
+            <drop>吹雪 叢雲 磯波 敷波 暁 響 雷 時雨 朝潮 大潮 陽炎 不知火 黒潮 北上 龍田 多摩 木曾 名取 由良 川内 神通 那珂 鬼怒 最上 加古 羽黒 高雄 愛宕 鳥海 筑摩 千歳 千代田 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 伊168 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="D" isBoss="1">
+            <enemy formation="単縦、複縦" detail="重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ト級elite、駆逐ロ級flagship、駆逐ニ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="輪形" detail="重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <drop>雪風 島風 弥生 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 鬼怒 阿武隈 夕張 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 飛龍 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 伊168 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="E">
+            <enemy formation="単縦、複縦" detail="軽巡ヘ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ニ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="F"></route>
+            <route position="H"></route>
+            <routeDetail>駆逐艦が2隻以上の艦隊はF。駆逐艦0～1隻の艦隊はランダム</routeDetail>
+            <drop>吹雪 叢雲 綾波 敷波 暁 響 雷 電 時雨 朝潮 大潮 荒潮 陽炎 不知火 黒潮 北上 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 加古 妙高 那智 足柄 羽黒 高雄 摩耶 鳥海 筑摩 千歳 千代田 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="F">
+            <award detail="燃料+40～120"></award>
+            <route position="G"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="G">
+            <enemy formation="梯形、単横" detail="潜水カ級、潜水カ級、潜水カ級、軽巡ホ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <route position="D"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>敷波 叢雲 文月 暁 響 電 時雨 朝潮 大潮 陽炎 不知火 黒潮 北上 天龍 龍田 多摩 木曾 五十鈴 川内 那珂 那智 足柄 羽黒 摩耶 鳥海 利根 千歳 千代田 蒼龍 隼鷹 陸奥 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="H">
+            <enemy formation="梯形、単横" detail="潜水カ級、潜水カ級、潜水カ級、軽巡ホ級elite、駆逐ニ級、駆逐ニ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <route position="I"></route>
+            <drop>吹雪 白雪 叢雲 敷波 暁 雷 電 大潮 荒潮 陽炎 不知火 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 加古 妙高 那智 羽黒 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 蒼龍 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="I" isBoss="">
+            <enemy formation="単縦" detail="戦艦タ級elite、戦艦タ級、駆逐ロ級elite、駆逐ロ級elite、駆逐ロ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級elite、戦艦タ級、駆逐ロ級elite、駆逐ロ級elite、駆逐ロ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級、戦艦タ級、駆逐ロ級elite、駆逐ロ級elite、駆逐ロ級elite、駆逐イ級elite"></enemy>
+            <drop>吹雪 磯波 綾波 文月 暁 響 雷 電 時雨 大潮 荒潮 陽炎 不知火 黒潮 大井 北上 天龍 龍田 木曾 五十鈴 名取 由良 川内 神通 那珂 鬼怒 最上 加古 妙高 足柄 羽黒 摩耶 鳥海 筑摩 千歳 千代田 蒼龍 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="42" mapName="4" stars="5" exp="320" areaName="カレー洋制圧戦" battleName="カレー洋制圧戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="F"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級elite、雷巡チ級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、重巡リ級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="複縦" detail="軽巡ホ級flagship、重巡リ級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <route position="B"></route>
+            <route position="E"></route>
+            <routeDetail>駆逐2隻以上でE確定。それ以外はランダム</routeDetail>
+            <drop>吹雪 白雪 睦月 如月 暁 五月雨 涼風 不知火 黒潮 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="C"></route>
+        </point>
+        <point position="C">
+            <enemy formation="単横" detail="潜水ヨ級elite、潜水ヨ級、潜水カ級elite、潜水カ級、軽巡ヘ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水ヨ級、潜水カ級、軽巡ヘ級elite、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水ヨ級、潜水ヨ級、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="D"></route>
+            <route position="H"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>吹雪 初雪 暁 涼風 陽炎 黒潮 大井 北上 天龍 龍田 多摩 木曾 名取 由良 川内 神通 那珂 古鷹 青葉 那智 羽黒 摩耶 加賀 蒼龍 飛鷹 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島</drop>
+        </point>
+        <point position="D" isBoss="1">
+            <enemy formation="単縦" detail="戦艦ル級flagship、空母ヲ級flagship、重巡リ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級flagship、空母ヲ級elite、軽巡ホ級flagship、軽巡ヘ級elite、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="27" zhiKongYouShi="41" zhiKongQueBao="81"></enemy>
+            <enemy formation="輪形" detail="戦艦ル級flagship、空母ヲ級elite、重巡リ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="27" zhiKongYouShi="41" zhiKongQueBao="81"></enemy>
+            <drop>雪風 島風 夕雲 弥生 浦風 大井 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 鬼怒 阿武隈 夕張 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 飛龍 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊168 伊58 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="E">
+            <award detail="鋼材+40～120"></award>
+            <route position="H"></route>
+        </point>
+        <point position="F">
+            <enemy formation="単横" detail="潜水ヨ級elite、潜水ヨ級、潜水カ級elite、潜水カ級、軽巡ヘ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水ヨ級、潜水カ級、軽巡ヘ級elite、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水ヨ級、潜水ヨ級、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="E"></route>
+            <route position="G"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>吹雪 白雪 初雪 深雪 磯波 睦月 如月 暁 五月雨 涼風 陽炎 不知火 北上 天龍 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 那智 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="G">
+            <award detail="鋼材+20～60"></award>
+            <route position="H"></route>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="55" zhiKongYouShi="83" zhiKongQueBao="165"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="75" zhiKongYouShi="113" zhiKongQueBao="225"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐イ級elite、駆逐イ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <route position="D"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>吹雪 白雪 初雪 深雪 磯波 睦月 如月 暁 五月雨 涼風 陽炎 不知火 黒潮 北上 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 千歳 千代田 加賀 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="I">
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級、輸送ワ級、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級、輸送ワ級、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="輪形" detail="軽巡ヘ級flagship、輸送ワ級、輸送ワ級、軽母ヌ級elite、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <drop>吹雪 白雪 深雪 磯波 睦月 如月 五月雨 陽炎 不知火 黒潮 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 千歳 千代田 加賀 龍驤 飛鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="43" mapName="4" stars="6" exp="330" areaName="リランカ島空襲" battleName="リランカ島空襲">
+        <point position="-">
+            <route position="A"></route>
+            <route position="F"></route>
+            <route position="J"></route>
+            <routeDetail>駆逐艦が2隻以上の艦隊でA。</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="戦艦タ級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="輪形" detail="重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <route position="B"></route>
+            <drop>綾波 敷波 暁 電 白露 時雨 村雨 夕立 陽炎 龍田 木曾 五十鈴 名取 川内 神通 那珂 最上 加古 青葉 那智 羽黒 高雄 鳥海 利根 筑摩 千歳 蒼龍 鳳翔 飛鷹 隼鷹 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <award detail="燃料+30～90"></award>
+            <route position="C"></route>
+            <route position="D"></route>
+            <route position="F"></route>
+            <routeDetail>航巡または水母を含む艦隊でB</routeDetail>
+        </point>
+        <point position="C">
+            <lost detail="うずしお：弾薬損失"></lost>
+            <route position="D"></route>
+        </point>
+        <point position="D">
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、輸送ワ級elite"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、軽巡ホ級elite、軽巡ヘ級elite"></enemy>
+            <route position="E"></route>
+            <route position="G"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>敷波 暁 夕立 陽炎 不知火 雷 大潮 北上 天龍 多摩 木曾 由良 川内 那珂 最上 加古 妙高 那智 足柄 羽黒 摩耶 利根 筑摩 千代田 蒼龍 鳳翔 龍驤 飛鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 山城</drop>
+        </point>
+        <point position="E">
+            <award detail="ボーキサイト+50～150"></award>
+        </point>
+        <point position="F">
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、軽巡ホ級elite、軽巡ヘ級elite"></enemy>
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、輸送ワ級elite"></enemy>
+            <route position="G"></route>
+            <route position="D"></route>
+            <route position="K"></route>
+            <routeDetail>重巡洋艦が2隻以上の艦隊なら確定でG</routeDetail>
+            <drop>初雪 綾波 敷波 暁 響 雷 電 白露 村雨 夕立 陽炎 黒潮 不知火 北上 龍田 多摩 木曾 五十鈴 名取 由良 川内 那珂 最上 古鷹 加古 青葉 那智 羽黒 足柄 高雄 摩耶 利根 千歳 千代田 蒼龍 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="G">
+            <enemy formation="複縦、輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ト級elite、駆逐ニ級elite、駆逐ハ級elite、潜水カ級elite" diZhiKongZhi="56" zhiKongYouShi="84" zhiKongQueBao="168"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級elite、駆逐ハ級elite、潜水ヨ級elite" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <route position="H"></route>
+            <route position="I"></route>
+            <route position="L"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>島風 綾波 敷波 暁 電 雷 白露 時雨 村雨 夕立 陽炎 黒潮 北上 天龍 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 那智 足柄 羽黒 愛宕 摩耶 利根 千歳 千代田 蒼龍 鳳翔 龍驤 隼鷹 伊勢 日向 金剛 比叡 榛名 霧島 扶桑</drop>
+        </point>
+        <point position="H">
+            <enemy formation="複縦" detail="戦艦タ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="複縦、輪形" detail="戦艦タ級flagship、空母ヲ級elite、空母ヲ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="54" zhiKongYouShi="81" zhiKongQueBao="162"></enemy>
+            <drop>綾波 暁 雷 電 時雨 夕立 陽炎 天龍 名取 由良 川内 神通 古鷹 加古 青葉 妙高 那智 足柄 羽黒 鳥海 蒼龍 鳳翔 龍驤 隼鷹 祥鳳 伊勢 日向 金剛 比叡 霧島 山城</drop>
+        </point>
+        <point position="I" isBoss="1">
+            <enemy formation="複縦" detail="戦艦タ級flagship、戦艦タ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="単縦、複縦" detail="戦艦タ級flagship、戦艦タ級flagship、軽巡ヘ級flagship、潜水ヨ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="輪形" detail="戦艦タ級flagship、空母ヲ級flagship、重巡リ級elite、潜水ヨ級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <drop>島風 巻雲 弥生 大井 北上 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 鬼怒 阿武隈 夕張 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 三隈 衣笠 千歳 千代田 赤城 加賀 蒼龍 鳳翔 龍驤 飛鷹 祥鳳 瑞鳳 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="J">
+            <enemy formation="単縦" detail="戦艦タ級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <enemy formation="輪形" detail="重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <route position="F"></route>
+            <route position="K"></route>
+            <routeDetail>航巡・水母のどちらかを含む艦隊でK</routeDetail>
+            <drop>暁 響 雷 電 時雨 村雨 陽炎 不知火 黒潮 北上 天龍 多摩 木曾 五十鈴 名取 川内 神通 那珂 最上 古鷹 加古 青葉 那智 足柄 羽黒 高雄 愛宕 鳥海 利根 筑摩 千代田 蒼龍 鳳翔 龍驤 隼鷹 伊勢 日向 金剛 比叡 榛名 山城</drop>
+        </point>
+        <point position="K">
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、軽巡ホ級elite、軽巡ヘ級elite"></enemy>
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、輸送ワ級elite"></enemy>
+            <enemy formation="単横、梯形" detail="潜水ヨ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="G"></route>
+            <route position="L"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>響 雷 電 時雨 夕立 陽炎 黒潮 多摩 五十鈴 名取 由良 神通 那珂 最上 青葉 那智 羽黒 高雄 鳥海 千代田 蒼龍 鳳翔 飛鷹 祥鳳 伊勢 日向 金剛 比叡</drop>
+        </point>
+        <point position="L">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="M"></route>
+        </point>
+        <point position="M">
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級elite、輸送ワ級elite、戦艦ル級flagship、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級elite、輸送ワ級elite、輸送ワ級elite、空母ヲ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級elite、輸送ワ級elite、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <drop>綾波 敷波 暁 雷 響 白露 夕立 時雨 村雨 陽炎 不知火 大井 北上 天龍 龍田 五十鈴 名取 由良 川内 神通 那珂 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 利根 筑摩 千代田 蒼龍 鳳翔 飛鷹 隼鷹 伊勢 日向 金剛 比叡 榛名 霧島 扶桑</drop>
+        </point>
+    </item>
+
+
+
+    <item index="44" mapName="4" stars="8" exp="340" areaName="カスガダマ沖海戦" battleName="カスガダマ沖海戦">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="戦艦ル級flagship、雷巡チ級elite、雷巡チ級elite、軽巡ホ級elite、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、軽巡ホ級flagship、雷巡チ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐ロ級elite"></enemy>
+            <route position="B"></route>
+            <route position="F"></route>
+            <route position="I"></route>
+            <routeDetail>駆逐艦が2隻以上の艦隊でF</routeDetail>
+            <drop>初雪 深雪 磯波 敷波 睦月 如月 五月雨 涼風 朝潮 大潮 満潮 荒潮 不知火 黒潮 北上 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <lost detail="うずしお：弾薬損失"></lost>
+            <route position="C"></route>
+        </point>
+        <point position="C">
+            <enemy formation="輪形" detail="戦艦ル級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="51" zhiKongYouShi="77" zhiKongQueBao="153"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、雷巡チ級elite、駆逐ハ級elite、駆逐ハ級elite、潜水ヨ級elite"></enemy>
+            <route position="D"></route>
+            <route position="E"></route>
+            <route position="G"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>初雪 深雪 敷波 涼風 不知火 黒潮 北上 天龍 龍田 多摩 名取 由良 川内 那珂 最上 古鷹 妙高 足柄 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 鳳翔 龍驤 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="D">
+            <award detail="燃料+50～150"></award>
+        </point>
+        <point position="E">
+            <award detail="鋼材+35～105"></award>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="潜水カ級elite、潜水カ級、潜水カ級、軽巡ホ級elite、軽母ヌ級elite、軽母ヌ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <route position="C"></route>
+            <route position="G"></route>
+            <routeDetail>重巡または航巡を含む艦隊でG</routeDetail>
+            <drop>初雪 磯波 如月 五月雨 朝潮 満潮 荒潮 不知火 黒潮 北上 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 青葉 古鷹 加古 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="G">
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級elite、駆逐ハ級flagship、駆逐ロ級flagship" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="104" zhiKongYouShi="156" zhiKongQueBao="312"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦ル級elite、重巡リ級elite、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="56" zhiKongYouShi="84" zhiKongQueBao="168"></enemy>
+            <route position="H"></route>
+            <route position="J"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>初雪 深雪 敷波 睦月 五月雨 涼風 朝潮 大潮 荒潮 不知火 黒潮 北上 天龍 龍田 球磨 多摩 木曾 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 利根 筑摩 千歳 千代田 龍驤 飛鷹 祥鳳 金剛 比叡 榛名 霧島 山城</drop>
+        </point>
+        <point position="H" isBoss="1">
+            <enemy formation="輪形" detail="装甲空母鬼、戦艦タ級elite、軽母ヌ級elite、輸送ワ級elite、駆逐ロ級flagship、駆逐ロ級flagship" diZhiKongZhi="68" zhiKongYouShi="102" zhiKongQueBao="204"></enemy>
+            <enemy formation="輪形" detail="装甲空母姫、浮遊要塞(B)、浮遊要塞(C)、駆逐ニ級elite、駆逐ニ級elite、潜水ヨ級flagship" type="final" diZhiKongZhi="102" zhiKongYouShi="153" zhiKongQueBao="306"></enemy>
+            <enemy formation="複縦" detail="戦艦タ級flagship、軽巡ヘ級flagship、軽母ヌ級elite、輸送ワ級elite、駆逐ニ級elite、潜水ヨ級elite" type="clear" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <drop>長波 弥生 卯月 浜風 大井 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 鬼怒 阿武隈 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 赤城 加賀 翔鶴 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 瑞鳳 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨</drop>
+        </point>
+        <point position="I">
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="輪形" detail="潜水カ級elite、潜水カ級、潜水カ級、軽巡ホ級elite、軽母ヌ級elite、軽母ヌ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <route position="G"></route>
+            <route position="J"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>初雪 敷波 睦月 朝潮 不知火 涼風 龍田 多摩 由良 川内 神通 最上 古鷹 加古 青葉 妙高 羽黒 高雄 利根 龍驤 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="J">
+            <enemy formation="輪形" detail="戦艦ル級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="51" zhiKongYouShi="77" zhiKongQueBao="153"></enemy>
+            <enemy formation="複縦" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、雷巡チ級elite、駆逐ハ級elite、駆逐ハ級elite、潜水ヨ級elite"></enemy>
+            <drop>初雪 深雪 磯波 睦月 如月 五月雨 朝潮 大潮 満潮 荒潮 黒潮 北上 球磨 多摩 木曾 五十鈴 名取 由良 川内 神通 古鷹 妙高 那智 足柄 羽黒 高雄 鳥海 利根 筑摩 千歳 千代田 隼鷹 祥鳳 金剛 榛名 霧島 比叡 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="45" mapName="4" stars="9" exp="220" areaName="カレー洋リランカ島沖" battleName="深海東洋艦隊漸減作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>軽巡1+駆逐2+(潜母/練巡/水母/軽空/航巡/重巡/軽巡/駆逐)1を含むとA，それ以外はB</routeDetail>
+        </point>
+        <point position="A">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="C"></route>
+            <route position="D"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="B">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="C"></route>
+            <route position="E"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="C">
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <route position="F"></route>
+            <drop>吹雪 白雪 深雪 叢雲 綾波 響 暁 雷 電 敷波 名取 五十鈴 川内 神通 那珂 摩耶 鳥海 鳳翔 祥鳳</drop>
+        </point>
+        <point position="D">
+            <enemy formation="単縦" detail="重巡リ級改flagship、重巡リ級flagship、重巡リ級flagship、軽巡ツ級elite、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡リ級改flagship、重巡リ級flagship、重巡リ級flagship、軽巡ツ級elite、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="重巡リ級改flagship、重巡リ級flagship、重巡リ級flagship、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡リ級改flagship、重巡リ級flagship、重巡リ級flagship、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="G"></route>
+            <drop>電 綾波 初春</drop>
+        </point>
+        <point position="E" isNight="1">
+            <enemy formation="単縦" detail="重巡リ級改flagship、戦艦タ級elite、戦艦タ級elite、重巡ネ級elite、軽巡ツ級elite、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡リ級改flagship、戦艦タ級elite、戦艦タ級elite、重巡ネ級elite、軽巡ツ級elite、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="重巡リ級改flagship、戦艦タ級elite、重巡ネ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡リ級改flagship、戦艦タ級elite、重巡ネ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="H"></route>
+            <drop>初雪 暁</drop>
+        </point>
+        <point position="F">
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="J"></route>
+            <route position="H"></route>
+            <routeDetail>戦艦+空母+航戦が3隻以下でJ，秋津洲(+二式大艇?)+駆逐1隻でJ?(検証中)それ以外はH</routeDetail>
+            <drop>白雪 叢雲 暁 綾波 加賀 鳳翔 隼鷹</drop>
+        </point>
+        <point position="G">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="I"></route>
+            <route position="F"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="軽巡棲鬼(A)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、戦艦ル級改flagship、軽巡ヘ級flagship" diZhiKongZhi="168" zhiKongYouShi="252" zhiKongQueBao="504"></enemy>
+            <enemy formation="輪形" detail="軽巡棲鬼(A)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、戦艦ル級改flagship、軽巡ヘ級flagship" diZhiKongZhi="112" zhiKongYouShi="168" zhiKongQueBao="336"></enemy>
+            <enemy formation="輪形" detail="軽巡棲鬼(A)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、重巡ネ級elite、軽巡ヘ級flagship" diZhiKongZhi="112" zhiKongYouShi="168" zhiKongQueBao="336"></enemy>
+            <enemy formation="輪形" detail="軽巡棲鬼(B)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、重巡ネ級elite、軽巡ヘ級flagship" diZhiKongZhi="112" zhiKongYouShi="168" zhiKongQueBao="336"></enemy>
+            <route position="M"></route>
+            <route position="K"></route>
+            <routeDetail>潜水艦一定以上でK?（少なくとも1隻ならOK）索敵一定以上でM，索敵不足でK</routeDetail>
+            <drop>敷波 磯波 暁 電 綾波 叢雲 多摩 長良 由良 神通 加古 青葉 衣笠 愛宕 高雄 摩耶 鳥海 那智 足柄 羽黒 鳳翔 山城</drop>
+        </point>
+        <point position="I">
+            <enemy formation="複縦" detail="輸送ワ級flagship、輸送ワ級flagship、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級flagship、輸送ワ級flagship、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級flagship、輸送ワ級elite、輸送ワ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="F"></route>
+            <route position="J"></route>
+            <routeDetail>戦艦系2隻含むとF?　それ以外はJ?</routeDetail>
+            <drop>吹雪 深雪 初雪 白雪 暁 響 雷 電 綾波 Z1 長良 名取 由良 川内 神通 木曾 古鷹 加古 衣笠 愛宕 高雄 摩耶 鳥海 妙高 那智 足柄 羽黒 最上 利根 筑摩 鳳翔 祥鳳 伊8 扶桑 山城 金剛 榛名 霧島</drop>
+        </point>
+        <point position="J">
+            <enemy formation="複縦" detail="軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="複縦" detail="軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級、駆逐ハ級後期型、駆逐ロ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級、駆逐ハ級後期型、駆逐ロ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <route position="M"></route>
+            <route position="L"></route>
+            <routeDetail>潜水艦1隻以上でL?索敵一定以上でM，索敵不足でL</routeDetail>
+            <drop>白雪 初雪 叢雲 暁 響 電 綾波 長良 五十鈴 神通 多摩 球磨 木曾 古鷹 加古 青葉 衣笠 高雄 愛宕 摩耶 鳥海 妙高 那智 足柄 羽黒 利根 筑摩 鳳翔 祥鳳 金剛 比叡 榛名 霧島</drop>
+        </point>
+        <point position="K">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="L">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="M" isBoss="1">
+            <enemy formation="単縦" detail="港湾棲姫(B)、護衛要塞(B)、護衛要塞(C)、戦艦ル級改flagship、駆逐ハ級後期型、駆逐ハ級後期型" diZhiKongZhi="138" zhiKongYouShi="207" zhiKongQueBao="414"></enemy>
+            <enemy formation="単縦" detail="港湾棲姫(B)、護衛要塞(B)、護衛要塞(C)、戦艦ル級改flagship、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="138" zhiKongYouShi="207" zhiKongQueBao="414"></enemy>
+            <enemy formation="単縦" detail="港湾棲姫(B)、護衛要塞(B)、護衛要塞(C)、戦艦ル級flagship、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="138" zhiKongYouShi="207" zhiKongQueBao="414"></enemy>
+            <enemy formation="単縦" detail="港湾棲姫(A)、護衛要塞(A)、護衛要塞(B)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級flagship" diZhiKongZhi="111" zhiKongYouShi="167" zhiKongQueBao="333"></enemy>
+            <enemy formation="単縦" detail="港湾棲姫(A)、護衛要塞(B)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級flagship、輸送ワ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="単縦" detail="港湾棲姫(A)、護衛要塞(B)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級elite、輸送ワ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <enemy formation="単縦" detail="港湾棲姫(A)、護衛要塞(A)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級elite、輸送ワ級elite" diZhiKongZhi="82" zhiKongYouShi="123" zhiKongQueBao="246"></enemy>
+            <drop>陽炎 不知火 三日月 早霜 清霜 朝霜 野分 舞風 北上 多摩 球磨 名取 由良 長良 五十鈴 川内 神通 那珂 古鷹 加古 青葉 衣笠 愛宕 高雄 摩耶 鳥海 最上 三隈 熊野 鈴谷 妙高 那智 足柄 羽黒 利根 筑摩 加賀 飛鷹 隼鷹 龍驤 祥鳳 まるゆ 伊勢 日向 金剛 比叡 榛名 霧島</drop>
+        </point>
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item index="51" mapName="5" stars="8" exp="360" areaName="南方海域前面" battleName="南方海域進出作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>重巡と航巡の合計が2隻以上の艦隊はA。それ以外はランダム</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="輪形" detail="軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite、潜水カ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐ロ級flagship、潜水カ級elite"></enemy>
+            <route position="C"></route>
+            <route position="F"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>睦月 如月 皐月 長月 文月 菊月 三日月 望月 初春 白露 叢雲 大井 北上 多摩 木曾 五十鈴 名取 由良 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="D"></route>
+        </point>
+        <point position="C">
+            <award detail="鋼材+25～75"></award>
+            <route position="E"></route>
+            <route position="H"></route>
+            <routeDetail>駆逐2隻以上の艦隊はH。それ以外はランダム</routeDetail>
+        </point>
+        <point position="D">
+            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級"></enemy>
+            <route position="F"></route>
+            <drop>叢雲 如月 皐月 長月 初春 白露 時雨 夕立 大井 北上 多摩 木曾 五十鈴 名取 由良 神通 那珂 最上 鈴谷 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 祥鳳 金剛 比叡 榛名 霧島 山城</drop>
+        </point>
+        <point position="E">
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、駆逐ハ級flagship、駆逐ハ級flagship" diZhiKongZhi="52" zhiKongYouShi="78" zhiKongQueBao="156"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ハ級flagship、駆逐ハ級flagship" diZhiKongZhi="104" zhiKongYouShi="156" zhiKongQueBao="312"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、潜水カ級flagship" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <route position="G"></route>
+            <drop>睦月 如月 皐月 菊月 望月 初春 村雨 大井 多摩 木曾 五十鈴 由良 那珂 加古 青葉 妙高 羽黒 摩耶 鳥海 筑摩 千歳 千代田 隼鷹 祥鳳 金剛 比叡 山城</drop>
+        </point>
+        <point position="F">
+            <enemy formation="複縦、輪形" detail="軽母ヌ級elite、戦艦ル級flagship、戦艦ル級flagship、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ロ級flagship"></enemy>
+            <route position="H"></route>
+            <drop>叢雲 睦月 如月 皐月 文月 長月 三日月 望月 初春 白露 時雨 夕立 大井 北上 木曾 五十鈴 名取 由良 神通 那珂 古鷹 加古 妙高 那智 足柄 高雄 摩耶 鳥海 千歳 千代田 祥鳳 金剛 比叡 榛名 霧島 山城 扶桑</drop>
+        </point>
+        <point position="G">
+            <award detail="燃料+40～120"></award>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ロ級flagship" diZhiKongZhi="72" zhiKongYouShi="108" zhiKongQueBao="216"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽母ヌ級elite、戦艦ル級flagship、軽巡ホ級flagship、駆逐イ級elite、駆逐イ級elite" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <route position="E"></route>
+            <route position="I"></route>
+            <routeDetail>重巡と航巡の合計が2隻以上の艦隊はI。それ以外はランダム</routeDetail>
+            <drop>叢雲 皐月 文月 三日月 望月 初春 白露 村雨 夕立 大井 北上 多摩 木曾 五十鈴 名取 由良 神通 那珂 最上 妙高 那智 足柄 羽黒 利根 筑摩 千歳 千代田 龍驤 飛鷹 祥鳳 金剛 比叡 榛名 霧島</drop>
+        </point>
+        <point position="I" isBoss="1">
+            <enemy formation="輪形" detail="空母ヲ級flagship、戦艦タ級flagship、重巡リ級flagship、軽巡ト級elite、駆逐ハ級flagship、駆逐ハ級flagship" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、戦艦タ級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite、潜水カ級flagship" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級elite、戦艦タ級flagship、戦艦タ級flagship、軽巡ト級elite、駆逐ハ級flagship、駆逐ハ級flagship"></enemy>
+            <drop>島風 秋雲 夕雲 長波 弥生 卯月 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 鬼怒 阿武隈 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 千代田 加賀 蒼龍 翔鶴 鳳翔 龍驤 飛鷹 隼鷹 伊58 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="52" mapName="5" stars="9" exp="380" areaName="珊瑚諸島沖" battleName="珊瑚諸島沖海戦">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦、複縦" detail="軽巡ヘ級flagship、重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ロ級flagship、駆逐ロ級flagship"></enemy>
+            <route position="B"></route>
+            <route position="F"></route>
+            <routeDetail>正規空母2隻、軽空母1隻を過不足無く含む艦隊はB。それ以外はランダム（Fが大体75%）</routeDetail>
+            <drop>暁 響 雷 電 五月雨 涼風 朝潮 満潮 荒潮 霞 陽炎 不知火 黒潮 秋雲 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="B">
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、駆逐ロ級flagship、駆逐ロ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <route position="C"></route>
+            <route position="G"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>暁 響 雷 電 五月雨 涼風 朝潮 満潮 荒潮 霞 陽炎 不知火 黒潮 舞風 秋雲 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="C">
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ロ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <route position="D"></route>
+            <drop>暁 響 雷 電 五月雨 涼風 朝潮 満潮 荒潮 霞 不知火 黒潮 秋雲 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 摩耶 鳥海 利根 筑摩 千代田 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="D" isBoss="1">
+            <enemy formation="輪形" detail="装甲空母姫、装甲空母鬼、重巡リ級flagship、軽巡ホ級flagship、軽巡ト級elite、駆逐ハ級flagship" diZhiKongZhi="92" zhiKongYouShi="138" zhiKongQueBao="276"></enemy>
+            <enemy formation="輪形" detail="南方棲戦鬼、空母ヲ級flagship、空母ヲ級flagship、戦艦タ級elite、駆逐ロ級flagship、駆逐ロ級flagship" type="final" diZhiKongZhi="97" zhiKongYouShi="146" zhiKongQueBao="291"></enemy>
+            <enemy formation="単縦" detail="装甲空母姫、空母ヲ級elite、戦艦タ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship" type="clear" diZhiKongZhi="75" zhiKongYouShi="113" zhiKongQueBao="225"></enemy>
+            <drop>雪風 涼風 舞風 秋雲 夕雲 巻雲 浜風 大井 北上 天龍 球磨 長良 五十鈴 名取 由良 川内 夕張 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 三隈 衣笠 千歳 千代田 赤城 加賀 蒼龍 飛龍 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊58 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨</drop>
+        </point>
+        <point position="E">
+            <award detail="弾薬+25～75"></award>
+            <route position="D"></route>
+        </point>
+        <point position="F">
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級elite、駆逐ロ級flagship、駆逐ロ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <route position="G"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop>暁 響 雷 電 五月雨 霞 朝潮 黒潮 満潮 秋雲 大井 天龍 龍田 多摩 木曾 名取 神通 那珂 最上 加古 青葉 那智 妙高 足柄 羽黒 愛宕 摩耶 鳥海 筑摩 千歳 千代田 龍驤 祥鳳 金剛 比叡 榛名 霧島</drop>
+        </point>
+        <point position="G">
+            <enemy formation="単縦、複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、駆逐ロ級flagship、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐ロ級flagship、駆逐ニ級elite"></enemy>
+            <route position="E"></route>
+            <route position="H"></route>
+            <routeDetail>正規空母2隻軽空母1隻含む艦隊はE確定。正規空母2～3隻を含む艦隊はほぼE（極稀にH）。それ以外はランダム（Hが大体80%）</routeDetail>
+            <drop>暁 響 雷 電 五月雨 涼風 朝潮 満潮 陽炎 不知火 黒潮 秋雲 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+        <point position="H">
+            <award detail="ボーキサイト+35～105"></award>
+            <route position="J"></route>
+        </point>
+        <point position="I">
+            <enemy formation="輪形" detail="輸送ワ級elite、輸送ワ級elite、重巡リ級flagship、軽巡ト級elite、駆逐ロ級flagship、駆逐ロ級flagship"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級elite、軽巡ヘ級flagship、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級elite、軽巡ホ級flagship、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <route position="H"></route>
+            <route position="J"></route>
+            <routeDetail>航巡を含む艦隊はH。それ以外はランダム（Jが大体80%）</routeDetail>
+            <drop>暁 雷 満潮 霞 不知火 秋雲 天龍 龍田 多摩 木曾 五十鈴 名取 那珂 神通 最上 古鷹 青葉 那智 足柄 鳥海 高雄 摩耶 飛鷹 祥鳳 金剛 榛名 霧島 扶桑</drop>
+        </point>
+        <point position="J">
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、駆逐？級flagship、駆逐？級flagship" diZhiKongZhi="52" zhiKongYouShi="78" zhiKongQueBao="156"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <drop>五月雨 涼風 満潮 荒潮 霞 陽炎 黒潮 秋雲 龍田 多摩 由良 神通 最上 古鷹 加古 青葉 那智 羽黒 摩耶 筑摩 千歳 龍驤 祥鳳 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="53" mapName="5" stars="9" exp="400" areaName="サブ島沖海域" battleName="第一次サーモン沖海戦">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="B"></route>
+            <route position="C"></route>
+            <routeDetail>速力が高速艦のみでC固定。低速艦1隻以上だとランダム（Bが大体80%）点</routeDetail>
+        </point>
+        <point position="B" isNight="1">
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水ヨ級elite、潜水ヨ級elite"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級flagship、潜水ヨ級flagship、潜水ヨ級flagship、潜水ヨ級、潜水ヨ級"></enemy>
+            <route position="D"></route>
+            <drop>敷波 漣 初春 夕立 天龍 龍田 球磨 木曾 神通 夕張 妙高 足柄 愛宕 利根 衣笠 千歳 隼鷹 祥鳳 日向 比叡 霧島 扶桑</drop>
+        </point>
+        <point position="C" isNight="1">
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ホ級flagship、雷巡チ級elite、駆逐ハ級flagship"></enemy>
+            <enemy formation="単横" detail="軽巡ヘ級flagship、重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐ロ級flagship"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、重巡リ級flagship、重巡リ級elite、雷巡チ級elite、駆逐ロ級flagship、駆逐ロ級flagship"></enemy>
+            <route position="D"></route>
+            <drop>吹雪 綾波 敷波 睦月 如月 曙 漣 初春 夕立 朝潮 霞 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 神通 那珂 夕張 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 筑摩 衣笠 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 比叡 霧島 扶桑 山城</drop>
+        </point>
+        <point position="D" isNight="1">
+            <enemy formation="複縦" detail="戦艦タ級flagship、戦艦タ級flagship、重巡リ級flagship、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ハ級flagship"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐ハ級flagship、駆逐ロ級flagship"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ヘ級elite、駆逐ロ級flagship、駆逐ロ級flagship"></enemy>
+            <route position="E"></route>
+            <route position="I"></route>
+            <route position="F"></route>
+            <routeDetail>戦艦3隻以上でE固定。空母1隻以上だとE。重巡2隻（航巡可）+軽巡1隻でF(稀にランダム)。それ以外はランダム(なおEに行く確率は低め)</routeDetail>
+            <drop>吹雪 綾波 敷波 睦月 曙 漣 初春 夕立 朝潮 満潮 荒潮 霞 天龍 龍田 球磨 多摩 木曾 五十鈴 名取 由良 那珂 神通 夕張 最上 古鷹 加古 青葉 那智 足柄 羽黒 高雄 愛宕 鳥海 利根 筑摩 衣笠 千歳 飛鷹 隼鷹 龍驤 伊168 伊勢 日向 比叡 霧島 扶桑</drop>
+        </point>
+        <point position="E">
+            <enemy formation="複縦、輪形" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、軽巡ホ級flagship、駆逐ロ級flagship、駆逐ロ級flagship" diZhiKongZhi="56" zhiKongYouShi="84" zhiKongQueBao="168"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、戦艦タ級flagship、駆逐ハ級flagship、駆逐ハ級flagship" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <drop>吹雪 睦月 天龍 五十鈴 那珂 夕張 最上 古鷹 衣笠 摩耶 羽黒 筑摩 龍驤 比叡 霧島 山城</drop>
+        </point>
+        <point position="F" isNight="1">
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級elite、輸送ワ級、輸送ワ級、軽巡ホ級flagship、駆逐ハ級flagship"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級、輸送ワ級、輸送ワ級、駆逐ハ級flagship、駆逐ハ級flagship"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級elite、輸送ワ級elite、重巡リ級flagship、駆逐ハ級flagship、駆逐ハ級flagship"></enemy>
+            <route position="G"></route>
+            <drop>敷波 曙 漣 満潮 霞 夕立 龍田 球磨 木曾 由良 那珂 夕張 古鷹 青葉 妙高 高雄 愛宕 衣笠 千歳 飛鷹 祥鳳 伊勢 日向 比叡 霧島 山城</drop>
+        </point>
+        <point position="G">
+            <award detail="燃料+30～90"></award>
+            <route position="H"></route>
+            <route position="I"></route>
+            <routeDetail>ランダム</routeDetail>
+        </point>
+        <point position="H">
+            <award detail="弾薬+30～90"></award>
+            <route position="I"></route>
+        </point>
+        <point position="I">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="K"></route>
+            <route position="J"></route>
+            <routeDetail>駆逐艦2隻を含む艦隊はK(極稀にJ)。それ以外はランダム（Jに大体75%）</routeDetail>
+        </point>
+        <point position="J">
+            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級flagship、潜水カ級flagship、潜水カ級flagship、重巡リ級flagship、軽巡ヘ級flagship"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、戦艦タ級flagship、駆逐ハ級flagship、駆逐ハ級flagship、潜水カ級flagship、潜水カ級flagship" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="複縦" detail="輸送ワ級elite、輸送ワ級elite、重巡リ級flagship、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ハ級flagship"></enemy>
+            <drop>漣 夕立 龍田 多摩 木曾 五十鈴 名取 那珂 夕張 最上 古鷹 青葉 那智 高雄 鳥海 衣笠 龍驤 伊勢 日向 霧島</drop>
+        </point>
+        <point position="K" isBoss="1">
+            <enemy formation="輪形" detail="輸送ワ級elite、南方棲戦姫、戦艦タ級flagship、駆逐ハ級flagship、駆逐ハ級flagship、潜水カ級flagship" diZhiKongZhi="47" zhiKongYouShi="71" zhiKongQueBao="141"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級elite、南方棲戦姫、戦艦タ級flagship、戦艦タ級flagship、軽巡ヘ級flagship、潜水ヨ級flagship" type="final" diZhiKongZhi="47" zhiKongYouShi="71" zhiKongQueBao="141"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、南方棲戦姫、重巡リ級flagship、重巡リ級flagship、駆逐ロ級flagship、駆逐ロ級flagship" type="clear" diZhiKongZhi="75" zhiKongYouShi="113" zhiKongQueBao="225"></enemy>
+            <drop>秋雲 夕雲 長波 卯月 弥生 山雲 大井 北上 天龍 龍田 球磨 長良 五十鈴 名取 由良 川内 夕張 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 鈴谷 千歳 千代田 赤城 加賀 蒼龍 飛龍 翔鶴 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 伊168 伊58 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="54" mapName="5" stars="9" exp="420" areaName="サーモン海域" battleName="東京急行">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <route position="C"></route>
+            <routeDetail>正規or装甲or軽空母の合計が2隻以上でA固定(水母は不可)。ドラム缶装備3隻以上（3個を同一艦に積載しても効果なし）かつ空母と雷巡がそれぞれ1隻以下でC固定。それ以外はBの模様</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="輪形" detail="軽母ヌ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ロ級flagship、駆逐イ級elite、駆逐イ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級flagship、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、軽巡ホ級flagship、駆逐ロ級flagship、駆逐ロ級flagship、駆逐イ級elite、駆逐イ級elite"></enemy>
+            <route position="D"></route>
+            <route position="E"></route>
+            <routeDetail>高速艦のみでE固定。低速艦を1隻以上を含む艦隊はランダム（Dが95%ぐらい）。低速統一でもほぼDなので注意。</routeDetail>
+            <drop>吹雪 初雪 綾波 睦月 皐月 三日月 望月 暁 五月雨 涼風 巻雲 天龍 長良 五十鈴 由良 川内 神通 古鷹 加古 青葉 妙高 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 龍驤 隼鷹 金剛 比叡 榛名 霧島</drop>
+        </point>
+        <point position="B">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="F"></route>
+        </point>
+        <point position="C">
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ロ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <route position="G"></route>
+            <drop>由良 川内 神通 古鷹 龍驤 隼鷹 霧島</drop>
+        </point>
+        <point position="D">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="H"></route>
+        </point>
+        <point position="E">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="H"></route>
+        </point>
+        <point position="F">
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="複縦" detail="駆逐ロ級elite、重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、駆逐ニ級elite、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級elite、雷巡チ級elite、雷巡チ級elite、駆逐ロ級flagship、駆逐ロ級flagship"></enemy>
+            <route position="I"></route>
+            <drop>吹雪 初雪 綾波 敷波 皐月 三日月 望月 暁 電 夕立 涼風 陽炎 巻雲 長波 天龍 長良 五十鈴 由良 川内 神通 古鷹 加古 青葉 妙高 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 龍驤 隼鷹 金剛 比叡 榛名 霧島</drop>
+        </point>
+        <point position="G" isNight="1">
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐ハ級flagship、駆逐ハ級elite、駆逐ハ級elite" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ロ級elite	" diZhiKongZhi="28" zhiKongYouShi="42" zhiKongQueBao="84"></enemy>
+            <route position="I"></route>
+            <drop>陽炎 巻雲 長波 長良 由良 神通 加古 摩耶 鳥海 利根 隼鷹 榛名 霧島</drop>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="装甲空母鬼、装甲空母鬼、空母ヲ級flagship、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="116" zhiKongYouShi="174" zhiKongQueBao="348"></enemy>
+            <enemy formation="輪形" detail="装甲空母鬼、空母ヲ級flagship、空母ヲ級flagship、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="100" zhiKongYouShi="150" zhiKongQueBao="300"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、空母ヲ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite" diZhiKongZhi="83" zhiKongYouShi="125" zhiKongQueBao="249"></enemy>
+            <route position="J"></route>
+            <route position="K"></route>
+            <route position="M"></route>
+            <routeDetail>ドラム缶4つ以上装備（1隻に4つでも2隻以上に分散しても可）でM固定。ドラム缶が3個以下だとKかJにランダム。</routeDetail>
+            <drop>吹雪 初雪 綾波 睦月 皐月 三日月 暁 雷 電 夕立 五月雨 涼風 陽炎 黒潮 巻雲 長波 天龍 長良 五十鈴 由良 川内 神通 古鷹 加古 青葉 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 龍驤 隼鷹 金剛 比叡 榛名 霧島 山城</drop>
+        </point>
+        <point position="I" isNight="1">
+            <enemy formation="輪形" detail="軽母ヌ級elite、駆逐ロ級flagship、駆逐ロ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <route position="L"></route>
+            <drop>吹雪 初雪 綾波 皐月 三日月 望月 暁 夕立 涼風 陽炎 黒潮 巻雲 長波 天龍 長良 五十鈴 由良 川内 神通 古鷹 加古 青葉 高雄 摩耶 利根 衣笠 千歳 龍驤 隼鷹 金剛 榛名 霧島</drop>
+        </point>
+        <point position="J">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="K">
+            <enemy formation="輪形" detail="装甲空母姫、軽母ヌ級elite、軽母ヌ級elite、戦艦ル級flagship、駆逐ニ級elite、潜水カ級elite" diZhiKongZhi="96" zhiKongYouShi="144" zhiKongQueBao="288"></enemy>
+            <enemy formation="輪形" detail="装甲空母姫、空母ヲ級elite、空母ヲ級elite、重巡リ級flagship、駆逐ニ級elite、潜水ヨ級elite" diZhiKongZhi="102" zhiKongYouShi="153" zhiKongQueBao="306"></enemy>
+            <enemy formation="輪形" detail="装甲空母姫、軽母ヌ級elite、軽母ヌ級elite、軽巡へ級flagship、駆逐ニ級elite、潜水カ級elite" diZhiKongZhi="96" zhiKongYouShi="144" zhiKongQueBao="288"></enemy>
+            <route position="O"></route>
+            <drop>吹雪 皐月 三日月 望月 雷 五月雨 長波 天龍 川内 神通 衣笠 千歳 龍驤</drop>
+        </point>
+        <point position="L">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="M"></route>
+            <route position="N"></route>
+            <routeDetail>Bルートから来るとN固定。Cルートから来るとM固定</routeDetail>
+        </point>
+        <point position="M">
+            <award detail="燃料+（50+ドラム缶搭載数×15）※上限180"></award>
+            <route position="O"></route>
+        </point>
+        <point position="N">
+            <enemy formation="単縦" detail="戦艦ル級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐ロ級flagship、駆逐ニ級elite"></enemy>
+            <enemy formation="単縦、複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、雷巡チ級elite、駆逐ロ級flagship、駆逐ニ級elite"></enemy>
+            <route position="O"></route>
+            <drop>吹雪 望月 暁 雷 電 陽炎 夕雲 巻雲 長波 天龍 長良 由良 川内 古鷹 青葉 妙高 羽黒 愛宕 鳥海 利根 筑摩 衣笠 龍驤 金剛 比叡 霧島</drop>
+        </point>
+        <point position="O" isBoss="1">
+            <enemy formation="輪形" detail="輸送ワ級flagship、戦艦ル級flagship、戦艦ル級flagship、軽巡へ級flagship、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級flagship、戦艦タ級flagship、戦艦タ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite" type="final" diZhiKongZhi="76" zhiKongYouShi="114" zhiKongQueBao="228"></enemy>
+            <enemy formation="輪形" detail="輸送ワ級flagship、戦艦ル級flagship、戦艦ル級flagship、軽巡へ級flagship、軽母ヌ級elite、軽母ヌ級elite" type="clear" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <drop>雪風 吹雪 初雪 叢雲 綾波 敷波 睦月 皐月 三日月 望月 暁 雷 電 夕立 五月雨 涼風 陽炎 黒潮 秋雲 夕雲 巻雲 長波 弥生 卯月 浜風 天龍 長良 五十鈴 川内 神通 夕張 阿賀野 古鷹 加古 青葉 妙高 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 鈴谷 熊野 千歳 龍驤 飛鷹 隼鷹 翔鶴 瑞鶴 瑞鳳 伊19 伊58 陸奥 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="55" mapName="5" stars="11" exp="450" areaName="サーモン海域北方" battleName="第二次サーモン海戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>ドラム缶装備艦が4隻以上＆ドラム缶総数が5つ以上でB固定。それ以外はA</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="戦艦レ級、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="117" zhiKongYouShi="176" zhiKongQueBao="351"></enemy>
+            <enemy formation="輪形" detail="戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、潜水カ級elite" diZhiKongZhi="140" zhiKongYouShi="210" zhiKongQueBao="420"></enemy>
+            <enemy formation="複縦" detail="戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship" diZhiKongZhi="140" zhiKongYouShi="210" zhiKongQueBao="420"></enemy>
+            <route position="C"></route>
+            <route position="D"></route>
+            <route position="F"></route>
+            <routeDetail>潜水艦3隻以上でF固定。速力高速統一もしくは正規空母2軽空母1（過不足不可）を含む編成でD固定。それ以外はC</routeDetail>
+            <drop>綾波 敷波 睦月 望月 子日 白露 時雨 涼風 陽炎 不知火 長良 由良 神通 妙高 羽黒 高雄 愛宕 摩耶 利根 筑摩 千歳 龍驤 比叡 霧島</drop>
+        </point>
+        <point position="B">
+            <enemy formation="輪形" detail="戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、潜水カ級elite" diZhiKongZhi="140" zhiKongYouShi="210" zhiKongQueBao="420"></enemy>
+            <enemy formation="複縦" detail="戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship" diZhiKongZhi="140" zhiKongYouShi="210" zhiKongQueBao="420"></enemy>
+            <enemy formation="単縦" detail="戦艦レ級、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="117" zhiKongYouShi="176" zhiKongQueBao="351"></enemy>
+            <route position="K"></route>
+            <drop>睦月 長良 神通</drop>
+        </point>
+        <point position="C" isNight="1">
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級flagship、潜水カ級flagship、潜水カ級elite"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級flagship、潜水カ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級flagship、潜水カ級flagship、潜水ヨ級elite、軽母ヌ級flagship" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <route position="E"></route>
+            <drop>白露 陽炎</drop>
+        </point>
+        <point position="D">
+            <enemy formation="複縦、輪形" detail="空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、戦艦タ級elite、軽巡ヘ級flagship、駆逐イ級flagship" diZhiKongZhi="74" zhiKongYouShi="111" zhiKongQueBao="222"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、軽母ヌ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、戦艦タ級elite、駆逐イ級flagship" diZhiKongZhi="171" zhiKongYouShi="257" zhiKongQueBao="513"></enemy>
+            <route position="E"></route>
+            <drop>綾波 敷波 睦月 望月 白露 時雨 涼風 陽炎 秋雲 長良 由良 神通 妙高 羽黒 高雄 愛宕 摩耶 筑摩 千歳 龍驤 比叡 霧島</drop>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="戦艦レ級elite、重巡リ級elite、雷巡チ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <enemy formation="複縦" detail="戦艦レ級elite、重巡リ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <enemy formation="単縦" detail="戦艦レ級elite、重巡リ級flagship、軽巡ヘ級flagship、雷巡チ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <route position="L"></route>
+            <route position="N"></route>
+            <routeDetail>雷巡2隻以上で高確率でL？</routeDetail>
+            <drop>綾波 敷波 睦月 望月 初春 白露 時雨 陽炎 舞風 秋雲 巻雲 長良 由良 神通 妙高 羽黒 高雄 摩耶 利根 筑摩 鈴谷 熊野 千歳 龍驤 比叡 霧島</drop>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐ハ級flagship、駆逐ハ級flagship" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="単横" detail="軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐ハ級flagship、駆逐ハ級flagship" ></enemy>
+            <route position="G"></route>
+            <drop>綾波 敷波 睦月 望月 白露 涼風 秋雲 巻雲 由良 神通 妙高 羽黒 愛宕 摩耶 利根 龍驤</drop>
+        </point>
+        <point position="G">
+            <enemy formation="単縦" detail="戦艦レ級elite、重巡リ級elite、雷巡チ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <enemy formation="複縦" detail="戦艦レ級elite、重巡リ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <route position="H"></route>
+            <route position="N"></route>
+            <routeDetail>潜水艦が3隻丁度を含む編成でN確定？潜水4以上でH確定？ドラムルート（I）から来た場合ランダム？</routeDetail>
+            <drop>敷波 望月 白露 時雨 涼風 陽炎 舞風 秋雲 巻雲 長良 羽黒 高雄 鈴谷 熊野 千歳 龍驤 比叡 霧島</drop>
+        </point>
+        <point position="H" isNight="1">
+            <enemy formation="単縦" detail="戦艦レ級elite、重巡リ級elite、雷巡チ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <enemy formation="" detail="戦艦レ級elite、重巡リ級flagship、重巡リ級flagship、軽巡へ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <enemy formation="" detail="戦艦レ級elite、重巡リ級flagship、軽巡へ級flagship、雷巡チ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="107" zhiKongYouShi="161" zhiKongQueBao="321"></enemy>
+            <drop>白露 長良</drop>
+        </point>
+        <point position="I">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="G"></route>
+            <route position="H"></route>
+            <routeDetail>低速艦を含むと高確率でH？それ以外はランダム？</routeDetail>
+        </point>
+        <point position="J">
+            <award detail="弾薬+110"></award>
+            <route position="I"></route>
+        </point>
+        <point position="K" isNight="1">
+            <enemy formation="単縦" detail="戦艦レ級elite、戦艦レ級、重巡リ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="201" zhiKongYouShi="302" zhiKongQueBao="603"></enemy>
+            <enemy formation="単縦" detail="戦艦レ級elite、戦艦レ級、雷巡チ級flagship、軽巡ホ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="201" zhiKongYouShi="302" zhiKongQueBao="603"></enemy>
+            <enemy formation="単縦" detail="戦艦レ級、戦艦レ級、重巡リ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship" diZhiKongZhi="188" zhiKongYouShi="282" zhiKongQueBao="564"></enemy>
+            <route position="J"></route>
+            <route position="M"></route>
+            <routeDetail>駆逐艦が一定以上でMに行きやすい？潜水2以上でM固定？</routeDetail>
+            <drop>敷波 時雨 由良 妙高 羽黒 千歳</drop>
+        </point>
+        <point position="L">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="M" isNight="1">
+            <enemy formation="" detail="軽巡へ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐ハ級flagship、駆逐ハ級flagship"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽巡へ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐ハ級flagship、駆逐ハ級flagship" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="" detail="軽巡へ級flagship、軽巡ホ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐ハ級flagship、駆逐ハ級flagship"></enemy>
+            <drop>敷波</drop>
+        </point>
+        <point position="N" isBoss="1">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、戦艦レ級elite、駆逐イ級flagship、駆逐イ級flagship、潜水ヨ級elite" diZhiKongZhi="237" zhiKongYouShi="356" zhiKongQueBao="711"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級改flagship、南方棲戦姫、駆逐イ級flagship、駆逐イ級flagship、潜水ヨ級flagship" type="final" diZhiKongZhi="251" zhiKongYouShi="377" zhiKongQueBao="753"></enemy>
+            <enemy formation="輪形" detail="戦艦レ級elite、空母ヲ級改flagship、空母ヲ級flagship、駆逐イ級flagship、駆逐イ級flagship、潜水ヨ級elite" type="clear" diZhiKongZhi="237" zhiKongYouShi="356" zhiKongQueBao="711"></enemy>
+            <drop>綾波 敷波 睦月 望月 白露 時雨 陽炎 涼風 秋雲 巻雲 弥生 卯月 浜風 初風 長良 由良 神通 妙高 羽黒 高雄 愛宕 摩耶 利根 筑摩 鈴谷 熊野 千歳 大鯨 龍驤 翔鶴 瑞鶴 長門 陸奥 比叡 霧島</drop>
+        </point>
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item index="61" mapName="6" stars="8" exp="380" areaName="中部海域哨戒線" battleName="潜水艦作戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <route position="G"></route>
+            <routeDetail>戦艦系2でG。(戦艦系+空母系+重巡+航巡)3以上でG。(戦艦系+空母系+重巡+航巡+雷巡)1以上かつ(駆逐+軽巡)無しでG。潜水のみでA、ただし潜水2以下(随伴艦なし)でG。潜水母艦（大鯨）と潜水艦のみでA(☆)。☆編成の潜水艦と軽巡を1隻入れ替えてもA。☆編成の潜水艦と駆逐を任意の数入れ替えるとAとBのランダム。その他はB</routeDetail>
+        </point>
+        <point position="A">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="C"></route>
+            <route position="D"></route>
+            <routeDetail>潜水母艦（大鯨）が存在するとD。それ以外はC?</routeDetail>
+        </point>
+        <point position="B">
+            <enemy formation="複縦" detail="戦艦ル級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="単縦、複縦" detail="戦艦ル級flagship、軽母ヌ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <route position="D"></route>
+            <drop>綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 漣 潮 五月雨 涼風 木曾 長良 五十鈴 名取 由良 神通 那珂 鬼怒 古鷹 加古 足柄 羽黒 摩耶 鳥海 飛鷹 隼鷹 伊168</drop>
+        </point>
+        <point position="C">
+            <enemy formation="単縦、輪形、梯形" detail="軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="D"></route>
+            <drop>綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 漣 潮 五月雨 涼風 木曾 長良 名取 由良 神通 那珂 古鷹 加古 青葉 那智 足柄 羽黒 摩耶 鳥海 龍驤 飛鷹 隼鷹 祥鳳 伊168 霧島</drop>
+        </point>
+        <point position="D">
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、駆逐ハ級elite、駆逐ハ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="輪形" detail="軽巡ヘ級flagship、輸送ワ級elite、輸送ワ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="E"></route>
+            <drop>綾波 敷波 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 漣 潮 五月雨 涼風 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 筑摩 熊野 龍驤 飛鷹 隼鷹 祥鳳 伊19 伊168 金剛</drop>
+        </point>
+        <point position="E">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="H"></route>
+            <route position="F"></route>
+            <routeDetail>潜水艦2以下でH固定。(戦艦系+空母系+重巡+航巡)2以上で高確率でH。索敵装備(水偵や水爆や艦偵、電探等。未装備だと高確率でH。索敵装備を装備したうえで、索敵値が一定以上ならばF、不足でH。稀にFに行く装備でもHに行くときもある模様(10%ほど？)。Fに行く場合索敵エフェクトあり。</routeDetail>
+        </point>
+        <point position="F">
+            <enemy formation="梯形" detail="重巡リ級flagship、軽巡ヘ級flagship、駆逐ハ級elite、駆逐ハ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="輪形" detail="重巡リ級flagship、駆逐ハ級elite、駆逐ハ級elite、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級elite、雷巡チ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="I"></route>
+            <route position="J"></route>
+            <route position="K"></route>
+            <routeDetail>索敵エフェクトあり。索敵が足りてても一定の確率で逸れる事がある模様</routeDetail>
+            <drop>綾波 敷波 睦月 如月 皐月 文月 長月 菊月 三日月 望月 朧 曙 漣 潮 五月雨 涼風 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 筑摩 龍驤 飛鷹 隼鷹 祥鳳 伊19 伊168 伊58 伊8 金剛 比叡 榛名 霧島</drop>
+        </point>
+        <point position="G">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="空母棲鬼、空母ヲ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="180" zhiKongYouShi="270" zhiKongQueBao="540"></enemy>
+            <enemy formation="輪形" detail="空母棲鬼、重巡リ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="96" zhiKongYouShi="144" zhiKongQueBao="288"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="168" zhiKongYouShi="252" zhiKongQueBao="504"></enemy>
+            <drop>綾波 如月 文月 長月 菊月 三日月 望月 朧 曙 潮 五月雨 木曾 五十鈴 由良 最上 加古 青葉 妙高 那智 足柄 羽黒 愛宕 摩耶 鳥海 飛鷹 祥鳳 伊19 伊168 伊58 伊8 まるゆ 伊401</drop>
+        </point>
+        <point position="I">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="J">
+            <enemy formation="単縦" detail="輸送ワ級flagship、輸送ワ級flagship、軽巡ヘ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <enemy formation="単縦、複縦" detail="輸送ワ級flagship、輸送ワ級flagship、軽巡ヘ級flagship、軽巡ヘ級flagship、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <drop>比叡</drop>
+        </point>
+        <point position="K" isBoss="1">
+            <enemy formation="複縦、輪形" detail="空母ヲ級flagship、重巡リ級flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型、駆逐ニ級後期型" diZhiKongZhi="84" zhiKongYouShi="126" zhiKongQueBao="252"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、軽巡ヘ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型" diZhiKongZhi="84" zhiKongYouShi="126" zhiKongQueBao="252"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、軽巡ヘ級elite、軽巡ツ級、駆逐ハ級後期型、駆逐ハ級後期型" diZhiKongZhi="84" zhiKongYouShi="126" zhiKongQueBao="252"></enemy>
+            <drop>雪風 巻雲 長波 大井 北上 天龍 龍田 長良 名取 川内 神通 那珂 鬼怒 夕張 最上 古鷹 加古 青葉 妙高 足柄 高雄 愛宕 摩耶 利根 筑摩 衣笠 鈴谷 熊野 千代田 大鯨 蒼龍 飛龍 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊168 伊58 伊19 伊8 まるゆ 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="62" mapName="6" stars="9" exp="420" areaName="MS諸島沖" battleName="MS諸島防衛戦">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>戦艦3以上でA（ここでは航空戦艦は戦艦扱いではない？）(駆逐+軽巡)4以上でA？(戦艦+空母系)3以下でB。それ以外はランダム？</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="複縦" detail="重巡リ級flagship、軽母ヌ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="複縦、輪形" detail="重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <route position="B"></route>
+            <route position="D"></route>
+            <routeDetail>戦艦3以上または空母系3以上でB。(戦艦系+空母系)1以下かつ(重巡+航巡+雷巡)1以下かつ(駆逐+軽巡)4以上でD？それ以外はランダム？</routeDetail>
+            <drop>磯波 霰 霞 加古 青葉 足柄 摩耶 隼鷹</drop>
+        </point>
+        <point position="B">
+            <enemy formation="複縦" detail="戦艦ル級flagship、重巡リ級elite、重巡リ級elite、軽母ヌ級elite、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級flagship、戦艦ル級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="46" zhiKongYouShi="69" zhiKongQueBao="138"></enemy>
+            <enemy formation="輪形" detail="戦艦ル級flagship、軽母ヌ級elite、重巡リ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <route position="C"></route>
+            <route position="D"></route>
+            <route position="F"></route>
+            <routeDetail>(戦艦+空母+重巡+航巡)6でC？戦艦1以下かつ(戦艦+空母系)2以下でF。(戦艦系+空母系)4でCに行くことがある？その他はD?</routeDetail>
+            <drop>吹雪 白雪 初雪 深雪 叢雲 磯波 初春 子日 若葉 初霜 朝潮 大潮 満潮 荒潮 霰 霞 長良 五十鈴 名取 由良 川内 神通 那珂 鬼怒 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 摩耶 鳥海 飛鷹 隼鷹 祥鳳</drop>
+        </point>
+        <point position="C">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="D">
+            <lost detail="弾薬-40%(電探で最大20%まで軽減可能)"></lost>
+            <route position="G"></route>
+            <route position="E"></route>
+            <routeDetail>駆逐3以上かつ(軽巡+駆逐)4以上かつ(空母+戦艦)0でG？それ以外はE固定？</routeDetail>
+        </point>
+        <point position="E">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="168" zhiKongYouShi="252" zhiKongQueBao="504"></enemy>
+            <enemy formation="複縦、輪形" detail="空母ヲ級flagship、軽巡ツ級、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="84" zhiKongYouShi="126" zhiKongQueBao="252"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、軽巡ツ級、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="84" zhiKongYouShi="126" zhiKongQueBao="252"></enemy>
+            <route position="H"></route>
+            <drop>吹雪 白雪 初雪 深雪 磯波 初春 子日 若葉 初霜 朝潮 大潮 満潮 荒潮 霰 霞 長良 五十鈴 名取 由良 川内 神通 那珂 鬼怒 最上 古鷹 加古 青葉 妙高 那智 足柄 高雄 摩耶 鳥海 利根 筑摩 飛鷹 隼鷹 祥鳳</drop>
+        </point>
+        <point position="F">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="E"></route>
+            <route position="H"></route>
+            <route position="I"></route>
+            <routeDetail>戦艦1以下かつ空母系1以下かつ駆逐2以上でHorI固定？(Eに行かない)。索敵値を一定以上でI（索敵表示あり）。それ以外の編成はE？</routeDetail>
+        </point>
+        <point position="G">
+            <enemy formation="単縦、複縦" detail="戦艦タ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽母ヌ級flagship、軽巡ツ級、駆逐ハ級後期型、駆逐ニ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="J"></route>
+            <route position="K"></route>
+            <routeDetail>Kで索敵表示あり</routeDetail>
+            <drop>白雪</drop>
+        </point>
+        <point position="H">
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦、複縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽母ヌ級flagship、軽巡ツ級、駆逐ハ級後期型、駆逐ロ級後期型" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <route position="J"></route>
+            <route position="K"></route>
+            <routeDetail>Kで索敵表示あり</routeDetail>
+            <drop>吹雪 白雪 初雪 深雪 叢雲 磯波 初春 子日 若葉 初霜 朝潮 大潮 荒潮 霰 霞 夕雲 長良 五十鈴 名取 由良 川内 神通 那珂 鬼怒 最上 古鷹 加古 青葉 妙高 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 鈴谷 熊野 衣笠 明石 飛鷹 祥鳳 陸奥 伊勢 扶桑 山城</drop>
+        </point>
+        <point position="I">
+            <enemy formation="単縦" detail="戦艦ル級改flagship、戦艦ル級elite、戦艦ル級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、戦艦ル級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="102" zhiKongYouShi="153" zhiKongQueBao="306"></enemy>
+            <enemy formation="複縦" detail="重巡リ級改flagship、戦艦ル級flagship、軽母ヌ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <route position="K"></route>
+            <drop>吹雪 白雪 初雪 深雪 叢雲 磯波 初春 子日 若葉 朝潮 大潮 満潮 荒潮 霰 霞 夕雲 長良 五十鈴 名取 由良 川内 神通 那珂 鬼怒 最上 古鷹 加古 青葉 那智 高雄 愛宕 摩耶 鳥海 鈴谷 熊野 衣笠 明石 飛鷹 隼鷹 祥鳳 陸奥 伊勢 日向 山城</drop>
+        </point>
+        <point position="J">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="K" isBoss="1">
+            <enemy formation="単縦" detail="輸送ワ級flagship、戦艦ル級改flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
+            <enemy formation="単縦、輪形" detail="輸送ワ級flagship、空母ヲ級flagship、戦艦ル級改flagship、軽巡ツ級elite、駆逐ニ級後期型、駆逐ニ級後期型" diZhiKongZhi="84" zhiKongYouShi="126" zhiKongQueBao="252"></enemy>
+            <drop>島風 霞 夕雲 巻雲 浜風 大井 長良 五十鈴 川内 神通 那珂 鬼怒 夕張 矢矧 酒匂 最上 青葉 妙高 那智 高雄 愛宕 利根 鈴谷 熊野 衣笠 千歳 翔鶴 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊19 伊168 まるゆ 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城</drop>
+        </point>
+    </item>
+
+
+
+    <item index="63" mapName="6" stars="7" exp="100" areaName="グアノ環礁沖海域" battleName="K作戦">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="B"></route>
+            <route position="C"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="B">
+            <enemy formation="梯形" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級elite、潜水カ級、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="複縦" detail="軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="複縦" detail="駆逐ロ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <route position="D"></route>
+            <drop></drop>
+        </point>
+        <point position="C">
+            <enemy formation="梯形" detail="潜水ソ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水ソ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="梯形" detail="潜水ヨ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級elite、潜水カ級elite、潜水カ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級elite、潜水ヨ級elite、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <route position="E"></route>
+            <drop></drop>
+        </point>
+        <point position="D">
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <route position="E"></route>
+            <drop></drop>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="軽巡ツ級elite、雷巡チ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡ツ級elite、雷巡チ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="G"></route>
+            <route position="F"></route>
+            <routeDetail>軽巡3隻でF，軽巡+水母が4隻以上でF?それ以外で水母2隻以上or軽巡2隻以上でランダム(F寄り)。それ以外でG固定?</routeDetail>
+            <drop>香取 伊19</drop>
+        </point>
+        <point position="F">
+            <enemy formation="複縦" detail="重巡ネ級elite、重巡リ級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="重巡ネ級elite、軽巡ト級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡ネ級elite、軽巡ト級elite、軽巡ト級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="重巡ネ級elite、軽巡ト級elite、軽巡ホ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="H"></route>
+            <drop>伊19</drop>
+        </point>
+        <point position="G">
+            <award detail="航空偵察"></award>
+            <route position="H"></route>
+        </point>
+        <point position="H">
+            <award detail="航空偵察"></award>
+            <route position="J"></route>
+            <route position="I"></route>
+            <routeDetail>索敵一定以上でJ，目安は2-5式25以上。※ただし稀に逸れる模様。ちなみに資源マスの索敵は関係ない。</routeDetail>
+        </point>
+        <point position="I">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="J" isBoss="1">
+            <enemy formation="単縦" detail="戦艦タ級flagship、戦艦タ級flagship、重巡リ級flagship、駆逐棲姫(B)、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐棲姫(B)、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐棲姫(B)、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐棲姫(B)、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="戦艦タ級flagship、重巡リ級flagship、軽巡へ級flagship、駆逐棲姫(B)、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="駆逐棲姫(A)、戦艦タ級flagship、戦艦タ級flagship、重巡リ級flagship、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
+            <drop>春雨 能代 香取 翔鶴 瑞鶴 雲龍 伊168 伊19 伊58</drop>
+        </point>
+    </item>
+
+
+
+
+
+
+
+
+
+    <item index="311" mapName="31" stars="7" exp="100" areaName="ショートランド沖" battleName="発動準備、第二次SN作戦！">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="軽巡へ級flagship、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
+            <route position="B"></route>
+            <route position="C"></route>
+            <route position="D"></route>
+            <route position="F"></route>
+            <routeDetail>上から優先.潜水艦を3隻含む艦隊はF.索敵値不足の場合はF？空母を含む艦隊はC.潜水艦を含む艦隊/戦艦を3隻含む艦隊はB.菊月を含む艦隊はD.秋津洲を含む艦隊はD？水上機・甲標的母艦の千歳・千代田をともに含む艦隊はD？上記を満たさず索敵値が足りている艦隊はBとDのランダム？(戦艦を含むとB固定？)</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="B">
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="D"></route>
+            <drop></drop>
+        </point>
+        <point position="C">
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <route position="E"></route>
+            <drop></drop>
+        </point>
+        <point position="D">
+            <award detail="弾薬+15～45"></award>
+            <route position="Z"></route>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡ネ級elite、軽巡へ級flagship、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡ネ級elite、軽巡へ級flagship、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="Z"></route>
+            <drop>野分 時津風 大淀</drop>
+        </point>
+        <point position="F">
+            <enemy formation="梯形" detail="軽巡ホ級flagship、潜水カ級flagship、潜水カ級、潜水カ級、潜水カ級"></enemy>
+            <route position="G"></route>
+            <drop></drop>
+        </point>
+        <point position="G">
+            <award detail="燃料+25～65"></award>
+        </point>
+        <point position="Z" isBoss="1">
+            <enemy formation="単縦" detail="駆逐棲姫(B)、駆逐ロ級後期型、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="駆逐棲姫(A)、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <drop>浦風 谷風 野分 時津風 大淀</drop>
+        </point>
+    </item>
+
+
+
+    <item index="312" mapName="31" stars="9" exp="100" areaName="ソロモン海" battleName="連合艦隊、ソロモン海へ！">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="B"></route>
+            <route position="C"></route>
+            <routeDetail>水上打撃部隊編成でB,空母機動部隊編成でC</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="B">
+            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
+            <route position="D"></route>
+            <route position="E"></route>
+            <route position="K"></route>
+            <routeDetail>潜水艦1以上でKを含むランダム？第一艦隊に戦艦+正規空母を3隻以上含む艦隊はD. 2隻以下ならE. 軽空母はカウントされない模様</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="C">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="F"></route>
+            <route position="I"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="D">
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <route position="G"></route>
+            <drop></drop>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="重巡リ級flagship、重巡ネ級elite、重巡ネ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="G"></route>
+            <drop></drop>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="H"></route>
+            <drop></drop>
+        </point>
+        <point position="G">
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、輸送ワ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、駆逐ハ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <route position="Z"></route>
+            <drop>大鯨 春雨</drop>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、空母ヲ級flagship、重巡ネ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、重巡ネ級、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="L"></route>
+            <route position="Z"></route>
+            <routeDetail>索敵値一定以上でZ</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="I">
+            <lost detail="うずしお：弾薬損失"></lost>
+            <route position="J"></route>
+        </point>
+        <point position="J">
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="L"></route>
+            <route position="Z"></route>
+            <routeDetail>索敵値一定以上でZ</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="K">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="L">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="Z" isBoss="1">
+            <enemy formation="単縦" detail="軽巡棲鬼(A)、戦艦タ級flagship、戦艦タ級elite、重巡ネ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <enemy formation="単縦" detail="軽巡棲鬼(A)、戦艦棲姫、重巡ネ級elite、重巡ネ級、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <drop>初風 雲龍 大鯨 阿賀野 能代 翔鶴 瑞鶴</drop>
+        </point>
+    </item>
+
+
+
+    <item index="313" mapName="31" stars="12" exp="100" areaName="南太平洋海域" battleName="激突！第二次南太平洋海戦">
+        <point position="-">
+            <route position="A"></route>
+        </point>
+        <point position="A">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="B"></route>
+            <route position="C"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="B">
+            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級flagship、雷巡チ級flagship、軽巡へ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <route position="D"></route>
+            <drop></drop>
+        </point>
+        <point position="C">
+            <enemy formation="単縦" detail="軽巡へ級flagship、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="軽巡へ級flagship、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="D"></route>
+            <route position="E"></route>
+            <routeDetail>正規空母2隻以下かつ雷巡1隻以下でE。第1艦隊の正規空母・戦艦・航空戦艦の合計が3隻以下でE? それ以外はD</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="D">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="E"></route>
+            <route position="F"></route>
+            <route position="X"></route>
+            <routeDetail>戦艦4隻以上でE。正規空母3隻以上or雷巡2隻以上でE。水上打撃部隊かつ軽空母1以下でX?(例外あり)。第2艦隊に潜水艦1以上でX?(例外あり)。水上打撃部隊かつ軽空母2でE?(例外あり)。それ以外はF?</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="E">
+            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
+            <route position="H"></route>
+            <drop></drop>
+        </point>
+        <point position="F">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="G"></route>
+            <route position="I"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="G">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、戦艦タ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="H"></route>
+            <route position="Z"></route>
+            <routeDetail>索敵値一定以上でZ</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="J"></route>
+            <route position="G"></route>
+            <route position="Z"></route>
+            <routeDetail>索敵値一定以上でZ</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="I">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="Z"></route>
+            <drop></drop>
+        </point>
+        <point position="J">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="X">
+            <enemy formation="単縦" detail="飛行場姫、軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite、輸送ワ級flagship、輸送ワ級flagship"></enemy>
+            <drop>磯風 まるゆ</drop>
+        </point>
+        <point position="Z" isBoss="1">
+            <enemy formation="輪形" detail="水母棲姫(B)、空母棲鬼、空母棲鬼、重巡ネ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <enemy formation="輪形" detail="水母棲姫(A)、空母棲鬼、空母棲鬼、重巡ネ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <drop>磯風 天津風 浦風 谷風 浜風 瑞穂 翔鶴 瑞鶴 飛龍 まるゆ</drop>
+        </point>
+    </item>
+
+
+
+    <item index="314" mapName="31" stars="13" exp="100" areaName="アイアンボトムサウンド" battleName="海峡突入！敵飛行場を撃滅せよ！">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>夕立＋暁or春雨、もしくは霧島＋比叡or綾波を含むとB。吹雪＋初雪もしくは比叡＋夕立もしくは鳥海＋古鷹＋加古もしくは古鷹＋吹雪もしくは金剛＋榛名かつ戦艦3以下かつ戦艦と正規空母が4隻以下でB。霧島＋比叡が最も縛り条件がゆるく、戦艦＋正規空母最大４隻や雷巡１もつれていける。雷巡や潜水艦を含むとA？上記以外ではAよりのランダム？</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="梯形" detail="潜水ソ級elite、潜水ヨ級flagship、潜水カ級、潜水カ級"></enemy>
+            <route position="C"></route>
+            <drop></drop>
+        </point>
+        <point position="B">
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
+            <route position="D"></route>
+            <drop></drop>
+        </point>
+        <point position="C">
+            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ヘ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="E"></route>
+            <drop>早霜 矢矧 明石 まるゆ</drop>
+        </point>
+        <point position="D">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="E"></route>
+            <route position="F"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="E" isNight="1">
+            <enemy formation="単縦" detail="軽巡へ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <enemy formation="複縦" detail="軽巡へ級flagship、重巡リ級flagship、重巡リ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="G"></route>
+            <drop></drop>
+        </point>
+        <point position="F">
+            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、軽巡ツ級、駆逐イ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <route position="I"></route>
+            <route position="H"></route>
+            <routeDetail>龍驤と駆逐2隻、もしくは軽巡と駆逐2隻でH。戦艦と正規空母の合計が3以上だとI。上記未満なおかつ駆逐艦2以上でH</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="G" isNight="1">
+            <enemy formation="単縦" detail="戦艦タ級flagship、戦艦タ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="K"></route>
+            <route position="Z"></route>
+            <routeDetail>潜水艦を含むとK? 戦艦＋正規空母が5隻以上でK? それ以外で索敵値一定以上ならZ</routeDetail>
+            <drop>早霜 明石</drop>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
+            <route position="L"></route>
+            <route position="Z"></route>
+            <routeDetail>索敵値一定以上でZ</routeDetail>
+            <drop>早霜</drop>
+        </point>
+        <point position="I">
+            <lost detail="うずしお：燃料損失"></lost>
+            <route position="H"></route>
+            <route position="J"></route>
+            <routeDetail>駆逐艦2以上でH? 駆逐艦1以下または戦艦＋正規空母が4隻以上でJ?</routeDetail>
+        </point>
+        <point position="J">
+            <enemy formation="複縦" detail="軽母ヌ級flagship、軽母ヌ級flagship、軽巡ツ級、軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級flagship、軽巡ツ級、軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <route position="H"></route>
+            <route position="L"></route>
+            <routeDetail>戦艦＋正規空母が5隻以上でL。索敵値一定以上でH</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="K">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="L">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="Z" isBoss="1">
+            <enemy formation="単縦" detail="飛行場姫、戦艦ル級改flagship、戦艦ル級改flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、輸送ワ級flagship"></enemy>
+            <enemy formation="単縦" detail="飛行場姫、戦艦ル級改flagship、戦艦ル級改flagship、軽巡へ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <drop>海風 朝霜 清霜 早霜 高波 矢矧 明石</drop>
+        </point>
+    </item>
+
+
+
+    <item index="315" mapName="31" stars="13" exp="100" areaName="西方海域戦線 カレー洋" battleName="奮戦！西部方面派遣艦隊">
+        <point position="-">
+            <route position="A"></route>
+            <route position="B"></route>
+            <routeDetail>秋津洲+駆逐1でB。航巡+駆逐2でB。他はA？</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
+            <route position="C"></route>
+            <drop></drop>
+        </point>
+        <point position="B">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="C"></route>
+            <route position="E"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="C">
+            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <route position="F"></route>
+            <drop></drop>
+        </point>
+        <point position="D">
+            <award detail="航空偵察"></award>
+            <route position="F"></route>
+            <route position="H"></route>
+            <routeDetail>軽巡1・駆逐2かつ正規空母無しでH?</routeDetail>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="D"></route>
+            <route position="L"></route>
+            <route position="G"></route>
+            <routeDetail>戦艦3以上でG?</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="F">
+            <enemy formation="単縦" detail="装甲空母姫、重巡リ級flagship、重巡リ級flagship、駆逐ハ級後期型elite、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
+            <enemy formation="輪形" detail="装甲空母姫、重巡リ級flagship、重巡リ級flagship、駆逐ハ級後期型elite、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
+            <route position="I"></route>
+            <drop></drop>
+        </point>
+        <point position="G">
+            <enemy formation="" detail=""></enemy>
+            <drop>伊168</drop>
+        </point>
+        <point position="H">
+            <enemy formation="" detail=""></enemy>
+            <route position="J"></route>
+            <drop></drop>
+        </point>
+        <point position="I">
+            <award detail="航空偵察"></award>
+            <route position="K"></route>
+        </point>
+        <point position="J">
+            <enemy formation="" detail=""></enemy>
+            <route position="M"></route>
+            <route position="K"></route>
+            <drop></drop>
+        </point>
+        <point position="K">
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、輸送ワ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、輸送ワ級elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <route position="M"></route>
+            <route position="Z"></route>
+            <routeDetail>戦艦+正規空母が5以上でM? 駆逐1以上でZ?</routeDetail>
+            <drop>伊19 伊58 伊8 伊168</drop>
+        </point>
+        <point position="L">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="M">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="Z" isBoss="1">
+            <enemy formation="単縦" detail="戦艦棲姫、重巡リ級flagship、重巡リ級flagship、雷巡チ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <enemy formation="単縦" detail="戦艦棲姫、軽母ヌ級flagship、重巡ネ級elite、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <drop>酒匂 U-511 まるゆ Roma</drop>
+        </point>
+    </item>
+
+
+
+    <item index="316" mapName="31" stars="14" exp="100" areaName="ソロモン海東部海域" battleName="反攻作戦！FS方面進出">
+        <point position="-">
+            <route position="A"></route>
+            <route position="C"></route>
+            <routeDetail>空母機動部隊では、次のいずれかの艦の組み合わせを含まなければC：①夕立+綾波　②吹雪+古鷹　③比叡+霧島。いずれかの組み合わせを含む場合はA。水上打撃部隊なら必ずA</routeDetail>
+        </point>
+        <point position="A">
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水ヨ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級elite"></enemy>
+            <route position="B"></route>
+            <route position="D"></route>
+            <routeDetail>空母機動部隊、水上打撃部隊ともに、次の条件を満たせばB。第一艦隊はすべて高速艦かつ戦艦+正規空母が3隻以下、第二艦隊は戦艦なしかつ駆逐艦が4隻。それ以外はD</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="C">
+            <enemy formation="複縦" detail="軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <route position="E"></route>
+            <route position="O"></route>
+            <routeDetail>雷巡を含むとO</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="D" isNight="1">
+            <enemy formation="" detail=""></enemy>
+            <route position="E"></route>
+            <route position="F"></route>
+            <routeDetail>多くの場合はE. Fに行くかどうかは検証を要する</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="E">
+            <enemy formation="単横" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級elite"></enemy>
+            <route position="G"></route>
+            <drop></drop>
+        </point>
+        <point position="F">
+            <enemy formation="輪形" detail="空母ヲ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
+            <route position="J"></route>
+            <drop></drop>
+        </point>
+        <point position="G">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="H"></route>
+            <route position="F"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="H">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="L"></route>
+            <drop></drop>
+        </point>
+        <point position="I">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="J">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="K"></route>
+            <route position="M"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="K">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <route position="I"></route>
+            <route position="L"></route>
+            <route position="Z"></route>
+            <routeDetail>雷巡を含むとL? 索敵値一定以上でZ</routeDetail>
+            <drop>谷風 浦風</drop>
+        </point>
+        <point position="L">
+            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <route position="P"></route>
+            <route position="Z"></route>
+            <routeDetail>索敵値一定以上でZ</routeDetail>
+            <drop>谷風 浦風 浜風</drop>
+        </point>
+        <point position="M">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <route position="N"></route>
+            <route position="Z"></route>
+            <routeDetail>潜水艦を含むとN? 雷巡を含むとN? 索敵値一定以上でZ</routeDetail>
+            <drop>山雲 谷風 浦風 浜風</drop>
+        </point>
+        <point position="N">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="O">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="P">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="Z" isBoss="1">
+            <enemy formation="単縦" detail="空母棲姫、戦艦棲姫、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <enemy formation="単縦" detail="空母棲姫、戦艦棲姫、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <drop>浜風 浦風 朝雲 谷風 山雲 風雲 まるゆ</drop>
+        </point>
+    </item>
+
+
+
+    <item index="317" mapName="31" stars="15" exp="100" areaName="FS方面海域" battleName="FS作戦">
+        <point position="-">
+            <route position="B"></route>
+            <route position="E"></route>
+            <routeDetail>水上打撃部隊でB寄りのランダム? 空母機動部隊でE寄りのランダム? ただし水上も機動も偏りがあるとはいえBorEどっちも行く。</routeDetail>
+        </point>
+        <point position="A">
+            <award detail="弾薬+??"></award>
+            <route position="C"></route>
+        </point>
+        <point position="B">
+            <enemy formation="梯形" detail="潜水ソ級flagship、潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
+            <enemy formation="単横" detail="潜水ソ級flagship、潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
+            <route position="A"></route>
+            <route position="X"></route>
+            <routeDetail>第2に潜水or雷巡でA固定(C到達用)。他はX寄りのランダム？</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="C">
+            <enemy formation="輪形" detail="輸送ワ級flagship、輸送ワ級flagship、輸送ワ級flagship、軽巡ヘ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <drop></drop>
+        </point>
+        <point position="D">
+            <award detail="弾薬+??"></award>
+            <route position="F"></route>
+            <route position="H"></route>
+            <routeDetail>第1にあきつでH固定(Y到達用)。他はF寄りのランダム？</routeDetail>
+        </point>
+        <point position="E">
+            <enemy formation="単縦" detail="重巡ネ級elite、重巡リ級flagship、雷巡チ級flagship、駆逐ハ級後期型elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <enemy formation="複縦" detail="重巡ネ級elite、重巡リ級flagship、雷巡チ級flagship、駆逐ハ級後期型elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
+            <route position="G"></route>
+            <drop></drop>
+        </point>
+        <point position="G">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="I"></route>
+            <route position="J"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="H">
+            <ignore detail="戦闘回避"></ignore>
+            <route position="J"></route>
+            <route position="Y"></route>
+            <routeDetail>能動分岐</routeDetail>
+        </point>
+        <point position="I">
+            <enemy formation="梯形" detail="潜水ソ級flagship、潜水ソ級elite、潜水ヨ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級elite"></enemy>
+            <enemy formation="単横" detail="潜水ソ級flagship、潜水ソ級elite、潜水ヨ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級elite"></enemy>
+            <route position="K"></route>
+            <drop></drop>
+        </point>
+        <point position="J">
+            <enemy formation="複縦" detail="空母ヲ級改flagship、空母ヲ級flagship*7、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship*7、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <route position="M"></route>
+            <route position="L"></route>
+            <route position="Y"></route>
+            <routeDetail>ランダム</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="K">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、空母ヲ級flagship、駆逐ニ級後期型elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <route position="M"></route>
+            <route position="P"></route>
+            <routeDetail>索敵値一定以上でM？</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="L">
+            <enemy formation="単縦" detail="戦艦棲姫、戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <enemy formation="複縦" detail="戦艦棲姫、戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <route position="O"></route>
+            <route position="Z"></route>
+            <routeDetail>索敵値一定以上でZ？</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="M">
+            <enemy formation="複縦" detail="空母ヲ級改flagship、空母ヲ級改flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級改flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <route position="N"></route>
+            <route position="Z"></route>
+            <routeDetail>雷巡1以上でN固定？索敵値一定以上でZ？</routeDetail>
+            <drop></drop>
+        </point>
+        <point position="N">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="O">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="P">
+            <ignore detail="戦闘回避"></ignore>
+        </point>
+        <point position="X">
+            <enemy formation="単縦" detail="港湾棲姫、重巡ネ級elite、重巡ネ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite、輸送ワ級flagship"></enemy>
+            <route position="D"></route>
+            <drop></drop>
+        </point>
+        <point position="Y">
+            <enemy formation="単縦" detail="離島棲鬼(A)、軽巡ツ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite、軽母ヌ級flagship、輸送ワ級flagship"></enemy>
+            <route position="L"></route>
+            <route position="O"></route>
+            <routeDetail>雷巡1以上でO固定？索敵値一定以上でL？</routeDetail>
+            <drop>風雲 伊401 まるゆ</drop>
+        </point>
+        <point position="Z" isBoss="1">
+            <enemy formation="単縦" detail="防空棲姫(A)、戦艦棲姫、重巡ネ級elite、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <enemy formation="単縦" detail="防空棲姫(A)、戦艦棲姫、戦艦棲姫、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
+            <drop>朝霜 初風 風雲 三隈 まるゆ</drop>
+        </point>
+    </item>
+
+
+
+       <!--
+        <point position="" isBoss="" isNight="">
+            <award detail=""></award>
+            <lost detail="うずしお：弾薬損失"></lost>
+            <ignore detail="戦闘回避"></ignore>
+            <enemy formation="" detail=""></enemy>
+            <enemy formation="" detail="" diZhiKongZhi="" zhiKongYouShi="" zhiKongQueBao=""></enemy>
+            <route position=""></route>
+            <routeDetail></routeDetail>
+            <drop></drop>
+        </point>
+         -->
+</Map>
+
+

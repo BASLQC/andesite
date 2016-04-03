@@ -1,0 +1,19 @@
+<ShipType>
+    <item index="1"  name="戦艦/航空戦艦" subType="8,9,10" airControl="10"></item>
+    <item index="2"  name="正規空母/装甲空母" subType="11,18" airControl="11,18"></item>
+    <item index="3"  name="軽空母" subType="7" airControl="7"></item>
+    <item index="4"  name="重巡洋艦/航空巡洋艦" subType="5,6" airControl="6"></item>
+    <item index="5"  name="重雷装巡洋艦" subType="4"></item>
+    <item index="6"  name="軽巡洋艦" subType="3"></item>
+    <item index="7"  name="駆逐艦" subType="2"></item>
+    <item index="8"  name="潜水艦/潜水空母" subType="13,14" airControl="14"></item>
+    <item index="9"  name="補給艦" subType="22,15"></item>
+    <item index="10" name="水上機母艦" subType="16" airControl="16"></item>
+    <item index="11" name="揚陸艦" subType="17" airControl="17"></item>
+    <item index="12" name="工作艦" subType="19"></item>
+    <item index="13" name="潜水母艦" subType="20"></item>
+    <item index="14" name="練習巡洋艦" subType="21"></item>
+
+
+    <!-- <item index="" name="" subType=""></item> -->
+</ShipType>

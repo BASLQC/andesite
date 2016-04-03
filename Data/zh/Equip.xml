@@ -1,0 +1,321 @@
+<Equip>
+    <item index="1"  stars="1" rarity="1" subType="101"  icon="56"  range="1" name="12cm単装砲" huoLi="1" duiKong="1" ship=""></item>
+    <item index="48" stars="1" rarity="1" subType="101"  icon="86"  range="1" name="12.7cm単装高角砲" huoLi="1" duiKong="3" ship="" undevelop="1"></item>
+    <item index="78" stars="1" rarity="1" subType="101"  icon="56"  range="1" name="12.7cm単装砲" huoLi="2" mingZhong="1" ship="" undevelop="1"></item>
+    <item index="2"  stars="1" rarity="1" subType="101"  icon="56"  range="1" name="12.7cm連装砲" huoLi="2" duiKong="2" ship=""></item>
+    <item index="91" stars="2" rarity="2" subType="101"  icon="86"  range="1" name="12.7cm連装高角砲(後期型)" huoLi="2" duiKong="5" duiQian="1" mingZhong="1" huiBi="1" ship="" undevelop="1"></item>
+    <item index="3"  stars="2" rarity="2" subType="101"  icon="86"  range="1" name="10cm連装高角砲" huoLi="2" duiKong="7" ship=""></item>
+    <item index="63" stars="1" rarity="2" subType="101"  icon="56"  range="1" name="12.7cm連装砲B型改二" huoLi="3" duiKong="2" ship="" undevelop="1"></item>
+    <item index="147" stars="2" rarity="3" name="120mm連装砲" undevelop="1"></item>
+    <item index="122" stars="3" rarity="4" subType="101"  icon="56"  range="1" name="10cm高角砲＋高射装置" huoLi="3" duiKong="10" mingZhong="1" huiBi="1" ship="" undevelop="1"></item>
+
+    <item index="4"  stars="1" rarity="1" subType="102"  icon="58"  range="2" name="14cm単装砲" huoLi="2" mingZhong="1" ship=""></item>
+    <item index="119" stars="1" rarity="2" subType="102"  icon="58"  range="2" name="14cm連装砲" huoLi="3" mingZhong="2" ship="" undevelop="1"></item>
+    <item index="65" stars="2" rarity="3" subType="102"  icon="58"  range="2" name="15.2cm連装砲" huoLi="4" duiKong="3" mingZhong="3" ship=""></item>
+    <item index="5"  stars="2" rarity="1" subType="102"  icon="58"  range="2" name="15.5cm三連装砲(主砲)" huoLi="7" duiKong="4" mingZhong="1" ship=""></item>
+    <item index="6"  stars="2" rarity="1" subType="102"  icon="58"  range="2" name="20.3cm連装砲" huoLi="8" duiKong="3" ship=""></item>
+    <item index="90" stars="2" rarity="2" subType="102"  icon="58"  range="2" name="20.3cm(2号)連装砲" huoLi="9" duiKong="3" mingZhong="1" ship="" undevelop="1"></item>
+    <item index="50" stars="3" rarity="3" subType="102"  icon="58"  range="2" name="20.3cm(3号)連装砲" huoLi="10" duiKong="4" ship="" undevelop="1"></item>
+    <item index="123" stars="3" rarity="4" subType="102"  icon="58"  range="2" name="SKC34 20.3cm連装砲" huoLi="10" duiKong="2" mingZhong="3" ship="" undevelop="1"></item>
+    <item index="139" stars="3" rarity="4" name="15.2cm連装砲改" undevelop="1" rank="2015.4.1.500,2015.5.1.500,2015.7.1.500"></item>
+
+    <item index="7"  stars="1" rarity="1" subType="103"  icon="60"  range="3" name="35.6cm連装砲" huoLi="15" duiKong="4" ship=""></item>
+    <item index="104" stars="3" rarity="3" subType="103"  icon="60"  range="3" name="35.6cm連装砲(ダズル迷彩)" huoLi="15" duiKong="5" mingZhong="1" huiBi="1" ship="" undevelop="1"></item>
+    <item index="76" stars="1" rarity="1" subType="103"  icon="60"  range="3" name="38cm連装砲" huoLi="16" duiKong="1" mingZhong="1" ship="" undevelop="1"></item>
+    <item index="114" stars="2" rarity="3" subType="103"  icon="60"  range="3" name="38cm連装砲改" huoLi="17" duiKong="2" mingZhong="3" ship="" undevelop="1"></item>
+    <item index="103" stars="4" rarity="5" subType="103"  icon="60"  range="3" name="試製35.6cm三連装砲" huoLi="18" duiKong="5" mingZhong="2" ship="" undevelop="1" quest="1040.1,2027.1" rank="2014.6.1.5,2014.7.1.500,2014.8.1.500,2014.9.21.500,2015.5.21.100" event="2015.春.E1（丙）.1"></item>
+    <item index="133"  stars="4" rarity="5" subType="103"  icon="60"  range="4" name="381mm/50 三連装砲" huoLi="20" duiKong="2" mingZhong="-3" huiBi="-1" undevelop="1" rank="2015.3.1.500" ship="" event="2015.春.E5（丙）.1"></item>
+    <item index="8"  stars="2" rarity="2" subType="103"  icon="60"  range="3" name="41cm連装砲" huoLi="20" duiKong="4" ship=""></item>
+    <item index="105" stars="4" rarity="5" subType="103"  icon="60"  range="3" name="試製41cm三連装砲" huoLi="22" duiKong="5" mingZhong="2" ship="" undevelop="1" rank="2014.8.1.5,2014.9.1.20,2014.10.21.500,2014.11.1.100,2015.2.1.100,2015.5.1.20" event="2014.夏.E3.1,2014.夏.E6.1"></item>
+    <item index="117" stars="4" rarity="5" subType="103"  icon="60"  range="4" name="試製46cm連装砲" huoLi="23" duiKong="4" mingZhong="1" ship="" undevelop="1" rank="2014.9.1.100,2014.10.1.20,2014.11.1.500,2015.1.1.500,2015.6.21.500,2015.7.21.100" event="2015.春.E1（乙）.1"></item>
+    <item index="9"  stars="3" rarity="3" subType="103"  icon="60"  range="4" name="46cm連装砲" huoLi="26" duiKong="5" ship=""></item>
+    <item index="128" stars="5" rarity="5" subType="103"  icon="60"  range="4" name="試製51cm連装砲" huoLi="30" duiKong="5" mingZhong="1" huiBi="-1" ship="大和、大和改,武蔵、武蔵改,長門改,陸奥改" undevelop="1" event="2015.冬.E2（甲）.1,2015.春.E1（甲）.1" rank="2015.6.1.20,2015.7.1.20"></item>
+    <item index="36" stars="3" rarity="2" subType="104"  icon="80"  range="0" name="九一式徹甲弾" huoLi="8" mingZhong="1" ship=""></item>
+    <item index="116" stars="3" rarity="4" subType="104"  icon="80"  range="0" name="一式徹甲弾" huoLi="9" mingZhong="2" ship="" undevelop="1" quest="2031.1,2032.1"></item>
+    <item index="137" stars="5" rarity="5" name="381mm/50 三連装砲改" undevelop="1" event="2015.春.E4（甲乙）.1,2015.春.E5（甲乙）.1"></item>
+
+
+
+    <item index="11" stars="1" rarity="1" subType="205"  icon="62"  range="2" name="15.2cm単装砲" huoLi="2" mingZhong="1" ship=""></item>
+    <item index="66" stars="3" rarity="4" subType="205"  icon="86"  range="1" name="8cm高角砲" huoLi="1" duiKong="6" mingZhong="2" ship=""></item>
+    <item index="130" stars="3" rarity="4" subType="205"  icon="86"  range="1" name="12.7cm高角砲＋高射装置" huoLi="1" duiKong="8" mingZhong="1" huiBi="1" ship="" undevelop="1"></item>
+    <item index="71" stars="3" rarity="4" subType="205" icon="86"  range="1" name="10cm連装高角砲(砲架)" huoLi="1" duiKong="7" mingZhong="1" ship="" undevelop="1"></item>
+    <item index="10" stars="1" rarity="1" subType="205"  icon="86"  range="1" name="12.7cm連装高角砲" huoLi="2" duiKong="4" mingZhong="1" ship=""></item>
+    <item index="77" stars="1" rarity="1" subType="205"  icon="62"  range="2" name="15cm連装副砲" huoLi="4" duiKong="2" mingZhong="2" ship="" undevelop="1"></item>
+    <item index="12" stars="2" rarity="2" subType="205"  icon="62"  range="2" name="15.5cm三連装砲(副砲)	" huoLi="7" duiKong="3" mingZhong="2" ship=""></item>
+    <item index="134" stars="3" rarity="4" name="OTO 152mm三連装速射砲" undevelop="1" event="2015.春.E3（甲乙）.1"></item>
+    <item index="135" stars="3" rarity="4" name="90mm単装高角砲" undevelop="1" event="2015.春.E4（甲乙）.1"></item>
+
+
+
+    <item index="13" stars="1" rarity="1" subType="306"  icon="64"  range="1" name="61cm三連装魚雷" leiZhuang="5" ship=""></item>
+    <item index="14" stars="1" rarity="1" subType="306"  icon="64"  range="1" name="61cm四連装魚雷" leiZhuang="7" ship=""></item>
+    <item index="125" stars="2" rarity="3" subType="306"  icon="64"  range="1" name="61cm三連装(酸素)魚雷" leiZhuang="8" huiBi="1" zhuangJia="1" ship="" undevelop="1"></item>
+    <item index="15" stars="2" rarity="2" subType="306"  icon="64"  range="1" name="61cm四連装(酸素)魚雷" leiZhuang="10" ship=""></item>
+    <item index="58" stars="3" rarity="3" subType="306"  icon="64"  range="1" name="61cm五連装(酸素)魚雷" leiZhuang="12" mingZhong="1" ship="" undevelop="1"></item>
+    <item index="67" stars="2" rarity="2" subType="306"  icon="64"  range="1" name="53cm艦首(酸素)魚雷" leiZhuang="15" mingZhong="2" ship="" undevelop="1" rank="2014.1.1.3" event="2013.秋.E3.1"></item>
+    <item index="127" stars="5" rarity="5" subType="307"  icon="64"  range="1" name="試製FaT仕様九五式酸素魚雷改" leiZhuang="14" mingZhong="7" huiBi="2" ship="" undevelop="1"></item>
+    <item index="95" stars="2" rarity="3" subType="307"  icon="64"  range="1" name="潜水艦53cm艦首魚雷(8門)" leiZhuang="16" mingZhong="3" ship="" undevelop="1" quest="4013.1,4014.1"></item>
+
+
+
+    <item index="41" stars="1" rarity="2" subType="407"  icon="64"  range="0" name="甲標的 甲" leiZhuang="12" remarkZh="装备后可进行开幕雷击" remarkJa="装備時開幕雷撃" ship=""></item>
+    <item index="68" stars="1" rarity="2" subType="408"  icon="94"  range="0" name="大発動艇" ship="" remarkZh="装备后可增加远征收益5%（最大20%）" remarkJa="遠征報酬+5%（+20%まで累積あり）" undevelop="1"></item>
+
+
+
+    <item index="16" stars="1" rarity="1" subType="509"  icon="70"  range="0" name="九七式艦攻" leiZhuang="5" duiQian="4" suoDi="1" leiMing="16" ship=""></item>
+    <item index="82" stars="2" rarity="3" subType="509"  icon="70"  range="0" name="九七式艦攻(九三一空)" leiZhuang="6" duiQian="7" suoDi="2" ship="" undevelop="1" rank="2014.2.21.500,2014.3.21.100,2014.4.101.500,2014.7.21.100,2015.2.21.500"></item>
+    <item index="17" stars="2" rarity="2" subType="509"  icon="70"  range="0" name="天山" leiZhuang="7" duiQian="3" suoDi="1" leiMing="24" ship=""></item>
+    <item index="98" stars="3" rarity="3" subType="509"  icon="70"  range="0" name="九七式艦攻(熟練)" leiZhuang="8" duiQian="5" suoDi="2" mingZhong="2" ship="" undevelop="1"></item>
+    <item index="83" stars="3" rarity="3" subType="509"  icon="70"  range="0" name="天山(九三一空)" leiZhuang="9" duiQian="8" suoDi="2" ship="" undevelop="1" rank="2014.2.1.20,2014.3.1.20,2014.4.1.100,2014.6.1.500,2014.7.1.20,2015.2.1.20,2015.8.21.500"></item>
+    <item index="18" stars="3" rarity="3" subType="509"  icon="70"  range="0" name="流星" leiZhuang="10" duiQian="4" suoDi="1" leiMing="56" ship=""></item>
+    <item index="112" stars="3" rarity="3" subType="509"  icon="70"  range="0" name="天山(六〇一空)" leiZhuang="10" duiQian="4" suoDi="2" mingZhong="1" ship="" undevelop="1" rank="2014.11.21.500" event="2015.冬.E2（丙）.1,2015.春.E3（乙丙）.1"></item>
+    <item index="93" stars="4" rarity="5" subType="509"  icon="70"  range="0" name="九七式艦攻(友永隊)" leiZhuang="11" duiKong="1" duiQian="5" suoDi="4" mingZhong="3" ship="" undevelop="1"></item>
+    <item index="52" stars="3" rarity="4" subType="509"  icon="70"  range="0" name="流星改" leiZhuang="13" duiQian="3" suoDi="2" ship=""></item>
+    <item index="113" stars="4" rarity="4" subType="509"  icon="70"  range="0" name="流星(六〇一空)" leiZhuang="13" duiQian="5" suoDi="3" mingZhong="1" ship="" undevelop="1" rank="2014.10.1.5,2014.11.1.20,2014.12.1.500" event="2015.冬.E2（甲乙）.1,2015.春.E3（甲）.1"></item>
+    <item index="94" stars="5" rarity="5" subType="509"  icon="70"  range="0" name="天山一二型(友永隊)" leiZhuang="14" duiKong="1" duiQian="6" suoDi="5" mingZhong="3" ship="" undevelop="1" quest="6013.1"></item>
+    <item index="143" stars="4" rarity="4" name="九七式艦攻(村田隊)" undevelop="1" event="2015.夏.E3.1" quest="6019.1"></item>
+    <item index="144" stars="5" rarity="5" name="天山一二型(村田隊)" undevelop="1" quest="31008.1,6020.1"></item>
+
+
+
+
+    <item index="19" stars="1" rarity="1" subType="610"  icon="66"  range="0" name="九六式艦戦" duiKong="2" ship=""></item>
+    <item index="20" stars="1" rarity="1" subType="610"  icon="66"  range="0" name="零式艦戦21型" duiKong="5" ship=""></item>
+    <item index="21" stars="2" rarity="2" subType="610"  icon="66"  range="0" name="零式艦戦52型" duiKong="6" ship=""></item>
+    <item index="96" stars="3" rarity="4" subType="610"  icon="66"  range="0" name="零式艦戦21型(熟練)" duiKong="8" suoDi="1" mingZhong="2" huiBi="2" ship="" undevelop="1"></item>
+    <item index="55" stars="3" rarity="3" subType="610"  icon="66"  range="0" name="紫電改二" duiKong="9" ship=""></item>
+    <item index="109" stars="3" rarity="3" subType="610"  icon="66"  range="0" name="零戦52型丙(六〇一空)" duiKong="9" mingZhong="1" huiBi="1" ship="" undevelop="1" rank="2014.12.21.500,2015.4.21.100"></item>
+    <item index="22" stars="3" rarity="4" subType="610"  icon="66"  range="0" name="烈風" duiKong="10" ship=""></item>
+    <item index="110" stars="4" rarity="5" subType="610"  icon="66"  range="0" name="烈風(六〇一空)" duiKong="11" mingZhong="1" huiBi="2" ship="" undevelop="1" rank="2014.11.1.5,2014.12.1.20" event="2015.冬.E1（甲乙）.1" quest="6015.1"></item>
+    <item index="53" stars="4" rarity="5" subType="610"  icon="66"  range="0" name="烈風改" duiKong="12" ship="" undevelop="1" event="2014.春.E1.1" rank="2015.4.1.20"></item>
+    <item index="56" stars="5" rarity="5" subType="610"  icon="66"  range="0" name="震電改" duiKong="15" ship="" undevelop="1" event="2013.春.E4.1"></item>
+
+
+
+    <item index="60" stars="3" rarity="3" subType="711"  icon="68"  range="0" name="零式艦戦62型(爆戦)" baoZhuang="4" duiKong="4" duiQian="3" ship=""></item>
+    <item index="23" stars="1" rarity="1" subType="711"  icon="68"  range="0" name="九九式艦爆" baoZhuang="5" duiQian="3" ship=""></item>
+    <item index="97" stars="3" rarity="4" subType="711"  icon="68"  range="0" name="九九式艦爆(熟練)" baoZhuang="7" duiKong="1" duiQian="4" suoDi="2" mingZhong="2" ship="" undevelop="1"></item>
+    <item index="24" stars="2" rarity="2" subType="711"  icon="68"  range="0" name="彗星" baoZhuang="8" duiQian="3" ship=""></item>
+    <item index="64" stars="3" rarity="3" subType="711"  icon="68"  range="0" name="Ju87C改" baoZhuang="9" duiQian="5" mingZhong="1" ship="" undevelop="1" quest="4006.1,4007.1"></item>
+    <item index="57" stars="3" rarity="3" subType="711"  icon="68"  range="0" name="彗星一二型甲" baoZhuang="10" duiQian="3" suoDi="1" ship=""></item>
+    <item index="99" stars="4" rarity="5" subType="711"  icon="68"  range="0" name="九九式艦爆(江草隊)" baoZhuang="10" duiQian="5" suoDi="3" mingZhong="4" ship="" undevelop="1"></item>
+    <item index="111" stars="3" rarity="3" subType="711"  icon="68"  range="0" name="彗星(六〇一空)" baoZhuang="11" duiQian="4" suoDi="1" mingZhong="1" ship="" undevelop="1" event="2015.春.E2（甲乙）.1"></item>
+    <item index="148" stars="5" rarity="5" name="試製南山" undevelop="1" rank="2015.7.1.500,2015.8.1.20"></item>
+    <item index="100" stars="5" rarity="5" subType="711"  icon="68"  range="0" name="彗星(江草隊)" baoZhuang="13" duiKong="1" duiQian="5" suoDi="4" mingZhong="4" ship="" undevelop="1" quest="6014.1"></item>
+
+    <item index="26" stars="2" rarity="2" subType="712"  icon="74"  range="0" name="瑞雲" baoZhuang="4" duiKong="2" duiQian="4" suoDi="6" mingZhong="1" leiMing="13" ship=""></item>
+    <item index="79" stars="2" rarity="3" subType="712"  icon="74"  range="0" name="瑞雲(六三四空)" baoZhuang="6" duiKong="2" duiQian="5" suoDi="6" mingZhong="1" ship="" undevelop="1" quest="4010.1,4012.1"></item>
+    <item index="80" stars="3" rarity="4" subType="712"  icon="74"  range="0" name="瑞雲12型" baoZhuang="7" duiKong="3" duiQian="5" suoDi="6" mingZhong="1" ship="" undevelop="1" rank="2014.2.1.100,2014.3.4.500,2014.4.21.100,2014.5.21.500,2014.8.101.500,2015.1.21.500,2015.3.21.100"></item>
+    <item index="81" stars="4" rarity="3" subType="712"  icon="74"  range="0" name="瑞雲12型(六三四空)" baoZhuang="9" duiKong="3" duiQian="6" suoDi="7" mingZhong="1" ship="" undevelop="1" rank="2014.3.1.3,2014.4.1.20,2014.5.1.20,2014.8.1.100,2015.1.1.20,2015.3.1.20"></item>
+    <item index="62" stars="4" rarity="5" subType="712"  icon="74"  range="0" name="試製晴嵐" baoZhuang="11" duiQian="6" suoDi="6" mingZhong="1" ship="" undevelop="1" event="2013.冬.E1.1"></item>
+
+
+
+    <item index="102" stars="3" rarity="4" subType="813"  icon="74"  range="0" name="九八式水上偵察機(夜偵)" duiQian="1" suoDi="3" mingZhong="1" remarkZh="夜战触接发动时，提升我方命中率以及火力" remarkJa="夜戦時に触接行動をし，味方艦隊の命中率、ダメージのみを上昇" ship="" undevelop="1"></item>
+    <item index="25" stars="1" rarity="1" subType="813"  icon="74"  range="0" name="零式水上偵察機" baoZhuang="1" duiKong="1" duiQian="2" suoDi="5" mingZhong="1" leiMing="10" ship=""></item>
+    <item index="115" stars="2" rarity="3" subType="813"  icon="74"  range="0" name="Ar196改" baoZhuang="1" duiKong="1" duiQian="5" suoDi="5" mingZhong="2" ship="" undevelop="1"></item>
+    <item index="59" stars="2" rarity="2" subType="813"  icon="74"  range="0" name="零式水上観測機" baoZhuang="1" duiKong="2" duiQian="4" suoDi="6" mingZhong="2" ship=""></item>
+    <item index="118" stars="4" rarity="5" subType="813"  icon="74"  range="0" name="紫雲" baoZhuang="1" duiQian="2" suoDi="8" mingZhong="1" ship="" undevelop="1" rank="2014.9.1.500,2014.10.1.500,2014.12.1.100,2015.3.1.100,2015.4.1.500"></item>
+    <item index="61" stars="2" rarity="2" subType="814"  icon="72"  range="0" name="二式艦上偵察機" duiKong="1" suoDi="7" mingZhong="3" ship=""></item>
+    <item index="54" stars="3" rarity="3" subType="814"  icon="72"  range="0" name="彩雲" suoDi="9" mingZhong="2" ship="" remarkZh="装备后可避免T不利" remarkJa="T字不利を反航戦にする"></item>
+    <item index="138" stars="4" rarity="4" name="二式大艇" undevelop="1" event="2015.春.E5（甲）.1,2015.春.E6（甲乙）.1" ship="秋津洲、秋津洲改"></item>
+
+
+
+    <item index="70" stars="2" rarity="2" subType="915"  icon="98"  range="0" name="三式指揮連絡機(対潜)" duiQian="7" suoDi="1" mingZhong="2" ship="" undevelop="1"></item>
+    <item index="69" stars="3" rarity="3" subType="916"  icon="96"  range="0" name="カ号観測機" duiQian="9" mingZhong="1" ship="" undevelop="1"></item>
+
+
+
+    <item index="27" stars="2" rarity="2" subType="1017" icon="76"  range="0" name="13号対空電探" duiKong="2" suoDi="3" mingZhong="1" leiMing="3" ship="" remark="「うずしお」の被害軽減"></item>
+    <item index="106" stars="3" rarity="3" subType="1017" icon="76"  range="0" name="13号対空電探改" duiKong="4" suoDi="4" mingZhong="2" huiBi="1" ship="" remark="「うずしお」の被害軽減" undevelop="1" event="2014.夏.E3.1"></item>
+    <item index="28" stars="2" rarity="2" subType="1017" icon="76"  range="0" name="22号対水上電探" suoDi="5" mingZhong="3" leiMing="10" ship="" remark="「うずしお」の被害軽減"></item>
+    <item index="88" stars="3" rarity="4" subType="1017" icon="76"  range="0" name="22号対水上電探改四" duiQian="2" suoDi="5" mingZhong="8" ship="" remark="「うずしお」の被害軽減" undevelop="1" rank="2014.4.1.500,2014.5.1.500,2014.7.1.500,2014.12.1.5" quest="1038.1"></item>
+    <item index="29" stars="3" rarity="3" subType="1017" icon="76"  range="0" name="33号対水上電探" suoDi="7" mingZhong="5" leiMing="12" ship="" remark="「うずしお」の被害軽減"></item>
+    <item index="30" stars="2" rarity="3" subType="1018" icon="76"  range="0" name="21号対空電探" duiKong="4" suoDi="4" mingZhong="2" leiMing="3" ship="" remark="「うずしお」の被害軽減"></item>
+    <item index="89" stars="3" rarity="4" subType="1018" icon="76"  range="0" name="21号対空電探改" duiKong="5" suoDi="6" mingZhong="3" huiBi="1" ship="" remark="「うずしお」の被害軽減" undevelop="1" rank="2014.4.1.3,2014.5.1.3,2014.6.1.500,2014.8.1.100"></item>
+    <item index="32" stars="3" rarity="5" subType="1018" icon="76"  range="0" name="14号対空電探" duiKong="6" suoDi="5" mingZhong="4" leiMing="3" ship="" remark="「うずしお」の被害軽減"></item>
+    <item index="124" stars="4" rarity="5" subType="1018" icon="76"  range="0" name="FuMO25 レーダー" huoLi="3" duiKong="7" suoDi="9" mingZhong="10" ship="" remark="「うずしお」の被害軽減" undevelop="1" event="2015.春.E6（甲）.1"></item>
+    <item index="31" stars="3" rarity="4" subType="1018" icon="76"  range="0" name="32号対水上電探" suoDi="10" mingZhong="8" leiMing="15" ship="" remark="「うずしお」の被害軽減"></item>
+    <item index="141" stars="4" rarity="5" name="32号対水上電探改" undevelop="1" rank="2015.5.1.500,2015.7.1.5,2015.8.1.5"></item>
+    <item index="142" stars="4" rarity="5" name="15m二重測距儀+21号電探改二" undevelop="1" rank="2015.6.1.100" ship="戦艦,航空戦艦"></item>
+
+
+
+    <item index="33" stars="1" rarity="1" subType="1119" icon="92"  range="0" name="改良型艦本式タービン" huiBi="6" ship=""></item>
+    <item index="34" stars="2" rarity="2" subType="1119" icon="92"  range="0" name="強化型艦本式缶" huiBi="10" ship=""></item>
+    <item index="87" stars="3" rarity="4" subType="1119" icon="92"  range="0" name="新型高温高圧缶" huiBi="13" ship="" undevelop="1" event="2014.春.E4.1"></item>
+
+
+
+    <item index="37" stars="1" rarity="1" subType="1220" icon="84"  range="0" name="7.7mm機銃" duiKong="2" huiBi="1" ship=""></item>
+    <item index="38" stars="1" rarity="1" subType="1220" icon="84"  range="0" name="12.7mm単装機銃" duiKong="3" huiBi="1" ship=""></item>
+    <item index="39" stars="2" rarity="1" subType="1220" icon="84"  range="0" name="25mm連装機銃" duiKong="5" huiBi="1" ship=""></item>
+    <item index="40" stars="2" rarity="2" subType="1220" icon="84"  range="0" name="25mm三連装機銃" duiKong="6" huiBi="1" ship=""></item>
+    <item index="92" stars="1" rarity="1" subType="1220" icon="84"  range="0" name="毘式40mm連装機銃" duiKong="6" huiBi="1" ship="" undevelop="1"></item>
+    <item index="51" stars="2" rarity="3" subType="1220" icon="84"  range="0" name="12cm30連装噴進砲" duiKong="8" ship="" undevelop="1"></item>
+    <item index="84" stars="3" rarity="4" subType="1220" icon="84"  range="0" name="2cm 四連装FlaK 38" duiKong="7" mingZhong="1" ship="" undevelop="1"></item>
+    <item index="85" stars="3" rarity="4" subType="1220" icon="84"  range="0" name="3.7cm FlaK M42" huoLi="1" duiKong="8" mingZhong="1" ship="" undevelop="1"></item>
+    <item index="131" stars="3" rarity="4" subType="1220" icon="84"  range="0" name="25mm三連装機銃 集中配備" duiKong="9" huiBi="1" ship="" undevelop="1"></item>
+    <item index="35" stars="2" rarity="1" subType="1221" icon="78"  range="0" name="三式弾" duiKong="5" ship="" quest="2040.1"></item>
+
+
+
+    <item index="44" stars="1" rarity="1" subType="1322" icon="88"  range="0" name="九四式爆雷投射機" duiQian="5" ship=""></item>
+    <item index="45" stars="3" rarity="3" subType="1322" icon="88"  range="0" name="三式爆雷投射機" duiQian="8" ship=""></item>
+
+
+
+    <item index="46" stars="1" rarity="1" subType="1423" icon="90"  range="0" name="九三式水中聴音機" duiQian="6" mingZhong="1" ship=""></item>
+    <item index="47" stars="3" rarity="3" subType="1423" icon="90"  range="0" name="三式水中探信儀" duiQian="10" mingZhong="2" ship=""></item>
+    <item index="149" stars="4" rarity="5" name="四式水中聴音機" undevelop="1" rank="2015.8.1.500"></item>
+    <item index="132" stars="3" rarity="4" subType="1423" icon="90" range="0" name="零式水中聴音機" duiQian="11" mingZhong="1" huiBi="1" suoDi="1" ship="" undevelop="1" rank="2015.2.1.500,2015.6.1.500"></item>
+
+
+
+<item index="42" stars="1" rarity="1" subType="1524" icon="82"  range="0" name="応急修理要員" ship="" remark="一度だけ轟沈を回避（発動すると消滅）" undevelop="1" quest="1010.1,1023.1,1025.1,1030.1,1032.1,1033.1,1091.1,2011.1,2016.1,2019.1,2029.1,4005.1" event="2013.夏.E2.1,2013.秋.E3.1,2013.冬.E2.1,2014.春.E1.1,2014.夏.E2.1,2014.秋.E1.1,2015.冬.E2（乙丙）.1,2015.春.E3（乙丙）.1"></item>
+<item index="43" stars="4" rarity="3" subType="1524" icon="82"  range="0" name="応急修理女神" ship="" remark="一度だけ轟沈を回避し、耐久値と燃料・弾薬が全回復（発動すると消滅）" undevelop="1" event="2013.春.E1.1,2013.夏.E2.1,2013.秋.E3.1,2014.春.E4.1,2014.夏.E4.1,2014.秋.E3.1,2015.春.E5（甲乙丙）.1"></item>
+
+
+
+    <item index="72" stars="2" rarity="3" subType="1625" icon="100" range="0" name="増設バルジ(中型艦)" huiBi="-2" zhuangJia="7" ship=""></item>
+    <item index="73" stars="2" rarity="2" subType="1626" icon="100" range="0" name="増設バルジ(大型艦)" huiBi="-3" zhuangJia="9" ship=""></item>
+    <item index="136" stars="3" rarity="4" name="プリエーゼ式水中防御隔壁" undevelop="1" event="2015.春.E3（甲乙丙）.1"></item>
+
+
+
+    <item index="74" stars="1" rarity="1" subType="1727" icon="102" range="0" name="探照灯" suoDi="2" ship="" undevelop="1"></item>
+    <item index="140" stars="3" rarity="3" name="96式150cm探照灯" undevelop="1"></item>
+    <item index="101" stars="1" rarity="2" subType="1730" icon="102" range="0" name="照明弾" ship="" undevelop="1"></item>
+    <item index="75" stars="1" rarity="1" subType="1728" icon="104" range="0" name="ドラム缶(輸送用)" ship="" quest="6011.3,6012.1"></item>
+    <item index="86" stars="3" rarity="3" subType="1729" icon="106" range="0" name="艦艇修理施設" ship="" undevelop="1" event="2014.春.E4.1"></item>
+    <item index="108" stars="3" rarity="3" subType="1731" icon="106" range="3" name="熟練艦載機整備員" huoLi="10" duiKong="1" suoDi="1" mingZhong="1" ship="" undevelop="1" quest="2028.1" event="2014.夏.E3.1"></item>
+    <item index="107" stars="5" rarity="3" subType="1732" icon="106" range="0" name="艦隊司令部施設" duiKong="1" suoDi="1" mingZhong="1" huiBi="1" ship="" undevelop="1"></item>
+    <item index="120" stars="1" rarity="2" subType="1733" icon="102" range="0" name="91式高射装置" duiKong="2" huiBi="1" ship="" undevelop="1" event="2014.秋.E1.1,2014.秋.E2.1,2015.春.E2（甲）.1" quest="4016.1"></item>
+    <item index="121" stars="2" rarity="3" subType="1733" icon="102" range="0" name="94式高射装置" duiKong="3" huiBi="1" ship="" undevelop="1"></item>
+    <item index="126" stars="4" rarity="5" subType="1734" icon="102" range="0" name="WG42(Wurfgerät 42)" huoLi="1" ship="" undevelop="1" event="2015.冬.E3（甲乙）.1,2015.春.E2（甲）.1"></item>
+    <item index="129" stars="3" rarity="4" subType="1735" icon="102" range="0" name="熟練見張員" duiKong="1" mingZhong="2" huiBi="3" suoDi="2" ship="" undevelop="1" rank="2015.1.1.100" quest="2407.1"></item>
+    <item index="145" stars="1" rarity="2" name="戦闘糧食" undevelop="1" quest="31001.1,31002.1,31004.2,31009.1"></item>
+    <item index="150" stars="2" rarity="2" name="秋刀魚の缶詰" undevelop="1"></item>
+    <item index="146" stars="2" rarity="2" name="洋上補給" undevelop="1" quest="31011.1"></item>
+
+
+
+
+
+
+
+
+
+
+    <item index="501" stars="0" rarity="0" subType="101"  icon="0"  range="1" name="5inch単装砲" huoLi="1" ship=""></item>
+    <item index="502" stars="0" rarity="0" subType="101"  icon="0"  range="1" name="5inch連装砲" huoLi="2" ship=""></item>
+    <item index="503" stars="0" rarity="2" subType="101"  icon="0"  range="1" name="3inch単装高角砲" huoLi="1" duiKong="1" ship=""></item>
+    <item index="550" stars="0" rarity="3" subType="101"  icon="0"  range="2" name="5inch連装両用莢砲" huoLi="2" duiKong="9" mingZhong="3" ship=""></item>
+
+    <item index="504" stars="0" rarity="0" subType="102"  icon="0"  range="2" name="5inch単装高射砲" huoLi="2" duiKong="2" ship=""></item>
+    <item index="505" stars="0" rarity="0" subType="102"  icon="0"  range="2" name="8inch三連装砲" huoLi="8" duiKong="2" ship=""></item>
+    <item index="506" stars="0" rarity="0" subType="102"  icon="0"  range="2" name="6inch連装速射砲" huoLi="3" duiKong="3" ship=""></item>
+
+    <item index="507" stars="0" rarity="0" subType="103"  icon="0"  range="3" name="14inch連装砲" huoLi="10" duiKong="4" ship=""></item>
+    <item index="508" stars="0" rarity="1" subType="103"  icon="0"  range="3" name="16inch連装砲" huoLi="15" duiKong="4" leiMing="16" ship=""></item>
+    <item index="509" stars="0" rarity="2" subType="103"  icon="0"  range="3" name="16inch三連装砲" huoLi="20" duiKong="5" leiMing="10" ship=""></item>
+    <item index="551" stars="0" rarity="4" subType="103"  icon="0"  range="3" name="20inch連装砲" huoLi="27" duiKong="4" mingZhong="3" ship=""></item>
+    <item index="552" stars="0" rarity="2" subType="103"  icon="0"  range="3" name="15inch要塞砲" huoLi="13" zhuangJia="3" mingZhong="4" ship=""></item>
+
+
+    <item index="536" stars="0" rarity="1" subType="104"  icon="0"  range="0" name="劣化徹甲弾" huoLi="15" mingZhong="5" leiMing="8" ship=""></item>
+
+
+
+    <item index="510" stars="0" rarity="0" subType="205"  icon="0"  range="1" name="5inch単装高射砲" huoLi="1" duiKong="2" leiMing="10" ship=""></item>
+    <item index="511" stars="0" rarity="0" subType="205"  icon="0"  range="2" name="6inch単装砲" huoLi="1" leiMing="13" ship=""></item>
+    <item index="512" stars="0" rarity="1" subType="205"  icon="0"  range="2" name="12.5inch連装副砲" huoLi="7" duiKong="3" leiMing="3" ship=""></item>
+
+
+
+    <item index="513" stars="0" rarity="0" subType="306"  icon="0"  range="1" name="21inch魚雷前期型" leiZhuang="2" leiMing="8" ship=""></item>
+    <item index="514" stars="0" rarity="0" subType="306"  icon="0"  range="1" name="21inch魚雷後期型" leiZhuang="5" leiMing="6" ship=""></item>
+    <item index="515" stars="0" rarity="1" subType="306"  icon="0"  range="1" name="高速深海魚雷" leiZhuang="10" leiMing="4" ship=""></item>
+
+
+
+    <item index="516" stars="0" rarity="0" subType="509"  icon="0"  range="0" name="深海棲艦攻" leiZhuang="4" duiQian="2" suoDi="5" ship=""></item>
+    <item index="517" stars="0" rarity="1" subType="509"  icon="0"  range="0" name="深海棲艦攻 Mark.II" leiZhuang="6" duiQian="4" leiMing="2" suoDi="5" ship=""></item>
+    <item index="518" stars="0" rarity="2" subType="509"  icon="0"  range="0" name="深海棲艦攻 Mark.III" leiZhuang="11" duiKong="4" duiQian="7" suoDi="5" ship=""></item>
+    <item index="549" stars="0" rarity="3" subType="509"  icon="0"  range="0" name="深海復讐艦攻" leiZhuang="13" duiKong="4" duiQian="5" mingZhong="2" suoDi="5" ship=""></item>
+
+
+
+    <item index="519" stars="0" rarity="0" subType="610"  icon="0"  range="0" name="深海棲艦戦" duiKong="2" ship=""></item>
+    <item index="520" stars="0" rarity="0" subType="610"  icon="0"  range="0" name="深海棲艦戦 Mark.II" duiKong="5" leiMing="24" ship=""></item>
+    <item index="521" stars="0" rarity="1" subType="610"  icon="0"  range="0" name="深海棲艦戦 Mark.III" duiKong="9" ship=""></item>
+    <item index="522" stars="0" rarity="3" subType="610"  icon="0"  range="0" name="飛び魚艦戦" duiKong="13" leiMing="7" ship=""></item>
+    <item index="547" stars="0" rarity="3" subType="610"  icon="0"  range="0" name="深海猫艦戦" duiKong="10" mingZhong="1" ship=""></item>
+
+
+
+    <item index="523" stars="0" rarity="0" subType="711"  icon="0"  range="0" name="深海棲艦爆" baoZhuang="3" duiQian="1" ship=""></item>
+    <item index="524" stars="0" rarity="1" subType="711"  icon="0"  range="0" name="深海棲艦爆 Mark.II" baoZhuang="6" duiQian="2" ship=""></item>
+    <item index="546" stars="0" rarity="3" subType="711"  icon="0"  range="0" name="飛び魚艦爆" baoZhuang="10" duiKong="8" duiQian="7" ship=""></item>
+    <item index="548" stars="0" rarity="3" subType="711"  icon="0"  range="0" name="深海地獄艦爆" baoZhuang="11" duiQian="4" mingZhong="3" suoDi="3" ship=""></item>
+
+
+
+    <item index="525" stars="0" rarity="0" subType="813"  icon="0"  range="0" name="深海棲艦偵察機" baoZhuang="1" duiKong="1" duiQian="1" suoDi="5" ship=""></item>
+    <item index="526" stars="0" rarity="1" subType="813"  icon="0"  range="0" name="飛び魚偵察機" baoZhuang="4" duiKong="2" duiQian="2" suoDi="10" ship=""></item>
+
+
+
+    <item index="527" stars="0" rarity="1" subType="1017"  icon="0"  range="0" name="対空レーダ― Mark.I" duiKong="5" mingZhong="5" suoDi="5" ship=""></item>
+    <item index="528" stars="0" rarity="1" subType="1017"  icon="0"  range="0" name="水上レーダ― Mark.I" mingZhong="10" suoDi="5" ship=""></item>
+    <item index="529" stars="0" rarity="2" subType="1017"  icon="0"  range="0" name="水上レーダ― Mark.II" mingZhong="15" suoDi="10" ship=""></item>
+
+    <item index="530" stars="0" rarity="2" subType="1018"  icon="0"  range="0" name="対空レーダ― Mark.II" duiKong="10" mingZhong="5" leiMing="21" suoDi="10" ship=""></item>
+    <item index="531" stars="0" rarity="3" subType="1018"  icon="0"  range="0" name="深海水上レーダー" duiKong="5" duiQian="5" mingZhong="24" leiMing="13" huiBi="3" suoDi="16" ship=""></item>
+    <item index="532" stars="0" rarity="4" subType="1018"  icon="0"  range="0" name="深海対空レーダー" duiKong="18" duiQian="5" mingZhong="16" leiMing="13" huiBi="2" suoDi="12" ship=""></item>
+
+
+
+    <item index="533" stars="0" rarity="0" subType="1119"  icon="0"  range="0" name="改良型深海タービン" leiMing="17" huiBi="10" ship=""></item>
+    <item index="534" stars="0" rarity="1" subType="1119"  icon="0"  range="0" name="強化型深海缶" leiMing="4" huiBi="15" ship=""></item>
+
+
+
+    <item index="537" stars="0" rarity="0" subType="1220"  icon="0"  range="0" name="12.7mm機銃" duiKong="2" leiMing="5" ship=""></item>
+    <item index="538" stars="0" rarity="0" subType="1220"  icon="0"  range="0" name="20mm機銃" duiKong="4" ship=""></item>
+    <item index="539" stars="0" rarity="1" subType="1220"  icon="0"  range="0" name="40mm二連装機関砲" duiKong="8" leiMing="3" ship=""></item>
+    <item index="540" stars="0" rarity="2" subType="1220"  icon="0"  range="0" name="40mm四連装機関砲" duiKong="12" ship=""></item>
+
+    <item index="535" stars="0" rarity="0" subType="1221"  icon="0"  range="0" name="対空散弾" duiKong="10" leiMing="10" ship=""></item>
+
+
+
+    <item index="541" stars="0" rarity="4" subType="407"  icon="0"  range="0" name="深海烏賊魚雷" leiZhuang="18" mingZhong="5" ship=""></item>
+
+
+
+    <item index="542" stars="0" rarity="2" subType="1322"  icon="0"  range="0" name="深海爆雷投射機" duiQian="7" ship=""></item>
+    <item index="544" stars="0" rarity="3" subType="1322"  icon="0"  range="0" name="深海爆雷投射機 Mk.II" duiQian="13" ship=""></item>
+
+
+
+    <item index="543" stars="0" rarity="2" subType="1423"  icon="0"  range="0" name="深海ソナー" duiQian="9" ship=""></item>
+    <item index="545" stars="0" rarity="3" subType="1423"  icon="0"  range="0" name="深海ソナー Mk.II" duiQian="16" ship=""></item>
+
+
+
+    <item index="553" rarity="4" name="4inch連装両用砲+CIC"></item>
+    <item index="554" rarity="2" name="深海水上攻撃機"></item>
+    <item index="555" rarity="4" name="深海水上攻撃機改"></item>
+    <item index="556" rarity="4" name="深海猫艦戦改"></item>
+    <item index="557" rarity="4" name="深海地獄艦爆改"></item>
+    <item index="558" rarity="4" name="深海復讐艦攻改"></item>
+    <item index="559" rarity="3" name="深海FCS+CIC"></item>
+
+</Equip>
+
+
+

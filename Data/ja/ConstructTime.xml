@@ -1,0 +1,34 @@
+<ConstructTime>
+    <item time="17" ship="まるゆ"></item>
+    <item time="18" ship="睦月型"></item>
+    <item time="20" ship="吹雪型、綾波型、暁型、初春型"></item>
+    <item time="22" ship="白露型、朝潮型、伊8、伊168、伊58"></item>
+    <item time="24" ship="陽炎、不知火、黒潮、雪風、秋雲、Z3、Z1"></item>
+    <item time="30" ship="島風"></item>
+    <item time="60" ship="天龍型、球磨型、川内型、阿賀野型、長良、由良、古鷹型、青葉型"></item>
+    <item time="70" ship="香取"></item>
+    <item time="75" ship="鬼怒、阿武隈"></item>
+    <item time="80" ship="妙高型"></item>
+    <item time="82" ship="夕張"></item>
+    <item time="85" ship="高雄型"></item>
+    <item time="90" ship="利根型、最上型"></item>
+    <item time="120" ship="鳳翔"></item>
+    <item time="140" ship="千歳型"></item>
+    <item time="150" ship="あきつ丸"></item>
+    <item time="160" ship="祥鳳型"></item>
+    <item time="170" ship="龍驤"></item>
+    <item time="180" ship="飛鷹型"></item>
+    <item time="200" ship="伊401"></item>
+    <item time="240" ship="金剛型"></item>
+    <item time="250" ship="蒼龍、飛龍"></item>
+    <item time="260" ship="扶桑型、加賀"></item>
+    <item time="270" ship="伊勢型、赤城"></item>
+    <item time="300" ship="長門型、Bismarck"></item>
+    <item time="360" ship="翔鶴型"></item>
+    <item time="400" ship="大鳳"></item>
+    <item time="480" ship="大和、武蔵"></item>
+
+    <!--
+    <item time="" ship=""></item>
+     -->
+</ConstructTime>

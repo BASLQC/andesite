@@ -1,0 +1,255 @@
+<Quest>
+    <item index="1001" type="1" period="1" title="はじめての「編成」！" content="配置2艘以上舰船" awardRanLiao="20" awardDanYao="20" awardGang="" awardLv="" awardOther="驱逐舰白雪" unlockIndex=""></item>
+    <item index="1002" type="1" period="1" title="「駆逐隊」を編成せよ！" content="配置4艘以上驱逐舰" awardRanLiao="30" awardDanYao="30" awardGang="30" awardLv="" awardOther="高速建造材x1" unlockIndex=""></item>
+    <item index="1003" type="1" period="1" title="「水雷戦隊」を編成せよ！" content="在以轻巡洋舰为旗舰，再配置数只驱逐舰" awardRanLiao="40" awardDanYao="40" awardGang="" awardLv="40" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="1004" type="1" period="1" title="6隻編成の艦隊を編成せよ！" content="配置6艘舰船" awardRanLiao="50" awardDanYao="" awardGang="50" awardLv="" awardOther="第二舰队开放" unlockIndex="1003"></item>
+    <item index="1005" type="1" period="1" title="軽巡2隻を擁する隊を編成せよ！" content="配置2艘轻巡洋舰" awardRanLiao="60" awardDanYao="60" awardGang="" awardLv="" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="1006" type="1" period="1" title="第2艦隊を編成せよ！" content="在第二舰队配置旗舰" awardRanLiao="50" awardDanYao="50" awardGang="100" awardLv="" awardOther="高速建造材x1" unlockIndex=""></item>
+    <item index="1007" type="1" period="1" title="「重巡戦隊」を編成せよ！" content="配置2艘重巡洋舰" awardRanLiao="" awardDanYao="70" awardGang="" awardLv="30" awardOther="高速修復材x1" unlockIndex="1005"></item>
+    <item index="1008" type="1" period="1" title="「天龍」型軽巡姉妹の全2艦を編成せよ！" content="将「天龍」「龍田」配置在同一舰队里" awardRanLiao="100" awardDanYao="100" awardGang="100" awardLv="50" awardOther="高速建造材x2" unlockIndex="1005"></item>
+    <item index="1009" type="1" period="1" title="「水上機母艦」を配備せよ！" content="在配置1艘水上机母舰" awardRanLiao="" awardDanYao="" awardGang="" awardLv="200" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="1010" type="1" period="1" title="「第六駆逐隊」を編成せよ！" content="将「暁」「響」「雷」「電」配置在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="" awardLv="" awardOther="応急修理要員x1" unlockIndex="1009"></item>
+    <item index="1011" type="1" period="1" title="第2艦隊で空母機動部隊を編成せよ！" content="在第二舰队中配置轻母/空母/装母1只、驱逐舰3只" awardRanLiao="100" awardDanYao="" awardGang="" awardLv="100" awardOther="高速建造材x2" unlockIndex="2003"></item>
+    <item index="1012" type="1" period="1" title="空母機動部隊を編成せよ！" content="旗舰配置轻母/空母/装母1只、驱逐舰3只" awardRanLiao="50" awardDanYao="" awardGang="" awardLv="100" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="1013" type="1" period="1" title="戦艦と重巡による主力艦隊を編成せよ！" content="在配置战舰1只、重巡2只以上" awardRanLiao="" awardDanYao="150" awardGang="" awardLv="" awardOther="高速建造材x2" unlockIndex="1012"></item>
+    <item index="1014" type="1" period="1" title="「川内」型軽巡姉妹の全3艦を編成せよ！" content="将「川内」「神通」「那珂」配置在同一舰队中" awardRanLiao="100" awardDanYao="" awardGang="100" awardLv="" awardOther="第三舰队开放" unlockIndex="1007"></item>
+    <item index="1015" type="1" period="1" title="「妙高」型重巡姉妹の全4隻を編成せよ！" content="将「妙高」「那智」「足柄」「羽黒」配置在同一舰队中" awardRanLiao="150" awardDanYao="100" awardGang="150" awardLv="100" awardOther="高速修復材x1、開発資材x1" unlockIndex="1014"></item>
+    <item index="1016" type="1" period="1" title="「金剛」型による高速戦艦部隊を編成せよ！" content="将「金剛」「比叡」「榛名」「霧島」配置在同一舰队中" awardRanLiao="" awardDanYao="" awardGang="" awardLv="" awardOther="第四舰队开放" unlockIndex="1015"></item>
+    <item index="1017" type="1" period="1" title="「扶桑」型戦艦姉妹の全2隻を編成せよ！" content="将「扶桑」「山城」配置在同一舰队中" awardRanLiao="200" awardDanYao="200" awardGang="200" awardLv="200" awardOther="高速修復材x2、開発資材x1" unlockIndex="1008"></item>
+    <item index="1018" type="1" period="1" title="「伊勢」型戦艦姉妹の全2隻を編成せよ！" content="将「伊勢」「日向」配置在同一舰队中" awardRanLiao="300" awardDanYao="200" awardGang="300" awardLv="200" awardOther="高速修復材x2、開発資材x2" unlockIndex="1017"></item>
+    <item index="1019" type="1" period="1" title="南雲機動部隊を編成せよ！" content="将「赤城」「加賀」「飛龍」「蒼龍」配置在同一舰队中（不能配置其他船）" awardRanLiao="500" awardDanYao="500" awardGang="500" awardLv="500" awardOther="高速建造材x2、開発資材x4" unlockIndex="1013"></item>
+    <item index="1020" type="1" period="1" title="「三川艦隊」を編成せよ！" content="将「鳥海」「青葉」「加古」「古鷹」「天龍」外加1艘高速船，配置在同一舰队中" awardRanLiao="400" awardDanYao="" awardGang="200" awardLv="" awardOther="高速修復材x3" unlockIndex="1013"></item>
+    <item index="1021" type="1" period="1" title="「第四戦隊」を編成せよ！" content="将「愛宕」「高雄」「鳥海」「摩耶」配置在同一舰队中" awardRanLiao="300" awardDanYao="150" awardGang="" awardLv="" awardOther="高速修復材x2、開発資材x1" unlockIndex="1020"></item>
+    <item index="1022" type="1" period="1" title="「西村艦隊」を編成せよ！" content="将「扶桑」「山城」「最上」「時雨」配置在同一舰队中" awardRanLiao="200" awardDanYao="200" awardGang="200" awardLv="" awardOther="給糧艦「間宮」x1" unlockIndex="1021"></item>
+    <item index="1023" type="1" period="1" title="「第五航空戦隊」を編成せよ！" content="将「翔鶴」「瑞鶴」外加2艘驱逐舰，配置在同一舰队中" awardRanLiao="300" awardDanYao="" awardGang="" awardLv="300" awardOther="応急修理要員x1" unlockIndex="1022"></item>
+    <item index="1024" type="1" period="1" title="新「三川艦隊」を編成せよ！" content="将「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」配置在同一舰队中" awardRanLiao="300" awardDanYao="" awardGang="300" awardLv="" awardOther="給糧艦「間宮」x1" unlockIndex="1021"></item>
+    <item index="1025" type="1" period="1" title="潜水艦隊を編成せよ！" content="配置2艘以上潜水舰" awardRanLiao="150" awardDanYao="150" awardGang="" awardLv="" awardOther="応急修理要員x1" unlockIndex="1021"></item>
+    <item index="1026" type="1" period="1" title="航空水上打撃艦隊を編成せよ！" content="配置2艘航空战舰、2艘航空巡洋舰" awardRanLiao="" awardDanYao="" awardGang="200" awardLv="200" awardOther="高速修復材x2" unlockIndex="1022"></item>
+    <item index="1027" type="1" period="1" title="中規模潜水艦隊を編成せよ！" content="配置3艘以上潜水舰" awardRanLiao="150" awardDanYao="150" awardGang="" awardLv="" awardOther="給糧艦「間宮」x1" unlockIndex="1021"></item>
+    <item index="1028" type="1" period="1" title="「第六戦隊」を編成せよ！" content="将「古鷹」「加古」「青葉」「衣笠」配置在同一舰队中" awardRanLiao="250" awardDanYao="300" awardGang="" awardLv="" awardOther="給糧艦「間宮」x1" unlockIndex="1010"></item>
+    <item index="1029" type="1" period="1" title="「第五艦隊」を編成せよ！" content="将「那智」「足柄」「多摩」「木曾」配置在同一舰队中" awardRanLiao="200" awardDanYao="" awardGang="300" awardLv="" awardOther="高速修復材x3" unlockIndex="1021"></item>
+    <item index="1030" type="1" period="1" title="「第一水雷戦隊」を編成せよ！" content="将「阿武隈」「曙」「潮」「霞(かすみ)」「不知火」配置在同一舰队中" awardRanLiao="200" awardDanYao="300" awardGang="" awardLv="" awardOther="応急修理要員x1" unlockIndex="1029"></item>
+    <item index="1031" type="1" period="1" title="「第八駆逐隊」を編成せよ！" content="将「朝潮」「満潮」「大潮」「荒潮」配置在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="" awardLv="" awardOther="開発資材x3" unlockIndex="1025"></item>
+    <item index="1032" type="1" period="1" title="「第十八駆逐隊」を編成せよ！" content="将「霞」「霰」「陽炎」「不知火」配置在同一舰队中" awardRanLiao="180" awardDanYao="180" awardGang="" awardLv="" awardOther="開発資材x1、応急修理要員x1" unlockIndex="2020"></item>
+    <item index="1033" type="1" period="1" title="「第三十駆逐隊(第一次)」を編成せよ！" content="将「睦月」「如月」「弥生」「望月」配置在同一舰队中" awardRanLiao="200" awardDanYao="200" awardGang="" awardLv="" awardOther="高速修復材x2、応急修理要員x1" unlockIndex="1031"></item>
+    <item index="1034" type="1" period="1" title="「第三十駆逐隊(第二次)」を編成せよ！" content="将「睦月」「卯月」「弥生」「望月」配置在同一舰队中" awardRanLiao="220" awardDanYao="220" awardGang="" awardLv="" awardOther="開発資材x3" unlockIndex="1033"></item>
+    <item index="1035" type="1" period="1" title="「第五戦隊」を編成せよ！" content="将「妙高」「那智」「羽黒」配置在同一舰队中" awardRanLiao="" awardDanYao="" awardGang="300" awardLv="" awardOther="開発資材x5" unlockIndex="2024"></item>
+    <item index="1036" type="1" period="1" title="新編「第二航空戦隊」を編成せよ！" content="以「飛龍改二」为旗舰，再配置「蒼龍」、2只驱逐舰" awardRanLiao="" awardDanYao="" awardGang="" awardLv="400" awardOther="高速修復材x2、開発資材x2" unlockIndex="1028"></item>
+    <item index="1037" type="1" period="1" title="潜水艦隊「第六艦隊」を編成せよ！" content="以潜水母舰为旗舰，再配置4只以上潜水舰" awardRanLiao="250" awardDanYao="250" awardGang="" awardLv="" awardOther="開発資材x3" unlockIndex="1027"></item>
+    <item index="1038" type="1" period="1" title="新型電探を配備せよ！" content="将「妙高改二」配置为第一舰队的旗舰" awardRanLiao="300" awardDanYao="" awardGang="" awardLv="300" awardOther="22号対水上電探改四×1" unlockIndex="1035"></item>
+    <item index="1039" type="1" period="1" title="再編成「第二航空戦隊」を強化せよ！" content="以「蒼龍改二」为旗舰，再配置「飛龍改二」、2只驱逐舰" awardRanLiao="" awardDanYao="" awardGang="" awardLv="450" awardOther="高速建造材x2、開発資材x2" unlockIndex="2025"></item>
+    <item index="1040" type="1" period="1" title="精鋭「第三戦隊」全艦集結せよ！" content="将「金剛改二」「比叡改二」「榛名改二」「霧島改二」配置在同一舰队中" awardRanLiao="" awardDanYao="100" awardGang="" awardLv="" awardOther="試製35.6cm三連装砲×1" unlockIndex="2091"></item>
+    <item index="1041" type="1" period="1" title="「新型正規空母」を配備せよ！" content="将「雲龍」配置为第一舰队的旗舰" awardRanLiao="100" awardDanYao="100" awardGang="100" awardLv="300" awardOther="開発資材x2" unlockIndex="1023"></item>
+    <item index="1042" type="1" period="1" title="主力戦艦部隊「第二戦隊」を編成せよ！" content="将「長門」「陸奥」「扶桑」「山城」配置在第二舰队中" awardRanLiao="" awardDanYao="250" awardGang="250" awardLv="" awardOther="高速修復材x2" unlockIndex="1032"></item>
+    <item index="1043" type="1" period="1" title="戦艦を主力とした水上打撃部隊を編成せよ！" content="将大和型・長門型・伊勢型・扶桑型中的三艘以及一艘轻巡配置在同一舰队中" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="" awardOther="開発資材x3" unlockIndex="2031"></item>
+    <item index="1044" type="1" period="1" title="「西村艦隊」を再編成せよ！" content="将「扶桑」「山城」「最上」「時雨」「満潮」配置在同一舰队中" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="" awardOther="開発資材x2、改修資材x3" unlockIndex="1035,2014"></item>
+    <item index="1045" type="1" period="1" title="改修工廠を準備せよ！" content="将「明石」配置为第一舰队的旗舰" awardRanLiao="100" awardDanYao="" awardGang="100" awardLv="" awardOther="改修資材x5、改修工廠開放" unlockIndex="1009"></item>
+    <item index="1046" type="1" period="1" title="軽快な「水上反撃部隊」を編成せよ！" content="以「霞」为旗舰，配置「足柄」、1只轻巡、4只驱逐舰" awardRanLiao="250" awardDanYao="250" awardGang="" awardLv="50" awardOther="高速修復材x2、開発資材x2" unlockIndex="1023,2014"></item>
+    <item index="1047" type="1" period="1" title="「第十一駆逐隊」を編成せよ！" content="将「吹雪」「白雪」「初雪」「叢雲」配置在同一舰队中" awardRanLiao="110" awardDanYao="110" awardGang="110" awardLv="" awardOther="開発資材×3" unlockIndex="1032"></item>
+    <item index="1048" type="1" period="1" title="「第二一駆逐隊」を編成せよ！" content="将「初春」「子日」「若葉」「初霜」配置在同一舰队中" awardRanLiao="210" awardDanYao="210" awardGang="" awardLv="" awardOther="高速修復材x3" unlockIndex="2035"></item>
+    <item index="1049" type="1" period="1" title="「第二二駆逐隊」を編成せよ！" content="将「皐月」「文月」「長月」和另一只任意驱逐舰配置在同一舰队中" awardRanLiao="220" awardDanYao="220" awardGang="" awardLv="" awardOther="改修資材x2、高速修復材x2" unlockIndex="2038"></item>
+    <item index="1050" type="1" period="1" title="「三川艦隊」を新編、突入準備せよ！" content="以「鳥海改二」为旗舰，再配置「古鷹」「加古」「青葉」「衣笠」「夕張」「天龍」的其中五艘在同一舰队中" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="" awardOther="高速修復材x2" unlockIndex="1034,2016"></item>
+    <item index="1051" type="1" period="1" title="「第十八戦隊」を新編成せよ！" content="将「天龍」「龍田」以及其他任意四艘船配置在同一舰队中" awardRanLiao="180" awardDanYao="180" awardGang="" awardLv="180" awardOther="開発資材x2" unlockIndex="2042"></item>
+    <item index="1052" type="1" period="1" title="海上突入部隊を編成せよ！" content="将「比叡」「霧島」「長良」「暁」「雷」「電」配置在同一舰队中" awardRanLiao="" awardDanYao="300" awardGang="" awardLv="" awardOther="開発資材x2、高速修復材x2" unlockIndex="2016"></item>
+    <item index="1053" type="1" period="1" title="新編「第六駆逐隊」を編成せよ！" content="以「暁改二」为旗舰，再配置「響」「雷」「電」在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="" awardLv="" awardOther="探照灯" unlockIndex="2014"></item>
+    <item index="1054" type="1" period="1" title="「第一水雷戦隊」北方突入準備！" content="以「阿武隈」为旗舰，再配置「響」「初霜」「若葉」「五月雨」「島風」在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="" awardLv="" awardOther="高速修復材×2、家具箱（中）×1" unlockIndex="2021"></item>
+    <item index="1055" type="1" period="1" title="「第一水雷戦隊」北方再突入準備！" content="以「阿武隈改二」为旗舰，再配置「響」「夕雲」「長波」「秋雲」「島風」在同一舰队中" awardRanLiao="200" awardDanYao="200" awardGang="" awardLv="" awardOther="高速修復材×3、家具箱（大）×1" unlockIndex="3007"></item>
+    <item index="1056" type="1" period="1" title="「第五航空戦隊」を再編成せよ！" content="将「翔鶴」「瑞鶴」「朧」「秋雲」配置在同一舰队中" awardRanLiao="300" awardDanYao="" awardGang="" awardLv="300" awardOther="開発資材×3" unlockIndex="2306"></item>
+    <item index="1057" type="1" period="1" title="新編「第二一戦隊」出撃準備！" content="将「那智改二」「足柄改二」「多摩」「木曾」配置在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="150" awardLv="" awardOther="開発資材x2、改修資材x2" unlockIndex="1050,2034"></item>
+    <item index="1058" type="1" period="1" title="「第十六戦隊(第一次)」を編成せよ！" content="以「足柄」为旗舰，再配置「球磨」「長良」配置在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="150" awardLv="" awardOther="開発資材x2、高速修復材x2" unlockIndex="2102"></item>
+    <item index="1090" type="1" period="1" title="式の準備！(その参)" content="配置一艘90～99级的船作为旗舰" awardRanLiao="88" awardDanYao="88" awardGang="88" awardLv="88" awardOther="家具箱(大)×1" unlockIndex="3090"></item>
+    <item index="1091" type="1" period="1" title="新たなる旅立ち！" content="配置一艘100级以上的船作为旗舰，五艘任意舰船作为僚舰" awardRanLiao="200" awardDanYao="200" awardGang="200" awardLv="200" awardOther="応急修理要員×1" unlockIndex="2090"></item>
+
+
+
+    <item index="2001" type="2" period="1" title="はじめての「出撃」！" content="出击战斗1次" awardRanLiao="20" awardDanYao="20" awardGang="" awardLv="" awardOther="高速修復材x1" unlockIndex=""></item>
+    <item index="2002" type="2" period="1" title="鎮守府正面海域を護れ！" content="击破1-1图BOSS" awardRanLiao="30" awardDanYao="30" awardGang="30" awardLv="" awardOther="高速修復材x1" unlockIndex=""></item>
+    <item index="2003" type="2" period="1" title="第2艦隊、出撃せよ！" content="使用第二舰队出击1次" awardRanLiao="" awardDanYao="" awardGang="200" awardLv="200" awardOther="開発資材x1" unlockIndex="1006"></item>
+    <item index="2004" type="2" period="1" title="南西諸島沖に出撃せよ！" content="1-2图出击1次" awardRanLiao="40" awardDanYao="40" awardGang="" awardLv="" awardOther="高速修復材x1" unlockIndex=""></item>
+    <item index="2005" type="2" period="1" title="接近する「敵前衛艦隊」を迎撃せよ！" content="击破1-2图BOSS" awardRanLiao="50" awardDanYao="" awardGang="50" awardLv="" awardOther="開発資材x1、駆逐艦深雪" unlockIndex=""></item>
+    <item index="2006" type="2" period="1" title="「水雷戦隊」で出撃せよ！" content="使用1只轻巡3只驱逐的阵容出击1次" awardRanLiao="60" awardDanYao="60" awardGang="" awardLv="60" awardOther="軽巡洋艦龍田" unlockIndex="2005"></item>
+    <item index="2007" type="2" period="1" title="「重巡洋艦」を出撃させよ！" content="使用1艘以上的重巡出击1次" awardRanLiao="70" awardDanYao="" awardGang="70" awardLv="" awardOther="開発資材x1" unlockIndex="2006"></item>
+    <item index="2008" type="2" period="1" title="「戦艦」を出撃させよ！" content="使用1艘以上的战舰出击1次" awardRanLiao="" awardDanYao="150" awardGang="150" awardLv="" awardOther="開発資材x1" unlockIndex="2007"></item>
+    <item index="2009" type="2" period="1" title="「空母機動部隊」出撃せよ！" content="旗舰使用轻母或者正航，僚舰使用驱逐、轻巡、水母组成6船队伍出击1次" awardRanLiao="200" awardDanYao="" awardGang="" awardLv="300" awardOther="高速修復材x1、開発資材x1" unlockIndex="2008"></item>
+    <item index="2010" type="2" period="1" title="敵空母を撃沈せよ！" content="使用包含1艘空母或轻空母的阵容，击沉敌方空母或轻空母1艘" awardRanLiao="" awardDanYao="" awardGang="" awardLv="100" awardOther="正規空母赤城" unlockIndex="1011"></item>
+    <item index="2011" type="2" period="1" title="「三川艦隊」出撃せよ！" content="使用「古鷹」「加古」「青葉」「鳥海」「天龍」以及任一高速舰出击一次" awardRanLiao="" awardDanYao="200" awardGang="" awardLv="" awardOther="応急修理要員x1" unlockIndex="1020"></item>
+    <item index="2012" type="2" period="1" title="「第六駆逐隊」出撃せよ！" content="使用「暁」「響」「雷」「電」出击一次" awardRanLiao="200" awardDanYao="" awardGang="" awardLv="" awardOther="高速修復材x1" unlockIndex="1010,2203"></item>
+    <item index="2013" type="2" period="1" title="「第四戦隊」出撃せよ！" content="使用「愛宕」「高雄」「鳥海」「摩耶」（可另加上任意2艘船）击破2-2图BOSS" awardRanLiao="150" awardDanYao="100" awardGang="150" awardLv="100" awardOther="高速修復材x2" unlockIndex="1021"></item>
+    <item index="2014" type="2" period="1" title="「西村艦隊」出撃せよ！" content="使用「扶桑」「山城」「最上」「時雨」（可另加上任意2艘船）击破2-3图BOSS" awardRanLiao="400" awardDanYao="" awardGang="400" awardLv="" awardOther="高速修復材x2、家具箱(小)x1" unlockIndex="1022"></item>
+    <item index="2015" type="2" period="1" title="「第五航空戦隊」出撃せよ！" content="使用「翔鶴」「瑞鶴」（可另加上任意4艘船）击破3-1图BOSS" awardRanLiao="200" awardDanYao="200" awardGang="" awardLv="700" awardOther="高速修復材x2、家具箱(中)x1" unlockIndex="1023"></item>
+    <item index="2016" type="2" period="1" title="新「三川艦隊」出撃せよ！" content="使用「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」击破2-3图BOSS" awardRanLiao="100" awardDanYao="150" awardGang="100" awardLv="150" awardOther="応急修理要員x1" unlockIndex="1024"></item>
+    <item index="2017" type="2" period="1" title="「潜水艦隊」出撃せよ！" content="使用2艘潜水舰（可另加上任意4艘船）击破2-3图BOSS" awardRanLiao="150" awardDanYao="" awardGang="300" awardLv="" awardOther="特注家具職人×1" unlockIndex="1025"></item>
+    <item index="2018" type="2" period="1" title="「航空水上打撃艦隊」出撃せよ！" content="使用2艘航空战舰、2艘航空巡洋舰（可另加上任意2艘船）击破4-2图BOSS" awardRanLiao="" awardDanYao="150" awardGang="" awardLv="300" awardOther="給糧艦「間宮」×1" unlockIndex="1026"></item>
+    <item index="2019" type="2" period="1" title="「第六戦隊」出撃せよ！" content="使用「古鷹」「加古」「青葉」「衣笠」（可另加上任意2艘船）击破2-3图BOSS并获取S胜" awardRanLiao="" awardDanYao="150" awardGang="" awardLv="300" awardOther="家具箱(中)x1、応急修理要員x1" unlockIndex="1028"></item>
+    <item index="2020" type="2" period="1" title="「第八駆逐隊」出撃せよ！" content="使用「朝潮」「満潮」「大潮」「荒潮」（可另加上任意2艘船）击破2-3图BOSS" awardRanLiao="" awardDanYao="100" awardGang="400" awardLv="" awardOther="開発資材x1、家具箱(中)" unlockIndex="1031"></item>
+    <item index="2021" type="2" period="1" title="「第十八駆逐隊」出撃せよ！" content="使用「霰」「霞」「陽炎」「不知火」（可另加上任意2艘船）击破3-1图BOSS" awardRanLiao="" awardDanYao="100" awardGang="" awardLv="400" awardOther="開発資材x2、家具箱(大)x1" unlockIndex="1032"></item>
+    <item index="2022" type="2" period="1" title="「第三十駆逐隊(第一次)」出撃せよ！" content="使用「睦月」「如月」「弥生」「望月」（可另加上任意2艘船）击破3-2图BOSS并获取C败以上" awardRanLiao="100" awardDanYao="100" awardGang="100" awardLv="500" awardOther="給糧艦「間宮」×1" unlockIndex="1033"></item>
+    <item index="2023" type="2" period="1" title="「航空戦艦」抜錨せよ！" content="使用2艘航空战舰（可另加上任意4艘船）击破4-4图BOSS并获得B胜以上" awardRanLiao="" awardDanYao="300" awardGang="300" awardLv="900" awardOther="高速修復材x3、家具箱(大)x1" unlockIndex="4010"></item>
+    <item index="2024" type="2" period="1" title="「第三十駆逐隊」対潜哨戒！" content="使用「睦月」「卯月」「弥生」「望月」击破1-5图BOSS并获取C败以上" awardRanLiao="330" awardDanYao="330" awardGang="330" awardLv="" awardOther="特注家具職人x1" unlockIndex="1034"></item>
+    <item index="2025" type="2" period="1" title="新編「第二航空戦隊」出撃せよ！" content="使用「飛龍改二」为旗舰、「蒼龍」及2艘驱逐舰为僚舰（可另加上任意2艘船）击破5-2图BOSS并获得S胜" awardRanLiao="" awardDanYao="500" awardGang="" awardLv="500" awardOther="給糧艦「間宮」×1" unlockIndex="1036"></item>
+    <item index="2026" type="2" period="1" title="精鋭「第二航空戦隊」抜錨せよ！" content="使用「蒼龍改二」为旗舰、「飛龍改二」及2艘驱逐舰为僚舰（可另加上任意2艘船）击破4-3图BOSS并获得S胜" awardRanLiao="500" awardDanYao="" awardGang="500" awardLv="" awardOther="特注家具職人×1" unlockIndex="1039"></item>
+    <item index="2027" type="2" period="1" title="戦艦「榛名」出撃せよ！" content="使用「榛名改二」以及其他任意5艘船，击破5-1图BOSS并获得S胜" awardRanLiao="100" awardDanYao="" awardGang="" awardLv="" awardOther="試製35.6cm三連装砲" unlockIndex="2024"></item>
+    <item index="2028" type="2" period="1" title="「第六〇一航空隊」出撃せよ！" content="使用「雲龍改」以及其他任意5艘船，击破5-2图BOSS并获得S胜" awardRanLiao="" awardDanYao="300" awardGang="" awardLv="300" awardOther="家具箱(大)x1、熟練艦載機整備員" unlockIndex="1041"></item>
+    <item index="2029" type="2" period="1" title="「軽空母」戦隊、出撃せよ！" content="使用轻母1~2只、轻巡1只、驱逐3~4只，击破2-1图BOSS并获得S胜" awardRanLiao="" awardDanYao="300" awardGang="" awardLv="300" awardOther="高速修復材x3、応急修理要員x1" unlockIndex="1005"></item>
+    <item index="2030" type="2" period="1" title="「水雷戦隊」バシー島沖緊急展開" content="使用轻巡为旗舰、轻巡最多2只其余配置驱逐舰，击破2-2图BOSS并获得S胜" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="" awardOther="家具箱(大)x1、特注家具職人x1" unlockIndex="2006"></item>
+    <item index="2031" type="2" period="1" title="「第二戦隊」抜錨！" content="使用長門型、扶桑型共4只（可另加上任意2艘船），击破4-2图BOSS两次并获得S胜" awardRanLiao="" awardDanYao="400" awardGang="" awardLv="" awardOther="一式徹甲弾" unlockIndex="1042"></item>
+    <item index="2032" type="2" period="1" title="「戦艦部隊」北方海域に突入せよ！" content="使用2只战舰（航战不可）、1只轻母（可另加上任意非战舰空母系的3艘船），击破3-5图BOSS并获得S胜" awardRanLiao="" awardDanYao="500" awardGang="" awardLv="250" awardOther="開発資材x2、一式徹甲弾" unlockIndex="2304"></item>
+    <item index="2033" type="2" period="1" title="「西村艦隊」南方海域へ進出せよ！" content="使用「扶桑」「山城」「最上」「時雨」「満潮」（可另加上任意1艘船），击破5-1图BOSS并获得S胜" awardRanLiao="" awardDanYao="" awardGang="500" awardLv="300" awardOther="改修資材x5、勲章x1" unlockIndex="1044"></item>
+    <item index="2034" type="2" period="1" title="「第六戦隊」南西海域へ出撃せよ！" content="使用「古鷹」「加古」「青葉」「衣笠」（可另加上任意2艘船），击破2-5图BOSS并获得S胜" awardRanLiao="" awardDanYao="400" awardGang="" awardLv="400" awardOther="家具箱(大)x1、特注家具職人" unlockIndex="2019"></item>
+    <item index="2035" type="2" period="1" title="「第十一駆逐隊」出撃せよ！" content="使用「吹雪」「白雪」「初雪」「叢雲」（可另加上任意2艘船），击破2-3图BOSS并获得B胜以上" awardRanLiao="" awardDanYao="300" awardGang="300" awardLv="" awardOther="給糧艦「間宮」×1" unlockIndex="1047"></item>
+    <item index="2036" type="2" period="1" title="「第十一駆逐隊」対潜哨戒！" content="使用「吹雪」「白雪」「初雪」「叢雲」，击破1-5图BOSS并获得C败以上" awardRanLiao="400" awardDanYao="" awardGang="" awardLv="200" awardOther="開発資材×2、ソナー三式水中探信儀" unlockIndex="1047"></item>
+    <item index="2037" type="2" period="1" title="「第二一駆逐隊」出撃せよ！" content="使用「初春」「子日」「若葉」「初霜」（可另加上任意2艘船），击破3-1图BOSS并获得S胜" awardRanLiao="300" awardDanYao="300" awardGang="300" awardLv="" awardOther="プレゼント箱×1" unlockIndex="1048"></item>
+    <item index="2038" type="2" period="1" title="「那智戦隊」抜錨せよ！" content="使用「那智」为旗舰、「初霜」「霞」「潮」「曙」为僚舰（可另加上任意1艘船），击破2-2图BOSS并获得S胜" awardRanLiao="600" awardDanYao="300" awardGang="" awardLv="" awardOther="改修資材x2、家具箱(大)x1" unlockIndex="2037,2301"></item>
+    <item index="2039" type="2" period="1" title="「第二二駆逐隊」出撃せよ！" content="使用「皐月」「文月」「長月」和一艘驱逐舰（可另加上任意2艘船），击破1-4图BOSS并获得S胜" awardRanLiao="" awardDanYao="" awardGang="" awardLv="400" awardOther="給糧艦「伊良湖」x1、家具箱(中)x1" unlockIndex="1049"></item>
+    <item index="2040" type="2" period="1" title="「改装防空重巡」出撃せよ！" content="使用「摩耶改」或者「摩耶改二」和一艘轻巡、两艘驱逐（可另加上任意2艘船），击破2-3图BOSS并获得S胜" awardRanLiao="300" awardDanYao="" awardGang="300" awardLv="" awardOther="25mm三連装機銃、三式弾" unlockIndex="4015"></item>
+    <item index="2041" type="2" period="1" title="新編「三川艦隊」ソロモン方面へ！" content="以「鳥海改二」为旗舰，再配置「古鷹」「加古」「青葉」「衣笠」「夕張」「天龍」的其中五艘，击破5-1图BOSS并获得S胜" awardRanLiao="480" awardDanYao="480" awardGang="" awardLv="" awardOther="開発資材x3、改修資材x3" unlockIndex="3005"></item>
+    <item index="2042" type="2" period="1" title="「第六駆逐隊」対潜哨戒なのです！" content="使用「暁」「響」「雷」「電」，击破1-5图BOSS并获得C败以上" awardRanLiao="200" awardDanYao="200" awardGang="200" awardLv="" awardOther="開発資材x3、九三式水中聴音機" unlockIndex="1010"></item>
+    <item index="2043" type="2" period="1" title="抜錨！「第十八戦隊」" content="使用「天龍」「龍田」以及另外任意四艘船，击破2-3图BOSS并获得S胜以上" awardRanLiao="350" awardDanYao="" awardGang="" awardLv="250" awardOther="高速修復材x3、特注家具職人x1" unlockIndex="1051"></item>
+    <item index="2044" type="2" period="1" title="海上突入部隊、進発せよ！" content="使用「比叡」「霧島」「長良」「暁」「雷」「電」，击破5-1图BOSS并获得S胜以上" awardRanLiao="500" awardDanYao="" awardGang="500" awardLv="" awardOther="開発資材x5、改修資材x2" unlockIndex="1052,2209"></item>
+    <item index="2045" type="2" period="1" title="「第六駆逐隊」対潜哨戒を徹底なのです！" content="使用「暁」「響」「雷」「電」，击破1-5图BOSS并获得A胜以上" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="" awardOther="改修資材x2、九三式水中聴音機" unlockIndex="1053"></item>
+    <item index="2046" type="2" period="1" title="「第一水雷戦隊」ケ号作戦、突入せよ！" content="以「阿武隈」为旗舰，再配置「響」「初霜」「若葉」「五月雨」「島風」，击破3-2图BOSS并获得S胜" awardRanLiao="" awardDanYao="300" awardGang="" awardLv="400" awardOther="高速修復材x3、特注家具職人x1" unlockIndex="1054"></item>
+    <item index="2047" type="2" period="1" title="「第一水雷戦隊」北方ケ号作戦、再突入！" content="以「阿武隈改二」为旗舰，再配置「響」「夕雲」「長波」「秋雲」「島風」，击破3-2图BOSS并获得S胜" awardRanLiao="" awardDanYao="400" awardGang="" awardLv="500" awardOther="開発資材x4、改修資材x4" unlockIndex="1055"></item>
+    <item index="2048" type="2" period="1" title="鎮守府正面の対潜哨戒を強化せよ！" content="击破1-5图BOSS四次并获得A胜以上" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="0" awardOther="特注家具職人x1" unlockIndex="2101"></item>
+    <item index="2049" type="2" period="1" title="「空母機動部隊」北方海域に進出せよ！" content="以正规航母为旗舰，击破3-5图BOSS并获得S胜" awardRanLiao="500" awardDanYao="" awardGang="500" awardLv="" awardOther="改修資材x3、戦闘糧食x2" unlockIndex="2032,2108"></item>
+    <item index="2050" type="2" period="1" title="「第五航空戦隊」珊瑚諸島沖に出撃せよ！" content="使用「翔鶴」「瑞鶴」「朧」「秋雲」以及其他任意两艘舰船，击破5-2图BOSS并获得S胜" awardRanLiao="" awardDanYao="500" awardGang="" awardLv="" awardOther="高速修復材x3、給糧艦「伊良湖」x1" unlockIndex="1056"></item>
+    <item index="2051" type="2" period="1" title="新編「第二一戦隊」北方へ出撃せよ！" content="使用「那智改二」「足柄改二」「多摩」「木曾」以及其他任意两艘舰船，击破3-1图BOSS并获得S胜" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="" awardOther="戦闘糧食×1、プレゼント箱×1" unlockIndex="1057"></item>
+    <item index="2052" type="2" period="1" title="「第十六戦隊(第一次)」出撃せよ！" content="以「足柄」为旗舰，并配置「球磨」「長良」以及其他任意三艘舰船，击破2-2图BOSS并获得S胜" awardRanLiao="200" awardDanYao="" awardGang="200" awardLv="" awardOther="家具箱（中）×1、プレゼント箱×1" unlockIndex="1058"></item>
+    <item index="2090" type="2" period="1" title="式の準備！(最終)" content="配置一艘90～99级的船作为旗舰，击破2-3图BOSS并获取S胜" awardRanLiao="" awardDanYao="" awardGang="" awardLv="" awardOther="書類一式&amp;指輪×1" unlockIndex="1090"></item>
+    <item index="2091" type="2" period="1" title="二人でする初めての任務！" content="配置一艘100级以上的船作为旗舰，五艘任意舰船作为僚舰，击破4-3图BOSS并获取S胜" awardRanLiao="300" awardDanYao="300" awardGang="300" awardLv="300" awardOther="シークレット家具(煎餅布団)" unlockIndex="1091"></item>
+
+
+
+    <item index="2101" type="2" period="2" title="敵艦隊を撃破せよ！" content="出击并胜利1次" awardRanLiao="50" awardDanYao="50" awardGang="" awardLv="" awardOther="開発資材x1" unlockIndex="2004"></item>
+    <item index="2102" type="2" period="2" title="敵艦隊主力を撃滅せよ！" content="出击并胜利1次" awardRanLiao="50" awardDanYao="50" awardGang="50" awardLv="50" awardOther="高速修復材x1、開発資材x1" unlockIndex="2101"></item>
+    <item index="2103" type="2" period="2" title="敵艦隊を10回邀撃せよ！" content="出击并胜利10次" awardRanLiao="150" awardDanYao="150" awardGang="200" awardLv="100" awardOther="開発資材x1" unlockIndex="2102"></item>
+    <item index="2104" type="2" period="2" title="敵空母を3隻撃沈せよ！" content="击沉3艘航母" awardRanLiao="150" awardDanYao="150" awardGang="150" awardLv="300" awardOther="高速修復材x2" unlockIndex="2101"></item>
+    <item index="2105" type="2" period="2" title="敵補給艦を3隻撃沈せよ！" content="击沉3艘补给舰" awardRanLiao="100" awardDanYao="50" awardGang="200" awardLv="50" awardOther="高速修復材x1、開発資材x1" unlockIndex="2102"></item>
+    <item index="2106" type="2" period="2" title="敵輸送船団を叩け！" content="击沉5艘补给舰" awardRanLiao="" awardDanYao="200" awardGang="" awardLv="" awardOther="開発資材x2" unlockIndex="2101"></item>
+    <item index="2107" type="2" period="2" title="南西諸島海域の制海権を握れ！" content="击破2图BOSS（2-1～2-5）5次" awardRanLiao="300" awardDanYao="" awardGang="" awardLv="200" awardOther="高速建造材x1、高速修復材x1" unlockIndex="2105"></item>
+    <item index="2108" type="2" period="2" title="敵潜水艦を制圧せよ！" content="击沉6艘潜水舰" awardRanLiao="300" awardDanYao="30" awardGang="300" awardLv="30" awardOther="高速修復材x1" unlockIndex="2107"></item>
+
+
+
+    <item index="2201" type="2" period="3" title="あ号作戦" content="累计出击36次、到达BOSS点24次、击破BOSS 12次、S胜利6次" awardRanLiao="300" awardDanYao="300" awardGang="300" awardLv="100" awardOther="高速建造材x2、開発資材x2" unlockIndex="2102"></item>
+    <item index="2202" type="2" period="3" title="い号作戦" content="击沉20艘航母" awardRanLiao="" awardDanYao="500" awardGang="" awardLv="500" awardOther="開発資材x2" unlockIndex="2105"></item>
+    <item index="2203" type="2" period="3" title="海上通商破壊作戦" content="击沉20艘补给船" awardRanLiao="500" awardDanYao="" awardGang="400" awardLv="" awardOther="開発資材x3" unlockIndex="2102"></item>
+    <item index="2204" type="2" period="3" title="ろ号作戦" content="击沉50艘补给船" awardRanLiao="400" awardDanYao="" awardGang="800" awardLv="" awardOther="高速修復材x3" unlockIndex="2201"></item>
+    <item index="2205" type="2" period="3" title="海上護衛戦" content="击沉15艘潜水舰" awardRanLiao="600" awardDanYao="" awardGang="" awardLv="" awardOther="高速修復材x2、改修資材x1" unlockIndex="2202"></item>
+    <item index="2206" type="2" period="3" title="敵東方艦隊を撃滅せよ！" content="击破4图BOSS（4-1～4-5）12次" awardRanLiao="400" awardDanYao="" awardGang="" awardLv="700" awardOther="開発資材x2" unlockIndex="2205"></item>
+    <item index="2207" type="2" period="3" title="敵北方艦隊主力を撃滅せよ！" content="击破3图BOSS（3-3～3-5）5次" awardRanLiao="300" awardDanYao="300" awardGang="400" awardLv="300" awardOther="開発資材x3、改修資材x3" unlockIndex="2205"></item>
+    <item index="2208" type="2" period="3" title="敵東方中枢艦隊を撃破せよ！" content="击破4-4图BOSS一次" awardRanLiao="500" awardDanYao="" awardGang="500" awardLv="" awardOther="高速修復材x1、開発資材x1" unlockIndex="2206"></item>
+    <item index="2209" type="2" period="3" title="南方海域珊瑚諸島沖の制空権を握れ！" content="击破5-2图BOSS两次并获取S胜" awardRanLiao="" awardDanYao="300" awardGang="" awardLv="800" awardOther="開発資材x2、改修資材x2" unlockIndex="2208"></item>
+    <item index="2210" type="2" period="3" title="海上輸送路の安全確保に努めよ！" content="击破1-5图BOSS三次并获得A胜以上" awardRanLiao="100" awardDanYao="" awardGang="" awardLv="" awardOther="改修資材x3" unlockIndex="1045,2204"></item>
+
+
+
+    <item index="2301" type="2" period="4" title="「第五戦隊」出撃せよ！" content="使用「妙高」「那智」「羽黒」（可另加上任意3艘船）击破2-5图BOSS并获取S胜" awardRanLiao="" awardDanYao="550" awardGang="550" awardLv="" awardOther="開発資材x5、家具箱(大)x1" unlockIndex="1035"></item>
+    <item index="2302" type="2" period="4" title="「潜水艦隊」出撃せよ！" content="击破6-1图BOSS三次并获得S胜" awardRanLiao="" awardDanYao="600" awardGang="" awardLv="" awardOther="家具箱(大)x1、給糧艦「伊良湖」×1" unlockIndex="2030"></item>
+    <item index="2303" type="2" period="4" title="「水雷戦隊」南西へ！" content="使用轻巡1~3只（轻巡为旗舰）、驱逐3~5只，击破1-4图BOSS并获得S胜" awardRanLiao="500" awardDanYao="" awardGang="" awardLv="300" awardOther="改修資材x3、給糧艦「伊良湖」x1" unlockIndex="2204"></item>
+    <item index="2304" type="2" period="4" title="「水上打撃部隊」南方へ！" content="使用低速战舰3只（航战亦可）、轻巡1只（可另加上任意2艘船），击破5-1图BOSS并获得S胜" awardRanLiao="350" awardDanYao="400" awardGang="350" awardLv="" awardOther="高速修復材x3、改修資材x4" unlockIndex="1043"></item>
+    <item index="2305" type="2" period="4" title="海上護衛強化月間" content="击破1-5图BOSS十次并获得A胜以上" awardRanLiao="800" awardDanYao="" awardGang="" awardLv="" awardOther="開発資材x5、改修資材x3" unlockIndex="2301,2021"></item>
+    <item index="2306" type="2" period="4" title="「空母機動部隊」西へ！" content="使用空母系2只、驱逐2只（可另加上任意2艘船），击破4-2图BOSS并获得S胜" awardRanLiao="" awardDanYao="" awardGang="600" awardLv="800" awardOther="改修資材x2、家具箱(大)x2" unlockIndex="2204,2020"></item>
+    <item index="2307" type="2" period="4" title="「水上反撃部隊」突入せよ！" content="使用驱逐作为旗舰，重巡1只、轻巡1只、驱逐4只，击破2-5图BOSS并获得S胜" awardRanLiao="" awardDanYao="600" awardGang="" awardLv="200" awardOther="開発資材x4、改修資材x2" unlockIndex="1046,2306"></item>
+
+
+
+    <item index="2406" type="2" period="1" title="桃の節句：「菱餅」を集めよう！" content="收集3个「菱餅」" awardDanYao="330" awardGang="330" awardOther="家具箱(大)x1、特注家具職人x1" unlockIndex="2006"></item>
+    <item index="2407" type="2" period="1" title="桃の節句：「菱餅」を沢山集めるのです！" content="收集10个「菱餅」" awardDanYao="880" awardGang="880" awardOther="給糧艦「間宮」x1、水上艦要員熟練見張員" unlockIndex="2406"></item>
+    <item index="2413" type="2" period="1" title="秋刀魚漁：「秋刀魚」を収穫しよう！" content="收集3条「秋刀魚」" awardRanLiao="300" awardOther="九三式水中聴音機x1、特注家具職人x1" unlockIndex=""></item>
+    <item index="2414" type="2" period="1" title="秋刀魚漁：「秋刀魚」をもっと収穫しなきゃ！" content="收集10条「秋刀魚」" awardRanLiao="550" awardOther="三式水中探信儀x1、給糧艦「伊良湖」x3" unlockIndex="2413"></item>
+    <item index="2415" type="2" period="1" title="秋刀魚漁：もっと頑張ってもいいのよ！" content="收集30条「秋刀魚」" awardRanLiao="800" awardDanYao="300" awardGang="300" awardLv="300" awardOther="" unlockIndex="2414"></item>
+
+
+
+    <item index="3001" type="3" period="1" title="はじめての「演習」！" content="演习1次" awardRanLiao="10" awardDanYao="10" awardGang="" awardLv="" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="3002" type="3" period="2" title="「演習」で練度向上！" content="演习3次" awardRanLiao="50" awardDanYao="" awardGang="50" awardLv="" awardOther="高速建造材x1" unlockIndex=""></item>
+    <item index="3003" type="3" period="2" title="「演習」で他提督を圧倒せよ！" content="演习并胜利5次" awardRanLiao="" awardDanYao="50" awardGang="" awardLv="50" awardOther="開発資材x1" unlockIndex="3002"></item>
+    <item index="3004" type="3" period="3" title="大規模演習" content="演习并胜利20次" awardRanLiao="200" awardDanYao="200" awardGang="200" awardLv="200" awardOther="開発資材x2、改修資材x1" unlockIndex="3002"></item>
+    <item index="3005" type="3" period="1" title="艦隊の練度向上に努めよ！" content="演习并胜利3次" awardRanLiao="" awardDanYao="" awardGang="300" awardLv="300" awardOther="高速修復材x2" unlockIndex="1050"></item>
+    <item index="3006" type="3" period="1" title="演習を強化、艦隊の練度向上に努めよ！" content="演习并胜利4次" awardRanLiao="" awardDanYao="300" awardGang="" awardLv="" awardOther="高速修復材x2、改修資材x1" unlockIndex="4017"></item>
+    <item index="3007" type="3" period="1" title="北方再突入に備え、練度向上に努めよ！" content="演习并胜利4次" awardRanLiao="300" awardDanYao="" awardGang="" awardLv="" awardOther="高速修復材x2、改修資材x1" unlockIndex="2046"></item>
+    <item index="3008" type="3" period="4" title="精鋭艦隊演習" content="当日演习并胜利7次" awardRanLiao="" awardDanYao="400" awardGang="" awardLv="200" awardOther="高速修復材x2、戦闘糧食x1" unlockIndex="2101"></item>
+    <item index="3090" type="3" period="1" title="式の準備！(その弐)" content="演习并胜利2次" awardRanLiao="" awardDanYao="" awardGang="88" awardLv="88" awardOther="開発資材×1" unlockIndex="6090"></item>
+
+
+
+    <item index="4001" type="4" period="1" title="はじめての「遠征」！" content="远征1次" awardRanLiao="30" awardDanYao="30" awardGang="30" awardLv="30" awardOther="家具箱(小)x1" unlockIndex="1005"></item>
+    <item index="4002" type="4" period="2" title="「遠征」を3回成功させよう！" content="远征并成功3次" awardRanLiao="100" awardDanYao="100" awardGang="100" awardLv="100" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="4003" type="4" period="2" title="「遠征」を10回成功させよう！" content="远征并成功10次" awardRanLiao="150" awardDanYao="300" awardGang="300" awardLv="150" awardOther="家具箱(小)x1、家具箱(中)x1　" unlockIndex="4002"></item>
+    <item index="4004" type="4" period="3" title="大規模遠征作戦、発令！" content="远征并成功30次" awardRanLiao="300" awardDanYao="500" awardGang="500" awardLv="300" awardOther="開発資材x3、家具箱(大)x1" unlockIndex=""></item>
+    <item index="4005" type="4" period="1" title="第一次潜水艦派遣作戦" content="远征30「潜水艦派遣作戦」成功1次" awardRanLiao="" awardDanYao="" awardGang="10" awardLv="10" awardOther="応急修理要員x1" unlockIndex="1027"></item>
+    <item index="4006" type="4" period="1" title="第二次潜水艦派遣作戦" content="远征30「潜水艦派遣作戦」成功1次" awardRanLiao="" awardDanYao="" awardGang="10" awardLv="10" awardOther="艦上爆撃機Ju87C改" unlockIndex="4005"></item>
+    <item index="4007" type="4" period="1" title="潜水艦派遣作戦による技術入手の継続！" content="远征30「潜水艦派遣作戦」成功2次" awardRanLiao="" awardDanYao="" awardGang="" awardLv="800" awardOther="艦上爆撃機Ju87C改、特注家具職人x1" unlockIndex="4006"></item>
+    <item index="4008" type="4" period="1" title="潜水艦派遣による海外艦との接触作戦" content="远征31「海外艦との接触」成功1次" awardRanLiao="" awardDanYao="100" awardGang="" awardLv="" awardOther="駆逐艦Z1" unlockIndex="4007"></item>
+    <item index="4009" type="4" period="3" title="南方への輸送作戦を成功させよ！" content="远征37「東京急行」或38「東京急行(弐)」成功1次" awardRanLiao="150" awardDanYao="" awardGang="" awardLv="" awardOther="家具箱(小)x1" unlockIndex="1030"></item>
+    <item index="4010" type="4" period="1" title="航空火力艦の運用を強化せよ！" content="远征23「航空戦艦運用演習」成功1次" awardRanLiao="" awardDanYao="" awardGang="" awardLv="100" awardOther="水上爆撃機瑞雲(六三四空)" unlockIndex="2020"></item>
+    <item index="4011" type="4" period="3" title="南方への鼠輸送を継続実施せよ!" content="远征37「東京急行」或38「東京急行(弐)」成功6次" awardRanLiao="400" awardDanYao="" awardGang="" awardLv="400" awardOther="開発資材x2、改修資材x1" unlockIndex="4009"></item>
+    <item index="4012" type="4" period="1" title="(続)航空火力艦の運用を強化せよ！" content="远征23「航空戦艦運用演習」成功3次" awardRanLiao="" awardDanYao="" awardGang="" awardLv="200" awardOther="水上爆撃機瑞雲(六三四空)" unlockIndex="4010"></item>
+    <item index="4013" type="4" period="1" title="遠洋潜水艦作戦を実施せよ！" content="远征39「遠洋潜水艦作戦」成功1次" awardRanLiao="" awardDanYao="200" awardGang="" awardLv="" awardOther="潜水艦魚雷潜水艦53cm艦首魚雷(8門)" unlockIndex="1037"></item>
+    <item index="4014" type="4" period="1" title="遠洋潜水艦作戦の成果を拡大せよ！" content="远征39「遠洋潜水艦作戦」成功2次" awardRanLiao="" awardDanYao="400" awardGang="" awardLv="" awardOther="潜水艦魚雷潜水艦53cm艦首魚雷(8門)" unlockIndex="4013"></item>
+    <item index="4015" type="4" period="1" title="防空射撃演習を実施せよ！" content="远征6「防空射撃演習」成功3次" awardRanLiao="" awardDanYao="200" awardGang="" awardLv="200" awardOther="25mm三連装機銃、開発資材x2" unlockIndex="2007"></item>
+    <item index="4016" type="4" period="1" title="「囮機動部隊支援作戦を実施せよ！」" content="远征15「囮機動部隊支援作戦」成功1次" awardRanLiao="400" awardDanYao="" awardGang="" awardLv="400" awardOther="91式高射装置、開発資材x2" unlockIndex="2040"></item>
+    <item index="4017" type="4" period="1" title="観艦式予行を実施せよ！" content="远征7「観艦式予行」成功2次" awardRanLiao="150" awardDanYao="" awardGang="" awardLv="150" awardOther="開発資材x3" unlockIndex="1035"></item>
+    <item index="4018" type="4" period="1" title="観艦式を敢行せよ！" content="远征8「観艦式」成功1次" awardRanLiao="300" awardDanYao="300" awardGang="300" awardLv="" awardOther="改修資材x1、司令部要員x1" unlockIndex="3006"></item>
+    <item index="4019" type="4" period="1" title="機動部隊の運用を強化せよ！" content="远征26「敵母港空襲作戦」和远征35「MO作戦」各成功1次" awardRanLiao="200" awardDanYao="200" awardGang="400" awardLv="" awardOther="改修資材x2、家具箱(大)x1" unlockIndex="2050,4009"></item>
+
+
+
+    <item index="5001" type="5" period="1" title="はじめての「補給」！" content="补给1次" awardRanLiao="20" awardDanYao="20" awardGang="" awardLv="" awardOther="高速修復材x1" unlockIndex="2002"></item>
+    <item index="5002" type="5" period="1" title="はじめての「入渠」！" content="入渠1次" awardRanLiao="" awardDanYao="" awardGang="30" awardLv="" awardOther="開発資材x1" unlockIndex="2002"></item>
+    <item index="5003" type="5" period="2" title="艦隊大整備！" content="入渠5次" awardRanLiao="30" awardDanYao="30" awardGang="30" awardLv="30" awardOther="高速修復材x2" unlockIndex=""></item>
+    <item index="5004" type="5" period="2" title="艦隊酒保祭り！" content="补给15次" awardRanLiao="50" awardDanYao="50" awardGang="50" awardLv="50" awardOther="開発資材x1、高速建造材x1" unlockIndex="5003"></item>
+
+
+
+    <item index="6001" type="6" period="1" title="はじめての「建造」！" content="建造1次" awardRanLiao="50" awardDanYao="50" awardGang="50" awardLv="50" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="6002" type="6" period="1" title="はじめての「開発」！" content="开发1次" awardRanLiao="100" awardDanYao="100" awardGang="100" awardLv="100" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="6003" type="6" period="1" title="はじめての「解体」！" content="解体1次" awardRanLiao="60" awardDanYao="60" awardGang="60" awardLv="60" awardOther="高速建造材x1、開発資材x1" unlockIndex=""></item>
+    <item index="6004" type="6" period="1" title="はじめての「廃棄」！" content="废弃1次" awardRanLiao="80" awardDanYao="80" awardGang="80" awardLv="80" awardOther="高速修復材x1、開発資材x1" unlockIndex=""></item>
+    <item index="6005" type="6" period="2" title="新装備「開発」指令" content="开发1次" awardRanLiao="40" awardDanYao="40" awardGang="40" awardLv="40" awardOther="高速建造材x1、開発資材x1" unlockIndex=""></item>
+    <item index="6006" type="6" period="2" title="新造艦「建造」指令" content="建造1次" awardRanLiao="50" awardDanYao="50" awardGang="50" awardLv="50" awardOther="高速修復材x1、開発資材x1" unlockIndex="6005"></item>
+    <item index="6007" type="6" period="2" title="装備「開発」集中強化！" content="开发3次" awardRanLiao="100" awardDanYao="100" awardGang="100" awardLv="100" awardOther="開発資材x2" unlockIndex="6006"></item>
+    <item index="6008" type="6" period="2" title="艦娘「建造」艦隊強化！" content="建造3次" awardRanLiao="200" awardDanYao="200" awardGang="300" awardLv="100" awardOther="高速建造材x1、開発資材x2" unlockIndex="6007"></item>
+    <item index="6009" type="6" period="2" title="軍縮条約対応！" content="解体2次" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="高速修復材x1" unlockIndex="6008"></item>
+    <item index="6010" type="6" period="1" title="「大型艦建造」の準備！(その弐)" content="废弃4次" awardRanLiao="800" awardDanYao="800" awardGang="" awardLv="" awardOther="「大型艦建造」解放" unlockIndex="7004"></item>
+    <item index="6011" type="6" period="1" title="輸送用ドラム缶の準備" content="废弃3次" awardRanLiao="" awardDanYao="" awardGang="30" awardLv="" awardOther="簡易輸送部材ドラム缶(輸送用)x3" unlockIndex=""></item>
+    <item index="6012" type="6" period="3" title="資源の再利用" content="废弃24次" awardRanLiao="" awardDanYao="" awardGang="100" awardLv="" awardOther="簡易輸送部材ドラム缶(輸送用)x1" unlockIndex="2205"></item>
+    <item index="6013" type="6" period="1" title="機種転換" content="在旗舰为空母并装备着未上锁的「九七式艦攻(友永隊)」的情况下，废弃2只「天山」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="天山一二型(友永隊)" unlockIndex="2025"></item>
+    <item index="6014" type="6" period="1" title="機種転換" content="在旗舰为空母并装备着未上锁的「九九式艦爆(江草隊)」的情况下，废弃2只「彗星」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="彗星(江草隊)" unlockIndex="2025"></item>
+    <item index="6015" type="6" period="1" title="機種転換" content="在旗舰为空母并装备着未上锁的「零戦52型丙(六〇一空)」的情况下，废弃2只「烈風」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="烈風(六〇一空)" unlockIndex="2028"></item>
+    <item index="6016" type="6" period="1" title="「伊良湖」の準備" content="废弃10次" awardRanLiao="100" awardDanYao="" awardGang="" awardLv="" awardOther="給糧艦「伊良湖」x4" unlockIndex="6008"></item>
+    <item index="6017" type="6" period="1" title="はじめての「装備改修」！" content="改修1次" awardRanLiao="" awardDanYao="" awardGang="100" awardLv="" awardOther="改修資材x7" unlockIndex="1045"></item>
+    <item index="6018" type="6" period="2" title="装備の改修強化" content="改修1次" awardRanLiao="" awardDanYao="50" awardGang="" awardLv="" awardOther="改修資材x1" unlockIndex="6008,6017"></item>
+    <item index="6019" type="6" period="1" title="精鋭「九七式艦攻」部隊の編成" content="在旗舰为「翔鶴」或「赤城」的情况下，废弃3只「九七式艦攻」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="九七式艦攻(村田隊)" unlockIndex="2050"></item>
+    <item index="6020" type="6" period="1" title="機種転換" content="在旗舰为「翔鶴」并装备着未上锁的「九七式艦攻(村田隊)」的情况下，废弃2只「天山」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="天山一二型(村田隊)" unlockIndex="2050"></item>
+    <item index="6021" type="6" period="1" title="試作艤装の準備" content="废弃7次" awardRanLiao="" awardDanYao="" awardGang="100" awardLv="" awardOther="試製甲板カタパルト×1" unlockIndex="4019"></item>
+    <item index="6090" type="6" period="1" title="式の準備！(その壱)" content="废弃2次" awardRanLiao="88" awardDanYao="88" awardGang="" awardLv="" awardOther="開発資材×1" unlockIndex="1016"></item>
+
+
+
+    <item index="7001" type="7" period="1" title="はじめての「近代化改修」！" content="近现代改修1次并成功" awardRanLiao="" awardDanYao="" awardGang="50" awardLv="50" awardOther="開発資材x1" unlockIndex=""></item>
+    <item index="7002" type="7" period="2" title="艦の「近代化改修」を実施せよ！" content="近现代改修2次并成功" awardRanLiao="20" awardDanYao="20" awardGang="50" awardLv="" awardOther="高速修復材x1" unlockIndex=""></item>
+    <item index="7003" type="7" period="3" title="「近代化改修」を進め、戦備を整えよ！" content="近现代改修15次并成功" awardRanLiao="200" awardDanYao="200" awardGang="300" awardLv="100" awardOther="高速建造材x1、開発資材x2" unlockIndex="7002"></item>
+    <item index="7004" type="7" period="1" title="「大型艦建造」の準備！(その壱)" content="近现代改修4次并成功" awardRanLiao="" awardDanYao="" awardGang="400" awardLv="400" awardOther="開発資材x1" unlockIndex="1014"></item>
+
+
+
+    <item index="31001" type="2" period="1" title="第二次SN作戦、初動作戦完了！" content="15夏季活动E-2图通关" awardRanLiao="250" awardDanYao="" awardGang="250" awardLv="" awardOther="戦闘糧食x1、プレゼント箱x1" unlockIndex=""></item>
+    <item index="31002" type="6" period="1" title="「工廠」倉庫の整理整頓！" content="废弃装备5次" awardRanLiao="100" awardDanYao="100" awardGang="100" awardLv="100" awardOther="開発資材x2、戦闘糧食x1" unlockIndex="31001"></item>
+    <item index="31003" type="2" period="1" title="主力機動部隊の前路哨戒を実施せよ！" content="击沉6艘潜水舰" awardRanLiao="" awardDanYao="250" awardGang="" awardLv="250" awardOther="15年夏季活 动E-3开放" unlockIndex="31002"></item>
+    <item index="31004" type="1" period="1" title="「赤城」に艦攻「村田隊」を配属せよ！" content="将「赤城」作为联合舰队旗舰，并装备「九七式艦攻(村田隊)」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="戦闘糧食x2、給糧艦「間宮」x1" unlockIndex="31003"></item>
+    <item index="31005" type="2" period="1" title="ソロモン海方面の制空権を奪え！" content="15夏季活动E-4图通关" awardRanLiao="400" awardDanYao="" awardGang="400" awardLv="" awardOther="高速修復材x3、改修資材x3" unlockIndex="31003"></item>
+    <item index="31006" type="1" period="1" title="「翔鶴」に艦攻「村田隊」を配置転換せよ！" content="将「翔鶴」作为联合舰队旗舰，并装备「九七式艦攻(村田隊)」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="高速修復剤×3、改修資材×3" unlockIndex="31005"></item>
+    <item index="31007" type="3" period="1" title="FS作戦に備え、艦隊練度向上に努めよ！" content="演习胜利4次" awardRanLiao="400" awardDanYao="" awardGang="400" awardLv="" awardOther="15年夏季活 动E-5开放" unlockIndex="31005"></item>
+    <item index="31008" type="6" period="1" title="「工廠」”機種転換”" content="将「翔鶴」作为联合舰队旗舰，并装备未上锁的「九七式艦攻(村田隊)」的同时，废弃2只「天山」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="天山一二型(村田隊)" unlockIndex="31006"></item>
+    <item index="31009" type="2" period="1" title="西部方面派遣艦隊、出撃せよ！" content="15夏季活动E-5图通关" awardRanLiao="550" awardDanYao="" awardGang="550" awardLv="" awardOther="戦闘糧食x1、プレゼント箱x1" unlockIndex="31007"></item>
+    <item index="31010" type="2" period="1" title="FS作戦の橋頭堡を築け！" content="击沉10艘空母" awardRanLiao="" awardDanYao="450" awardGang="" awardLv="450" awardOther="15年夏季活 动E-6开放" unlockIndex="31009"></item>
+    <item index="31011" type="1" period="1" title="空母機動部隊「第三艦隊」を編成せよ！" content="将「翔鶴」「瑞鶴」「瑞鳳」同时配置在联合舰队的第一舰队中" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="300" awardOther="改修資材x4、洋上補給x1" unlockIndex="31009"></item>
+
+
+
+
+    <!--
+    <item index="" type="" period="" title="" content="" awardRanLiao="" awardDanYao="" awardGang="" awardLv="" awardOther="" unlockIndex=""></item>
+     -->
+</Quest>

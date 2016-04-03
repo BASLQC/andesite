@@ -1,0 +1,33 @@
+<EquipType>
+    <item index="1"  name="主砲" subType="1,2,3,19" sort="huoLi,duiKong,mingZhong"></item>
+    <item index="2"  name="副砲" subType="4" sort="huoLi,duiKong,mingZhong,huiBi"></item>
+    <item index="3"  name="魚雷" subType="5,32" sort="leiZhuang"></item>
+    <item index="4"  name="艦載艇" subType="22,24" sort=""></item>
+    <item index="5"  name="戦闘機" subType="6" sort="duiKong,mingZhong"></item>
+    <item index="6"  name="爆撃機" subType="7,11" sort="baoZhuang,duiQian"></item>
+    <item index="7"  name="攻撃機" subType="8" sort="leiZhuang,suoDi"></item>
+    <item index="8"  name="偵察機" subType="9,10,41" sort="suoDi,duiQian"></item>
+    <item index="9"  name="哨戒機" subType="25,26" sort=""></item>
+    <item index="10" name="電探" subType="12,13" sort="mingZhong,suoDi"></item>
+    <item index="11" name="機関" subType="17" sort="huiBi"></item>
+    <item index="12" name="対空機銃" subType="21,18" sort="duiKong,mingZhong,huiBi"></item>
+    <item index="13" name="爆雷" subType="15" sort="duiQian"></item>
+    <item index="14" name="ソナー" subType="14,40" sort="duiQian"></item>
+    <item index="15" name="修理要員" subType="23" sort=""></item>
+    <item index="16" name="追加装甲" subType="27,28" sort=""></item>
+    <item index="17" name="探照灯" subType="29,42" sort="suoDi"></item>
+    <item index="18" name="簡易輸送部材" subType="30" sort=""></item>
+    <item index="19" name="艦艇修理施設" subType="31" sort=""></item>
+    <item index="20" name="照明弾" subType="33" sort=""></item>
+    <item index="21" name="司令部施設" subType="34" sort=""></item>
+    <item index="22" name="航空要員" subType="35" sort=""></item>
+    <item index="23" name="高射装置" subType="36" sort="duiKong"></item>
+    <item index="24" name="対地装備" subType="37" sort=""></item>
+    <item index="25" name="水上艦要員" subType="39" sort=""></item>
+    <item index="26" name="戦闘糧食" subType="43" sort=""></item>
+    <item index="27" name="補給物資" subType="44" sort=""></item>
+
+
+
+    <!-- <item index="" name="" subType="" sort=""></item> -->
+</EquipType>

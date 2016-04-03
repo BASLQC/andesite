@@ -1,0 +1,22 @@
+<Rank>
+    <item index="1"  available="1" date="151010" daynight="1" delay="3900" server="横须贺镇守府"></item>
+    <item index="2"  available="1" date="151010" daynight="1" delay="3960" server="呉镇守府"></item>
+    <item index="3"  available="1" date="151010" daynight="1" delay="4020" server="佐世保镇守府"></item>
+    <item index="4"  available="1" date="151010" daynight="1" delay="4080" server="舞鹤镇守府"></item>
+    <item index="5"  available="1" date="150401" daynight="1" delay="4140"  server="大凑警备府"></item>
+    <item index="6"  available="1" date="150401" daynight="1" delay="4200"  server="トラック泊地"></item>
+    <item index="7"  available="1" date="150401" daynight="1" delay="4260"  server="リンガ泊地"></item>
+    <item index="8"  available="1" date="150401" daynight="1" delay="4320"  server="ラバウル基地"></item>
+    <item index="9"  available="1" date="150401" daynight="1" delay="4380"  server="ショートランド泊地"></item>
+    <item index="10" available="1" date="150401" daynight="1" delay="4440"  server="ブイン基地"></item>
+    <item index="11" available="1" date="150401" daynight="1" delay="4500" server="タウイタウイ泊地"></item>
+    <item index="12" available="1" date="150401" daynight="1" delay="4560" server="パラオ泊地"></item>
+    <item index="13" available="1" date="150401" daynight="1" delay="4620" server="ブルネイ泊地"></item>
+    <item index="14" available="1" date="150401" daynight="1" delay="4680" server="单冠湾泊地"></item>
+    <item index="15" available="1" date="150401" daynight="1" delay="4740" server="幌筵泊地"></item>
+    <item index="16" available="1" date="150401" daynight="1" delay="4800" server="宿毛湾泊地"></item>
+    <item index="17" available="1" date="150401" daynight="1" delay="4860" server="鹿屋基地"></item>
+    <item index="18" available="1" date="150401" daynight="1" delay="4920" server="岩川基地"></item>
+    <item index="19" available="1" date="150401" daynight="1" delay="4980" server="佐伯湾泊地"></item>
+    <item index="20" available="1" date="150711" daynight="2" delay="5040" server="柱島泊地"></item>
+</Rank>

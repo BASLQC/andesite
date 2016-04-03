@@ -1,0 +1,51 @@
+<Develop>
+    <item name="舰载机" flagship="空母">
+        <recipe major="1" ranLiao="20" danYao="60" gang="10" lv="100" result="流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)"></recipe>
+        <recipe major="1" ranLiao="20" danYao="60" gang="10" lv="110" result="流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲"></recipe>
+        <recipe major="0" ranLiao="20" danYao="90" gang="60" lv="100" result="流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、三式弾"></recipe>
+        <recipe major="0" ranLiao="50" danYao="60" gang="30" lv="130" result="流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲、二式艦上偵察機"></recipe>
+        <recipe major="1" ranLiao="10" danYao="10" gang="20" lv="20"  result="零式水上観測機"></recipe>
+        <recipe major="1" ranLiao="20" danYao="10" gang="10" lv="20"  result="零式水上観測機"></recipe>
+        <recipe major="0" ranLiao="20" danYao="20" gang="10" lv="90"  result="烈風、紫電改二"></recipe>
+        <recipe major="0" ranLiao="20" danYao="30" gang="10" lv="40"  result="彗星一二型甲、零式艦戦62型(爆戦)"></recipe>
+        <recipe major="0" ranLiao="30" danYao="10" gang="10" lv="130" result="彩雲、二式艦上偵察機"></recipe>
+        <recipe major="0" ranLiao="20" danYao="30" gang="10" lv="90"  result="烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)"></recipe>
+        <recipe major="0" ranLiao="30" danYao="20" gang="10" lv="130" result="烈風、紫電改二、彩雲、二式艦上偵察機"></recipe>
+        <recipe major="0" ranLiao="30" danYao="30" gang="10" lv="130" result="烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲、二式艦上偵察機"></recipe>
+    </item>
+    <item name="機銃・砲・砲弾" flagship="戦艦">
+        <recipe major="1" ranLiao="10"  danYao="251" gang="250" lv="10"  result="46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾"></recipe>
+        <recipe major="1" ranLiao="10"  danYao="300" gang="250" lv="10"  result="46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾"></recipe>
+        <recipe major="0" ranLiao="100" danYao="251" gang="250" lv="30"  result="46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾、強化型艦本式缶、改良型艦本式タービン"></recipe>
+        <recipe major="0" ranLiao="100" danYao="251" gang="250" lv="150" result="46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾、強化型艦本式缶、改良型艦本式タービン、22号対水上電探、33号対水上電探"></recipe>
+        <recipe major="1" ranLiao="10"  danYao="90"  gang="90"  lv="30"  result="15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾"></recipe>
+        <recipe major="0" ranLiao="10"  danYao="30"  gang="90"  lv="10"  result="15.5cm三連装砲(副砲)、九一式徹甲弾"></recipe>
+        <recipe major="0" ranLiao="10"  danYao="20"  gang="50"  lv="10"  result="15.5cm三連装砲(副砲)、15.2cm連装砲"></recipe>
+    </item>
+    <item name="ソナー・爆雷" flagship="駆逐・軽巡・雷巡">
+        <recipe major="1" ranLiao="10" danYao="10" gang="10" lv="20" result="三式水中探信儀、九三式水中聴音機"></recipe>
+        <recipe major="0" ranLiao="10" danYao="10" gang="10" lv="11" result="九三式水中聴音機"></recipe>
+        <recipe major="1" ranLiao="10" danYao="30" gang="10" lv="10" result="三式爆雷投射機、九四式爆雷投射機"></recipe>
+        <recipe major="1" ranLiao="10" danYao="30" gang="10" lv="31" result="三式水中探信儀、九三式水中聴音機、三式爆雷投射機、九四式爆雷投射機"></recipe>
+        <recipe major="0" ranLiao="10" danYao="50" gang="10" lv="51" result="三式水中探信儀、九三式水中聴音機、三式爆雷投射機、九四式爆雷投射機、25mm三連装機銃"></recipe>
+    </item>
+    <item name="電探" flagship="戦艦・潜母・空母">
+        <recipe major="1" ranLiao="10" danYao="11" gang="251" lv="250" result="33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、中型バルジ(秘書：戦艦)"></recipe>
+        <recipe major="0" ranLiao="10" danYao="11" gang="300" lv="250" result="33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、中型バルジ(秘書：戦艦)、大型バルジ(秘書：戦艦)"></recipe>
+        <recipe major="0" ranLiao="20" danYao="20" gang="250" lv="250" result="33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、烈風(秘書：空母)"></recipe>
+    </item>
+    <item name="機関" flagship="戦艦・空母">
+        <recipe major="1" ranLiao="100" danYao="10" gang="200" lv="10" result="強化型艦本式缶、改良型艦本式タービン"></recipe>
+        <recipe major="0" ranLiao="100" danYao="251" gang="250" lv="10" result="強化型艦本式缶、改良型艦本式タービン、46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾"></recipe>
+    </item>
+    <item name="ドラム缶" flagship="軽巡・駆逐">
+        <recipe major="1" ranLiao="10" danYao="10" gang="10" lv="10" result="ドラム缶"></recipe>
+        <recipe major="0" ranLiao="10" danYao="10" gang="30" lv="10" result="ドラム缶、10cm連装高角砲"></recipe>
+    </item>
+
+    <!--
+    <item name="" flagship="">
+        <recipe major="0" ranLiao="" danYao="" gang="" lv="" result=""></recipe>
+    </item>
+     -->
+</Develop>

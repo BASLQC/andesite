@@ -1,0 +1,13 @@
+<QuestType>
+    <item index="1"  name="編成"></item>
+    <item index="2"  name="出擊"></item>
+    <item index="3"  name="演習"></item>
+    <item index="4"  name="遠征"></item>
+    <item index="5"  name="補給/入渠"></item>
+    <item index="6"  name="工廠"></item>
+    <item index="7"  name="改裝"></item>
+
+
+
+    <!-- <item index="" name=""></item> -->
+</QuestType>

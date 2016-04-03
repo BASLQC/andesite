@@ -1,0 +1,10 @@
+<QuestPeriod>
+    <item index="1"  name="一次性任务"></item>
+    <item index="2"  name="日常任务"></item>
+    <item index="3"  name="周常任务"></item>
+    <item index="4"  name="月常任务"></item>
+
+
+
+    <!-- <item index="" name=""></item> -->
+</QuestPeriod>
