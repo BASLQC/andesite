@@ -3,7 +3,7 @@
     <item index="2"  name="副砲" subType="4" sort="huoLi,duiKong,mingZhong,huiBi"></item>
     <item index="3"  name="魚雷" subType="5,32" sort="leiZhuang"></item>
     <item index="4"  name="艦載艇" subType="22,24" sort=""></item>
-    <item index="5"  name="戦闘機" subType="6" sort="duiKong,mingZhong"></item>
+    <item index="5"  name="戦闘機" subType="6,45" sort="duiKong,mingZhong"></item>
     <item index="6"  name="爆撃機" subType="7,11" sort="baoZhuang,duiQian"></item>
     <item index="7"  name="攻撃機" subType="8" sort="leiZhuang,suoDi"></item>
     <item index="8"  name="偵察機" subType="9,10,41" sort="suoDi,duiQian"></item>

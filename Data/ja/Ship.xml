@@ -187,7 +187,7 @@
         <model>綾波型</model>
         <number>8番艦</number>
         <defaultEquip>3,13</defaultEquip>
-        <spgraph>3047,3011</spgraph>
+        <spgraph>3080,3073,3047,3011</spgraph>
     </item>
 
 
@@ -210,7 +210,7 @@
         <model>綾波型</model>
         <number>10番艦</number>
         <defaultEquip>40,39,44</defaultEquip>
-        <spgraph>3045,3010</spgraph>
+        <spgraph>3062,3061,3045,3010</spgraph>
     </item>
 
 
@@ -386,6 +386,7 @@
         <model>扶桑型</model>
         <number>1番艦</number>
         <defaultEquip>105,8,51,80</defaultEquip>
+        <spgraph>3067</spgraph>
     </item>
 
 
@@ -407,6 +408,7 @@
         <model>扶桑型</model>
         <number>1番艦</number>
         <defaultEquip>105,8,74,80</defaultEquip>
+        <spgraph>3063</spgraph>
     </item>
 
 
@@ -422,6 +424,12 @@
         <model>睦月型</model>
         <number>5番艦</number>
         <defaultEquip>2,13</defaultEquip>
+    </item>
+    <item index="418" name="皐月改二" link="http://wikiwiki.jp/kancolle/?%BB%A9%B7%EE%B2%FE%C6%F3" huiBi="96" duiQian="81" suoDi="45">
+        <last_index>256</last_index>
+        <model>睦月型</model>
+        <number>5番艦</number>
+        <defaultEquip>131,125,106</defaultEquip>
     </item>
 
 
@@ -614,6 +622,7 @@
         <model>初春型</model>
         <number>2番艦</number>
         <defaultEquip>3,14</defaultEquip>
+        <spgraph>3072</spgraph>
     </item>
 
 
@@ -688,7 +697,7 @@
         <model>白露型</model>
         <number>2番艦</number>
         <defaultEquip>28,27</defaultEquip>
-        <spgraph>3020,903</spgraph>
+        <spgraph>3086,3020,903</spgraph>
     </item>
 
 
@@ -787,6 +796,18 @@
         <model>朝潮型</model>
         <number>10番艦</number>
         <defaultEquip>3,15</defaultEquip>
+    </item>
+    <item index="464" name="霞改二" link="http://wikiwiki.jp/kancolle/?%B2%E2%B2%FE%C6%F3" huiBi="90" duiQian="68" suoDi="54">
+        <last_index>253</last_index>
+        <model>朝潮型</model>
+        <number>10番艦</number>
+        <defaultEquip></defaultEquip>
+    </item>
+    <item index="470" name="霞改二乙" link="http://wikiwiki.jp/kancolle/?%B2%E2%B2%FE%C6%F3%B2%B5" huiBi="92" duiQian="68" suoDi="55">
+        <last_index>464</last_index>
+        <model>朝潮型</model>
+        <number>10番艦</number>
+        <defaultEquip></defaultEquip>
     </item>
 
 
@@ -1239,7 +1260,7 @@
         <model>龍驤型</model>
         <number>1番艦</number>
         <defaultEquip>60,39,61</defaultEquip>
-        <spgraph>905</spgraph>
+        <spgraph>3087,905</spgraph>
     </item>
 
 
@@ -1507,7 +1528,7 @@
         <model>綾波型</model>
         <number>7番艦</number>
         <defaultEquip>3,13</defaultEquip>
-        <spgraph>3030,3015</spgraph>
+        <spgraph>3056,3030,3015</spgraph>
     </item>
 
 
@@ -1754,11 +1775,23 @@
         <number>2番艦</number>
         <defaultEquip>20,23,16</defaultEquip>
     </item>
-    <item index="112" name="瑞鶴改" link="http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1%B2%FE" huiBi="79" duiQian="0" suoDi="89">
+    <item index="112" name="瑞鶴改" link="http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1%B2%FE" huiBi="79" duiQian="0" suoDi="89" costDesignMap="1" costDeck="1">
         <last_index>111</last_index>
         <model>翔鶴型</model>
         <number>2番艦</number>
         <defaultEquip>21,24,51</defaultEquip>
+    </item>
+    <item index="462" name="瑞鶴改二" link="http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1%B2%FE%C6%F3" huiBi="89" duiQian="0" suoDi="92">
+        <last_index>112</last_index>
+        <model>翔鶴型</model>
+        <number>2番艦</number>
+        <defaultEquip></defaultEquip>
+    </item>
+    <item index="467" name="瑞鶴改二甲" link="http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1%B2%FE%C6%F3%B9%C3" huiBi="85" duiQian="0" suoDi="90">
+        <last_index>462</last_index>
+        <model>翔鶴型</model>
+        <number>2番艦</number>
+        <defaultEquip></defaultEquip>
     </item>
 
 
@@ -1825,6 +1858,7 @@
         <model>祥鳳型</model>
         <number>2番艦</number>
         <defaultEquip>21,24,17</defaultEquip>
+        <spgraph>3068</spgraph>
     </item>
 
 
@@ -1876,6 +1910,7 @@
         <model>青葉型</model>
         <number>2番艦</number>
         <defaultEquip>50,15</defaultEquip>
+        <spgraph>3078</spgraph>
     </item>
 
 
@@ -1996,6 +2031,7 @@
         <model>夕雲型</model>
         <number>1番艦</number>
         <defaultEquip>15,28</defaultEquip>
+        <spgraph>3059</spgraph>
     </item>
 
 
@@ -2011,6 +2047,7 @@
         <model>夕雲型</model>
         <number>2番艦</number>
         <defaultEquip>15,47</defaultEquip>
+        <spgraph>3066</spgraph>
     </item>
 
 
@@ -2131,6 +2168,7 @@
         <model>香取型</model>
         <number>1番艦</number>
         <defaultEquip>119,40,46,44</defaultEquip>
+        <spgraph>3069</spgraph>
     </item>
 
 
@@ -2146,6 +2184,7 @@
         <model>潜特型(伊400型潜水艦)</model>
         <number>2番艦</number>
         <defaultEquip>62</defaultEquip>
+        <spgraph>3065</spgraph>
     </item>
 
 
@@ -2191,6 +2230,7 @@
         <model>睦月型</model>
         <number>3番艦</number>
         <defaultEquip>48,13</defaultEquip>
+        <spgraph>3081</spgraph>
     </item>
 
 
@@ -2206,6 +2246,7 @@
         <model>睦月型</model>
         <number>4番艦</number>
         <defaultEquip>40,39,27</defaultEquip>
+        <spgraph>3082</spgraph>
     </item>
 
 
@@ -2254,6 +2295,7 @@
         <model>陽炎型</model>
         <number>14番艦</number>
         <defaultEquip>44,46</defaultEquip>
+        <spgraph>3052</spgraph>
     </item>
 
 
@@ -2386,7 +2428,7 @@
         <model>工作艦</model>
         <number>1番艦</number>
         <defaultEquip>86,10,39</defaultEquip>
-        <spgraph>3022,910</spgraph>
+        <spgraph>3085,3022,910</spgraph>
     </item>
 
 
@@ -2403,7 +2445,7 @@
         <model>大淀型</model>
         <number>1番艦</number>
         <defaultEquip>65,107,106</defaultEquip>
-        <spgraph>3028,912</spgraph>
+        <spgraph>3084,3051,3057,3028,912</spgraph>
     </item>
 
 
@@ -2425,6 +2467,7 @@
         <model>龍鳳型</model>
         <number>1番艦</number>
         <defaultEquip>21,82,51</defaultEquip>
+        <spgraph>3060</spgraph>
     </item>
 
 
@@ -2455,6 +2498,7 @@
         <model>陽炎型</model>
         <number>7番艦</number>
         <defaultEquip>3,15</defaultEquip>
+        <spgraph>3055</spgraph>
     </item>
 
 
@@ -2500,7 +2544,7 @@
         <model>雲龍型</model>
         <number>2番艦</number>
         <defaultEquip>109,111,112,51</defaultEquip>
-        <spgraph>3024</spgraph>
+        <spgraph>3064,3024</spgraph>
     </item>
 
 
@@ -2516,7 +2560,7 @@
         <model>白露型</model>
         <number>5番艦</number>
         <defaultEquip>63,75</defaultEquip>
-        <spgraph>3038</spgraph>
+        <spgraph>3079,3038</spgraph>
     </item>
 
 
@@ -2547,6 +2591,7 @@
         <model>夕雲型</model>
         <number>19番艦</number>
         <defaultEquip>28,47,27</defaultEquip>
+        <spgraph>3077</spgraph>
     </item>
 
 
@@ -2689,7 +2734,7 @@
         <model>Vittorio Veneto級</model>
         <number>2番艦</number>
         <defaultEquip>137,134,135</defaultEquip>
-        <spgraph>3017,3018</spgraph>
+        <spgraph>3050,3053,3017,3018</spgraph>
     </item>
 
 
@@ -2705,6 +2750,7 @@
         <model>Vittorio Veneto級</model>
         <number>4番艦</number>
         <defaultEquip>137,134,135</defaultEquip>
+        <spgraph>3048</spgraph>
     </item>
 
 
@@ -2720,6 +2766,7 @@
         <model>秋津洲型</model>
         <number>1番艦</number>
         <defaultEquip>138,40</defaultEquip>
+        <spgraph>3070</spgraph>
     </item>
 
 
@@ -2765,7 +2812,7 @@
         <model>白露型</model>
         <number>9番艦</number>
         <defaultEquip>63,28</defaultEquip>
-        <spgraph>3029</spgraph>
+        <spgraph>3054,3029</spgraph>
     </item>
 
 
@@ -2781,6 +2828,7 @@
         <model>Maestrale級</model>
         <number>3番艦</number>
         <defaultEquip>147,147</defaultEquip>
+        <spgraph>3049</spgraph>
     </item>
 
 
@@ -2826,7 +2874,113 @@
         <model>瑞穂型</model>
         <number>1番艦</number>
         <defaultEquip>59,41,39</defaultEquip>
-        <spgraph>3032</spgraph>
+        <spgraph>3074,3075,3076,3071,3032</spgraph>
+    </item>
+
+
+
+    <item index="432" name="Graf Zeppelin" link="http://wikiwiki.jp/kancolle/?Graf%20Zeppelin" moegirl="http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E9%BD%90%E6%9F%8F%E6%9E%97%E4%BC%AF%E7%88%B5" cv="早見沙織" illustrator="島田フミカネ" huiBi="49" duiQian="0" suoDi="69">
+        <last_index>0</last_index>
+        <model>Graf Zeppelin級</model>
+        <number>1番艦</number>
+        <defaultEquip>158,160</defaultEquip>
+    </item>
+    <item index="353" name="Graf Zeppelin改" link="http://wikiwiki.jp/kancolle/?Graf%20Zeppelin%B2%FE" huiBi="69" duiQian="0" suoDi="74">
+        <last_index>432</last_index>
+        <model>Graf Zeppelin級</model>
+        <number>1番艦</number>
+        <defaultEquip>159,64,160</defaultEquip>
+    </item>
+
+
+
+    <item index="465" name="鹿島" link="http://wikiwiki.jp/kancolle/?%BC%AF%C5%E7" moegirl="http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E9%B9%BF%E5%B2%9B" cv="茅野愛衣" illustrator="パセリ" event="2015.秋.E3（甲乙丙）.1" huiBi="51" duiQian="43" suoDi="36">
+        <last_index>0</last_index>
+        <model>香取型</model>
+        <number>2番艦</number>
+        <defaultEquip>119,10,44</defaultEquip>
+    </item>
+    <item index="356" name="鹿島改" link="http://wikiwiki.jp/kancolle/?%BC%AF%C5%E7%B2%FE" huiBi="54" duiQian="69" suoDi="50">
+        <last_index>465</last_index>
+        <model>香取型</model>
+        <number>2番艦</number>
+        <defaultEquip>119,74,47,44</defaultEquip>
+        <spgraph>3083,3058</spgraph>
+    </item>
+
+
+
+    <item index="455" name="萩風" link="http://wikiwiki.jp/kancolle/?%C7%EB%C9%F7" moegirl="http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E8%90%A9%E9%A3%8E" cv="早見沙織" illustrator="コニシ" event="2015.秋.E5（甲乙丙）.1" huiBi="79" duiQian="59" suoDi="19">
+        <last_index>0</last_index>
+        <model>陽炎型</model>
+        <number>17番艦</number>
+        <defaultEquip>2,39</defaultEquip>
+    </item>
+    <item index="355" name="萩風改" link="http://wikiwiki.jp/kancolle/?%C7%EB%C9%F7%B2%FE" huiBi="87" duiQian="68" suoDi="39">
+        <last_index>455</last_index>
+        <model>陽炎型</model>
+        <number>17番艦</number>
+        <defaultEquip>91,15</defaultEquip>
+    </item>
+
+
+
+    <item index="454" name="嵐" link="http://wikiwiki.jp/kancolle/?%CD%F2" moegirl="http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E5%B2%9A" cv="茅野愛衣" illustrator="コニシ" huiBi="79" duiQian="62" suoDi="19">
+        <last_index>0</last_index>
+        <model>陽炎型</model>
+        <number>16番艦</number>
+        <defaultEquip>2,44</defaultEquip>
+    </item>
+    <item index="354" name="嵐改" link="http://wikiwiki.jp/kancolle/?%CD%F2%B2%FE" huiBi="87" duiQian="70" suoDi="39">
+        <last_index>454</last_index>
+        <model>陽炎型</model>
+        <number>16番艦</number>
+        <defaultEquip>91,45</defaultEquip>
+    </item>
+
+
+
+    <item index="448" name="Zara" link="http://wikiwiki.jp/kancolle/?Zara" moegirl="https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E6%89%8E%E6%8B%89" cv="赤﨑千夏" illustrator="じじ" event="2015.冬.E3（甲乙丙）.1" huiBi="59" duiQian="0" suoDi="36">
+        <last_index>0</last_index>
+        <model>Zara級</model>
+        <number>1番艦</number>
+        <defaultEquip>162</defaultEquip>
+    </item>
+    <item index="358" name="Zara改" link="http://wikiwiki.jp/kancolle/?Zara%B2%FE" huiBi="72" duiQian="0" suoDi="46">
+        <last_index>448</last_index>
+        <model>Zara級</model>
+        <number>1番艦</number>
+        <defaultEquip>162,163</defaultEquip>
+    </item>
+
+
+
+    <item index="452" name="沖波" link="http://wikiwiki.jp/kancolle/?%B2%AD%C7%C8" moegirl="https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E5%86%B2%E6%B3%A2" cv="鬼頭明里" illustrator="藤川" huiBi="80" duiQian="53" suoDi="21">
+        <last_index>0</last_index>
+        <model>夕雲型</model>
+        <number>14番艦</number>
+        <defaultEquip>2,39</defaultEquip>
+    </item>
+    <item index="359" name="沖波改" link="http://wikiwiki.jp/kancolle/?%B2%AD%C7%C8%B2%FE" huiBi="90" duiQian="70" suoDi="42">
+        <last_index>452</last_index>
+        <model>夕雲型</model>
+        <number>14番艦</number>
+        <defaultEquip>27,28,40</defaultEquip>
+    </item>
+
+
+
+    <item index="423" name="初月" link="http://wikiwiki.jp/kancolle/?%BD%E9%B7%EE" moegirl="https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E5%88%9D%E6%9C%88" cv="中島愛" illustrator="しずまよしのり" event="2015.冬.E2（甲乙丙）.1" huiBi="85" duiQian="62" suoDi="28">
+        <last_index>0</last_index>
+        <model>秋月型</model>
+        <number>4番艦</number>
+        <defaultEquip>122,15,40</defaultEquip>
+    </item>
+    <item index="357" name="初月改" link="http://wikiwiki.jp/kancolle/?%BD%E9%B7%EE%B2%FE" huiBi="89" duiQian="72" suoDi="49">
+        <last_index>423</last_index>
+        <model>秋月型</model>
+        <number>4番艦</number>
+        <defaultEquip>122,106,40</defaultEquip>
     </item>
 
 
@@ -3517,7 +3671,7 @@
         <last_index>588</last_index>
         <next_index>0</next_index>
         <defaultEquip>504,547,548,549</defaultEquip>
-        <spgraph>2003</spgraph>
+        <spgraph>2004,2003</spgraph>
     </item>
 
 

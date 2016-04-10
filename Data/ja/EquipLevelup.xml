@@ -28,12 +28,29 @@
 
 
 
+    <!-- 25mm単装機銃 -->
+    <!-- TODO -->
+    <item index="49" nextIndex="39" nextInitialLevel="5">
+        <costResource ranLiao="0" danYao="10" gang="10" lv="10"></costResource>
+        <costMaterial fromLevel="0"  toLevel="5"  kaiFa="0" kaiFaEnsure="1" gaiXiu="1" gaiXiuEnsure="1"></costMaterial>
+        <costMaterial fromLevel="6"  toLevel="9"  kaiFa="1" kaiFaEnsure="2" gaiXiu="1" gaiXiuEnsure="1" equipIndex="49" equipCount="1"></costMaterial>
+        <costMaterial fromLevel="10" toLevel="10" kaiFa="2" kaiFaEnsure="3" gaiXiu="1" gaiXiuEnsure="2" equipIndex="49" equipCount="1"></costMaterial>
+        <available day="5" secretary="28"></available>
+        <available day="6" secretary="28"></available>
+        <available day="7" secretary="28"></available>
+    </item>
+
+
+
     <!-- 25mm連装機銃 -->
+    <!-- TODO -->
     <item index="39" nextIndex="40" nextInitialLevel="3">
         <costResource ranLiao="0" danYao="20" gang="10" lv="10"></costResource>
         <costMaterial fromLevel="0"  toLevel="5"  kaiFa="0" kaiFaEnsure="1" gaiXiu="1" gaiXiuEnsure="1"></costMaterial>
         <costMaterial fromLevel="6"  toLevel="9"  kaiFa="1" kaiFaEnsure="2" gaiXiu="1" gaiXiuEnsure="2" equipIndex="39" equipCount="1"></costMaterial>
         <costMaterial fromLevel="10" toLevel="10" kaiFa="2" kaiFaEnsure="3" gaiXiu="1" gaiXiuEnsure="2" equipIndex="39" equipCount="1"></costMaterial>
+        <available day="1" secretary="28"></available>
+        <available day="2" secretary="28,29"></available>
         <available day="6" secretary="141"></available>
         <available day="7" secretary="141"></available>
     </item>
@@ -247,6 +264,34 @@
 
 
 
+    <!-- 試製35.6cm三連装砲 -->
+    <item index="103" isRare="1">
+        <costResource ranLiao="30" danYao="330" gang="390" lv="30"></costResource>
+        <costMaterial fromLevel="0"  toLevel="5"  kaiFa="4" kaiFaEnsure="6"  gaiXiu="3" gaiXiuEnsure="4"  equipIndex="7" equipCount="2"></costMaterial>
+        <costMaterial fromLevel="6"  toLevel="9"  kaiFa="6" kaiFaEnsure="9"  gaiXiu="4" gaiXiuEnsure="7"  equipIndex="7" equipCount="3"></costMaterial>
+        <available day="3" secretary="149,411"></available>
+        <available day="4" secretary="149,151,411,412"></available>
+        <available day="5" secretary="151,411,412"></available>
+        <available day="6" secretary="411,412"></available>
+        <available day="7" secretary="412"></available>
+    </item>
+
+
+
+    <!-- 35.6cm連装砲(ダズル迷彩) -->
+    <item index="104" isRare="1">
+        <costResource ranLiao="30" danYao="250" gang="300" lv="30"></costResource>
+        <costMaterial fromLevel="0"  toLevel="5"  kaiFa="3" kaiFaEnsure="4"  gaiXiu="2" gaiXiuEnsure="3"  equipIndex="7" equipCount="1"></costMaterial>
+        <costMaterial fromLevel="6"  toLevel="9"  kaiFa="4" kaiFaEnsure="5"  gaiXiu="3" gaiXiuEnsure="5"  equipIndex="7" equipCount="2"></costMaterial>
+        <available day="1" secretary="151"></available>
+        <available day="2" secretary="151"></available>
+        <available day="3" secretary="151"></available>
+        <available day="6" secretary="151"></available>
+        <available day="7" secretary="151"></available>
+    </item>
+
+
+
     <!-- 38cm連装砲 -->
     <item index="76" nextIndex="114" nextInitialLevel="3">
         <costResource ranLiao="20" danYao="380" gang="450" lv="20"></costResource>
@@ -316,6 +361,22 @@
         <available day="5" secretary="80"></available>
         <available day="6" secretary="80"></available>
         <available day="7" secretary="81"></available>
+    </item>
+
+
+
+    <!-- 試製41cm三連装砲 -->
+    <item index="105" isRare="1">
+        <costResource ranLiao="40" danYao="440" gang="620" lv="40"></costResource>
+        <costMaterial fromLevel="0"  toLevel="5"  kaiFa="5" kaiFaEnsure="7"  gaiXiu="4" gaiXiuEnsure="6"  equipIndex="8" equipCount="2"></costMaterial>
+        <costMaterial fromLevel="6"  toLevel="9"  kaiFa="8" kaiFaEnsure="10"  gaiXiu="5" gaiXiuEnsure="8"  equipIndex="8" equipCount="3"></costMaterial>
+        <available day="1" secretary="275"></available>
+        <available day="2" secretary="276"></available>
+        <available day="3" secretary="275,276"></available>
+        <available day="4" secretary="275"></available>
+        <available day="5" secretary="276"></available>
+        <available day="6" secretary="276"></available>
+        <available day="7" secretary="275"></available>
     </item>
 
 
@@ -747,6 +808,55 @@
         <available day="5" secretary="87"></available>
         <available day="6" secretary="87"></available>
         <available day="7" secretary="77"></available>
+    </item>
+
+
+
+    <!-- 零式水上偵察機 -->
+    <!-- TODO -->
+    <item index="25" nextIndex="165">
+        <costResource ranLiao="90" danYao="20" gang="0" lv="300"></costResource>
+        <costMaterial fromLevel="0"  toLevel="5"  kaiFa="4" kaiFaEnsure="6" gaiXiu="2" gaiXiuEnsure="3" equipIndex="25" equipCount="1"></costMaterial>
+        <costMaterial fromLevel="6"  toLevel="9"  kaiFa="5" kaiFaEnsure="8" gaiXiu="3" gaiXiuEnsure="5" equipIndex="25" equipCount="2"></costMaterial>
+        <costMaterial fromLevel="10" toLevel="10" kaiFa="9" kaiFaEnsure="15" gaiXiu="5" gaiXiuEnsure="10" equipIndex="20" equipCount="3"></costMaterial>
+        <available day="1" secretary="451"></available>
+        <available day="2" secretary="451"></available>
+        <available day="5" secretary="106,450,451"></available>
+        <available day="6" secretary="106,450,451"></available>
+        <available day="7" secretary="450,451"></available>
+    </item>
+
+
+
+    <!-- 零式水上観測機 -->
+    <item index="59" isRare="1">
+        <costResource ranLiao="90" danYao="40" gang="0" lv="270"></costResource>
+        <costMaterial fromLevel="0"  toLevel="5"  kaiFa="4" kaiFaEnsure="6" gaiXiu="3" gaiXiuEnsure="5" equipIndex="26" equipCount="1"></costMaterial>
+        <costMaterial fromLevel="6"  toLevel="9"  kaiFa="6" kaiFaEnsure="9" gaiXiu="4" gaiXiuEnsure="7" equipIndex="59" equipCount="1"></costMaterial>
+        <available day="1" secretary="451"></available>
+        <available day="2" secretary="451"></available>
+        <available day="3" secretary="451"></available>
+        <available day="4" secretary="143"></available>
+        <available day="5" secretary="143"></available>
+        <available day="6" secretary="451,143"></available>
+        <available day="7" secretary="451"></available>
+    </item>
+
+
+
+    <!-- Ro.43水偵 -->
+    <item index="163" nextIndex="164">
+        <costResource ranLiao="60" danYao="30" gang="0" lv="180"></costResource>
+        <costMaterial fromLevel="0"  toLevel="5"  kaiFa="3" kaiFaEnsure="5" gaiXiu="1" gaiXiuEnsure="2" equipIndex="25" equipCount="1"></costMaterial>
+        <costMaterial fromLevel="6"  toLevel="9"  kaiFa="4" kaiFaEnsure="6" gaiXiu="2" gaiXiuEnsure="4" equipIndex="26" equipCount="1"></costMaterial>
+        <costMaterial fromLevel="10" toLevel="10" kaiFa="5" kaiFaEnsure="10" gaiXiu="3" gaiXiuEnsure="5" equipIndex="25" equipCount="2"></costMaterial>
+        <available day="1" secretary="358"></available>
+        <available day="2" secretary="358,447"></available>
+        <available day="3" secretary="358,447"></available>
+        <available day="4" secretary="358"></available>
+        <available day="5" secretary="358"></available>
+        <available day="6" secretary="446"></available>
+        <available day="7" secretary="446"></available>
     </item>
 
 

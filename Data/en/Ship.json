@@ -1,5 +1,6 @@
 {
-  "Ship": [
+  "Ship": {
+    "item": [
       {
         "index": 1,
         "name": "睦月",
@@ -358,7 +359,7 @@
         "model": "綾波型",
         "number": "8番艦",
         "defaultEquip": "3,13",
-        "spgraph": "3047,3011"
+        "spgraph": "3080,3073,3047,3011"
       },
       {
         "index": 16,
@@ -400,7 +401,7 @@
         "model": "綾波型",
         "number": "10番艦",
         "defaultEquip": "40,39,44",
-        "spgraph": "3045,3010"
+        "spgraph": "3062,3061,3045,3010"
       },
       {
         "index": 17,
@@ -731,7 +732,8 @@
         "last_index": 286,
         "model": "扶桑型",
         "number": "1番艦",
-        "defaultEquip": "105,8,51,80"
+        "defaultEquip": "105,8,51,80",
+        "spgraph": 3067
       },
       {
         "index": 27,
@@ -773,7 +775,8 @@
         "last_index": 287,
         "model": "扶桑型",
         "number": "1番艦",
-        "defaultEquip": "105,8,74,80"
+        "defaultEquip": "105,8,74,80",
+        "spgraph": 3063
       },
       {
         "index": 28,
@@ -802,6 +805,18 @@
         "model": "睦月型",
         "number": "5番艦",
         "defaultEquip": "2,13"
+      },
+      {
+        "index": 418,
+        "name": "皐月改二",
+        "link": "http://wikiwiki.jp/kancolle/?%BB%A9%B7%EE%B2%FE%C6%F3",
+        "evasion": 96,
+        "antisub": 81,
+        "lineOfSight": 45,
+        "last_index": 256,
+        "model": "睦月型",
+        "number": "5番艦",
+        "defaultEquip": "131,125,106"
       },
       {
         "index": 29,
@@ -1160,7 +1175,8 @@
         "last_index": 39,
         "model": "初春型",
         "number": "2番艦",
-        "defaultEquip": "3,14"
+        "defaultEquip": "3,14",
+        "spgraph": 3072
       },
       {
         "index": 40,
@@ -1299,7 +1315,7 @@
         "model": "白露型",
         "number": "2番艦",
         "defaultEquip": "28,27",
-        "spgraph": "3020,903"
+        "spgraph": "3086,3020,903"
       },
       {
         "index": 44,
@@ -1482,6 +1498,30 @@
         "model": "朝潮型",
         "number": "10番艦",
         "defaultEquip": "3,15"
+      },
+      {
+        "index": 464,
+        "name": "霞改二",
+        "link": "http://wikiwiki.jp/kancolle/?%B2%E2%B2%FE%C6%F3",
+        "evasion": 90,
+        "antisub": 68,
+        "lineOfSight": 54,
+        "last_index": 253,
+        "model": "朝潮型",
+        "number": "10番艦",
+        "defaultEquip": null
+      },
+      {
+        "index": 470,
+        "name": "霞改二乙",
+        "link": "http://wikiwiki.jp/kancolle/?%B2%E2%B2%FE%C6%F3%B2%B5",
+        "evasion": 92,
+        "antisub": 68,
+        "lineOfSight": 55,
+        "last_index": 464,
+        "model": "朝潮型",
+        "number": "10番艦",
+        "defaultEquip": null
       },
       {
         "index": 50,
@@ -2339,7 +2379,7 @@
         "model": "龍驤型",
         "number": "1番艦",
         "defaultEquip": "60,39,61",
-        "spgraph": 905
+        "spgraph": "3087,905"
       },
       {
         "index": 77,
@@ -2857,7 +2897,7 @@
         "model": "綾波型",
         "number": "7番艦",
         "defaultEquip": "3,13",
-        "spgraph": "3030,3015"
+        "spgraph": "3056,3030,3015"
       },
       {
         "index": 94,
@@ -3331,10 +3371,36 @@
         "evasion": 79,
         "antisub": 0,
         "lineOfSight": 89,
+        "costDesignMap": 1,
+        "costDeck": 1,
         "last_index": 111,
         "model": "翔鶴型",
         "number": "2番艦",
         "defaultEquip": "21,24,51"
+      },
+      {
+        "index": 462,
+        "name": "瑞鶴改二",
+        "link": "http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1%B2%FE%C6%F3",
+        "evasion": 89,
+        "antisub": 0,
+        "lineOfSight": 92,
+        "last_index": 112,
+        "model": "翔鶴型",
+        "number": "2番艦",
+        "defaultEquip": null
+      },
+      {
+        "index": 467,
+        "name": "瑞鶴改二甲",
+        "link": "http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1%B2%FE%C6%F3%B9%C3",
+        "evasion": 85,
+        "antisub": 0,
+        "lineOfSight": 90,
+        "last_index": 462,
+        "model": "翔鶴型",
+        "number": "2番艦",
+        "defaultEquip": null
       },
       {
         "index": 113,
@@ -3460,7 +3526,8 @@
         "last_index": 116,
         "model": "祥鳳型",
         "number": "2番艦",
-        "defaultEquip": "21,24,17"
+        "defaultEquip": "21,24,17",
+        "spgraph": 3068
       },
       {
         "index": 120,
@@ -3555,7 +3622,8 @@
         "last_index": 295,
         "model": "青葉型",
         "number": "2番艦",
-        "defaultEquip": "50,15"
+        "defaultEquip": "50,15",
+        "spgraph": 3078
       },
       {
         "index": 124,
@@ -3780,7 +3848,8 @@
         "last_index": 133,
         "model": "夕雲型",
         "number": "1番艦",
-        "defaultEquip": "15,28"
+        "defaultEquip": "15,28",
+        "spgraph": 3059
       },
       {
         "index": 134,
@@ -3807,7 +3876,8 @@
         "last_index": 134,
         "model": "夕雲型",
         "number": "2番艦",
-        "defaultEquip": "15,47"
+        "defaultEquip": "15,47",
+        "spgraph": 3066
       },
       {
         "index": 135,
@@ -4031,7 +4101,8 @@
         "last_index": 154,
         "model": "香取型",
         "number": "1番艦",
-        "defaultEquip": "119,40,46,44"
+        "defaultEquip": "119,40,46,44",
+        "spgraph": 3069
       },
       {
         "index": 155,
@@ -4059,7 +4130,8 @@
         "last_index": 155,
         "model": "潜特型(伊400型潜水艦)",
         "number": "2番艦",
-        "defaultEquip": 62
+        "defaultEquip": 62,
+        "spgraph": 3065
       },
       {
         "index": 161,
@@ -4143,7 +4215,8 @@
         "last_index": 164,
         "model": "睦月型",
         "number": "3番艦",
-        "defaultEquip": "48,13"
+        "defaultEquip": "48,13",
+        "spgraph": 3081
       },
       {
         "index": 165,
@@ -4170,7 +4243,8 @@
         "last_index": 165,
         "model": "睦月型",
         "number": "4番艦",
-        "defaultEquip": "40,39,27"
+        "defaultEquip": "40,39,27",
+        "spgraph": 3082
       },
       {
         "index": 167,
@@ -4255,7 +4329,8 @@
         "last_index": 169,
         "model": "陽炎型",
         "number": "14番艦",
-        "defaultEquip": "44,46"
+        "defaultEquip": "44,46",
+        "spgraph": 3052
       },
       {
         "index": 170,
@@ -4502,7 +4577,7 @@
         "model": "工作艦",
         "number": "1番艦",
         "defaultEquip": "86,10,39",
-        "spgraph": "3022,910"
+        "spgraph": "3085,3022,910"
       },
       {
         "index": 183,
@@ -4531,7 +4606,7 @@
         "model": "大淀型",
         "number": "1番艦",
         "defaultEquip": "65,107,106",
-        "spgraph": "3028,912"
+        "spgraph": "3084,3051,3057,3028,912"
       },
       {
         "index": 184,
@@ -4571,7 +4646,8 @@
         "last_index": 185,
         "model": "龍鳳型",
         "number": "1番艦",
-        "defaultEquip": "21,82,51"
+        "defaultEquip": "21,82,51",
+        "spgraph": 3060
       },
       {
         "index": 186,
@@ -4626,7 +4702,8 @@
         "last_index": 190,
         "model": "陽炎型",
         "number": "7番艦",
-        "defaultEquip": "3,15"
+        "defaultEquip": "3,15",
+        "spgraph": 3055
       },
       {
         "index": 191,
@@ -4712,7 +4789,7 @@
         "model": "雲龍型",
         "number": "2番艦",
         "defaultEquip": "109,111,112,51",
-        "spgraph": 3024
+        "spgraph": "3064,3024"
       },
       {
         "index": 405,
@@ -4741,7 +4818,7 @@
         "model": "白露型",
         "number": "5番艦",
         "defaultEquip": "63,75",
-        "spgraph": 3038
+        "spgraph": "3079,3038"
       },
       {
         "index": 409,
@@ -4797,7 +4874,8 @@
         "last_index": 410,
         "model": "夕雲型",
         "number": "19番艦",
-        "defaultEquip": "28,47,27"
+        "defaultEquip": "28,47,27",
+        "spgraph": 3077
       },
       {
         "index": 413,
@@ -5065,7 +5143,7 @@
         "model": "Vittorio Veneto級",
         "number": "2番艦",
         "defaultEquip": "137,134,135",
-        "spgraph": "3017,3018"
+        "spgraph": "3050,3053,3017,3018"
       },
       {
         "index": 442,
@@ -5094,7 +5172,8 @@
         "last_index": 442,
         "model": "Vittorio Veneto級",
         "number": "4番艦",
-        "defaultEquip": "137,134,135"
+        "defaultEquip": "137,134,135",
+        "spgraph": 3048
       },
       {
         "index": 445,
@@ -5122,7 +5201,8 @@
         "last_index": 445,
         "model": "秋津洲型",
         "number": "1番艦",
-        "defaultEquip": "138,40"
+        "defaultEquip": "138,40",
+        "spgraph": 3070
       },
       {
         "index": 460,
@@ -5207,7 +5287,7 @@
         "model": "白露型",
         "number": "9番艦",
         "defaultEquip": "63,28",
-        "spgraph": 3029
+        "spgraph": "3054,3029"
       },
       {
         "index": 443,
@@ -5235,7 +5315,8 @@
         "last_index": 443,
         "model": "Maestrale級",
         "number": "3番艦",
-        "defaultEquip": "147,147"
+        "defaultEquip": "147,147",
+        "spgraph": 3049
       },
       {
         "index": 458,
@@ -5317,7 +5398,201 @@
         "model": "瑞穂型",
         "number": "1番艦",
         "defaultEquip": "59,41,39",
-        "spgraph": 3032
+        "spgraph": "3074,3075,3076,3071,3032"
+      },
+      {
+        "index": 432,
+        "name": "Graf Zeppelin",
+        "link": "http://wikiwiki.jp/kancolle/?Graf%20Zeppelin",
+        "moegirl": "http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E9%BD%90%E6%9F%8F%E6%9E%97%E4%BC%AF%E7%88%B5",
+        "cv": "早見沙織",
+        "illustrator": "島田フミカネ",
+        "evasion": 49,
+        "antisub": 0,
+        "lineOfSight": 69,
+        "last_index": 0,
+        "model": "Graf Zeppelin級",
+        "number": "1番艦",
+        "defaultEquip": "158,160"
+      },
+      {
+        "index": 353,
+        "name": "Graf Zeppelin改",
+        "link": "http://wikiwiki.jp/kancolle/?Graf%20Zeppelin%B2%FE",
+        "evasion": 69,
+        "antisub": 0,
+        "lineOfSight": 74,
+        "last_index": 432,
+        "model": "Graf Zeppelin級",
+        "number": "1番艦",
+        "defaultEquip": "159,64,160"
+      },
+      {
+        "index": 465,
+        "name": "鹿島",
+        "link": "http://wikiwiki.jp/kancolle/?%BC%AF%C5%E7",
+        "moegirl": "http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E9%B9%BF%E5%B2%9B",
+        "cv": "茅野愛衣",
+        "illustrator": "パセリ",
+        "event": "2015.秋.E3（甲乙丙）.1",
+        "evasion": 51,
+        "antisub": 43,
+        "lineOfSight": 36,
+        "last_index": 0,
+        "model": "香取型",
+        "number": "2番艦",
+        "defaultEquip": "119,10,44"
+      },
+      {
+        "index": 356,
+        "name": "鹿島改",
+        "link": "http://wikiwiki.jp/kancolle/?%BC%AF%C5%E7%B2%FE",
+        "evasion": 54,
+        "antisub": 69,
+        "lineOfSight": 50,
+        "last_index": 465,
+        "model": "香取型",
+        "number": "2番艦",
+        "defaultEquip": "119,74,47,44",
+        "spgraph": "3083,3058"
+      },
+      {
+        "index": 455,
+        "name": "萩風",
+        "link": "http://wikiwiki.jp/kancolle/?%C7%EB%C9%F7",
+        "moegirl": "http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E8%90%A9%E9%A3%8E",
+        "cv": "早見沙織",
+        "illustrator": "コニシ",
+        "event": "2015.秋.E5（甲乙丙）.1",
+        "evasion": 79,
+        "antisub": 59,
+        "lineOfSight": 19,
+        "last_index": 0,
+        "model": "陽炎型",
+        "number": "17番艦",
+        "defaultEquip": "2,39"
+      },
+      {
+        "index": 355,
+        "name": "萩風改",
+        "link": "http://wikiwiki.jp/kancolle/?%C7%EB%C9%F7%B2%FE",
+        "evasion": 87,
+        "antisub": 68,
+        "lineOfSight": 39,
+        "last_index": 455,
+        "model": "陽炎型",
+        "number": "17番艦",
+        "defaultEquip": "91,15"
+      },
+      {
+        "index": 454,
+        "name": "嵐",
+        "link": "http://wikiwiki.jp/kancolle/?%CD%F2",
+        "moegirl": "http://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E5%B2%9A",
+        "cv": "茅野愛衣",
+        "illustrator": "コニシ",
+        "evasion": 79,
+        "antisub": 62,
+        "lineOfSight": 19,
+        "last_index": 0,
+        "model": "陽炎型",
+        "number": "16番艦",
+        "defaultEquip": "2,44"
+      },
+      {
+        "index": 354,
+        "name": "嵐改",
+        "link": "http://wikiwiki.jp/kancolle/?%CD%F2%B2%FE",
+        "evasion": 87,
+        "antisub": 70,
+        "lineOfSight": 39,
+        "last_index": 454,
+        "model": "陽炎型",
+        "number": "16番艦",
+        "defaultEquip": "91,45"
+      },
+      {
+        "index": 448,
+        "name": "Zara",
+        "link": "http://wikiwiki.jp/kancolle/?Zara",
+        "moegirl": "https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E6%89%8E%E6%8B%89",
+        "cv": "赤﨑千夏",
+        "illustrator": "じじ",
+        "event": "2015.冬.E3（甲乙丙）.1",
+        "evasion": 59,
+        "antisub": 0,
+        "lineOfSight": 36,
+        "last_index": 0,
+        "model": "Zara級",
+        "number": "1番艦",
+        "defaultEquip": 162
+      },
+      {
+        "index": 358,
+        "name": "Zara改",
+        "link": "http://wikiwiki.jp/kancolle/?Zara%B2%FE",
+        "evasion": 72,
+        "antisub": 0,
+        "lineOfSight": 46,
+        "last_index": 448,
+        "model": "Zara級",
+        "number": "1番艦",
+        "defaultEquip": "162,163"
+      },
+      {
+        "index": 452,
+        "name": "沖波",
+        "link": "http://wikiwiki.jp/kancolle/?%B2%AD%C7%C8",
+        "moegirl": "https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E5%86%B2%E6%B3%A2",
+        "cv": "鬼頭明里",
+        "illustrator": "藤川",
+        "evasion": 80,
+        "antisub": 53,
+        "lineOfSight": 21,
+        "last_index": 0,
+        "model": "夕雲型",
+        "number": "14番艦",
+        "defaultEquip": "2,39"
+      },
+      {
+        "index": 359,
+        "name": "沖波改",
+        "link": "http://wikiwiki.jp/kancolle/?%B2%AD%C7%C8%B2%FE",
+        "evasion": 90,
+        "antisub": 70,
+        "lineOfSight": 42,
+        "last_index": 452,
+        "model": "夕雲型",
+        "number": "14番艦",
+        "defaultEquip": "27,28,40"
+      },
+      {
+        "index": 423,
+        "name": "初月",
+        "link": "http://wikiwiki.jp/kancolle/?%BD%E9%B7%EE",
+        "moegirl": "https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection:%E5%88%9D%E6%9C%88",
+        "cv": "中島愛",
+        "illustrator": "しずまよしのり",
+        "event": "2015.冬.E2（甲乙丙）.1",
+        "evasion": 85,
+        "antisub": 62,
+        "lineOfSight": 28,
+        "last_index": 0,
+        "model": "秋月型",
+        "number": "4番艦",
+        "defaultEquip": "122,15,40"
+      },
+      {
+        "index": 357,
+        "name": "初月改",
+        "link": "http://wikiwiki.jp/kancolle/?%BD%E9%B7%EE%B2%FE",
+        "evasion": 89,
+        "antisub": 72,
+        "lineOfSight": 49,
+        "last_index": 423,
+        "model": "秋月型",
+        "number": "4番艦",
+        "defaultEquip": "122,106,40"
       },
       {
         "index": 501,
@@ -6542,7 +6817,8 @@
         "last_index": 588,
         "next_index": 0,
         "defaultEquip": "504,547,548,549",
-        "spgraph": 2003
+        "spgraph": "2004,2003"
       }
     ]
+  }
 }

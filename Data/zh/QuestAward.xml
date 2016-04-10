@@ -57,6 +57,15 @@
     <item index="1056" code="A56" awardUseTemp="3.3"></item>
     <item index="1057" code="A57" awardUseTemp="3.2,4.2"></item>
     <item index="1058" code="A58" awardUseTemp="3.2,1.2"></item>
+    <item index="1059" code="A59" awardUseTemp="3.2,70.1"></item>
+    <item index="1060" code="A60" awardEquip="79.1"></item>
+    <item index="1061" code="A61" awardUseTemp="3.2,50.1"></item>
+    <item index="1062" code="A62" awardUseTemp="59.1,70.1"></item>
+    <item index="1063" code="A63" awardUseTemp="1.2,3.2"></item>
+    <item index="1064" code="A64" awardUseTemp="3.2,4.2"></item>
+    <item index="1065" code="A65" awardUseTemp="1.3"></item>
+    <item index="1066" code="A66" awardUseTemp="1.2,59.1"></item>
+    <item index="1067" code="A67" awardUseTemp="1.2,3.2"></item>
     <item index="1090" code="WA01" awardUseTemp="12.1"></item>
     <item index="1091" code="WA02" awardUseTemp="50.1"></item>
 
@@ -114,6 +123,15 @@
     <item index="2050" code="B50" awardUseTemp="1.3,59.1"></item>
     <item index="2051" code="B51" awardUseTemp="66.1,60.1"></item>
     <item index="2052" code="B52" awardUseTemp="11.1,60.1"></item>
+    <item index="2053" code="B53" awardUseTemp="1.2,59.1"></item>
+    <item index="2054" code="B54" awardUseTemp="1.3" awardEquip="109.1"></item>
+    <item index="2055" code="B55" awardUseTemp="12.1,54.1"></item>
+    <item index="2056" code="B56" awardUseTemp="4.2,52.1"></item>
+    <item index="2057" code="B57" awardUseTemp="4.3,60.1"></item>
+    <item index="2058" code="B58" awardUseTemp="66.1" awardEquip="106.1"></item>
+    <item index="2059" code="B59" awardUseTemp="4.3" awardEquip="131.1"></item>
+    <item index="2060" code="B60" awardUseTemp="4.3,62.1"></item>
+    <item index="2061" code="B61" awardFurniture="277.1.1"></item>
     <item index="2090" code="WB01" awardUseTemp="55.1"></item>
     <item index="2091" code="WB02" awardFurniture="183.1"></item>
 
@@ -157,6 +175,10 @@
     <item index="2413" code="SB03" awardUseTemp="52.1" awardEquip="46.1"></item>
     <item index="2414" code="SB04" awardUseTemp="59.3" awardEquip="47.1"></item>
     <item index="2415" code="SB05" awardFurniture="261.1" awardEquip="149.1"></item>
+    <item index="2418" code="SB08" awardUseTemp="51.1"></item>
+    <item index="2419" code="SB09" awardUseTemp="1.2,59.2"></item>
+    <item index="2420" code="SB10" awardUseTemp="4.3" awardEquip="116.1"></item>
+    <item index="2421" code="SB11" awardUseTemp="3.3,70.1"></item>
 
 
 
@@ -222,6 +244,15 @@
     <item index="6019" code="F19" awardEquip="143.1"></item>
     <item index="6020" code="F20" awardEquip="144.1"></item>
     <item index="6021" code="F21" awardUseTemp="65.1"></item>
+    <item index="6022" code="F22" awardEquip="96.1"></item>
+    <item index="6023" code="F23" awardUseTemp="65.1"></item>
+    <item index="6024" code="F24" awardEquip="152.1"></item>
+    <item index="6025" code="F25" awardEquip="152.1"></item>
+    <item index="6026" code="F26" awardEquip="153.1"></item>
+    <item index="6027" code="F27" awardEquip="154.1"></item>
+    <item index="6028" code="F28" awardEquip="155.1"></item>
+    <item index="6029" code="F29" awardEquip="156.1"></item>
+    <item index="6030" code="F30" awardEquip="157.1"></item>
     <item index="6090" code="WF01" awardUseTemp="3.1"></item>
 
 

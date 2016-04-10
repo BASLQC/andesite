@@ -1,0 +1,245 @@
+{
+  "Construct": {
+    "item": [
+      {
+        "name": "駆逐・軽巡・重巡・潜水艦",
+        "flagship": "",
+        "recipe": [
+          {
+            "major": 0,
+            "oil": 30,
+            "ammo": 30,
+            "steel": 30,
+            "bauxite": 30,
+            "result": "最低値レシピ。青,水色背景の駆逐艦､鬼怒を省く銀背景以下の軽巡洋艦に加え､秋雲､弥生､夕張が出る"
+          },
+          {
+            "major": 0,
+            "oil": 250,
+            "ammo": 30,
+            "steel": 200,
+            "bauxite": 30,
+            "result": "駆逐艦は雪風,島風,Z3(Z1旗艦),Z1(Z3旗艦)のみ　副産艦は軽巡（レア含）・重巡・潜水艦・香取"
+          },
+          {
+            "major": 0,
+            "oil": 250,
+            "ammo": 130,
+            "steel": 200,
+            "bauxite": 30,
+            "result": "上記の亜種"
+          },
+          {
+            "major": 0,
+            "oil": 270,
+            "ammo": 130,
+            "steel": 330,
+            "bauxite": 30,
+            "result": "重巡洋艦レシピと同じもので狙える駆逐・軽巡は250/30/200/30と同様"
+          }
+        ]
+      },
+      {
+        "name": "戦艦",
+        "flagship": "",
+        "recipe": [
+          {
+            "major": 0,
+            "oil": 400,
+            "ammo": 30,
+            "steel": 600,
+            "bauxite": 30,
+            "result": "戦艦は長門型,金剛型,扶桑型,伊勢型｡重巡は三隈以外の全て｡"
+          },
+          {
+            "major": 0,
+            "oil": 400,
+            "ammo": 100,
+            "steel": 600,
+            "bauxite": 30,
+            "result": "上記の亜種"
+          }
+        ]
+      },
+      {
+        "name": "空母",
+        "flagship": "",
+        "recipe": [
+          {
+            "major": 0,
+            "oil": 300,
+            "ammo": 300,
+            "steel": 600,
+            "bauxite": 600,
+            "result": "空母レシピでは､正規空母(大鳳、雲龍以外)､軽空母(龍鳳以外)､駆逐艦､軽巡洋艦､重巡洋艦(利根型､最上､加古のみ)、水上機母艦が建造可能"
+          },
+          {
+            "major": 0,
+            "oil": 300,
+            "ammo": 30,
+            "steel": 400,
+            "bauxite": 300,
+            "result": "上記の亜種"
+          },
+          {
+            "major": 0,
+            "oil": 350,
+            "ammo": 30,
+            "steel": 400,
+            "bauxite": 350,
+            "result": "上記の亜種"
+          },
+          {
+            "major": 0,
+            "oil": 300,
+            "ammo": 30,
+            "steel": 600,
+            "bauxite": 400,
+            "result": "上記の亜種"
+          }
+        ]
+      },
+      {
+        "name": "大型建造",
+        "flagship": "",
+        "isLarge": 1,
+        "recipe": {
+          "major": 0,
+          "oil": 1500,
+          "ammo": 1500,
+          "steel": 2000,
+          "bauxite": 1000,
+          "material": 1,
+          "result": "最低値レシピ。阿賀野型、最上型(三隈含む)、利根型、まるゆ、その他戦艦等。"
+        }
+      },
+      {
+        "name": "大和・武藏",
+        "flagship": "",
+        "isLarge": 1,
+        "recipe": [
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 6000,
+            "steel": 6000,
+            "bauxite": 2000,
+            "material": 20,
+            "result": ""
+          },
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 6000,
+            "steel": 6000,
+            "bauxite": 3000,
+            "material": 20,
+            "result": "低確率で大鳳も建造可能"
+          },
+          {
+            "major": 0,
+            "oil": 6000,
+            "ammo": 5000,
+            "steel": 7000,
+            "bauxite": 2000,
+            "material": 20,
+            "result": ""
+          },
+          {
+            "major": 0,
+            "oil": 6000,
+            "ammo": 4000,
+            "steel": 6000,
+            "bauxite": 3000,
+            "material": 20,
+            "result": "低確率で大鳳も建造可能"
+          }
+        ]
+      },
+      {
+        "name": "大鳳",
+        "flagship": "",
+        "isLarge": 1,
+        "recipe": [
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 2000,
+            "steel": 5000,
+            "bauxite": 7000,
+            "material": 20,
+            "result": ""
+          },
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 2000,
+            "steel": 5000,
+            "bauxite": 5200,
+            "material": 20,
+            "result": "正空母、軽空母、あきつ丸、まるゆ以外をほぼ確実に弾くレシピとしてはボーキの消費量が今のところ最低のレシピ"
+          },
+          {
+            "major": 0,
+            "oil": 3500,
+            "ammo": 3500,
+            "steel": 6000,
+            "bauxite": 6000,
+            "material": 20,
+            "result": "空母系レシピっぽいが、燃料が4000を下回っているため戦艦・巡洋艦（含大和型）も出る"
+          }
+        ]
+      },
+      {
+        "name": "Bismarck",
+        "flagship": "Z1・Z3",
+        "isLarge": 1,
+        "recipe": [
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 6000,
+            "steel": 6000,
+            "bauxite": 2000,
+            "material": 20,
+            "result": "Z1・Z3を旗艦にすると大和の建造率は大幅に下がるため大和狙いの人は注意。"
+          },
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 6000,
+            "steel": 6000,
+            "bauxite": 3000,
+            "material": 20,
+            "result": "Z1・Z3を旗艦にすると大和の建造率は大幅に下がるため大和狙いの人は注意。"
+          }
+        ]
+      },
+      {
+        "name": "伊401",
+        "flagship": "",
+        "isLarge": 1,
+        "recipe": [
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 6000,
+            "steel": 6000,
+            "bauxite": 2000,
+            "material": 1,
+            "result": ""
+          },
+          {
+            "major": 0,
+            "oil": 4000,
+            "ammo": 6000,
+            "steel": 6000,
+            "bauxite": 3000,
+            "material": 1,
+            "result": ""
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -56,7 +56,16 @@
     <item index="1055" type="1" period="1" title="「第一水雷戦隊」北方再突入準備！" content="以「阿武隈改二」为旗舰，再配置「響」「夕雲」「長波」「秋雲」「島風」在同一舰队中" awardRanLiao="200" awardDanYao="200" awardGang="" awardLv="" awardOther="高速修復材×3、家具箱（大）×1" unlockIndex="3007"></item>
     <item index="1056" type="1" period="1" title="「第五航空戦隊」を再編成せよ！" content="将「翔鶴」「瑞鶴」「朧」「秋雲」配置在同一舰队中" awardRanLiao="300" awardDanYao="" awardGang="" awardLv="300" awardOther="開発資材×3" unlockIndex="2306"></item>
     <item index="1057" type="1" period="1" title="新編「第二一戦隊」出撃準備！" content="将「那智改二」「足柄改二」「多摩」「木曾」配置在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="150" awardLv="" awardOther="開発資材x2、改修資材x2" unlockIndex="1050,2034"></item>
-    <item index="1058" type="1" period="1" title="「第十六戦隊(第一次)」を編成せよ！" content="以「足柄」为旗舰，再配置「球磨」「長良」配置在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="150" awardLv="" awardOther="開発資材x2、高速修復材x2" unlockIndex="2102"></item>
+    <item index="1058" type="1" period="1" title="「第十六戦隊(第一次)」を編成せよ！" content="以「足柄」为旗舰，再配置「球磨」「長良」在同一舰队中" awardRanLiao="150" awardDanYao="150" awardGang="150" awardLv="" awardOther="開発資材x2、高速修復材x2" unlockIndex="2102"></item>
+    <item index="1059" type="1" period="1" title="「第三航空戦隊」を編成せよ！" content="以「瑞鶴改」为旗舰，再配置「瑞鳳」「千歳」「千代田」共四只空母在同一舰队中" awardRanLiao="200" awardDanYao="200" awardGang="0" awardLv="200" awardOther="開発資材x2、熟練搭乗員×1" unlockIndex="2306,6021"></item>
+    <item index="1060" type="1" period="1" title="「第四航空戦隊」を編成せよ！" content="将「伊勢改」「日向改」配置在同一舰队中" awardRanLiao="0" awardDanYao="200" awardGang="0" awardLv="200" awardOther="瑞雲(六三四空)" unlockIndex="2053"></item>
+    <item index="1061" type="1" period="1" title="「小沢艦隊」を編成せよ！" content="以「瑞鶴改」为旗舰，再配置空母「瑞鳳」「千歳」「千代田」以及「伊勢改」「日向改」在同一舰队中" awardRanLiao="300" awardDanYao="0" awardGang="0" awardLv="300" awardOther="開発資材×2、応急修理要員×1" unlockIndex="1060,2307"></item>
+    <item index="1062" type="1" period="1" title="新航空戦隊を編成せよ！" content="配置「瑞鶴改二」「翔鶴改二」以及任意两只驱逐舰在同一舰队中" awardRanLiao="0" awardDanYao="300" awardGang="300" awardLv="300" awardOther="給糧艦×1、熟練搭乗員×1" unlockIndex="6029"></item>
+    <item index="1063" type="1" period="1" title="「第十六戦隊(第二次)」を編成せよ！" content="以「名取」为旗舰，再配置「五十鈴」「鬼怒」在同一舰队中" awardRanLiao="160" awardDanYao="160" awardGang="160" awardLv="0" awardOther="開発資材x2、高速修復材x2" unlockIndex="2052,3005"></item>
+    <item index="1064" type="1" period="1" title="「新編成航空戦隊」を編成せよ！" content="配置2只空母、2只航空战舰或者航空巡洋舰、2只驱逐舰在同一舰队中" awardRanLiao="0" awardDanYao="200" awardGang="0" awardLv="200" awardOther="開発資材x2、改修資材x2" unlockIndex="2055,2050"></item>
+    <item index="1065" type="1" period="1" title="精強な「水上反撃部隊」を再編成せよ！" content="以「霞」为旗舰，再配置「足柄」「大淀」「朝霜」「清霜」在同一舰队中" awardRanLiao="300" awardDanYao="300" awardGang="0" awardLv="0" awardOther="高速修復材x3" unlockIndex="2056"></item>
+    <item index="1066" type="1" period="1" title="「第三十一戦隊(第一次)」を編成せよ！" content="以「五十鈴改二」为旗舰，再配置「皐月改二」「卯月改」在同一舰队中" awardRanLiao="310" awardDanYao="310" awardGang="0" awardLv="0" awardOther="高速修復材x2、給糧艦「伊良湖」x1" unlockIndex="2055,2102"></item>
+    <item index="1067" type="1" period="1" title="「第二七駆逐隊」を編成せよ！" content="以「白露改」为旗舰，再配置「時雨」「春雨」「五月雨」在同一舰队中（不要配置其他舰船）" awardRanLiao="0" awardDanYao="270" awardGang="270" awardLv="0" awardOther="高速修復材x2、開発資材x2" unlockIndex=""></item>
     <item index="1090" type="1" period="1" title="式の準備！(その参)" content="配置一艘90～99级的船作为旗舰" awardRanLiao="88" awardDanYao="88" awardGang="88" awardLv="88" awardOther="家具箱(大)×1" unlockIndex="3090"></item>
     <item index="1091" type="1" period="1" title="新たなる旅立ち！" content="配置一艘100级以上的船作为旗舰，五艘任意舰船作为僚舰" awardRanLiao="200" awardDanYao="200" awardGang="200" awardLv="200" awardOther="応急修理要員×1" unlockIndex="2090"></item>
 
@@ -114,6 +123,15 @@
     <item index="2050" type="2" period="1" title="「第五航空戦隊」珊瑚諸島沖に出撃せよ！" content="使用「翔鶴」「瑞鶴」「朧」「秋雲」以及其他任意两艘舰船，击破5-2图BOSS并获得S胜" awardRanLiao="" awardDanYao="500" awardGang="" awardLv="" awardOther="高速修復材x3、給糧艦「伊良湖」x1" unlockIndex="1056"></item>
     <item index="2051" type="2" period="1" title="新編「第二一戦隊」北方へ出撃せよ！" content="使用「那智改二」「足柄改二」「多摩」「木曾」以及其他任意两艘舰船，击破3-1图BOSS并获得S胜" awardRanLiao="300" awardDanYao="300" awardGang="" awardLv="" awardOther="戦闘糧食×1、プレゼント箱×1" unlockIndex="1057"></item>
     <item index="2052" type="2" period="1" title="「第十六戦隊(第一次)」出撃せよ！" content="以「足柄」为旗舰，并配置「球磨」「長良」以及其他任意三艘舰船，击破2-2图BOSS并获得S胜" awardRanLiao="200" awardDanYao="" awardGang="200" awardLv="" awardOther="家具箱（中）×1、プレゼント箱×1" unlockIndex="1058"></item>
+    <item index="2053" type="2" period="1" title="「第三航空戦隊」南西諸島防衛線に出撃！" content="以「瑞鶴改」为旗舰，并配置空母「千歳」「千代田」「瑞鳳」以及其他任意两艘舰船，击破1-4图BOSS并获得S胜" awardRanLiao="0" awardDanYao="0" awardGang="300" awardLv="0" awardOther="高速修復材×2、給糧艦「伊良湖」×1" unlockIndex="1059"></item>
+    <item index="2054" type="2" period="1" title="「小沢艦隊」出撃せよ！" content="以「瑞鶴改」为旗舰，并配置空母「千歳」「千代田」「瑞鳳」以及「伊勢改」「日向改」，击破2-4图BOSS并获得S胜" awardRanLiao="300" awardDanYao="0" awardGang="300" awardLv="300" awardOther="高速修復材×3、零戦52型丙(六〇一空)×1" unlockIndex="1061"></item>
+    <item index="2055" type="2" period="1" title="「第十六戦隊(第二次)」出撃せよ！" content="以「名取」为旗舰，并配置「五十鈴」「鬼怒」以及其他任意三艘舰船，击破2-3图BOSS并获得S胜" awardRanLiao="320" awardDanYao="0" awardGang="320" awardLv="0" awardOther="家具箱(大)、給糧艦「間宮」x1" unlockIndex="1063"></item>
+    <item index="2056" type="2" period="1" title="  新編成航空戦隊、北方へ進出せよ！" content="使用2只空母、2只航空战舰或者航空巡洋舰、2只驱逐舰的阵容，击破3-3图BOSS并获得S胜" awardRanLiao="0" awardDanYao="400" awardGang="0" awardLv="400" awardOther="改修資材x2、特注家具職人x1" unlockIndex="1064"></item>
+    <item index="2057" type="2" period="1" title="「礼号作戦」実施せよ！" content="以「霞」为旗舰，再配置「足柄」「大淀」「朝霜」「清霜」以及其他任意一艘舰船，击破2-5图BOSS并获得S胜" awardRanLiao="300" awardDanYao="700" awardGang="0" awardLv="0" awardOther="改修資材x3、プレゼント箱×1" unlockIndex="1065,2305"></item>
+    <item index="2058" type="2" period="1" title="旗艦「霞」北方海域を哨戒せよ！" content="以「霞改二」或「霞改二乙」为旗舰，再配置三艘驱逐以及其他任意两艘舰船，击破3-1图BOSS并获得B胜" awardRanLiao="300" awardDanYao="0" awardGang="300" awardLv="0" awardOther="13号対空電探改x1、戦闘糧食x1" unlockIndex="1032,3002"></item>
+    <item index="2059" type="2" period="1" title="旗艦「霞」出撃！敵艦隊を撃滅せよ！" content="以「霞改二」或「霞改二乙」为旗舰，再配置两艘驱逐以及其他任意三艘舰船，击破2-5图BOSS并获得S胜" awardRanLiao="500" awardDanYao="500" awardGang="0" awardLv="0" awardOther="25mm三連装機銃 集中配備x1、改修資材x3" unlockIndex="4002"></item>
+    <item index="2060" type="2" period="1" title="「第三十一戦隊」出撃せよ！" content="以「五十鈴改二」为旗舰，再配置「皐月改二」「卯月改」以及其他任意三艘舰船，打通1-6图一次" awardRanLiao="0" awardDanYao="0" awardGang="600" awardLv="0" awardOther="改修資材x3、菱餅x1" unlockIndex="1066,7002"></item>
+    <item index="2061" type="2" period="1" title="「第二七駆逐隊」出撃せよ！" content="以「白露改」为旗舰，再配置「時雨」「春雨」「五月雨」以及其他任意两艘舰船，击破2-3图BOSS并获得S胜" awardRanLiao="500" awardDanYao="0" awardGang="500" awardLv="0" awardOther="「春の一番」掛け軸x1" unlockIndex="1067"></item>
     <item index="2090" type="2" period="1" title="式の準備！(最終)" content="配置一艘90～99级的船作为旗舰，击破2-3图BOSS并获取S胜" awardRanLiao="" awardDanYao="" awardGang="" awardLv="" awardOther="書類一式&amp;指輪×1" unlockIndex="1090"></item>
     <item index="2091" type="2" period="1" title="二人でする初めての任務！" content="配置一艘100级以上的船作为旗舰，五艘任意舰船作为僚舰，击破4-3图BOSS并获取S胜" awardRanLiao="300" awardDanYao="300" awardGang="300" awardLv="300" awardOther="シークレット家具(煎餅布団)" unlockIndex="1091"></item>
 
@@ -158,6 +176,10 @@
     <item index="2413" type="2" period="1" title="秋刀魚漁：「秋刀魚」を収穫しよう！" content="收集3条「秋刀魚」" awardRanLiao="300" awardOther="九三式水中聴音機x1、特注家具職人x1" unlockIndex=""></item>
     <item index="2414" type="2" period="1" title="秋刀魚漁：「秋刀魚」をもっと収穫しなきゃ！" content="收集10条「秋刀魚」" awardRanLiao="550" awardOther="三式水中探信儀x1、給糧艦「伊良湖」x3" unlockIndex="2413"></item>
     <item index="2415" type="2" period="1" title="秋刀魚漁：もっと頑張ってもいいのよ！" content="收集30条「秋刀魚」" awardRanLiao="800" awardDanYao="300" awardGang="300" awardLv="300" awardOther="" unlockIndex="2414"></item>
+    <item index="2418" type="2" period="1" title="謹賀新年！「水雷戦隊」出撃始め！" content="使用1只轻巡、3~5只驱逐的阵容，击破1-3图BOSS并获得S胜。不能使用轻巡、驱逐以外的舰船" awardRanLiao="2016" awardDanYao="" awardGang="" awardLv="" awardOther="応急修理女神x1" unlockIndex="2101"></item>
+    <item index="2419" type="2" period="1" title="新年の「伊良湖」のお手伝い！" content="击破2-3图BOSS三次并获得S胜" awardRanLiao="" awardDanYao="2016" awardGang="" awardLv="" awardOther="高速修復材x2、給糧艦「伊良湖」x2" unlockIndex="2418"></item>
+    <item index="2420" type="2" period="1" title="漲る戦艦魂！大艦巨砲なお正月！" content="使用4只战舰以及另外2艘任意舰船的阵容，击破4-2图BOSS两次并获得S胜" awardRanLiao="" awardDanYao="" awardGang="2016" awardLv="" awardOther="改修資材x3、一式徹甲弾" unlockIndex="2419"></item>
+    <item index="2421" type="2" period="1" title="迎春！「機動部隊」抜錨せよ！" content="使用2只空母以及另外4艘任意舰船的阵容，击破6-2图BOSS两次并获得S胜" awardRanLiao="" awardDanYao="" awardGang="" awardLv="2016" awardOther="開発資材x4、熟練搭乗員x1" unlockIndex="2420"></item>
 
 
 
@@ -223,6 +245,15 @@
     <item index="6019" type="6" period="1" title="精鋭「九七式艦攻」部隊の編成" content="在旗舰为「翔鶴」或「赤城」的情况下，废弃3只「九七式艦攻」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="九七式艦攻(村田隊)" unlockIndex="2050"></item>
     <item index="6020" type="6" period="1" title="機種転換" content="在旗舰为「翔鶴」并装备着未上锁的「九七式艦攻(村田隊)」的情况下，废弃2只「天山」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="天山一二型(村田隊)" unlockIndex="2050"></item>
     <item index="6021" type="6" period="1" title="試作艤装の準備" content="废弃7次" awardRanLiao="" awardDanYao="" awardGang="100" awardLv="" awardOther="試製甲板カタパルト×1" unlockIndex="4019"></item>
+    <item index="6022" type="6" period="4" title="精鋭「艦戦」隊の新編成" content="在旗舰为「鳳翔」并装备着未上锁的满练度的「零戦21型」，并拥有1个「熟練搭乗員」的情况下，废弃2只「零戦21型」和1只「九六艦戦」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦21型(熟練)×1" unlockIndex=""></item>
+    <item index="6023" type="6" period="1" title="試製航空艤装の追加試作" content="废弃9次" awardRanLiao="" awardDanYao="" awardGang="100" awardLv="50" awardOther="試製甲板カタパルト×1" unlockIndex="2054"></item>
+    <item index="6024" type="6" period="1" title="機種転換" content="在旗舰为空母并装备着未上锁的「零戦21型(熟練)」的情况下，废弃2只「零戦52型」（注意不要和F25同名任务搞错）" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦52型(熟練)×1" unlockIndex="6022"></item>
+    <item index="6025" type="6" period="4" title="機種転換" content="在旗舰为空母并装备着未上锁的满练度的「零戦21型(熟練)」的情况下，废弃2只「零戦52型」（注意不要和F24同名任务搞错）" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦52型(熟練)×1" unlockIndex="6024"></item>
+    <item index="6026" type="6" period="1" title="「艦戦」隊の再編成" content="在旗舰为「瑞鶴」并装备着未上锁的满练度的「零戦52型(熟練)」的情况下，废弃1只「零戦52型丙(六〇一空)」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦52型丙(付岩井小隊)×1" unlockIndex="6024"></item>
+    <item index="6027" type="6" period="1" title="機種転換＆部隊再編" content="在旗舰为「瑞鶴」并装备着未上锁的满练度的「零戦52型丙(付岩井小隊)」的情况下，废弃2只「零戦62型(爆戦)」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦62型(爆戦／岩井隊)×1" unlockIndex="6026"></item>
+    <item index="6028" type="6" period="1" title="「艦戦」隊の再編成" content="在旗舰为「瑞鶴」并装备着未上锁的满练度的「零戦21型(熟練)」的情况下，废弃2只「零戦21型」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦21型(付岩本小隊)×1" unlockIndex="6022"></item>
+    <item index="6029" type="6" period="1" title="機種転換" content="在旗舰为「瑞鶴」并装备着未上锁的满练度的「零戦21型(付岩本小隊)」的情况下，废弃2只「零戦52型」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦52型甲(付岩本小隊)×1" unlockIndex="6028"></item>
+    <item index="6030" type="6" period="1" title="機種転換＆部隊再編" content="在旗舰为「瑞鶴」并装备着未上锁的满练度的「零戦52型甲(付岩本小隊)」的情况下，废弃2只「彩雲」" awardRanLiao="" awardDanYao="" awardGang="" awardLv="50" awardOther="零式艦戦53型(岩本隊)×1" unlockIndex="1062"></item>
     <item index="6090" type="6" period="1" title="式の準備！(その壱)" content="废弃2次" awardRanLiao="88" awardDanYao="88" awardGang="" awardLv="" awardOther="開発資材×1" unlockIndex="1016"></item>
 
 

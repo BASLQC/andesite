@@ -2235,620 +2235,128 @@
 
 
 
-
-
-
-
-
-
-    <item index="311" mapName="31" stars="7" exp="100" areaName="ショートランド沖" battleName="発動準備、第二次SN作戦！">
-        <point position="-">
-            <route position="A"></route>
-        </point>
-        <point position="A">
-            <enemy formation="単縦" detail="軽巡へ級flagship、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級、駆逐イ級"></enemy>
-            <route position="B"></route>
-            <route position="C"></route>
-            <route position="D"></route>
-            <route position="F"></route>
-            <routeDetail>（越前面优先级越高）包含3只以上潜水舰固定F点。索敌不足固定F点。包含空母固定C点。包含潜水舰或者战舰3只以上固定B点。包含菊月固定D点。包含水母固定D点。不满足上述情况，B和D点随机</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="B">
-            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級elite、戦艦ル級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="D"></route>
-            <drop></drop>
-        </point>
-        <point position="C">
-            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級、潜水カ級、潜水カ級"></enemy>
-            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級、潜水カ級、潜水カ級"></enemy>
-            <route position="E"></route>
-            <drop></drop>
-        </point>
-        <point position="D">
-            <award detail="弾薬+15～45"></award>
-            <route position="Z"></route>
-        </point>
-        <point position="E">
-            <enemy formation="単縦" detail="重巡リ級flagship、重巡ネ級elite、軽巡へ級flagship、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="複縦" detail="重巡リ級flagship、重巡ネ級elite、軽巡へ級flagship、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="Z"></route>
-            <drop>野分 時津風 大淀</drop>
-        </point>
-        <point position="F">
-            <enemy formation="梯形" detail="軽巡ホ級flagship、潜水カ級flagship、潜水カ級、潜水カ級、潜水カ級"></enemy>
-            <route position="G"></route>
-            <drop></drop>
-        </point>
-        <point position="G">
-            <award detail="燃料+25～65"></award>
-        </point>
-        <point position="Z" isBoss="1">
-            <enemy formation="単縦" detail="駆逐棲姫(B)、駆逐ロ級後期型、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="単縦" detail="駆逐棲姫(A)、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <drop>浦風 谷風 野分 時津風 大淀</drop>
-        </point>
-    </item>
-
-
-
-    <item index="312" mapName="31" stars="9" exp="100" areaName="ソロモン海" battleName="連合艦隊、ソロモン海へ！">
-        <point position="-">
-            <route position="A"></route>
-        </point>
-        <point position="A">
-            <enemy formation="単縦" detail="重巡リ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="複縦" detail="重巡リ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="B"></route>
-            <route position="C"></route>
-            <routeDetail>水上打击部队固定B点，空母机动部队固定C点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="B">
-            <enemy formation="梯形" detail="潜水カ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
-            <enemy formation="単横" detail="潜水カ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
-            <route position="D"></route>
-            <route position="E"></route>
-            <route position="K"></route>
-            <routeDetail>第一舰队中包含战舰+正规空母（不算轻母）共3只以上时固定D点，2只以下固定E点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="C">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="F"></route>
-            <route position="I"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="D">
-            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <route position="G"></route>
-            <drop></drop>
-        </point>
-        <point position="E">
-            <enemy formation="単縦" detail="重巡リ級flagship、重巡ネ級elite、重巡ネ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="G"></route>
-            <drop></drop>
-        </point>
-        <point position="F">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <route position="H"></route>
-            <drop></drop>
-        </point>
-        <point position="G">
-            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、輸送ワ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、駆逐ハ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <route position="Z"></route>
-            <drop>大鯨 春雨</drop>
-        </point>
-        <point position="H">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、空母ヲ級flagship、重巡ネ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、重巡ネ級、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <route position="L"></route>
-            <route position="Z"></route>
-            <routeDetail>索敌值一定以上固定Z点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="I">
-            <lost detail="うずしお：弾薬損失"></lost>
-            <route position="J"></route>
-        </point>
-        <point position="J">
-            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <route position="L"></route>
-            <route position="Z"></route>
-            <routeDetail>索敌值一定以上固定Z点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="K">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="L">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="Z" isBoss="1">
-            <enemy formation="単縦" detail="軽巡棲鬼(A)、戦艦タ級flagship、戦艦タ級elite、重巡ネ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
-            <enemy formation="単縦" detail="軽巡棲鬼(A)、戦艦棲姫、重巡ネ級elite、重巡ネ級、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
-            <drop>初風 雲龍 大鯨 阿賀野 能代 翔鶴 瑞鶴</drop>
-        </point>
-    </item>
-
-
-
-    <item index="313" mapName="31" stars="12" exp="100" areaName="南太平洋海域" battleName="激突！第二次南太平洋海戦">
-        <point position="-">
-            <route position="A"></route>
-        </point>
-        <point position="A">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="B"></route>
-            <route position="C"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="B">
-            <enemy formation="単縦" detail="重巡リ級flagship、雷巡チ級flagship、雷巡チ級flagship、軽巡へ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <route position="D"></route>
-            <drop></drop>
-        </point>
-        <point position="C">
-            <enemy formation="単縦" detail="軽巡へ級flagship、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="複縦" detail="軽巡へ級flagship、雷巡チ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="D"></route>
-            <route position="E"></route>
-            <routeDetail>正规空母2只以下并且雷巡1只以下固定E点。第一舰队的正规空母+战舰+航空战舰合计3只以下固定E点？其他固定D点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="D">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
-            <route position="E"></route>
-            <route position="F"></route>
-            <route position="X"></route>
-            <routeDetail>战舰4只以上或者正规空母3只以上或者雷巡2只以上固定E点。水上打击部队并且包含1只以下轻母固定X点？第二件对包含1只以上潜水舰固定X点？水上打击部队并且包含2只以上轻母固定E点？其他固定F点？</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="E">
-            <enemy formation="輪形" detail="空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐ハ級elite、駆逐ハ級elite"></enemy>
-            <route position="H"></route>
-            <drop></drop>
-        </point>
-        <point position="F">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="G"></route>
-            <route position="I"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="G">
-            <enemy formation="輪形" detail="空母ヲ級改flagship、戦艦タ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <route position="H"></route>
-            <route position="Z"></route>
-            <routeDetail>一定索敌值以上固定Z点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="H">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <route position="J"></route>
-            <route position="G"></route>
-            <route position="Z"></route>
-            <routeDetail>一定索敌值以上固定Z点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="I">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <route position="Z"></route>
-            <drop></drop>
-        </point>
-        <point position="J">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="X">
-            <enemy formation="単縦" detail="飛行場姫、軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite、輸送ワ級flagship、輸送ワ級flagship"></enemy>
-            <drop>磯風 まるゆ</drop>
-        </point>
-        <point position="Z" isBoss="1">
-            <enemy formation="輪形" detail="水母棲姫(B)、空母棲鬼、空母棲鬼、重巡ネ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
-            <enemy formation="輪形" detail="水母棲姫(A)、空母棲鬼、空母棲鬼、重巡ネ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
-            <drop>磯風 天津風 浦風 谷風 浜風 瑞穂 翔鶴 瑞鶴 飛龍 まるゆ</drop>
-        </point>
-    </item>
-
-
-
-    <item index="314" mapName="31" stars="13" exp="100" areaName="アイアンボトムサウンド" battleName="海峡突入！敵飛行場を撃滅せよ！">
+    <item index="64" mapName="6" stars="9" exp="160" areaName="中部北海域ピーコック島沖" battleName="離島再攻略作戦">
         <point position="-">
             <route position="A"></route>
             <route position="B"></route>
-            <routeDetail>夕立＋暁or春雨 固定B点。霧島＋比叡or綾波 固定B点。吹雪＋初雪、比叡＋夕立、鳥海＋古鷹＋加古、古鷹＋吹雪、金剛＋榛名，并且战舰在3只以下、战舰+正规空母合计4只以下时，固定B点。除此之外包含雷巡或者潜水舰固定A点</routeDetail>
-        </point>
-        <point position="A">
-            <enemy formation="梯形" detail="潜水ソ級elite、潜水ヨ級flagship、潜水カ級、潜水カ級"></enemy>
-            <route position="C"></route>
-            <drop></drop>
-        </point>
-        <point position="B">
-            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
-            <enemy formation="単横" detail="潜水ヨ級flagship、潜水カ級flagship、潜水カ級、潜水カ級"></enemy>
-            <route position="D"></route>
-            <drop></drop>
-        </point>
-        <point position="C">
-            <enemy formation="輪形" detail="空母ヲ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ヘ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="E"></route>
-            <drop>早霜 矢矧 明石 まるゆ</drop>
-        </point>
-        <point position="D">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="E"></route>
-            <route position="F"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="E" isNight="1">
-            <enemy formation="単縦" detail="軽巡へ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <enemy formation="複縦" detail="軽巡へ級flagship、重巡リ級flagship、重巡リ級elite、雷巡チ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="G"></route>
-            <drop></drop>
-        </point>
-        <point position="F">
-            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、軽巡ツ級、駆逐イ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <route position="I"></route>
-            <route position="H"></route>
-            <routeDetail>龍驤+2驱逐或者1轻巡+2驱逐固定H点。战舰+正规空母合计3只以上固定I点。除此之外，包含2驱逐以上，固定H点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="G" isNight="1">
-            <enemy formation="単縦" detail="戦艦タ級flagship、戦艦タ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <enemy formation="複縦" detail="戦艦タ級flagship、重巡リ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="K"></route>
-            <route position="Z"></route>
-            <routeDetail>包含潜水舰或者战舰+正规空母合计5只以上固定K点。除此之外，达到一定索敌值以上固定Z点</routeDetail>
-            <drop>早霜 明石</drop>
-        </point>
-        <point position="H">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
-            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型"></enemy>
-            <route position="L"></route>
-            <route position="Z"></route>
-            <routeDetail>达到一定索敌值以上时固定Z点</routeDetail>
-            <drop>早霜</drop>
-        </point>
-        <point position="I">
-            <lost detail="うずしお：燃料損失"></lost>
-            <route position="H"></route>
-            <route position="J"></route>
-            <routeDetail>驱逐2只以上固定H点。驱逐1只以下或者战舰+正规空母合计4只以上，固定J点</routeDetail>
-        </point>
-        <point position="J">
-            <enemy formation="複縦" detail="軽母ヌ級flagship、軽母ヌ級flagship、軽巡ツ級、軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
-            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級flagship、軽巡ツ級、軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
-            <route position="H"></route>
-            <route position="L"></route>
-            <routeDetail>战舰+正规空母合计5只以上固定L点。否则达到一定索敌值时固定H点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="K">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="L">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="Z" isBoss="1">
-            <enemy formation="単縦" detail="飛行場姫、戦艦ル級改flagship、戦艦ル級改flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、輸送ワ級flagship"></enemy>
-            <enemy formation="単縦" detail="飛行場姫、戦艦ル級改flagship、戦艦ル級改flagship、軽巡へ級flagship、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
-            <drop>海風 朝霜 清霜 早霜 高波 矢矧 明石</drop>
-        </point>
-    </item>
-
-
-
-    <item index="315" mapName="31" stars="13" exp="100" areaName="西方海域戦線 カレー洋" battleName="奮戦！西部方面派遣艦隊">
-        <point position="-">
-            <route position="A"></route>
-            <route position="B"></route>
-            <routeDetail>秋津洲+1駆逐固定B点。1航巡+2驱逐固定B点。否则固定A点</routeDetail>
-        </point>
-        <point position="A">
-            <enemy formation="梯形" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
-            <enemy formation="単横" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
-            <route position="C"></route>
-            <drop></drop>
-        </point>
-        <point position="B">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="C"></route>
-            <route position="E"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="C">
-            <enemy formation="複縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <route position="F"></route>
-            <drop></drop>
-        </point>
-        <point position="D">
-            <award detail="航空偵察"></award>
-            <route position="F"></route>
-            <route position="H"></route>
-            <routeDetail>包含0正规空母1轻巡2驱逐时固定H点</routeDetail>
-        </point>
-        <point position="E">
-            <enemy formation="単縦" detail="軽巡ヘ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <enemy formation="単縦" detail="軽巡ホ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="D"></route>
-            <route position="L"></route>
-            <route position="G"></route>
-            <routeDetail>战舰3只以上固定G点？</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="F">
-            <enemy formation="単縦" detail="装甲空母姫、重巡リ級flagship、重巡リ級flagship、駆逐ハ級後期型elite、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
-            <enemy formation="輪形" detail="装甲空母姫、重巡リ級flagship、重巡リ級flagship、駆逐ハ級後期型elite、駆逐ニ級後期型、駆逐ニ級後期型"></enemy>
-            <route position="I"></route>
-            <drop></drop>
-        </point>
-        <point position="G">
-            <enemy formation="" detail=""></enemy>
-            <drop>伊168</drop>
-        </point>
-        <point position="H">
-            <enemy formation="" detail=""></enemy>
-            <route position="J"></route>
-            <drop></drop>
-        </point>
-        <point position="I">
-            <award detail="航空偵察"></award>
-            <route position="K"></route>
-        </point>
-        <point position="J">
-            <enemy formation="" detail=""></enemy>
             <route position="M"></route>
-            <route position="K"></route>
-            <drop></drop>
-        </point>
-        <point position="K">
-            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、輸送ワ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <enemy formation="複縦" detail="軽巡ヘ級flagship、輸送ワ級flagship、輸送ワ級flagship、輸送ワ級elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <route position="M"></route>
-            <route position="Z"></route>
-            <routeDetail>战舰+正规空母合计5只以上固定M点？驱逐1只以上固定Z点？</routeDetail>
-            <drop>伊19 伊58 伊8 伊168</drop>
-        </point>
-        <point position="L">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="M">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="Z" isBoss="1">
-            <enemy formation="単縦" detail="戦艦棲姫、重巡リ級flagship、重巡リ級flagship、雷巡チ級flagship、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <enemy formation="単縦" detail="戦艦棲姫、軽母ヌ級flagship、重巡ネ級elite、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <drop>酒匂 U-511 まるゆ Roma</drop>
-        </point>
-    </item>
-
-
-
-    <item index="316" mapName="31" stars="14" exp="100" areaName="ソロモン海東部海域" battleName="反攻作戦！FS方面進出">
-        <point position="-">
-            <route position="A"></route>
-            <route position="C"></route>
-            <routeDetail>空母机动部队不包含①夕立+綾波　②吹雪+古鷹　③比叡+霧島 任一组合时固定C点，否则固定A点。水上打击部队固定A点</routeDetail>
+            <routeDetail>包含 あきつ丸 / 1艘以上空母 / 2艘以上战舰 / 3艘以上航巡，固定M点？全高速舰，轻巡旗舰加3艘以上驱逐 或者 4艘以上驱逐，固定B点？</routeDetail>
         </point>
         <point position="A">
-            <enemy formation="単横" detail="潜水ヨ級flagship、潜水ヨ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級elite"></enemy>
-            <route position="B"></route>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、雷巡チ級flagship、雷巡チ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、雷巡チ級flagship、雷巡チ級flagship、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
             <route position="D"></route>
-            <routeDetail>第一舰队全高速并且战舰+正规空母合计3只以下，第二舰队0战舰4驱逐时固定B点，否则固定D点</routeDetail>
-            <drop></drop>
+            <route position="E"></route>
+            <routeDetail>不明</routeDetail>
+            <drop>睦月 如月 皐月 三日月 菊月 文月 望月 長月</drop>
         </point>
         <point position="B">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="F"></route>
-            <drop></drop>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦" detail="軽巡ホ級flagship、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="単縦、(最終)" detail="軽巡ホ級flagship、駆逐ハ級後期型、駆逐ハ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <enemy formation="単縦、(最終)" detail="軽巡ホ級flagship、駆逐ハ級後期型、駆逐ロ級後期型、駆逐ロ級後期型、駆逐ロ級後期型"></enemy>
+            <route position="D"></route>
+            <drop>睦月 如月 皐月 望月 菊月 三日月 長月 文月</drop>
         </point>
         <point position="C">
-            <enemy formation="複縦" detail="軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <route position="E"></route>
-            <route position="O"></route>
-            <routeDetail>包含雷巡固定O点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="D" isNight="1">
-            <enemy formation="" detail=""></enemy>
-            <route position="E"></route>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、軽母ヌ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、軽母ヌ級" diZhiKongZhi="8" zhiKongYouShi="12" zhiKongQueBao="24"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ヘ級flagship、駆逐イ級後期型、駆逐イ級後期型、軽母ヌ級" diZhiKongZhi="8" zhiKongYouShi="12" zhiKongQueBao="24"></enemy>
+            <enemy formation="単縦、(最終)" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ニ級後期型、駆逐ニ級後期型、軽母ヌ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <enemy formation="単縦、(最終)" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ハ級後期型、駆逐ハ級後期型、軽母ヌ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
             <route position="F"></route>
-            <routeDetail>待验证</routeDetail>
+            <drop>睦月 如月 皐月 菊月 望月 長月 文月 三日月 白露 時雨 村雨 夕立 五月雨 涼風 弥生 谷風 浦風 天龍 龍田 夕張 古鷹 加古 青葉 利根 筑摩 衣笠 千歳 千代田 秋津洲</drop>
+        </point>
+        <point position="D">
+            <enemy formation="空襲戦" detail="離島棲姫(航空隊A)"></enemy>
+            <enemy formation="空襲戦" detail="離島棲姫(航空隊C)"></enemy>
+            <route position="C"></route>
             <drop></drop>
         </point>
         <point position="E">
-            <enemy formation="単横" detail="潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite、潜水カ級elite"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型、駆逐イ級後期型、潜水カ級elite、潜水カ級elite"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型、駆逐イ級後期型、潜水カ級elite、潜水カ級"></enemy>
+            <enemy formation="単縦" detail="重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型、駆逐イ級後期型、潜水カ級、潜水カ級"></enemy>
             <route position="G"></route>
-            <drop></drop>
+            <route position="D"></route>
+            <routeDetail>不明</routeDetail>
+            <drop>皐月 菊月 長月 村雨 夕張</drop>
         </point>
         <point position="F">
-            <enemy formation="輪形" detail="空母ヲ級flagship、戦艦タ級flagship、軽巡ツ級elite、駆逐ロ級後期型elite、駆逐イ級後期型elite、駆逐イ級後期型elite"></enemy>
-            <route position="J"></route>
-            <drop></drop>
-        </point>
-        <point position="G">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="H"></route>
-            <route position="F"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="H">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型"></enemy>
-            <route position="L"></route>
-            <drop></drop>
-        </point>
-        <point position="I">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="J">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="K"></route>
-            <route position="M"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="K">
-            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
-            <route position="I"></route>
-            <route position="L"></route>
-            <route position="Z"></route>
-            <routeDetail>包含雷巡固定L点。达到一定索敌值时固定Z点</routeDetail>
-            <drop>谷風 浦風</drop>
-        </point>
-        <point position="L">
-            <enemy formation="輪形" detail="空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、重巡リ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <route position="P"></route>
-            <route position="Z"></route>
-            <routeDetail>达到一定索敌值时固定Z点</routeDetail>
-            <drop>谷風 浦風 浜風</drop>
-        </point>
-        <point position="M">
-            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
+            <enemy formation="空襲戦" detail="離島棲姫(航空隊A)"></enemy>
+            <enemy formation="空襲戦" detail="離島棲姫(航空隊B)"></enemy>
             <route position="N"></route>
-            <route position="Z"></route>
-            <routeDetail>包含潜水舰或者雷巡固定N点。达到一定索敌值时固定Z点</routeDetail>
-            <drop>山雲 谷風 浦風 浜風</drop>
-        </point>
-        <point position="N">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="O">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="P">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="Z" isBoss="1">
-            <enemy formation="単縦" detail="空母棲姫、戦艦棲姫、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <enemy formation="単縦" detail="空母棲姫、戦艦棲姫、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <drop>浜風 浦風 朝雲 谷風 山雲 風雲 まるゆ</drop>
-        </point>
-    </item>
-
-
-
-    <item index="317" mapName="31" stars="15" exp="100" areaName="FS方面海域" battleName="FS作戦">
-        <point position="-">
-            <route position="B"></route>
-            <route position="E"></route>
-            <routeDetail>随机，水上打击部队较高概率进B点，空母机动部队较高概率进E点</routeDetail>
-        </point>
-        <point position="A">
-            <award detail="弾薬+??"></award>
-            <route position="C"></route>
-        </point>
-        <point position="B">
-            <enemy formation="梯形" detail="潜水ソ級flagship、潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
-            <enemy formation="単横" detail="潜水ソ級flagship、潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
-            <route position="A"></route>
-            <route position="X"></route>
-            <routeDetail>第二舰队包含潜水舰或者雷巡时固定A点，除此之外较高概率进X点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="C">
-            <enemy formation="輪形" detail="輸送ワ級flagship、輸送ワ級flagship、輸送ワ級flagship、軽巡ヘ級flagship、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <drop></drop>
-        </point>
-        <point position="D">
-            <award detail="弾薬+??"></award>
-            <route position="F"></route>
-            <route position="H"></route>
-            <routeDetail>第一舰队包含あきつ丸时固定H点，除此之外较高概率进F点</routeDetail>
-        </point>
-        <point position="E">
-            <enemy formation="単縦" detail="重巡ネ級elite、重巡リ級flagship、雷巡チ級flagship、駆逐ハ級後期型elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <enemy formation="複縦" detail="重巡ネ級elite、重巡リ級flagship、雷巡チ級flagship、駆逐ハ級後期型elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite"></enemy>
-            <route position="G"></route>
-            <drop></drop>
-        </point>
-        <point position="F">
-            <enemy formation="単横" detail="潜水ソ級flagship、潜水ソ級flagship、潜水ソ級flagship、潜水カ級elite、潜水カ級elite"></enemy>
-            <route position="G"></route>
             <drop></drop>
         </point>
         <point position="G">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="I"></route>
-            <route position="J"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="H">
-            <ignore detail="戦闘回避"></ignore>
-            <route position="J"></route>
-            <route position="Y"></route>
-            <routeDetail>手动选择</routeDetail>
-        </point>
-        <point position="I">
-            <enemy formation="梯形" detail="潜水ソ級flagship、潜水ソ級elite、潜水ヨ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級elite"></enemy>
-            <enemy formation="単横" detail="潜水ソ級flagship、潜水ソ級elite、潜水ヨ級elite、潜水ヨ級elite、潜水カ級elite、潜水カ級elite"></enemy>
-            <route position="K"></route>
-            <drop></drop>
-        </point>
-        <point position="J">
-            <enemy formation="複縦" detail="空母ヲ級改flagship、空母ヲ級flagship*7、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
-            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship*7、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite"></enemy>
-            <route position="M"></route>
-            <route position="L"></route>
-            <route position="Y"></route>
-            <routeDetail>随机</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="K">
-            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級flagship、空母ヲ級flagship、駆逐ニ級後期型elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <route position="M"></route>
-            <route position="P"></route>
-            <routeDetail>达到一定索敌值时固定M点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="L">
-            <enemy formation="単縦" detail="戦艦棲姫、戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <enemy formation="複縦" detail="戦艦棲姫、戦艦ル級flagship、戦艦ル級flagship、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <route position="O"></route>
-            <route position="Z"></route>
-            <routeDetail>达到一定索敌值时固定Z点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="M">
-            <enemy formation="複縦" detail="空母ヲ級改flagship、空母ヲ級改flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <enemy formation="輪形" detail="空母ヲ級改flagship、空母ヲ級改flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <route position="N"></route>
-            <route position="Z"></route>
-            <routeDetail>包含雷巡时固定N点，否则达到一定索敌值时固定Z点</routeDetail>
-            <drop></drop>
-        </point>
-        <point position="N">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="O">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="P">
-            <ignore detail="戦闘回避"></ignore>
-        </point>
-        <point position="X">
-            <enemy formation="単縦" detail="港湾棲姫、重巡ネ級elite、重巡ネ級elite、駆逐ロ級後期型elite、駆逐ロ級後期型elite、輸送ワ級flagship"></enemy>
+            <enemy formation="空襲戦" detail="離島棲姫(航空隊A)"></enemy>
             <route position="D"></route>
             <drop></drop>
         </point>
-        <point position="Y">
-            <enemy formation="単縦" detail="離島棲鬼(A)、軽巡ツ級elite、駆逐ハ級後期型elite、駆逐ハ級後期型elite、軽母ヌ級flagship、輸送ワ級flagship"></enemy>
-            <route position="L"></route>
-            <route position="O"></route>
-            <routeDetail>包含雷巡时固定O点，否则达到一定索敌值时固定L点</routeDetail>
-            <drop>風雲 伊401 まるゆ</drop>
+        <point position="H">
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡へ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、軽母ヌ級flagship" diZhiKongZhi="23" zhiKongYouShi="35" zhiKongQueBao="69"></enemy>
+            <enemy formation="単縦" detail="戦艦ル級flagship、戦艦ル級flagship、軽巡へ級flagship、駆逐ロ級後期型、駆逐ロ級後期型、軽母ヌ級elite" diZhiKongZhi="24" zhiKongYouShi="36" zhiKongQueBao="72"></enemy>
+            <route position="J"></route>
+            <drop>睦月 弥生 夕張</drop>
         </point>
-        <point position="Z" isBoss="1">
-            <enemy formation="単縦" detail="防空棲姫(A)、戦艦棲姫、重巡ネ級elite、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <enemy formation="単縦" detail="防空棲姫(A)、戦艦棲姫、戦艦棲姫、重巡ネ級elite、駆逐ニ級後期型elite、駆逐ニ級後期型elite"></enemy>
-            <drop>朝霜 初風 風雲 三隈 まるゆ</drop>
+        <point position="I">
+            <enemy formation="空襲戦" detail="離島棲姫(航空隊A)、軽母ヌ級flagship、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <enemy formation="空襲戦" detail="離島棲姫(航空隊B)、軽母ヌ級flagship、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型"></enemy>
+            <route position="N"></route>
+            <drop></drop>
+        </point>
+        <point position="J">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、戦艦ル級改flagship、重巡ネ級elite、軽巡ツ級elite、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="132" zhiKongYouShi="198" zhiKongQueBao="396"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級elite、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="126" zhiKongYouShi="189" zhiKongQueBao="378"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級改flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="108" zhiKongYouShi="162" zhiKongQueBao="324"></enemy>
+            <enemy formation="輪形、(最終)" detail="空母棲姫、戦艦ル級改flagship、重巡ネ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型" diZhiKongZhi="129" zhiKongYouShi="194" zhiKongQueBao="387"></enemy>
+            <route position="I"></route>
+            <route position="L"></route>
+            <route position="N"></route>
+            <routeDetail>不明</routeDetail>
+            <drop>睦月 如月 皐月 望月菊月 文月 三日月 白露 時雨 村雨 涼風 弥生 谷風 浦風 天龍 龍田 夕張 加古 筑摩 青葉</drop>
+        </point>
+        <point position="K">
+            <enemy formation="輪形" detail="空母ヲ級改flagship、戦艦タ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="108" zhiKongYouShi="162" zhiKongQueBao="324"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、戦艦タ級elite、重巡リ級flagship、軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="103" zhiKongYouShi="155" zhiKongQueBao="309"></enemy>
+            <enemy formation="輪形" detail="空母ヲ級flagship、戦艦タ級elite、重巡リ級flagship、軽巡ホ級flagship、駆逐ロ級後期型、駆逐ロ級後期型" diZhiKongZhi="100" zhiKongYouShi="150" zhiKongQueBao="300"></enemy>
+            <route position="H"></route>
+            <route position="J"></route>
+            <routeDetail>不明</routeDetail>
+            <drop>睦月 如月 皐月 菊月 長月 文月 望月 三日月 白露 時雨 村雨 涼風</drop>
+        </point>
+        <point position="L">
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="46" zhiKongYouShi="69" zhiKongQueBao="138"></enemy>
+            <enemy formation="輪形" detail="軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級flagship、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="46" zhiKongYouShi="69" zhiKongQueBao="138"></enemy>
+            <route position="I"></route>
+            <drop>睦月 如月 文月 望月 村雨 夕立 谷風</drop>
+        </point>
+        <point position="M">
+            <enemy formation="単横、梯形" detail="潜水ソ級flagship、潜水ソ級elite、潜水ソ級、潜水ソ級、潜水ソ級"></enemy>
+            <enemy formation="梯形" detail="潜水ソ級flagship、潜水ソ級elite、潜水ソ級、潜水ソ級"></enemy>
+            <route position="K"></route>
+            <drop></drop>
+        </point>
+        <point position="N" isBoss="1">
+            <enemy formation="単縦" detail="離島棲姫(B)、砲台小鬼(A)、砲台小鬼(B)、砲台小鬼(C)、集積地棲姫-壊(C)、軽巡ホ級flagship" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="単縦" detail="離島棲姫(A)、砲台小鬼(A)、砲台小鬼(B)、砲台小鬼(C)、集積地棲姫(C)、輸送ワ級flagship" diZhiKongZhi="112" zhiKongYouShi="168" zhiKongQueBao="336"></enemy>
+            <enemy formation="単縦" detail="離島棲姫(B)、砲台小鬼(B)、砲台小鬼(C)、集積地棲姫(C)、軽巡ホ級flagship" diZhiKongZhi="34" zhiKongYouShi="51" zhiKongQueBao="102"></enemy>
+            <enemy formation="単縦" detail="離島棲姫(A)、砲台小鬼(B)、砲台小鬼(C)、駆逐イ級後期型、駆逐イ級後期型" diZhiKongZhi="78" zhiKongYouShi="117" zhiKongQueBao="234"></enemy>
+            <enemy formation="単縦、(最終)" detail="離島棲姫(B)、砲台小鬼(A)、砲台小鬼(B)、砲台小鬼(C)、集積地棲姫-壊(C)、輸送ワ級flagship" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <enemy formation="単縦、(最終)" detail="離島棲姫(B)、砲台小鬼(A)、砲台小鬼(B)、砲台小鬼(C)、集積地棲姫-壊(C)、軽巡ヘ級flagship" diZhiKongZhi="48" zhiKongYouShi="72" zhiKongQueBao="144"></enemy>
+            <drop>弥生 夕雲 朝雲 山雲 時津風 速吸</drop>
         </point>
     </item>
+
+
+
+
+
+
+
+
+
+
 
 
 

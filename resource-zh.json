@@ -1,6 +1,6 @@
 {
   "minVersion" : "1.4.0",
-  "maxVersion" : "1.9.3",
+  "maxVersion" : "1.9.4",
   "optional" : [
     {
       "filesize" : 197784,
@@ -61,41 +61,6 @@
       "filesize" : 216810,
       "path" : "Resource\/Image\/Map",
       "filename" : "Map31.jpg"
-    },
-    {
-      "filesize" : 104471,
-      "path" : "Resource\/Image\/Map",
-      "filename" : "Map311.jpg"
-    },
-    {
-      "filesize" : 81345,
-      "path" : "Resource\/Image\/Map",
-      "filename" : "Map312.jpg"
-    },
-    {
-      "filesize" : 104785,
-      "path" : "Resource\/Image\/Map",
-      "filename" : "Map313.jpg"
-    },
-    {
-      "filesize" : 305677,
-      "path" : "Resource\/Image\/Map",
-      "filename" : "Map314.jpg"
-    },
-    {
-      "filesize" : 103312,
-      "path" : "Resource\/Image\/Map",
-      "filename" : "Map315.jpg"
-    },
-    {
-      "filesize" : 114786,
-      "path" : "Resource\/Image\/Map",
-      "filename" : "Map316.jpg"
-    },
-    {
-      "filesize" : 102257,
-      "path" : "Resource\/Image\/Map",
-      "filename" : "Map317.jpg"
     },
     {
       "filesize" : 223914,
@@ -181,6 +146,11 @@
       "filesize" : 116815,
       "path" : "Resource\/Image\/Map",
       "filename" : "Map63.jpg"
+    },
+    {
+      "filesize" : 52681,
+      "path" : "Resource\/Image\/Map",
+      "filename" : "Map64.jpg"
     },
     {
       "filesize" : 43523,
@@ -1293,6 +1263,11 @@
       "filename" : "ship_2003.jpg"
     },
     {
+      "filesize" : 54182,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_2004.jpg"
+    },
+    {
       "filesize" : 62592,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_200_b.jpg"
@@ -1968,6 +1943,391 @@
       "filename" : "ship_3047_b.jpg"
     },
     {
+      "filesize" : 44231,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3048.jpg"
+    },
+    {
+      "filesize" : 35999,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3048_b.jpg"
+    },
+    {
+      "filesize" : 44835,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3049.jpg"
+    },
+    {
+      "filesize" : 40673,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3049_b.jpg"
+    },
+    {
+      "filesize" : 44052,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3050.jpg"
+    },
+    {
+      "filesize" : 32303,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3050_b.jpg"
+    },
+    {
+      "filesize" : 73779,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3051.jpg"
+    },
+    {
+      "filesize" : 77182,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3051_b.jpg"
+    },
+    {
+      "filesize" : 47709,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3052.jpg"
+    },
+    {
+      "filesize" : 52267,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3052_b.jpg"
+    },
+    {
+      "filesize" : 42439,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3053.jpg"
+    },
+    {
+      "filesize" : 33522,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3053_b.jpg"
+    },
+    {
+      "filesize" : 53225,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3054.jpg"
+    },
+    {
+      "filesize" : 46268,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3054_b.jpg"
+    },
+    {
+      "filesize" : 30788,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3055.jpg"
+    },
+    {
+      "filesize" : 50074,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3055_b.jpg"
+    },
+    {
+      "filesize" : 47568,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3056.jpg"
+    },
+    {
+      "filesize" : 49003,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3056_b.jpg"
+    },
+    {
+      "filesize" : 76419,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3057.jpg"
+    },
+    {
+      "filesize" : 64749,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3057_b.jpg"
+    },
+    {
+      "filesize" : 37888,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3058.jpg"
+    },
+    {
+      "filesize" : 30981,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3058_b.jpg"
+    },
+    {
+      "filesize" : 40130,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3059.jpg"
+    },
+    {
+      "filesize" : 50010,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3059_b.jpg"
+    },
+    {
+      "filesize" : 50770,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3060.jpg"
+    },
+    {
+      "filesize" : 39180,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3060_b.jpg"
+    },
+    {
+      "filesize" : 45355,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3061.jpg"
+    },
+    {
+      "filesize" : 38477,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3061_b.jpg"
+    },
+    {
+      "filesize" : 44881,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3062.jpg"
+    },
+    {
+      "filesize" : 35985,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3062_b.jpg"
+    },
+    {
+      "filesize" : 54091,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3063.jpg"
+    },
+    {
+      "filesize" : 39884,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3063_b.jpg"
+    },
+    {
+      "filesize" : 64895,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3064.jpg"
+    },
+    {
+      "filesize" : 55583,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3064_b.jpg"
+    },
+    {
+      "filesize" : 50980,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3065.jpg"
+    },
+    {
+      "filesize" : 34335,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3065_b.jpg"
+    },
+    {
+      "filesize" : 40344,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3066.jpg"
+    },
+    {
+      "filesize" : 39775,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3066_b.jpg"
+    },
+    {
+      "filesize" : 61567,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3067.jpg"
+    },
+    {
+      "filesize" : 48777,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3067_b.jpg"
+    },
+    {
+      "filesize" : 37279,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3068.jpg"
+    },
+    {
+      "filesize" : 39261,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3068_b.jpg"
+    },
+    {
+      "filesize" : 54205,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3069.jpg"
+    },
+    {
+      "filesize" : 32942,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3069_b.jpg"
+    },
+    {
+      "filesize" : 67612,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3070.jpg"
+    },
+    {
+      "filesize" : 43911,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3070_b.jpg"
+    },
+    {
+      "filesize" : 80934,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3071.jpg"
+    },
+    {
+      "filesize" : 78135,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3071_b.jpg"
+    },
+    {
+      "filesize" : 71596,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3072.jpg"
+    },
+    {
+      "filesize" : 70652,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3072_b.jpg"
+    },
+    {
+      "filesize" : 57389,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3073.jpg"
+    },
+    {
+      "filesize" : 43137,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3073_b.jpg"
+    },
+    {
+      "filesize" : 113789,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3074.jpg"
+    },
+    {
+      "filesize" : 113277,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3075.jpg"
+    },
+    {
+      "filesize" : 113602,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3076.jpg"
+    },
+    {
+      "filesize" : 82874,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3077.jpg"
+    },
+    {
+      "filesize" : 87566,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3077_b.jpg"
+    },
+    {
+      "filesize" : 58658,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3078.jpg"
+    },
+    {
+      "filesize" : 65863,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3078_b.jpg"
+    },
+    {
+      "filesize" : 75289,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3079.jpg"
+    },
+    {
+      "filesize" : 60052,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3079_b.jpg"
+    },
+    {
+      "filesize" : 60302,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3080.jpg"
+    },
+    {
+      "filesize" : 72846,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3080_b.jpg"
+    },
+    {
+      "filesize" : 45189,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3081.jpg"
+    },
+    {
+      "filesize" : 47578,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3081_b.jpg"
+    },
+    {
+      "filesize" : 45807,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3082.jpg"
+    },
+    {
+      "filesize" : 50169,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3082_b.jpg"
+    },
+    {
+      "filesize" : 43761,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3083.jpg"
+    },
+    {
+      "filesize" : 63921,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3083_b.jpg"
+    },
+    {
+      "filesize" : 57295,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3084.jpg"
+    },
+    {
+      "filesize" : 57791,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3084_b.jpg"
+    },
+    {
+      "filesize" : 59953,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3085.jpg"
+    },
+    {
+      "filesize" : 61568,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3085_b.jpg"
+    },
+    {
+      "filesize" : 54854,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3086.jpg"
+    },
+    {
+      "filesize" : 59776,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3086_b.jpg"
+    },
+    {
+      "filesize" : 48054,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3087.jpg"
+    },
+    {
+      "filesize" : 73670,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_3087_b.jpg"
+    },
+    {
       "filesize" : 53073,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_309.jpg"
@@ -2228,6 +2588,16 @@
       "filename" : "ship_352_b.jpg"
     },
     {
+      "filesize" : 57782,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_353.jpg"
+    },
+    {
+      "filesize" : 54282,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_353_b.jpg"
+    },
+    {
       "filesize" : 43509,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_35_b.jpg"
@@ -2408,6 +2778,16 @@
       "filename" : "ship_417_b.jpg"
     },
     {
+      "filesize" : 74687,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_418.jpg"
+    },
+    {
+      "filesize" : 78964,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_418_b.jpg"
+    },
+    {
       "filesize" : 51008,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_419.jpg"
@@ -2446,6 +2826,16 @@
       "filesize" : 41623,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_422_b.jpg"
+    },
+    {
+      "filesize" : 63151,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_423.jpg"
+    },
+    {
+      "filesize" : 75164,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_423_b.jpg"
     },
     {
       "filesize" : 43225,
@@ -2526,6 +2916,16 @@
       "filesize" : 51539,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_430_b.jpg"
+    },
+    {
+      "filesize" : 55750,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_432.jpg"
+    },
+    {
+      "filesize" : 53911,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_432_b.jpg"
     },
     {
       "filesize" : 36077,
@@ -2638,6 +3038,16 @@
       "filename" : "ship_447_b.jpg"
     },
     {
+      "filesize" : 85955,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_448.jpg"
+    },
+    {
+      "filesize" : 74092,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_448_b.jpg"
+    },
+    {
       "filesize" : 39496,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_44_b.jpg"
@@ -2668,6 +3078,16 @@
       "filename" : "ship_451_b.jpg"
     },
     {
+      "filesize" : 61271,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_452.jpg"
+    },
+    {
+      "filesize" : 72749,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_452_b.jpg"
+    },
+    {
       "filesize" : 51998,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_453.jpg"
@@ -2676,6 +3096,26 @@
       "filesize" : 51049,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_453_b.jpg"
+    },
+    {
+      "filesize" : 42357,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_454.jpg"
+    },
+    {
+      "filesize" : 36848,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_454_b.jpg"
+    },
+    {
+      "filesize" : 41532,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_455.jpg"
+    },
+    {
+      "filesize" : 41944,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_455_b.jpg"
     },
     {
       "filesize" : 48539,
@@ -2728,6 +3168,36 @@
       "filename" : "ship_461_b.jpg"
     },
     {
+      "filesize" : 66605,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_462.jpg"
+    },
+    {
+      "filesize" : 48341,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_462_b.jpg"
+    },
+    {
+      "filesize" : 55915,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_464.jpg"
+    },
+    {
+      "filesize" : 62289,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_464_b.jpg"
+    },
+    {
+      "filesize" : 54712,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_465.jpg"
+    },
+    {
+      "filesize" : 39911,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_465_b.jpg"
+    },
+    {
       "filesize" : 72959,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_466.jpg"
@@ -2738,6 +3208,16 @@
       "filename" : "ship_466_b.jpg"
     },
     {
+      "filesize" : 71622,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_467.jpg"
+    },
+    {
+      "filesize" : 54228,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_467_b.jpg"
+    },
+    {
       "filesize" : 59309,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_46_b.jpg"
@@ -2746,6 +3226,16 @@
       "filesize" : 49502,
       "path" : "Resource\/Image\/Ships",
       "filename" : "ship_47.jpg"
+    },
+    {
+      "filesize" : 56641,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_470.jpg"
+    },
+    {
+      "filesize" : 62991,
+      "path" : "Resource\/Image\/Ships",
+      "filename" : "ship_470_b.jpg"
     },
     {
       "filesize" : 50496,
@@ -4653,6 +5143,81 @@
       "filename" : "150.png"
     },
     {
+      "filesize" : 57489,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "151.png"
+    },
+    {
+      "filesize" : 81363,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "152.png"
+    },
+    {
+      "filesize" : 57815,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "153.png"
+    },
+    {
+      "filesize" : 77908,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "154.png"
+    },
+    {
+      "filesize" : 58704,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "155.png"
+    },
+    {
+      "filesize" : 65153,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "156.png"
+    },
+    {
+      "filesize" : 71357,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "157.png"
+    },
+    {
+      "filesize" : 55576,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "158.png"
+    },
+    {
+      "filesize" : 62499,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "159.png"
+    },
+    {
+      "filesize" : 58698,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "160.png"
+    },
+    {
+      "filesize" : 56172,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "161.png"
+    },
+    {
+      "filesize" : 93854,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "162.png"
+    },
+    {
+      "filesize" : 62464,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "163.png"
+    },
+    {
+      "filesize" : 66774,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "164.png"
+    },
+    {
+      "filesize" : 86383,
+      "path" : "Resource\/Image\/Equip\/item_character",
+      "filename" : "165.png"
+    },
+    {
       "filesize" : 42261,
       "path" : "Resource\/Image\/Equip\/item_on",
       "filename" : "001.png"
@@ -5403,6 +5968,81 @@
       "filename" : "150.png"
     },
     {
+      "filesize" : 57020,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "151.png"
+    },
+    {
+      "filesize" : 55911,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "152.png"
+    },
+    {
+      "filesize" : 51524,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "153.png"
+    },
+    {
+      "filesize" : 58394,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "154.png"
+    },
+    {
+      "filesize" : 55512,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "155.png"
+    },
+    {
+      "filesize" : 53130,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "156.png"
+    },
+    {
+      "filesize" : 56081,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "157.png"
+    },
+    {
+      "filesize" : 44150,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "158.png"
+    },
+    {
+      "filesize" : 53577,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "159.png"
+    },
+    {
+      "filesize" : 55613,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "160.png"
+    },
+    {
+      "filesize" : 38742,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "161.png"
+    },
+    {
+      "filesize" : 38383,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "162.png"
+    },
+    {
+      "filesize" : 59911,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "163.png"
+    },
+    {
+      "filesize" : 60316,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "164.png"
+    },
+    {
+      "filesize" : 75956,
+      "path" : "Resource\/Image\/Equip\/item_on",
+      "filename" : "165.png"
+    },
+    {
       "filesize" : 422,
       "path" : "Resource\/Image\/Equip\/item_icon",
       "filename" : "1.png"
@@ -5538,6 +6178,16 @@
       "filename" : "33.png"
     },
     {
+      "filesize" : 569,
+      "path" : "Resource\/Image\/Equip\/item_icon",
+      "filename" : "34.png"
+    },
+    {
+      "filesize" : 805,
+      "path" : "Resource\/Image\/Equip\/item_icon",
+      "filename" : "35.png"
+    },
+    {
       "filesize" : 564,
       "path" : "Resource\/Image\/Equip\/item_icon",
       "filename" : "4.png"
@@ -5568,11 +6218,11 @@
       "filename" : "9.png"
     }
   ],
-  "date" : "2015-10-14",
-  "content" : "1、修正部分数据错误\n\n2、开放1-4区的战果查询",
+  "date" : "2016-03-16",
+  "content" : "1、更新海域以及攻略：\n● 6-4「中部北海域ピーコック島沖」",
   "required" : [
     {
-      "filesize" : 1736615,
+      "filesize" : 1782889,
       "path" : "Resource\/Data\/zh",
       "filename" : "api_start2.json"
     },
@@ -5587,7 +6237,7 @@
       "filename" : "ConstructTime.xml"
     },
     {
-      "filesize" : 9962,
+      "filesize" : 2407,
       "path" : "Resource\/Data\/zh",
       "filename" : "Deck.json"
     },
@@ -5597,17 +6247,17 @@
       "filename" : "Develop.xml"
     },
     {
-      "filesize" : 35461,
+      "filesize" : 37895,
       "path" : "Resource\/Data\/zh",
       "filename" : "Equip.xml"
     },
     {
-      "filesize" : 42753,
+      "filesize" : 48903,
       "path" : "Resource\/Data\/zh",
       "filename" : "EquipLevelup.xml"
     },
     {
-      "filesize" : 2160,
+      "filesize" : 2163,
       "path" : "Resource\/Data\/zh",
       "filename" : "EquipType.xml"
     },
@@ -5617,17 +6267,22 @@
       "filename" : "Expedition.xml"
     },
     {
-      "filesize" : 264237,
+      "filesize" : 2525,
+      "path" : "Resource\/Data\/zh",
+      "filename" : "LimitedVoice.xml"
+    },
+    {
+      "filesize" : 237626,
       "path" : "Resource\/Data\/zh",
       "filename" : "Map.xml"
     },
     {
-      "filesize" : 61517,
+      "filesize" : 72545,
       "path" : "Resource\/Data\/zh",
       "filename" : "Quest.xml"
     },
     {
-      "filesize" : 14410,
+      "filesize" : 16457,
       "path" : "Resource\/Data\/zh",
       "filename" : "QuestAward.xml"
     },
@@ -5647,7 +6302,7 @@
       "filename" : "Rank.xml"
     },
     {
-      "filesize" : 163352,
+      "filesize" : 170604,
       "path" : "Resource\/Data\/zh",
       "filename" : "Ship.xml"
     },
@@ -5657,7 +6312,7 @@
       "filename" : "ShipType.xml"
     },
     {
-      "filesize" : 11141,
+      "filesize" : 15698,
       "path" : "Resource\/Data\/zh",
       "filename" : "updatelog.json"
     }
