@@ -1,1089 +1,1089 @@
 {
   "QuestAward": [
     {
-      "index": "1001",
+      "index": 1001,
       "code": "A1",
       "awardShip": "10.1"
     },
     {
-      "index": "1002",
+      "index": 1002,
       "code": "A2",
       "awardUseTemp": "2.1"
     },
     {
-      "index": "1003",
+      "index": 1003,
       "code": "A3",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "1004",
+      "index": 1004,
       "code": "A4",
       "awardOther": "第2艦隊開放"
     },
     {
-      "index": "1005",
+      "index": 1005,
       "code": "A5",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "1006",
+      "index": 1006,
       "code": "A6",
       "awardUseTemp": "2.1"
     },
     {
-      "index": "1007",
+      "index": 1007,
       "code": "A7",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "1008",
+      "index": 1008,
       "code": "A8",
       "awardUseTemp": "2.2"
     },
     {
-      "index": "1009",
+      "index": 1009,
       "code": "A9",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "1010",
+      "index": 1010,
       "code": "A10",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "1011",
+      "index": 1011,
       "code": "A11",
       "awardUseTemp": "2.2"
     },
     {
-      "index": "1012",
+      "index": 1012,
       "code": "A12",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "1013",
+      "index": 1013,
       "code": "A13",
       "awardUseTemp": "2.2"
     },
     {
-      "index": "1014",
+      "index": 1014,
       "code": "A14",
       "awardOther": "第3艦隊開放"
     },
     {
-      "index": "1015",
+      "index": 1015,
       "code": "A15",
       "awardUseTemp": "1.1,3.1"
     },
     {
-      "index": "1016",
+      "index": 1016,
       "code": "A16",
       "awardOther": "第4艦隊開放"
     },
     {
-      "index": "1017",
+      "index": 1017,
       "code": "A17",
       "awardUseTemp": "1.2,3.1"
     },
     {
-      "index": "1018",
+      "index": 1018,
       "code": "A18",
       "awardUseTemp": "1.2,3.2"
     },
     {
-      "index": "1019",
+      "index": 1019,
       "code": "A19",
       "awardUseTemp": "2.2,3.4"
     },
     {
-      "index": "1020",
+      "index": 1020,
       "code": "A20",
       "awardUseTemp": "1.3"
     },
     {
-      "index": "1021",
+      "index": 1021,
       "code": "A21",
       "awardUseTemp": "1.2,3.1"
     },
     {
-      "index": "1022",
+      "index": 1022,
       "code": "A22",
       "awardUseTemp": "54.1"
     },
     {
-      "index": "1023",
+      "index": 1023,
       "code": "A23",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "1024",
+      "index": 1024,
       "code": "A24",
       "awardUseTemp": "54.1"
     },
     {
-      "index": "1025",
+      "index": 1025,
       "code": "A25",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "1026",
+      "index": 1026,
       "code": "A26",
       "awardUseTemp": "1.2"
     },
     {
-      "index": "1027",
+      "index": 1027,
       "code": "A27",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "1028",
+      "index": 1028,
       "code": "A28",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "1029",
+      "index": 1029,
       "code": "A29",
       "awardUseTemp": "1.3"
     },
     {
-      "index": "1030",
+      "index": 1030,
       "code": "A30",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "1031",
+      "index": 1031,
       "code": "A31",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "1032",
+      "index": 1032,
       "code": "A32",
       "awardUseTemp": "3.1,50.1"
     },
     {
-      "index": "1033",
+      "index": 1033,
       "code": "A33",
       "awardUseTemp": "1.2,50.1"
     },
     {
-      "index": "1034",
+      "index": 1034,
       "code": "A34",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "1035",
+      "index": 1035,
       "code": "A35",
       "awardUseTemp": "3.5"
     },
     {
-      "index": "1036",
+      "index": 1036,
       "code": "A36",
       "awardUseTemp": "1.2,3.2"
     },
     {
-      "index": "1037",
+      "index": 1037,
       "code": "A37",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "1038",
+      "index": 1038,
       "code": "A38",
       "awardEquip": "88.1"
     },
     {
-      "index": "1039",
+      "index": 1039,
       "code": "A39",
       "awardUseTemp": "2.2,3.2"
     },
     {
-      "index": "1040",
+      "index": 1040,
       "code": "A40",
       "awardEquip": "103.1"
     },
     {
-      "index": "1041",
+      "index": 1041,
       "code": "A41",
       "awardUseTemp": "3.2"
     },
     {
-      "index": "1042",
+      "index": 1042,
       "code": "A42",
       "awardUseTemp": "1.2"
     },
     {
-      "index": "1043",
+      "index": 1043,
       "code": "A43",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "1044",
+      "index": 1044,
       "code": "A44",
       "awardUseTemp": "3.2,4.3"
     },
     {
-      "index": "1045",
+      "index": 1045,
       "code": "A45",
       "awardUseTemp": "4.5",
       "awardOther": "改修工廠開放"
     },
     {
-      "index": "1046",
+      "index": 1046,
       "code": "A46",
       "awardUseTemp": "1.2,3.2"
     },
     {
-      "index": "1047",
+      "index": 1047,
       "code": "A47",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "1048",
+      "index": 1048,
       "code": "A48",
       "awardUseTemp": "1.3"
     },
     {
-      "index": "1049",
+      "index": 1049,
       "code": "A49",
       "awardUseTemp": "1.2,3.2"
     },
     {
-      "index": "1050",
+      "index": 1050,
       "code": "A50",
       "awardUseTemp": "1.2"
     },
     {
-      "index": "1051",
+      "index": 1051,
       "code": "A51",
       "awardUseTemp": "3.2"
     },
     {
-      "index": "1052",
+      "index": 1052,
       "code": "A52",
       "awardUseTemp": "1.2,3.2"
     },
     {
-      "index": "1053",
+      "index": 1053,
       "code": "A53",
       "awardEquip": "74.1"
     },
     {
-      "index": "1054",
+      "index": 1054,
       "code": "A54",
       "awardUseTemp": "1.2,11.1"
     },
     {
-      "index": "1055",
+      "index": 1055,
       "code": "A55",
       "awardUseTemp": "1.3,12.1"
     },
     {
-      "index": "1056",
+      "index": 1056,
       "code": "A56",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "1057",
+      "index": 1057,
       "code": "A57",
       "awardUseTemp": "3.2,4.2"
     },
     {
-      "index": "1058",
+      "index": 1058,
       "code": "A58",
       "awardUseTemp": "3.2,1.2"
     },
     {
-      "index": "1090",
+      "index": 1090,
       "code": "WA01",
       "awardUseTemp": "12.1"
     },
     {
-      "index": "1091",
+      "index": 1091,
       "code": "WA02",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "2001",
+      "index": 2001,
       "code": "B1",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "2002",
+      "index": 2002,
       "code": "B2",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "2003",
+      "index": 2003,
       "code": "B3",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "2004",
+      "index": 2004,
       "code": "B4",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "2005",
+      "index": 2005,
       "code": "B5",
       "awardUseTemp": "3.1",
       "awardShip": "11.1"
     },
     {
-      "index": "2006",
+      "index": 2006,
       "code": "B6",
       "awardShip": "52.1"
     },
     {
-      "index": "2007",
+      "index": 2007,
       "code": "B7",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "2008",
+      "index": 2008,
       "code": "B8",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "2009",
+      "index": 2009,
       "code": "B9",
       "awardUseTemp": "1.1,3.1"
     },
     {
-      "index": "2010",
+      "index": 2010,
       "code": "B10",
       "awardShip": "83.1"
     },
     {
-      "index": "2011",
+      "index": 2011,
       "code": "B11",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "2012",
+      "index": 2012,
       "code": "B12",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "2013",
+      "index": 2013,
       "code": "B13",
       "awardUseTemp": "1.2"
     },
     {
-      "index": "2014",
+      "index": 2014,
       "code": "B14",
       "awardUseTemp": "1.2,10.1"
     },
     {
-      "index": "2015",
+      "index": 2015,
       "code": "B15",
       "awardUseTemp": "1.2,11.1"
     },
     {
-      "index": "2016",
+      "index": 2016,
       "code": "B16",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "2017",
+      "index": 2017,
       "code": "B17",
       "awardUseTemp": "52.1"
     },
     {
-      "index": "2018",
+      "index": 2018,
       "code": "B18",
       "awardUseTemp": "54.1"
     },
     {
-      "index": "2019",
+      "index": 2019,
       "code": "B19",
       "awardUseTemp": "11.1,50.1"
     },
     {
-      "index": "2020",
+      "index": 2020,
       "code": "B20",
       "awardUseTemp": "3.1,11.1"
     },
     {
-      "index": "2021",
+      "index": 2021,
       "code": "B21",
       "awardUseTemp": "3.2,12.1"
     },
     {
-      "index": "2022",
+      "index": 2022,
       "code": "B22",
       "awardUseTemp": "54.1"
     },
     {
-      "index": "2023",
+      "index": 2023,
       "code": "B23",
       "awardUseTemp": "1.3,12.1"
     },
     {
-      "index": "2024",
+      "index": 2024,
       "code": "B24",
       "awardUseTemp": "52.1"
     },
     {
-      "index": "2025",
+      "index": 2025,
       "code": "B25",
       "awardUseTemp": "54.1"
     },
     {
-      "index": "2026",
+      "index": 2026,
       "code": "B26",
       "awardUseTemp": "52.1"
     },
     {
-      "index": "2027",
+      "index": 2027,
       "code": "B27",
       "awardEquip": "103.1"
     },
     {
-      "index": "2028",
+      "index": 2028,
       "code": "B28",
       "awardUseTemp": "12.1",
       "awardEquip": "108.1"
     },
     {
-      "index": "2029",
+      "index": 2029,
       "code": "B29",
       "awardUseTemp": "1.3,50.1"
     },
     {
-      "index": "2030",
+      "index": 2030,
       "code": "B30",
       "awardUseTemp": "12.1,52.1"
     },
     {
-      "index": "2031",
+      "index": 2031,
       "code": "B31",
       "awardEquip": "116.1"
     },
     {
-      "index": "2032",
+      "index": 2032,
       "code": "B32",
       "awardUseTemp": "3.2",
       "awardEquip": "116.1"
     },
     {
-      "index": "2033",
+      "index": 2033,
       "code": "B33",
       "awardUseTemp": "4.5,57.1"
     },
     {
-      "index": "2034",
+      "index": 2034,
       "code": "B34",
       "awardUseTemp": "12.1,52.1"
     },
     {
-      "index": "2035",
+      "index": 2035,
       "code": "B35",
       "awardUseTemp": "54.1"
     },
     {
-      "index": "2036",
+      "index": 2036,
       "code": "B36",
       "awardUseTemp": "3.2",
       "awardEquip": "47.1"
     },
     {
-      "index": "2037",
+      "index": 2037,
       "code": "B37",
       "awardUseTemp": "60.1"
     },
     {
-      "index": "2038",
+      "index": 2038,
       "code": "B38",
       "awardUseTemp": "4.2,12.1"
     },
     {
-      "index": "2039",
+      "index": 2039,
       "code": "B39",
       "awardUseTemp": "59.1,11.1"
     },
     {
-      "index": "2040",
+      "index": 2040,
       "code": "B40",
       "awardEquip": "40.1,35.1"
     },
     {
-      "index": "2041",
+      "index": 2041,
       "code": "B41",
       "awardUseTemp": "3.3,4.3"
     },
     {
-      "index": "2042",
+      "index": 2042,
       "code": "B42",
       "awardUseTemp": "3.3",
       "awardEquip": "46.1"
     },
     {
-      "index": "2043",
+      "index": 2043,
       "code": "B43",
       "awardUseTemp": "1.3,52.1"
     },
     {
-      "index": "2044",
+      "index": 2044,
       "code": "B44",
       "awardUseTemp": "3.5,4.2"
     },
     {
-      "index": "2045",
+      "index": 2045,
       "code": "B45",
       "awardUseTemp": "4.2",
       "awardEquip": "46.1"
     },
     {
-      "index": "2046",
+      "index": 2046,
       "code": "B46",
       "awardUseTemp": "1.3,52.1"
     },
     {
-      "index": "2047",
+      "index": 2047,
       "code": "B47",
       "awardUseTemp": "3.4,4.4"
     },
     {
-      "index": "2048",
+      "index": 2048,
       "code": "B48",
       "awardUseTemp": "52.1"
     },
     {
-      "index": "2049",
+      "index": 2049,
       "code": "B49",
       "awardUseTemp": "4.3",
       "awardEquip": "145.2"
     },
     {
-      "index": "2050",
+      "index": 2050,
       "code": "B50",
       "awardUseTemp": "1.3,59.1"
     },
     {
-      "index": "2051",
+      "index": 2051,
       "code": "B51",
       "awardUseTemp": "66.1,60.1"
     },
     {
-      "index": "2052",
+      "index": 2052,
       "code": "B52",
       "awardUseTemp": "11.1,60.1"
     },
     {
-      "index": "2090",
+      "index": 2090,
       "code": "WB01",
       "awardUseTemp": "55.1"
     },
     {
-      "index": "2091",
+      "index": 2091,
       "code": "WB02",
       "awardFurniture": "183.1"
     },
     {
-      "index": "2101",
+      "index": 2101,
       "code": "Bd1",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "2102",
+      "index": 2102,
       "code": "Bd2",
       "awardUseTemp": "1.1,3.1"
     },
     {
-      "index": "2103",
+      "index": 2103,
       "code": "Bd3",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "2104",
+      "index": 2104,
       "code": "Bd4",
       "awardUseTemp": "1.2",
       "day": "3,7,10,13,17,20,23,27,30"
     },
     {
-      "index": "2105",
+      "index": 2105,
       "code": "Bd5",
       "awardUseTemp": "1.1,3.1"
     },
     {
-      "index": "2106",
+      "index": 2106,
       "code": "Bd6",
       "awardUseTemp": "3.2",
       "day": "2,8,12,18,22,28"
     },
     {
-      "index": "2107",
+      "index": 2107,
       "code": "Bd7",
       "awardUseTemp": "1.1,2.1"
     },
     {
-      "index": "2108",
+      "index": 2108,
       "code": "Bd8",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "2201",
+      "index": 2201,
       "code": "Bw1",
       "awardUseTemp": "2.2,3.2"
     },
     {
-      "index": "2202",
+      "index": 2202,
       "code": "Bw2",
       "awardUseTemp": "3.2"
     },
     {
-      "index": "2203",
+      "index": 2203,
       "code": "Bw3",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "2204",
+      "index": 2204,
       "code": "Bw4",
       "awardUseTemp": "1.3"
     },
     {
-      "index": "2205",
+      "index": 2205,
       "code": "Bw5",
       "awardUseTemp": "1.2,4.1"
     },
     {
-      "index": "2206",
+      "index": 2206,
       "code": "Bw6",
       "awardUseTemp": "3.2"
     },
     {
-      "index": "2207",
+      "index": 2207,
       "code": "Bw7",
       "awardUseTemp": "3.3,4.3"
     },
     {
-      "index": "2208",
+      "index": 2208,
       "code": "Bw8",
       "awardUseTemp": "1.1,3.1"
     },
     {
-      "index": "2209",
+      "index": 2209,
       "code": "Bw9",
       "awardUseTemp": "3.2,4.2"
     },
     {
-      "index": "2210",
+      "index": 2210,
       "code": "Bw10",
       "awardUseTemp": "4.3"
     },
     {
-      "index": "2301",
+      "index": 2301,
       "code": "Bm1",
       "awardUseTemp": "3.5,12.1"
     },
     {
-      "index": "2302",
+      "index": 2302,
       "code": "Bm2",
       "awardUseTemp": "12.1,59.1"
     },
     {
-      "index": "2303",
+      "index": 2303,
       "code": "Bm3",
       "awardUseTemp": "4.3,59.1"
     },
     {
-      "index": "2304",
+      "index": 2304,
       "code": "Bm4",
       "awardUseTemp": "1.3,4.4"
     },
     {
-      "index": "2305",
+      "index": 2305,
       "code": "Bm5",
       "awardUseTemp": "3.5,4.3"
     },
     {
-      "index": "2306",
+      "index": 2306,
       "code": "Bm6",
       "awardUseTemp": "4.2,12.2"
     },
     {
-      "index": "2307",
+      "index": 2307,
       "code": "Bm7",
       "awardUseTemp": "3.4,4.2"
     },
     {
-      "index": "2406",
+      "index": 2406,
       "code": "MB06",
       "awardUseTemp": "12.1,52.1"
     },
     {
-      "index": "2407",
+      "index": 2407,
       "code": "MB07",
       "awardUseTemp": "54.1",
       "awardEquip": "129.1"
     },
     {
-      "index": "2413",
+      "index": 2413,
       "code": "SB03",
       "awardUseTemp": "52.1",
       "awardEquip": "46.1"
     },
     {
-      "index": "2414",
+      "index": 2414,
       "code": "SB04",
       "awardUseTemp": "59.3",
       "awardEquip": "47.1"
     },
     {
-      "index": "2415",
+      "index": 2415,
       "code": "SB05",
       "awardFurniture": "261.1",
       "awardEquip": "149.1"
     },
     {
-      "index": "3001",
+      "index": 3001,
       "code": "C1",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "3002",
+      "index": 3002,
       "code": "C2",
       "awardUseTemp": "2.1"
     },
     {
-      "index": "3003",
+      "index": 3003,
       "code": "C3",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "3004",
+      "index": 3004,
       "code": "C4",
       "awardUseTemp": "3.2,4.1"
     },
     {
-      "index": "3005",
+      "index": 3005,
       "code": "C5",
       "awardUseTemp": "1.2"
     },
     {
-      "index": "3006",
+      "index": 3006,
       "code": "C6",
       "awardUseTemp": "1.2,4.1"
     },
     {
-      "index": "3007",
+      "index": 3007,
       "code": "C7",
       "awardUseTemp": "1.2,4.1"
     },
     {
-      "index": "3008",
+      "index": 3008,
       "code": "C8",
       "awardUseTemp": "1.2",
       "awardEquip": "145.1"
     },
     {
-      "index": "3090",
+      "index": 3090,
       "code": "WC01",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "4001",
+      "index": 4001,
       "code": "D1",
       "awardUseTemp": "10.1"
     },
     {
-      "index": "4002",
+      "index": 4002,
       "code": "D2",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "4003",
+      "index": 4003,
       "code": "D3",
       "awardUseTemp": "10.1,11.1"
     },
     {
-      "index": "4004",
+      "index": 4004,
       "code": "D4",
       "awardUseTemp": "3.3,12.1"
     },
     {
-      "index": "4005",
+      "index": 4005,
       "code": "D5",
       "awardUseTemp": "50.1"
     },
     {
-      "index": "4006",
+      "index": 4006,
       "code": "D6",
       "awardEquip": "64.1"
     },
     {
-      "index": "4007",
+      "index": 4007,
       "code": "D7",
       "awardUseTemp": "52.1",
       "awardEquip": "64.1"
     },
     {
-      "index": "4008",
+      "index": 4008,
       "code": "D8",
       "awardShip": "174.1"
     },
     {
-      "index": "4009",
+      "index": 4009,
       "code": "D9",
       "awardUseTemp": "10.1"
     },
     {
-      "index": "4010",
+      "index": 4010,
       "code": "D10",
       "awardEquip": "79.1"
     },
     {
-      "index": "4011",
+      "index": 4011,
       "code": "D11",
       "awardUseTemp": "3.2,4.1"
     },
     {
-      "index": "4012",
+      "index": 4012,
       "code": "D12",
       "awardEquip": "79.1"
     },
     {
-      "index": "4013",
+      "index": 4013,
       "code": "D13",
       "awardEquip": "95.1"
     },
     {
-      "index": "4014",
+      "index": 4014,
       "code": "D14",
       "awardEquip": "95.1"
     },
     {
-      "index": "4015",
+      "index": 4015,
       "code": "D15",
       "awardEquip": "40.1",
       "awardUseTemp": "3.2"
     },
     {
-      "index": "4016",
+      "index": 4016,
       "code": "D16",
       "awardEquip": "120.1",
       "awardUseTemp": "3.2"
     },
     {
-      "index": "4017",
+      "index": 4017,
       "code": "D17",
       "awardUseTemp": "3.3"
     },
     {
-      "index": "4018",
+      "index": 4018,
       "code": "D18",
       "awardUseTemp": "4.1,63.1"
     },
     {
-      "index": "4019",
+      "index": 4019,
       "code": "D19",
       "awardUseTemp": "4.2,12.1"
     },
     {
-      "index": "5001",
+      "index": 5001,
       "code": "E1",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "5002",
+      "index": 5002,
       "code": "E2",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "5003",
+      "index": 5003,
       "code": "E3",
       "awardUseTemp": "1.2"
     },
     {
-      "index": "5004",
+      "index": 5004,
       "code": "E4",
       "awardUseTemp": "2.1,3.1"
     },
     {
-      "index": "6001",
+      "index": 6001,
       "code": "F1",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "6002",
+      "index": 6002,
       "code": "F2",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "6003",
+      "index": 6003,
       "code": "F3",
       "awardUseTemp": "2.1,3.1"
     },
     {
-      "index": "6004",
+      "index": 6004,
       "code": "F4",
       "awardUseTemp": "1.1,3.1"
     },
     {
-      "index": "6005",
+      "index": 6005,
       "code": "F5",
       "awardUseTemp": "2.1,3.1"
     },
     {
-      "index": "6006",
+      "index": 6006,
       "code": "F6",
       "awardUseTemp": "1.1,3.1"
     },
     {
-      "index": "6007",
+      "index": 6007,
       "code": "F7",
       "awardUseTemp": "3.2"
     },
     {
-      "index": "6008",
+      "index": 6008,
       "code": "F8",
       "awardUseTemp": "2.1,3.2"
     },
     {
-      "index": "6009",
+      "index": 6009,
       "code": "F9",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "6010",
+      "index": 6010,
       "code": "F10",
       "awardOther": "「大型艦建造」解放"
     },
     {
-      "index": "6011",
+      "index": 6011,
       "code": "F11",
       "awardEquip": "75.3"
     },
     {
-      "index": "6012",
+      "index": 6012,
       "code": "F12",
       "awardEquip": "75.1"
     },
     {
-      "index": "6013",
+      "index": 6013,
       "code": "F13",
       "awardEquip": "94.1"
     },
     {
-      "index": "6014",
+      "index": 6014,
       "code": "F14",
       "awardEquip": "100.1"
     },
     {
-      "index": "6015",
+      "index": 6015,
       "code": "F15",
       "awardEquip": "110.1"
     },
     {
-      "index": "6016",
+      "index": 6016,
       "code": "F16",
       "awardUseTemp": "59.4"
     },
     {
-      "index": "6017",
+      "index": 6017,
       "code": "F17",
       "awardUseTemp": "4.7"
     },
     {
-      "index": "6018",
+      "index": 6018,
       "code": "F18",
       "awardUseTemp": "4.1"
     },
     {
-      "index": "6019",
+      "index": 6019,
       "code": "F19",
       "awardEquip": "143.1"
     },
     {
-      "index": "6020",
+      "index": 6020,
       "code": "F20",
       "awardEquip": "144.1"
     },
     {
-      "index": "6021",
+      "index": 6021,
       "code": "F21",
       "awardUseTemp": "65.1"
     },
     {
-      "index": "6090",
+      "index": 6090,
       "code": "WF01",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "7001",
+      "index": 7001,
       "code": "G1",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "7002",
+      "index": 7002,
       "code": "G2",
       "awardUseTemp": "1.1"
     },
     {
-      "index": "7003",
+      "index": 7003,
       "code": "G3",
       "awardUseTemp": "2.1,3.2"
     },
     {
-      "index": "7004",
+      "index": 7004,
       "code": "G4",
       "awardUseTemp": "3.1"
     },
     {
-      "index": "31001",
+      "index": 31001,
       "code": "SN01",
       "awardUseTemp": "60.1",
       "awardEquip": "145.1"
     },
     {
-      "index": "31002",
+      "index": 31002,
       "code": "SN02",
       "awardUseTemp": "3.2",
       "awardEquip": "145.1"
     },
     {
-      "index": "31003",
+      "index": 31003,
       "code": "SN03",
       "awardOther": "海域『激突！第二次南太平洋海戦』南太平洋海域 開放"
     },
     {
-      "index": "31004",
+      "index": 31004,
       "code": "SN04",
       "awardUseTemp": "60.2",
       "awardEquip": "54.1"
     },
     {
-      "index": "31005",
+      "index": 31005,
       "code": "SN05",
       "awardUseTemp": "1.3,4.3"
     },
     {
-      "index": "31006",
+      "index": 31006,
       "code": "SN06",
       "awardUseTemp": "1.3,4.3"
     },
     {
-      "index": "31007",
+      "index": 31007,
       "code": "SN07",
       "awardOther": "海域【Extra Operation】『奮戦！西部方面派遣艦隊』西方海域戦線 カレー洋>反撃！第二次SN作戦開放"
     },
     {
-      "index": "31008",
+      "index": 31008,
       "code": "SN08",
       "awardEquip": "144.1"
     },
     {
-      "index": "31009",
+      "index": 31009,
       "code": "SN09",
       "awardUseTemp": "60.1",
       "awardEquip": "145.1"
     },
     {
-      "index": "31010",
+      "index": 31010,
       "code": "SN10",
       "awardOther": "海域【Deep Extra Operation】『反攻作戦！FS方面進出』ソロモン海東部海域開放"
     },
     {
-      "index": "31011",
+      "index": 31011,
       "code": "SN11",
       "awardUseTemp": "4.4",
       "awardEquip": "146.1"
