@@ -17,16 +17,25 @@ def main():
 	with open("api_start2.json", "r") as f:
 		json_data = json.load(f)
 
+	# open the Ship.json file, which came from app and has other useful attributes
+	with open("Ship.json", "r") as f:
+		app_ship_data = json.load(f)
+
 	# loop through and rewrite ship info
 	ships = json_data['api_data']['api_mst_ship']
 	new_ships = []
 	for ship in ships:
+		# なし (nashi) means Null, an unused ID
+		if romkan.to_roma(ship['api_name']) == "nashi":
+			ships.remove(ship)
+			continue
+		
 		# renaming keys: based on: https://kancolletool.github.io/docs/api/
-		mvk(ship, 'api_sortno', 'id') # use card number as primary ID 
-		mvk(ship, 'api_id', 'api_id')           # use API number as alternate ID
+		mvk(ship, 'api_sortno', 'id') # use card number as apparent ID 
+		mvk(ship, 'api_id', 'api_id')           # use API number as primary ID
 		mvk(ship, 'api_name', 'name')
 		mvk(ship, 'api_yomi', 'kana')
-		ship['name_eng'] = romkan.to_roma(ship['kana'])
+		ship['name_roma'] = romkan.to_roma(ship['kana'])
 
 		mvk(ship, 'api_stype', 'ship_class')
 		mvk(ship, 'api_afterlv', 'remodel_min_lv')
