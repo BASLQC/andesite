@@ -1,164 +1,164 @@
 [
   {
     "subType": "1,2,3,19",
-    "name": "主砲",
+    "index": 1,
     "sort": "firepower,antiair,hitrate",
-    "index": 1
+    "name": "主砲"
   },
   {
     "subType": 4,
-    "name": "副砲",
+    "index": 2,
     "sort": "firepower,antiair,hitrate,evasion",
-    "index": 2
+    "name": "副砲"
   },
   {
     "subType": "5,32",
-    "name": "魚雷",
+    "index": 3,
     "sort": "torpedo",
-    "index": 3
+    "name": "魚雷"
   },
   {
     "subType": "22,24",
-    "name": "艦載艇",
+    "index": 4,
     "sort": 0,
-    "index": 4
+    "name": "艦載艇"
   },
   {
     "subType": "6,45",
-    "name": "戦闘機",
+    "index": 5,
     "sort": "antiair,hitrate",
-    "index": 5
+    "name": "戦闘機"
   },
   {
     "subType": "7,11",
-    "name": "爆撃機",
+    "index": 6,
     "sort": "baoZhuang,antisub",
-    "index": 6
+    "name": "爆撃機"
   },
   {
     "subType": 8,
-    "name": "攻撃機",
+    "index": 7,
     "sort": "torpedo,lineOfSight",
-    "index": 7
+    "name": "攻撃機"
   },
   {
     "subType": "9,10,41",
-    "name": "偵察機",
+    "index": 8,
     "sort": "lineOfSight,antisub",
-    "index": 8
+    "name": "偵察機"
   },
   {
     "subType": "25,26",
-    "name": "哨戒機",
+    "index": 9,
     "sort": 0,
-    "index": 9
+    "name": "哨戒機"
   },
   {
     "subType": "12,13",
-    "name": "電探",
+    "index": 10,
     "sort": "hitrate,lineOfSight",
-    "index": 10
+    "name": "電探"
   },
   {
     "subType": 17,
-    "name": "機関",
+    "index": 11,
     "sort": "evasion",
-    "index": 11
+    "name": "機関"
   },
   {
     "subType": "21,18",
-    "name": "対空機銃",
+    "index": 12,
     "sort": "antiair,hitrate,evasion",
-    "index": 12
+    "name": "対空機銃"
   },
   {
     "subType": 15,
-    "name": "爆雷",
+    "index": 13,
     "sort": "antisub",
-    "index": 13
+    "name": "爆雷"
   },
   {
     "subType": "14,40",
-    "name": "ソナー",
+    "index": 14,
     "sort": "antisub",
-    "index": 14
+    "name": "ソナー"
   },
   {
     "subType": 23,
-    "name": "修理要員",
+    "index": 15,
     "sort": 0,
-    "index": 15
+    "name": "修理要員"
   },
   {
     "subType": "27,28",
-    "name": "追加装甲",
+    "index": 16,
     "sort": 0,
-    "index": 16
+    "name": "追加装甲"
   },
   {
     "subType": "29,42",
-    "name": "探照灯",
+    "index": 17,
     "sort": "lineOfSight",
-    "index": 17
+    "name": "探照灯"
   },
   {
     "subType": 30,
-    "name": "簡易輸送部材",
+    "index": 18,
     "sort": 0,
-    "index": 18
+    "name": "簡易輸送部材"
   },
   {
     "subType": 31,
-    "name": "艦艇修理施設",
+    "index": 19,
     "sort": 0,
-    "index": 19
+    "name": "艦艇修理施設"
   },
   {
     "subType": 33,
-    "name": "照明弾",
+    "index": 20,
     "sort": 0,
-    "index": 20
+    "name": "照明弾"
   },
   {
     "subType": 34,
-    "name": "司令部施設",
+    "index": 21,
     "sort": 0,
-    "index": 21
+    "name": "司令部施設"
   },
   {
     "subType": 35,
-    "name": "航空要員",
+    "index": 22,
     "sort": 0,
-    "index": 22
+    "name": "航空要員"
   },
   {
     "subType": 36,
-    "name": "高射装置",
+    "index": 23,
     "sort": "antiair",
-    "index": 23
+    "name": "高射装置"
   },
   {
     "subType": 37,
-    "name": "対地装備",
+    "index": 24,
     "sort": 0,
-    "index": 24
+    "name": "対地装備"
   },
   {
     "subType": 39,
-    "name": "水上艦要員",
+    "index": 25,
     "sort": 0,
-    "index": 25
+    "name": "水上艦要員"
   },
   {
     "subType": 43,
-    "name": "戦闘糧食",
+    "index": 26,
     "sort": 0,
-    "index": 26
+    "name": "戦闘糧食"
   },
   {
     "subType": 44,
-    "name": "補給物資",
+    "index": 27,
     "sort": 0,
-    "index": 27
+    "name": "補給物資"
   }
 ]

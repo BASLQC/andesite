@@ -2,36 +2,36 @@
   {
     "recipe": [
       {
-        "major": 0,
+        "result": "最低値レシピ。青,水色背景の駆逐艦､鬼怒を省く銀背景以下の軽巡洋艦に加え､秋雲､弥生､夕張が出る",
         "fuel": 30,
-        "ammo": 30,
         "bauxite": 30,
+        "major": 0,
         "steel": 30,
-        "result": "最低値レシピ。青,水色背景の駆逐艦､鬼怒を省く銀背景以下の軽巡洋艦に加え､秋雲､弥生､夕張が出る"
+        "ammo": 30
       },
       {
-        "major": 0,
+        "result": "駆逐艦は雪風,島風,Z3(Z1旗艦),Z1(Z3旗艦)のみ　副産艦は軽巡（レア含）・重巡・潜水艦・香取",
         "fuel": 250,
-        "ammo": 30,
         "bauxite": 30,
+        "major": 0,
         "steel": 200,
-        "result": "駆逐艦は雪風,島風,Z3(Z1旗艦),Z1(Z3旗艦)のみ　副産艦は軽巡（レア含）・重巡・潜水艦・香取"
+        "ammo": 30
       },
       {
-        "major": 0,
+        "result": "上記の亜種",
         "fuel": 250,
-        "ammo": 130,
         "bauxite": 30,
+        "major": 0,
         "steel": 200,
-        "result": "上記の亜種"
+        "ammo": 130
       },
       {
-        "major": 0,
+        "result": "重巡洋艦レシピと同じもので狙える駆逐・軽巡は250/30/200/30と同様",
         "fuel": 270,
-        "ammo": 130,
         "bauxite": 30,
+        "major": 0,
         "steel": 330,
-        "result": "重巡洋艦レシピと同じもので狙える駆逐・軽巡は250/30/200/30と同様"
+        "ammo": 130
       }
     ],
     "flagship": 0,
@@ -40,20 +40,20 @@
   {
     "recipe": [
       {
-        "major": 0,
+        "result": "戦艦は長門型,金剛型,扶桑型,伊勢型｡重巡は三隈以外の全て｡",
         "fuel": 400,
-        "ammo": 30,
         "bauxite": 30,
+        "major": 0,
         "steel": 600,
-        "result": "戦艦は長門型,金剛型,扶桑型,伊勢型｡重巡は三隈以外の全て｡"
+        "ammo": 30
       },
       {
-        "major": 0,
+        "result": "上記の亜種",
         "fuel": 400,
-        "ammo": 100,
         "bauxite": 30,
+        "major": 0,
         "steel": 600,
-        "result": "上記の亜種"
+        "ammo": 100
       }
     ],
     "flagship": 0,
@@ -62,36 +62,36 @@
   {
     "recipe": [
       {
-        "major": 0,
+        "result": "空母レシピでは､正規空母(大鳳、雲龍以外)､軽空母(龍鳳以外)､駆逐艦､軽巡洋艦､重巡洋艦(利根型､最上､加古のみ)、水上機母艦が建造可能",
         "fuel": 300,
-        "ammo": 300,
         "bauxite": 600,
+        "major": 0,
         "steel": 600,
-        "result": "空母レシピでは､正規空母(大鳳、雲龍以外)､軽空母(龍鳳以外)､駆逐艦､軽巡洋艦､重巡洋艦(利根型､最上､加古のみ)、水上機母艦が建造可能"
+        "ammo": 300
       },
       {
-        "major": 0,
+        "result": "上記の亜種",
         "fuel": 300,
-        "ammo": 30,
         "bauxite": 300,
+        "major": 0,
         "steel": 400,
-        "result": "上記の亜種"
+        "ammo": 30
       },
       {
-        "major": 0,
+        "result": "上記の亜種",
         "fuel": 350,
-        "ammo": 30,
         "bauxite": 350,
+        "major": 0,
         "steel": 400,
-        "result": "上記の亜種"
+        "ammo": 30
       },
       {
-        "major": 0,
+        "result": "上記の亜種",
         "fuel": 300,
-        "ammo": 30,
         "bauxite": 400,
+        "major": 0,
         "steel": 600,
-        "result": "上記の亜種"
+        "ammo": 30
       }
     ],
     "flagship": 0,
@@ -100,13 +100,13 @@
   {
     "isLarge": 1,
     "recipe": {
-      "major": 0,
-      "fuel": 1500,
-      "ammo": 1500,
-      "bauxite": 1000,
       "material": 1,
+      "result": "最低値レシピ。阿賀野型、最上型(三隈含む)、利根型、まるゆ、その他戦艦等。",
+      "fuel": 1500,
+      "bauxite": 1000,
+      "major": 0,
       "steel": 2000,
-      "result": "最低値レシピ。阿賀野型、最上型(三隈含む)、利根型、まるゆ、その他戦艦等。"
+      "ammo": 1500
     },
     "flagship": 0,
     "name": "大型建造"
@@ -115,40 +115,40 @@
     "isLarge": 1,
     "recipe": [
       {
-        "major": 0,
-        "fuel": 4000,
-        "ammo": 6000,
-        "bauxite": 2000,
         "material": 20,
+        "result": 0,
+        "fuel": 4000,
+        "bauxite": 2000,
+        "major": 0,
         "steel": 6000,
-        "result": 0
+        "ammo": 6000
       },
       {
-        "major": 0,
+        "material": 20,
+        "result": "低確率で大鳳も建造可能",
         "fuel": 4000,
-        "ammo": 6000,
         "bauxite": 3000,
-        "material": 20,
+        "major": 0,
         "steel": 6000,
-        "result": "低確率で大鳳も建造可能"
+        "ammo": 6000
       },
       {
-        "major": 0,
-        "fuel": 6000,
-        "ammo": 5000,
-        "bauxite": 2000,
         "material": 20,
+        "result": 0,
+        "fuel": 6000,
+        "bauxite": 2000,
+        "major": 0,
         "steel": 7000,
-        "result": 0
+        "ammo": 5000
       },
       {
-        "major": 0,
-        "fuel": 6000,
-        "ammo": 4000,
-        "bauxite": 3000,
         "material": 20,
+        "result": "低確率で大鳳も建造可能",
+        "fuel": 6000,
+        "bauxite": 3000,
+        "major": 0,
         "steel": 6000,
-        "result": "低確率で大鳳も建造可能"
+        "ammo": 4000
       }
     ],
     "flagship": 0,
@@ -158,31 +158,31 @@
     "isLarge": 1,
     "recipe": [
       {
-        "major": 0,
+        "material": 20,
+        "result": 0,
         "fuel": 4000,
-        "ammo": 2000,
         "bauxite": 7000,
-        "material": 20,
+        "major": 0,
         "steel": 5000,
-        "result": 0
+        "ammo": 2000
       },
       {
-        "major": 0,
+        "material": 20,
+        "result": "正空母、軽空母、あきつ丸、まるゆ以外をほぼ確実に弾くレシピとしてはボーキの消費量が今のところ最低のレシピ",
         "fuel": 4000,
-        "ammo": 2000,
         "bauxite": 5200,
-        "material": 20,
+        "major": 0,
         "steel": 5000,
-        "result": "正空母、軽空母、あきつ丸、まるゆ以外をほぼ確実に弾くレシピとしてはボーキの消費量が今のところ最低のレシピ"
+        "ammo": 2000
       },
       {
-        "major": 0,
-        "fuel": 3500,
-        "ammo": 3500,
-        "bauxite": 6000,
         "material": 20,
+        "result": "空母系レシピっぽいが、燃料が4000を下回っているため戦艦・巡洋艦（含大和型）も出る",
+        "fuel": 3500,
+        "bauxite": 6000,
+        "major": 0,
         "steel": 6000,
-        "result": "空母系レシピっぽいが、燃料が4000を下回っているため戦艦・巡洋艦（含大和型）も出る"
+        "ammo": 3500
       }
     ],
     "flagship": 0,
@@ -192,22 +192,22 @@
     "isLarge": 1,
     "recipe": [
       {
-        "major": 0,
-        "fuel": 4000,
-        "ammo": 6000,
-        "bauxite": 2000,
         "material": 20,
+        "result": "Z1・Z3を旗艦にすると大和の建造率は大幅に下がるため大和狙いの人は注意。",
+        "fuel": 4000,
+        "bauxite": 2000,
+        "major": 0,
         "steel": 6000,
-        "result": "Z1・Z3を旗艦にすると大和の建造率は大幅に下がるため大和狙いの人は注意。"
+        "ammo": 6000
       },
       {
-        "major": 0,
-        "fuel": 4000,
-        "ammo": 6000,
-        "bauxite": 3000,
         "material": 20,
+        "result": "Z1・Z3を旗艦にすると大和の建造率は大幅に下がるため大和狙いの人は注意。",
+        "fuel": 4000,
+        "bauxite": 3000,
+        "major": 0,
         "steel": 6000,
-        "result": "Z1・Z3を旗艦にすると大和の建造率は大幅に下がるため大和狙いの人は注意。"
+        "ammo": 6000
       }
     ],
     "flagship": "Z1・Z3",
@@ -217,22 +217,22 @@
     "isLarge": 1,
     "recipe": [
       {
-        "major": 0,
-        "fuel": 4000,
-        "ammo": 6000,
-        "bauxite": 2000,
         "material": 1,
+        "result": 0,
+        "fuel": 4000,
+        "bauxite": 2000,
+        "major": 0,
         "steel": 6000,
-        "result": 0
+        "ammo": 6000
       },
       {
-        "major": 0,
-        "fuel": 4000,
-        "ammo": 6000,
-        "bauxite": 3000,
         "material": 1,
+        "result": 0,
+        "fuel": 4000,
+        "bauxite": 3000,
+        "major": 0,
         "steel": 6000,
-        "result": 0
+        "ammo": 6000
       }
     ],
     "flagship": 0,

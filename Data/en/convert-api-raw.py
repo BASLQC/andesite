@@ -19,6 +19,11 @@ def ship_info():
 	with open("api_start2.json", "r") as f:
 		json_data = json.load(f)
 
+	# open the extra Ship.json file for evasion, LOS, and antisub, and others
+	# sort by "index" (API ID, not card ID)
+	with open("Ship.json", "r") as f:
+		extra_ship_data = sorted(json.load(f), key=lambda k: k['index'])
+
 	# loop through and rewrite ship info
 	ships = json_data['api_data']['api_mst_ship']
 	new_ships = []
@@ -33,7 +38,12 @@ def ship_info():
 		mvk(ship, 'api_id', 'api_id')           # use API number as primary ID
 		mvk(ship, 'api_name', 'name')
 		mvk(ship, 'api_yomi', 'kana')
-		ship['name_roma'] = romkan.to_roma(ship['kana'])
+		
+		# don't create romanizations of ships without kana
+		if ship['kana'] != "":
+			ship['name_roma'] = romkan.to_roma(ship['kana'])
+		else:
+			ship['name_roma'] = ""
 
 		mvk(ship, 'api_stype', 'ship_class')
 		mvk(ship, 'api_afterlv', 'remodel_min_lv')
@@ -47,6 +57,47 @@ def ship_info():
 		sbm(ship, 'api_tyku', 'antiair')
 		sbm(ship, 'api_luck', 'luck')
 		
+		# derived variables from Ship.json
+		# look through extra_ship_data for matching index, then grab data from there
+		for extra_ship in extra_ship_data:
+			if (extra_ship['index'] == ship['api_id']):
+				# ASW: Anti-sub
+				ship['antisub'] = extra_ship['antisub']
+				
+				# LOS: line-of-sight
+				ship['line_of_sight'] = extra_ship['lineOfSight']
+				
+				# evasion
+				ship['evasion'] = extra_ship['evasion']
+				
+				# illustrator
+				if 'illustrator' in extra_ship.keys():
+					if extra_ship['illustrator'] != 0:
+						ship['illustrator'] = extra_ship['illustrator']
+					else:
+						ship['illustrator'] = ""
+				else:
+					ship['illustrator'] = ""
+					
+				# seiyuu: voice actor
+				if 'cv' in extra_ship.keys():
+					if extra_ship['cv'] != 0:
+						ship['seiyuu'] = extra_ship['cv']
+					else:
+						ship['seiyuu'] = ""
+				else:
+					ship['seiyuu'] = ""
+			
+			else: # give default values if info not found
+				ship['antisub'] = 0
+				ship['line_of_sight'] = 0
+				ship['evasion'] = 0
+				ship['illustrator'] = ""
+				ship['seiyuu'] = ""
+				
+		#print(ship['api_id'], ship['name_roma'], extra_ship_data[ship['api_id'] - 1])
+		
+		"""
 		# optional variables, set to [] or 0 if nonexistent
 		if 'api_tais' in ship:
 			sbm(ship, 'api_tais', 'antisub')
@@ -62,6 +113,7 @@ def ship_info():
 			sbm(ship, 'api_kaih', 'evasion')
 		else:
 			ship['evasion'] = [0, 0]
+		"""
 
 		mvk(ship, 'api_leng', 'range')
 		mvk(ship, 'api_slot_num', 'equip_slots')

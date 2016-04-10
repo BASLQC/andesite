@@ -26,9 +26,10 @@ def main():
 	
 	for file in os.listdir(input_dir):
 		if fnmatch.fnmatch(file, '*.xml'):
-			# parse out all the quoted lone integers
+			# parse out all the quoted lone integers and negative ones too
 			json_data = convert(os.path.join(input_dir, file))
 			json_data = re.sub('\"(\d+)\"', r'\1', json_data)
+			json_data = re.sub('\"-(\d+)\"', r'-\1', json_data) # catch negatives
 
 			# make multiple regex replace with a single pass
 			# http://rc98.net/multiple_replace

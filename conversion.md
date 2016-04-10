@@ -54,6 +54,16 @@ zhuangJia - armor
 duiQian - antisub
 ```
 
+### Ship Info
+
+There are three variables not provided directly by the API:
+
+* 
+
+These may be derived variables. Perhaps the reason why these are in Ship.xml and not anything else is that the variables are only visible to the user by sight, not from the API (and were thus gathered by hand by Chinese strategists).
+
+ShipData is then merged together with the three variables and other info from Ship.xml 
+
 ## Kancolle API Dump JSON analysis
 
 Everything is contained in the returned `data` structure:
