@@ -12,14 +12,10 @@ def sbm(d, orig_key, new_key):
 	d[new_key] = {}
 	d[new_key]['base'], d[new_key]['max'] = d.pop(orig_key, None)
 
-def main():
+def ship_info():
 	# open the api_start2.json file
 	with open("api_start2.json", "r") as f:
 		json_data = json.load(f)
-
-	# open the Ship.json file, which came from app and has other useful attributes
-	with open("Ship.json", "r") as f:
-		app_ship_data = json.load(f)
 
 	# loop through and rewrite ship info
 	ships = json_data['api_data']['api_mst_ship']
@@ -71,7 +67,10 @@ def main():
 		# add to new JSON array
 		new_ships.append(ship)
 
-	print(json.dumps(new_ships, indent=2, ensure_ascii=False))
+	return json.dumps(new_ships, indent=2, ensure_ascii=False)
+
+def main():
+	print(ship_info())
 
 if __name__ == "__main__":
 	main()
