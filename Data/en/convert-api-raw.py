@@ -73,7 +73,7 @@ def ship_info():
 
 		mvk(ship, 'api_getmes', 'get_message')
 
-		mvk(ship, 'api_afterfuel', 'remodel_fuel_cost')
+		mvk(ship, 'api_afterfuel', 'remodel_fuel_cost') # apparently this is steel not fuel. The kancolle devs themselves may have misspelled it and neglected to fix it.
 		mvk(ship, 'api_afterbull', 'remodel_ammo_cost')
 		mvk(ship, 'api_fuel_max', 'max_fuel')
 		mvk(ship, 'api_bull_max', 'max_ammo')
