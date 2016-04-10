@@ -26,7 +26,7 @@ def main():
 		mvk(ship, 'api_id', 'api_id')           # use API number as alternate ID
 		mvk(ship, 'api_name', 'name')
 		mvk(ship, 'api_yomi', 'kana')
-		ship['name_en'] = romkan.to_roma("きさらぎ")
+		ship['name_eng'] = romkan.to_roma(ship['kana'])
 
 		mvk(ship, 'api_stype', 'ship_class')
 		mvk(ship, 'api_afterlv', 'remodel_min_lv')
