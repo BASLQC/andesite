@@ -1,79 +1,79 @@
 [
   {
     "subType": "8,9,10",
-    "index": 1,
+    "name": "戦艦/航空戦艦",
     "airControl": 10,
-    "name": "戦艦/航空戦艦"
+    "index": 1
   },
   {
     "subType": "11,18",
-    "index": 2,
+    "name": "正規空母/装甲空母",
     "airControl": "11,18",
-    "name": "正規空母/装甲空母"
+    "index": 2
   },
   {
     "subType": 7,
-    "index": 3,
+    "name": "軽空母",
     "airControl": 7,
-    "name": "軽空母"
+    "index": 3
   },
   {
     "subType": "5,6",
-    "index": 4,
+    "name": "重巡洋艦/航空巡洋艦",
     "airControl": 6,
-    "name": "重巡洋艦/航空巡洋艦"
+    "index": 4
   },
   {
     "subType": 4,
-    "index": 5,
-    "name": "重雷装巡洋艦"
+    "name": "重雷装巡洋艦",
+    "index": 5
   },
   {
     "subType": 3,
-    "index": 6,
-    "name": "軽巡洋艦"
+    "name": "軽巡洋艦",
+    "index": 6
   },
   {
     "subType": 2,
-    "index": 7,
-    "name": "駆逐艦"
+    "name": "駆逐艦",
+    "index": 7
   },
   {
     "subType": "13,14",
-    "index": 8,
+    "name": "潜水艦/潜水空母",
     "airControl": 14,
-    "name": "潜水艦/潜水空母"
+    "index": 8
   },
   {
     "subType": "22,15",
-    "index": 9,
-    "name": "補給艦"
+    "name": "補給艦",
+    "index": 9
   },
   {
     "subType": 16,
-    "index": 10,
+    "name": "水上機母艦",
     "airControl": 16,
-    "name": "水上機母艦"
+    "index": 10
   },
   {
     "subType": 17,
-    "index": 11,
+    "name": "揚陸艦",
     "airControl": 17,
-    "name": "揚陸艦"
+    "index": 11
   },
   {
     "subType": 19,
-    "index": 12,
-    "name": "工作艦"
+    "name": "工作艦",
+    "index": 12
   },
   {
     "subType": 20,
-    "index": 13,
-    "name": "潜水母艦"
+    "name": "潜水母艦",
+    "index": 13
   },
   {
     "subType": 21,
-    "index": 14,
-    "name": "練習巡洋艦"
+    "name": "練習巡洋艦",
+    "index": 14
   }
 ]

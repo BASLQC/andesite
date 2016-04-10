@@ -1,164 +1,164 @@
 [
   {
-    "sort": "firepower,antiair,hitrate",
     "subType": "1,2,3,19",
-    "index": 1,
-    "name": "主砲"
+    "name": "主砲",
+    "sort": "firepower,antiair,hitrate",
+    "index": 1
   },
   {
-    "sort": "firepower,antiair,hitrate,evasion",
     "subType": 4,
-    "index": 2,
-    "name": "副砲"
+    "name": "副砲",
+    "sort": "firepower,antiair,hitrate,evasion",
+    "index": 2
   },
   {
-    "sort": "torpedo",
     "subType": "5,32",
-    "index": 3,
-    "name": "魚雷"
+    "name": "魚雷",
+    "sort": "torpedo",
+    "index": 3
   },
   {
-    "sort": "",
     "subType": "22,24",
-    "index": 4,
-    "name": "艦載艇"
+    "name": "艦載艇",
+    "sort": 0,
+    "index": 4
   },
   {
-    "sort": "antiair,hitrate",
     "subType": "6,45",
-    "index": 5,
-    "name": "戦闘機"
+    "name": "戦闘機",
+    "sort": "antiair,hitrate",
+    "index": 5
   },
   {
-    "sort": "baoZhuang,antisub",
     "subType": "7,11",
-    "index": 6,
-    "name": "爆撃機"
+    "name": "爆撃機",
+    "sort": "baoZhuang,antisub",
+    "index": 6
   },
   {
-    "sort": "torpedo,lineOfSight",
     "subType": 8,
-    "index": 7,
-    "name": "攻撃機"
+    "name": "攻撃機",
+    "sort": "torpedo,lineOfSight",
+    "index": 7
   },
   {
-    "sort": "lineOfSight,antisub",
     "subType": "9,10,41",
-    "index": 8,
-    "name": "偵察機"
+    "name": "偵察機",
+    "sort": "lineOfSight,antisub",
+    "index": 8
   },
   {
-    "sort": "",
     "subType": "25,26",
-    "index": 9,
-    "name": "哨戒機"
+    "name": "哨戒機",
+    "sort": 0,
+    "index": 9
   },
   {
-    "sort": "hitrate,lineOfSight",
     "subType": "12,13",
-    "index": 10,
-    "name": "電探"
+    "name": "電探",
+    "sort": "hitrate,lineOfSight",
+    "index": 10
   },
   {
-    "sort": "evasion",
     "subType": 17,
-    "index": 11,
-    "name": "機関"
+    "name": "機関",
+    "sort": "evasion",
+    "index": 11
   },
   {
-    "sort": "antiair,hitrate,evasion",
     "subType": "21,18",
-    "index": 12,
-    "name": "対空機銃"
+    "name": "対空機銃",
+    "sort": "antiair,hitrate,evasion",
+    "index": 12
   },
   {
-    "sort": "antisub",
     "subType": 15,
-    "index": 13,
-    "name": "爆雷"
-  },
-  {
+    "name": "爆雷",
     "sort": "antisub",
+    "index": 13
+  },
+  {
     "subType": "14,40",
-    "index": 14,
-    "name": "ソナー"
+    "name": "ソナー",
+    "sort": "antisub",
+    "index": 14
   },
   {
-    "sort": "",
     "subType": 23,
-    "index": 15,
-    "name": "修理要員"
+    "name": "修理要員",
+    "sort": 0,
+    "index": 15
   },
   {
-    "sort": "",
     "subType": "27,28",
-    "index": 16,
-    "name": "追加装甲"
+    "name": "追加装甲",
+    "sort": 0,
+    "index": 16
   },
   {
-    "sort": "lineOfSight",
     "subType": "29,42",
-    "index": 17,
-    "name": "探照灯"
+    "name": "探照灯",
+    "sort": "lineOfSight",
+    "index": 17
   },
   {
-    "sort": "",
     "subType": 30,
-    "index": 18,
-    "name": "簡易輸送部材"
+    "name": "簡易輸送部材",
+    "sort": 0,
+    "index": 18
   },
   {
-    "sort": "",
     "subType": 31,
-    "index": 19,
-    "name": "艦艇修理施設"
+    "name": "艦艇修理施設",
+    "sort": 0,
+    "index": 19
   },
   {
-    "sort": "",
     "subType": 33,
-    "index": 20,
-    "name": "照明弾"
+    "name": "照明弾",
+    "sort": 0,
+    "index": 20
   },
   {
-    "sort": "",
     "subType": 34,
-    "index": 21,
-    "name": "司令部施設"
+    "name": "司令部施設",
+    "sort": 0,
+    "index": 21
   },
   {
-    "sort": "",
     "subType": 35,
-    "index": 22,
-    "name": "航空要員"
+    "name": "航空要員",
+    "sort": 0,
+    "index": 22
   },
   {
-    "sort": "antiair",
     "subType": 36,
-    "index": 23,
-    "name": "高射装置"
+    "name": "高射装置",
+    "sort": "antiair",
+    "index": 23
   },
   {
-    "sort": "",
     "subType": 37,
-    "index": 24,
-    "name": "対地装備"
+    "name": "対地装備",
+    "sort": 0,
+    "index": 24
   },
   {
-    "sort": "",
     "subType": 39,
-    "index": 25,
-    "name": "水上艦要員"
+    "name": "水上艦要員",
+    "sort": 0,
+    "index": 25
   },
   {
-    "sort": "",
     "subType": 43,
-    "index": 26,
-    "name": "戦闘糧食"
+    "name": "戦闘糧食",
+    "sort": 0,
+    "index": 26
   },
   {
-    "sort": "",
     "subType": 44,
-    "index": 27,
-    "name": "補給物資"
+    "name": "補給物資",
+    "sort": 0,
+    "index": 27
   }
 ]

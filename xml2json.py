@@ -34,6 +34,7 @@ def main():
 			# http://rc98.net/multiple_replace
 			subs = {
 				'"@': '"',        # remove XML artifact
+				'""': '0',        # convert empty "" to 0
 				'ranLiao': 'fuel', # resources in romanized Chinese
 				'danYao': 'ammo',
 				'gang': 'steel',

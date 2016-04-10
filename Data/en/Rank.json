@@ -1,162 +1,162 @@
 [
   {
     "server": "横须贺镇守府",
-    "delay": 3900,
-    "index": 1,
     "date": 151010,
+    "delay": 3900,
     "daynight": 1,
+    "index": 1,
     "available": 1
   },
   {
     "server": "呉镇守府",
-    "delay": 3960,
-    "index": 2,
     "date": 151010,
+    "delay": 3960,
     "daynight": 1,
+    "index": 2,
     "available": 1
   },
   {
     "server": "佐世保镇守府",
-    "delay": 4020,
-    "index": 3,
     "date": 151010,
+    "delay": 4020,
     "daynight": 1,
+    "index": 3,
     "available": 1
   },
   {
     "server": "舞鹤镇守府",
-    "delay": 4080,
-    "index": 4,
     "date": 151010,
+    "delay": 4080,
     "daynight": 1,
+    "index": 4,
     "available": 1
   },
   {
     "server": "大凑警备府",
-    "delay": 4140,
-    "index": 5,
     "date": 150401,
+    "delay": 4140,
     "daynight": 1,
+    "index": 5,
     "available": 1
   },
   {
     "server": "トラック泊地",
-    "delay": 4200,
-    "index": 6,
     "date": 150401,
+    "delay": 4200,
     "daynight": 1,
+    "index": 6,
     "available": 1
   },
   {
     "server": "リンガ泊地",
-    "delay": 4260,
-    "index": 7,
     "date": 150401,
+    "delay": 4260,
     "daynight": 1,
+    "index": 7,
     "available": 1
   },
   {
     "server": "ラバウル基地",
-    "delay": 4320,
-    "index": 8,
     "date": 150401,
+    "delay": 4320,
     "daynight": 1,
+    "index": 8,
     "available": 1
   },
   {
     "server": "ショートランド泊地",
-    "delay": 4380,
-    "index": 9,
     "date": 150401,
+    "delay": 4380,
     "daynight": 1,
+    "index": 9,
     "available": 1
   },
   {
     "server": "ブイン基地",
-    "delay": 4440,
-    "index": 10,
     "date": 150401,
+    "delay": 4440,
     "daynight": 1,
+    "index": 10,
     "available": 1
   },
   {
     "server": "タウイタウイ泊地",
-    "delay": 4500,
-    "index": 11,
     "date": 150401,
+    "delay": 4500,
     "daynight": 1,
+    "index": 11,
     "available": 1
   },
   {
     "server": "パラオ泊地",
-    "delay": 4560,
-    "index": 12,
     "date": 150401,
+    "delay": 4560,
     "daynight": 1,
+    "index": 12,
     "available": 1
   },
   {
     "server": "ブルネイ泊地",
-    "delay": 4620,
-    "index": 13,
     "date": 150401,
+    "delay": 4620,
     "daynight": 1,
+    "index": 13,
     "available": 1
   },
   {
     "server": "单冠湾泊地",
-    "delay": 4680,
-    "index": 14,
     "date": 150401,
+    "delay": 4680,
     "daynight": 1,
+    "index": 14,
     "available": 1
   },
   {
     "server": "幌筵泊地",
-    "delay": 4740,
-    "index": 15,
     "date": 150401,
+    "delay": 4740,
     "daynight": 1,
+    "index": 15,
     "available": 1
   },
   {
     "server": "宿毛湾泊地",
-    "delay": 4800,
-    "index": 16,
     "date": 150401,
+    "delay": 4800,
     "daynight": 1,
+    "index": 16,
     "available": 1
   },
   {
     "server": "鹿屋基地",
-    "delay": 4860,
-    "index": 17,
     "date": 150401,
+    "delay": 4860,
     "daynight": 1,
+    "index": 17,
     "available": 1
   },
   {
     "server": "岩川基地",
-    "delay": 4920,
-    "index": 18,
     "date": 150401,
+    "delay": 4920,
     "daynight": 1,
+    "index": 18,
     "available": 1
   },
   {
     "server": "佐伯湾泊地",
-    "delay": 4980,
-    "index": 19,
     "date": 150401,
+    "delay": 4980,
     "daynight": 1,
+    "index": 19,
     "available": 1
   },
   {
     "server": "柱島泊地",
-    "delay": 5040,
-    "index": 20,
     "date": 150711,
+    "delay": 5040,
     "daynight": 2,
+    "index": 20,
     "available": 1
   }
 ]

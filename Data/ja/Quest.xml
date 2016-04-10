@@ -171,10 +171,10 @@
 
 
 
-    <item index="2406" type="2" period="1" title="桃の節句：「菱餅」を集めよう！" content="出撃により特定海域の敵艦隊を撃破して「菱餅」を3つ集めよう！" awardDanYao="330" awardGang="330" awardOther="家具箱(大)x1、特注家具職人x1" unlockIndex="2006"></item>
-    <item index="2407" type="2" period="1" title="桃の節句：「菱餅」を沢山集めるのです！" content="結構大変だけれど、敵艦隊を撃破して「菱餅」を10個集めるのです！" awardDanYao="880" awardGang="880" awardOther="給糧艦「間宮」x1、水上艦要員熟練見張員" unlockIndex="2406"></item>
-    <item index="2413" type="2" period="1" title="秋刀魚漁：「秋刀魚」を収穫しよう！" content="近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！" awardRanLiao="300" awardOther="九三式水中聴音機x1、特注家具職人x1" unlockIndex=""></item>
-    <item index="2414" type="2" period="1" title="秋刀魚漁：「秋刀魚」をもっと収穫しなきゃ！" content="ちょっと大変だけれど、。漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！" awardRanLiao="550" awardOther="三式水中探信儀x1、給糧艦「伊良湖」x3" unlockIndex="2413"></item>
+    <item index="2406" type="2" period="1" title="桃の節句：「菱餅」を集めよう！" content="出撃により特定海域の敵艦隊を撃破して「菱餅」を3つ集めよう！" awardRanLiao=""  awardDanYao="330" awardGang="330" awardLv=""  awardOther="家具箱(大)x1、特注家具職人x1" unlockIndex="2006"></item>
+    <item index="2407" type="2" period="1" title="桃の節句：「菱餅」を沢山集めるのです！" content="結構大変だけれど、敵艦隊を撃破して「菱餅」を10個集めるのです！" awardRanLiao=""  awardDanYao="880" awardGang="880" awardLv=""  awardOther="給糧艦「間宮」x1、水上艦要員熟練見張員" unlockIndex="2406"></item>
+    <item index="2413" type="2" period="1" title="秋刀魚漁：「秋刀魚」を収穫しよう！" content="近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！" awardRanLiao="300" awardDanYao="" awardGang="" awardLv="" awardOther="九三式水中聴音機x1、特注家具職人x1" unlockIndex=""></item>
+    <item index="2414" type="2" period="1" title="秋刀魚漁：「秋刀魚」をもっと収穫しなきゃ！" content="ちょっと大変だけれど、。漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！" awardRanLiao="550" awardDanYao="" awardGang="" awardLv="" awardOther="三式水中探信儀x1、給糧艦「伊良湖」x3" unlockIndex="2413"></item>
     <item index="2415" type="2" period="1" title="秋刀魚漁：もっと頑張ってもいいのよ！" content="かなり大変だけれど、秋刀魚漁、もっともっと頑張ってもいいのよ！※30尾所持で達成可能" awardRanLiao="800" awardDanYao="300" awardGang="300" awardLv="300" awardOther="" unlockIndex="2414"></item>
     <item index="2418" type="2" period="1" title="謹賀新年！「水雷戦隊」出撃始め！" content="「敵主力艦隊」(1-3ボス戦)にS勝利で達成. 軽巡1固定(旗艦じゃなくても良い)+駆逐3隻~5隻. 軽巡2隻以上、軽巡・駆逐以外の艦種を入れると不可" awardRanLiao="2016" awardDanYao="" awardGang="" awardLv="" awardOther="応急修理女神x1" unlockIndex="2101"></item>
     <item index="2419" type="2" period="1" title="新年の「伊良湖」のお手伝い！" content="「敵主力打撃群」(2-3ボス戦)に3回S勝利で達成" awardRanLiao="" awardDanYao="2016" awardGang="" awardLv="" awardOther="高速修復材x2、給糧艦「伊良湖」x2" unlockIndex="2418"></item>

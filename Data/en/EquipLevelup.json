@@ -2,43 +2,42 @@
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
+        "kaiFa": 1,
+        "kaiFaEnsure": 2,
+        "gaiXiuEnsure": 2,
         "toLevel": 5,
-        "kaiFaEnsure": 2,
-        "gaiXiuEnsure": 2,
-        "kaiFa": 1
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
-        "equipIndex": 2,
-        "kaiFaEnsure": 2,
-        "gaiXiuEnsure": 2,
         "equipCount": 1,
-        "kaiFa": 1
+        "equipIndex": 2,
+        "kaiFa": 1,
+        "kaiFaEnsure": 2,
+        "gaiXiuEnsure": 2,
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 2,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 2
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "index": 2,
-    "nextIndex": 63,
-    "costResource": {
-      "ammo": 30,
-      "bauxite": 0,
-      "steel": 60,
-      "fuel": 10
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 60,
+      "ammo": 30
+    },
+    "nextIndex": 63,
     "available": [
       {
         "day": 1
@@ -61,530 +60,530 @@
       {
         "day": 7
       }
-    ]
+    ],
+    "index": 2
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 70,
+      "ammo": 40
+    },
+    "available": [
+      {
+        "secretary": "144,195",
+        "day": 1
+      },
+      {
+        "secretary": "144,195",
+        "day": 2
+      },
+      {
+        "secretary": "144,195",
+        "day": 3
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 3,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 63,
+        "kaiFa": 2,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       }
     ],
-    "costResource": {
-      "ammo": 40,
-      "bauxite": 0,
-      "steel": 70,
-      "fuel": 10
-    },
-    "index": 63,
-    "available": [
-      {
-        "day": 1,
-        "secretary": "144,195"
-      },
-      {
-        "day": 2,
-        "secretary": "144,195"
-      },
-      {
-        "day": 3,
-        "secretary": "144,195"
-      }
-    ]
+    "isRare": 1,
+    "index": 63
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 0,
         "kaiFaEnsure": 1,
         "gaiXiuEnsure": 1,
-        "kaiFa": 0
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 49,
+        "kaiFa": 1,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 1,
-        "equipCount": 1,
-        "kaiFa": 1
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 1,
         "equipIndex": 49,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 1
       }
     ],
-    "index": 49,
-    "nextIndex": 39,
-    "costResource": {
-      "ammo": 10,
-      "bauxite": 10,
-      "steel": 10,
-      "fuel": 0
-    },
     "nextInitialLevel": 5,
+    "costResource": {
+      "bauxite": 10,
+      "fuel": 0,
+      "steel": 10,
+      "ammo": 10
+    },
+    "nextIndex": 39,
     "available": [
       {
-        "day": 5,
-        "secretary": 28
+        "secretary": 28,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 28
+        "secretary": 28,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 28
-      }
-    ]
-  },
-  {
-    "costMaterial": [
-      {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "kaiFaEnsure": 1,
-        "gaiXiuEnsure": 1,
-        "kaiFa": 0
-      },
-      {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
-        "equipIndex": 39,
-        "kaiFaEnsure": 2,
-        "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 1
-      },
-      {
-        "gaiXiu": 1,
-        "fromLevel": 10,
-        "toLevel": 10,
-        "equipIndex": 39,
-        "kaiFaEnsure": 3,
-        "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 2
+        "secretary": 28,
+        "day": 7
       }
     ],
-    "index": 39,
-    "nextIndex": 40,
-    "costResource": {
-      "ammo": 20,
-      "bauxite": 10,
-      "steel": 10,
-      "fuel": 0
-    },
-    "nextInitialLevel": 3,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 28
-      },
-      {
-        "day": 2,
-        "secretary": "28,29"
-      },
-      {
-        "day": 6,
-        "secretary": 141
-      },
-      {
-        "day": 7,
-        "secretary": 141
-      }
-    ]
+    "index": 49
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "kaiFaEnsure": 2,
+        "kaiFa": 0,
+        "kaiFaEnsure": 1,
         "gaiXiuEnsure": 1,
-        "kaiFa": 1
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
+        "equipCount": 1,
+        "equipIndex": 39,
+        "kaiFa": 1,
+        "kaiFaEnsure": 2,
+        "gaiXiuEnsure": 2,
         "toLevel": 9,
-        "equipIndex": 40,
+        "fromLevel": 6,
+        "gaiXiu": 1
+      },
+      {
+        "equipCount": 1,
+        "equipIndex": 39,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 1
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 1
+      }
+    ],
+    "nextInitialLevel": 3,
+    "costResource": {
+      "bauxite": 10,
+      "fuel": 0,
+      "steel": 10,
+      "ammo": 20
+    },
+    "nextIndex": 40,
+    "available": [
+      {
+        "secretary": 28,
+        "day": 1
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "secretary": "28,29",
+        "day": 2
+      },
+      {
+        "secretary": 141,
+        "day": 6
+      },
+      {
+        "secretary": 141,
+        "day": 7
+      }
+    ],
+    "index": 39
+  },
+  {
+    "costMaterial": [
+      {
+        "kaiFa": 1,
+        "kaiFaEnsure": 2,
+        "gaiXiuEnsure": 1,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
+      },
+      {
+        "equipCount": 1,
         "equipIndex": 40,
+        "kaiFa": 1,
+        "kaiFaEnsure": 3,
+        "gaiXiuEnsure": 2,
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
+      },
+      {
+        "equipCount": 5,
+        "equipIndex": 40,
+        "kaiFa": 5,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 7,
-        "equipCount": 5,
-        "kaiFa": 5
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "index": 40,
-    "nextIndex": 131,
-    "costResource": {
-      "ammo": 30,
-      "bauxite": 10,
-      "steel": 20,
-      "fuel": 0
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 10,
+      "fuel": 0,
+      "steel": 20,
+      "ammo": 30
+    },
+    "nextIndex": 131,
     "available": [
       {
-        "day": 1,
-        "secretary": "141,428"
+        "secretary": "141,428",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": "141,68"
+        "secretary": "141,68",
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": "141,68"
+        "secretary": "141,68",
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 68
+        "secretary": 68,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 428
+        "secretary": 428,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 428
+        "secretary": 428,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 428
+        "secretary": 428,
+        "day": 7
       }
-    ]
+    ],
+    "index": 40
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 2,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 10,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 3,
+        "kaiFa": 4,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 7,
-        "equipCount": 2,
-        "kaiFa": 4
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 4
       }
     ],
-    "index": 120,
-    "nextIndex": 121,
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 40,
-      "steel": 60,
-      "fuel": 0
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 40,
+      "fuel": 0,
+      "steel": 60,
+      "ammo": 0
+    },
+    "nextIndex": 121,
     "available": [
       {
-        "day": 1,
-        "secretary": "68,421"
+        "secretary": "68,421",
+        "day": 1
       },
       {
-        "day": 4,
-        "secretary": 422
+        "secretary": 422,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "68,421,422"
+        "secretary": "68,421,422",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "68,421,422"
+        "secretary": "68,421,422",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": "68,421,422"
+        "secretary": "68,421,422",
+        "day": 7
       }
-    ]
+    ],
+    "index": 120
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 3,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 10,
+        "kaiFa": 4,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 10,
+        "kaiFa": 7,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 9,
-        "equipCount": 2,
-        "kaiFa": 7
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 5
       }
     ],
-    "index": 121,
-    "nextIndex": 130,
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 70,
-      "steel": 80,
-      "fuel": 0
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 70,
+      "fuel": 0,
+      "steel": 80,
+      "ammo": 0
+    },
+    "nextIndex": 130,
     "available": [
       {
-        "day": 4,
-        "secretary": 428
+        "secretary": 428,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 428
+        "secretary": 428,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 428
+        "secretary": 428,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 428
+        "secretary": 428,
+        "day": 7
       }
-    ]
+    ],
+    "index": 121
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 3,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 3,
+        "kaiFa": 4,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 3,
+        "kaiFa": 8,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 10,
-        "equipCount": 2,
-        "kaiFa": 8
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 5
       }
     ],
-    "index": 121,
-    "nextIndex": 122,
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 70,
-      "steel": 80,
-      "fuel": 0
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 70,
+      "fuel": 0,
+      "steel": 80,
+      "ammo": 0
+    },
+    "nextIndex": 122,
     "available": [
       {
-        "day": 1,
-        "secretary": "421,422"
+        "secretary": "421,422",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": "421,422"
+        "secretary": "421,422",
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": "421,422"
+        "secretary": "421,422",
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": "421,422,426"
+        "secretary": "421,422,426",
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "421,422,426"
+        "secretary": "421,422,426",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "421,422,426"
+        "secretary": "421,422,426",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": "421,422,426"
+        "secretary": "421,422,426",
+        "day": 7
       }
-    ]
+    ],
+    "index": 121
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 50,
+      "fuel": 10,
+      "steel": 150,
+      "ammo": 60
+    },
+    "available": [
+      {
+        "secretary": 421,
+        "day": 1
+      },
+      {
+        "secretary": 421,
+        "day": 2
+      },
+      {
+        "secretary": 421,
+        "day": 3
+      },
+      {
+        "secretary": "421,422",
+        "day": 4
+      },
+      {
+        "secretary": 422,
+        "day": 5
+      },
+      {
+        "secretary": 422,
+        "day": 6
+      },
+      {
+        "secretary": 422,
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 6,
         "kaiFaEnsure": 7,
         "gaiXiuEnsure": 4,
-        "kaiFa": 6
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 3,
+        "kaiFa": 5,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 7,
-        "equipCount": 2,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 60,
-      "bauxite": 50,
-      "steel": 150,
-      "fuel": 10
-    },
-    "index": 122,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 421
-      },
-      {
-        "day": 2,
-        "secretary": 421
-      },
-      {
-        "day": 3,
-        "secretary": 421
-      },
-      {
-        "day": 4,
-        "secretary": "421,422"
-      },
-      {
-        "day": 5,
-        "secretary": 422
-      },
-      {
-        "day": 6,
-        "secretary": 422
-      },
-      {
-        "day": 7,
-        "secretary": 422
-      }
-    ]
+    "isRare": 1,
+    "index": 122
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
+        "kaiFa": 1,
+        "kaiFaEnsure": 2,
+        "gaiXiuEnsure": 2,
         "toLevel": 5,
-        "kaiFaEnsure": 2,
-        "gaiXiuEnsure": 2,
-        "kaiFa": 1
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
-        "equipIndex": 4,
-        "kaiFaEnsure": 2,
-        "gaiXiuEnsure": 2,
         "equipCount": 1,
-        "kaiFa": 1
+        "equipIndex": 4,
+        "kaiFa": 1,
+        "kaiFaEnsure": 2,
+        "gaiXiuEnsure": 2,
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 4,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 3
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "index": 4,
-    "nextIndex": 119,
-    "costResource": {
-      "ammo": 50,
-      "bauxite": 0,
-      "steel": 80,
-      "fuel": 10
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 80,
+      "ammo": 50
+    },
+    "nextIndex": 119,
     "available": [
       {
         "day": 1
@@ -607,1415 +606,1415 @@
       {
         "day": 7
       }
-    ]
+    ],
+    "index": 4
   },
   {
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 100,
+      "ammo": 60
+    },
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 2,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 119,
+        "kaiFa": 2,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       }
     ],
-    "costResource": {
-      "ammo": 60,
-      "bauxite": 0,
-      "steel": 100,
-      "fuel": 10
-    },
-    "index": 119,
     "available": [
       {
-        "day": 1,
-        "secretary": 115
+        "secretary": 115,
+        "day": 1
       },
       {
-        "day": 4,
-        "secretary": 115
+        "secretary": 115,
+        "day": 4
       }
-    ]
+    ],
+    "index": 119
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 3,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 65,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 1,
         "equipIndex": 28,
+        "kaiFa": 5,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 10,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 4
       }
     ],
-    "index": 65,
-    "nextIndex": 139,
-    "costResource": {
-      "ammo": 70,
-      "bauxite": 0,
-      "steel": 100,
-      "fuel": 10
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 100,
+      "ammo": 70
+    },
+    "nextIndex": 139,
     "available": [
       {
-        "day": 1,
-        "secretary": "138,139"
+        "secretary": "138,139",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 139
+        "secretary": 139,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 139
+        "secretary": 139,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": "137,139"
+        "secretary": "137,139",
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "137,138"
+        "secretary": "137,138",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "137,138"
+        "secretary": "137,138",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 138
+        "secretary": 138,
+        "day": 7
       }
-    ]
+    ],
+    "index": 65
   },
   {
-    "isRare": 1,
-    "costMaterial": [
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 20,
+      "steel": 100,
+      "ammo": 80
+    },
+    "available": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 65,
-        "kaiFaEnsure": 4,
-        "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 3
+        "secretary": 140,
+        "day": 1
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "secretary": 140,
+        "day": 2
+      },
+      {
+        "secretary": 139,
+        "day": 3
+      },
+      {
+        "secretary": 139,
+        "day": 4
+      },
+      {
+        "secretary": 139,
+        "day": 5
+      },
+      {
+        "secretary": "139,140",
+        "day": 6
+      },
+      {
+        "secretary": 140,
+        "day": 7
+      }
+    ],
+    "costMaterial": [
+      {
+        "equipCount": 1,
         "equipIndex": 65,
+        "kaiFa": 3,
+        "kaiFaEnsure": 4,
+        "gaiXiuEnsure": 3,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
+      },
+      {
+        "equipCount": 1,
+        "equipIndex": 65,
+        "kaiFa": 4,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 6,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 80,
-      "bauxite": 30,
-      "steel": 100,
-      "fuel": 20
-    },
-    "index": 139,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 140
-      },
-      {
-        "day": 2,
-        "secretary": 140
-      },
-      {
-        "day": 3,
-        "secretary": 139
-      },
-      {
-        "day": 4,
-        "secretary": 139
-      },
-      {
-        "day": 5,
-        "secretary": 139
-      },
-      {
-        "day": 6,
-        "secretary": "139,140"
-      },
-      {
-        "day": 7,
-        "secretary": 140
-      }
-    ]
+    "isRare": 1,
+    "index": 139
   },
   {
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 120,
+      "ammo": 90
+    },
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 3,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       }
     ],
-    "costResource": {
-      "ammo": 90,
-      "bauxite": 0,
-      "steel": 120,
-      "fuel": 10
-    },
-    "index": 5,
     "available": [
       {
-        "day": 1,
-        "secretary": 183
+        "secretary": 183,
+        "day": 1
       },
       {
-        "day": 5,
-        "secretary": 70
+        "secretary": 70,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 70
+        "secretary": 70,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 183
+        "secretary": 183,
+        "day": 7
       }
-    ]
+    ],
+    "index": 5
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 1,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 3,
-        "kaiFa": 1
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 6,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 6,
+        "kaiFa": 2,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 10,
-        "equipCount": 2,
-        "kaiFa": 2
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 4
       }
     ],
-    "index": 6,
-    "nextIndex": 90,
-    "costResource": {
-      "ammo": 90,
-      "bauxite": 0,
-      "steel": 120,
-      "fuel": 10
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 120,
+      "ammo": 90
+    },
+    "nextIndex": 90,
     "available": [
       {
-        "day": 1,
-        "secretary": 123
+        "secretary": 123,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 123
+        "secretary": 123,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 123
+        "secretary": 123,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": "61,123"
+        "secretary": "61,123",
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "61,123"
+        "secretary": "61,123",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "61,123"
+        "secretary": "61,123",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": "61,123"
+        "secretary": "61,123",
+        "day": 7
       }
-    ]
+    ],
+    "index": 6
   },
   {
-    "isRare": 1,
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 3,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 90,
+        "kaiFa": 2,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 1,
         "equipIndex": 90,
+        "kaiFa": 4,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 11,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 4
       }
     ],
-    "index": 90,
-    "nextIndex": 50,
-    "costResource": {
-      "ammo": 100,
-      "bauxite": 0,
-      "steel": 130,
-      "fuel": 10
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 130,
+      "ammo": 100
+    },
+    "nextIndex": 50,
     "available": [
       {
-        "day": 1,
-        "secretary": 62
+        "secretary": 62,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 62
+        "secretary": 62,
+        "day": 2
       },
       {
-        "day": 7,
-        "secretary": 62
+        "secretary": 62,
+        "day": 7
       }
-    ]
+    ],
+    "isRare": 1,
+    "index": 90
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 140,
+      "ammo": 110
+    },
+    "available": [
+      {
+        "secretary": 120,
+        "day": 2
+      },
+      {
+        "secretary": 120,
+        "day": 3
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 3,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 50,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 110,
-      "bauxite": 0,
-      "steel": 140,
-      "fuel": 10
-    },
-    "index": 50,
-    "available": [
-      {
-        "day": 2,
-        "secretary": 120
-      },
-      {
-        "day": 3,
-        "secretary": 120
-      }
-    ]
+    "isRare": 1,
+    "index": 50
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 2,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 7,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 3,
         "equipIndex": 7,
+        "kaiFa": 6,
         "kaiFaEnsure": 12,
         "gaiXiuEnsure": 12,
-        "equipCount": 3,
-        "kaiFa": 6
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 5
       }
     ],
-    "index": 7,
-    "nextIndex": 103,
-    "costResource": {
-      "ammo": 240,
-      "bauxite": 0,
-      "steel": 300,
-      "fuel": 20
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 20,
+      "steel": 300,
+      "ammo": 240
+    },
+    "nextIndex": 103,
     "available": [
       {
-        "day": 5,
-        "secretary": 26
+        "secretary": 26,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 26
+        "secretary": 26,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 26
+        "secretary": 26,
+        "day": 7
       }
-    ]
+    ],
+    "index": 7
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 30,
+      "steel": 390,
+      "ammo": 330
+    },
+    "available": [
+      {
+        "secretary": "149,411",
+        "day": 3
+      },
+      {
+        "secretary": "149,151,411,412",
+        "day": 4
+      },
+      {
+        "secretary": "151,411,412",
+        "day": 5
+      },
+      {
+        "secretary": "411,412",
+        "day": 6
+      },
+      {
+        "secretary": 412,
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 2,
         "equipIndex": 7,
+        "kaiFa": 4,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 4,
-        "equipCount": 2,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 3,
         "equipIndex": 7,
+        "kaiFa": 6,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 7,
-        "equipCount": 3,
-        "kaiFa": 6
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 330,
-      "bauxite": 30,
-      "steel": 390,
-      "fuel": 30
-    },
-    "index": 103,
-    "available": [
-      {
-        "day": 3,
-        "secretary": "149,411"
-      },
-      {
-        "day": 4,
-        "secretary": "149,151,411,412"
-      },
-      {
-        "day": 5,
-        "secretary": "151,411,412"
-      },
-      {
-        "day": 6,
-        "secretary": "411,412"
-      },
-      {
-        "day": 7,
-        "secretary": 412
-      }
-    ]
+    "isRare": 1,
+    "index": 103
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 30,
+      "steel": 300,
+      "ammo": 250
+    },
+    "available": [
+      {
+        "secretary": 151,
+        "day": 1
+      },
+      {
+        "secretary": 151,
+        "day": 2
+      },
+      {
+        "secretary": 151,
+        "day": 3
+      },
+      {
+        "secretary": 151,
+        "day": 6
+      },
+      {
+        "secretary": 151,
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 7,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 7,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 250,
-      "bauxite": 30,
-      "steel": 300,
-      "fuel": 30
-    },
-    "index": 104,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 151
-      },
-      {
-        "day": 2,
-        "secretary": 151
-      },
-      {
-        "day": 3,
-        "secretary": 151
-      },
-      {
-        "day": 6,
-        "secretary": 151
-      },
-      {
-        "day": 7,
-        "secretary": 151
-      }
-    ]
+    "isRare": 1,
+    "index": 104
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 7,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 7,
+        "kaiFa": 5,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 6,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 8,
+        "kaiFa": 10,
         "kaiFaEnsure": 20,
         "gaiXiuEnsure": 13,
-        "equipCount": 2,
-        "kaiFa": 10
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 6
       }
     ],
-    "index": 76,
-    "nextIndex": 114,
-    "costResource": {
-      "ammo": 380,
-      "bauxite": 20,
-      "steel": 450,
-      "fuel": 20
-    },
     "nextInitialLevel": 3,
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 20,
+      "steel": 450,
+      "ammo": 380
+    },
+    "nextIndex": 114,
     "available": [
       {
-        "day": 4,
-        "secretary": 171
+        "secretary": 171,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 171
+        "secretary": 171,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 171
+        "secretary": 171,
+        "day": 6
       }
-    ]
+    ],
+    "index": 76
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 30,
+      "steel": 470,
+      "ammo": 390
+    },
+    "available": [
+      {
+        "secretary": 171,
+        "day": 1
+      },
+      {
+        "secretary": 171,
+        "day": 2
+      },
+      {
+        "secretary": 171,
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 8,
+        "kaiFa": 5,
         "kaiFaEnsure": 7,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 8,
+        "kaiFa": 6,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 6
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 390,
-      "bauxite": 30,
-      "steel": 470,
-      "fuel": 30
-    },
-    "index": 114,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 171
-      },
-      {
-        "day": 2,
-        "secretary": 171
-      },
-      {
-        "day": 7,
-        "secretary": 171
-      }
-    ]
+    "isRare": 1,
+    "index": 114
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 7,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 7,
+        "kaiFa": 5,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 7,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 39,
+        "kaiFa": 12,
         "kaiFaEnsure": 20,
         "gaiXiuEnsure": 14,
-        "equipCount": 2,
-        "kaiFa": 12
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 7
       }
     ],
-    "index": 133,
-    "nextIndex": 137,
-    "costResource": {
-      "ammo": 400,
-      "bauxite": 20,
-      "steel": 480,
-      "fuel": 30
-    },
     "nextInitialLevel": 3,
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 30,
+      "steel": 480,
+      "ammo": 400
+    },
+    "nextIndex": 137,
     "available": [
       {
-        "day": 1,
-        "secretary": 442
+        "secretary": 442,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 441
+        "secretary": 441,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 441
+        "secretary": 441,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 441
+        "secretary": 441,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 441
+        "secretary": 441,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 442
+        "secretary": 442,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 442
+        "secretary": 442,
+        "day": 7
       }
-    ]
+    ],
+    "index": 133
   },
   {
+    "costResource": {
+      "bauxite": 40,
+      "fuel": 40,
+      "steel": 500,
+      "ammo": 440
+    },
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 8,
+        "kaiFa": 5,
         "kaiFaEnsure": 7,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 8,
+        "kaiFa": 7,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 7
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 440,
-      "bauxite": 40,
-      "steel": 500,
-      "fuel": 40
-    },
-    "index": 137,
     "available": [
       {
-        "day": 1,
-        "secretary": 441
+        "secretary": 441,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 442
+        "secretary": 442,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 442
+        "secretary": 442,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 442
+        "secretary": 442,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 442
+        "secretary": 442,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 441
+        "secretary": 441,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 441
+        "secretary": 441,
+        "day": 7
       }
-    ]
+    ],
+    "index": 137
   },
   {
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 30,
+      "steel": 480,
+      "ammo": 350
+    },
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 8,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 8,
+        "kaiFa": 4,
         "kaiFaEnsure": 7,
         "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 350,
-      "bauxite": 0,
-      "steel": 480,
-      "fuel": 30
-    },
-    "index": 8,
     "available": [
       {
-        "day": 1,
-        "secretary": 81
+        "secretary": 81,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 80
+        "secretary": 80,
+        "day": 2
       },
       {
-        "day": 4,
-        "secretary": 81
+        "secretary": 81,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 80
+        "secretary": 80,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 80
+        "secretary": 80,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 81
+        "secretary": 81,
+        "day": 7
       }
-    ]
+    ],
+    "index": 8
   },
   {
-    "isRare": 1,
-    "costMaterial": [
+    "costResource": {
+      "bauxite": 40,
+      "fuel": 40,
+      "steel": 620,
+      "ammo": 440
+    },
+    "available": [
       {
-        "gaiXiu": 4,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 8,
-        "kaiFaEnsure": 7,
-        "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 5
+        "secretary": 275,
+        "day": 1
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "secretary": 276,
+        "day": 2
+      },
+      {
+        "secretary": "275,276",
+        "day": 3
+      },
+      {
+        "secretary": 275,
+        "day": 4
+      },
+      {
+        "secretary": 276,
+        "day": 5
+      },
+      {
+        "secretary": 276,
+        "day": 6
+      },
+      {
+        "secretary": 275,
+        "day": 7
+      }
+    ],
+    "costMaterial": [
+      {
+        "equipCount": 2,
         "equipIndex": 8,
+        "kaiFa": 5,
+        "kaiFaEnsure": 7,
+        "gaiXiuEnsure": 6,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 4
+      },
+      {
+        "equipCount": 3,
+        "equipIndex": 8,
+        "kaiFa": 8,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 8,
-        "equipCount": 3,
-        "kaiFa": 8
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 5
       }
     ],
-    "costResource": {
-      "ammo": 440,
-      "bauxite": 40,
-      "steel": 620,
-      "fuel": 40
-    },
-    "index": 105,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 275
-      },
-      {
-        "day": 2,
-        "secretary": 276
-      },
-      {
-        "day": 3,
-        "secretary": "275,276"
-      },
-      {
-        "day": 4,
-        "secretary": 275
-      },
-      {
-        "day": 5,
-        "secretary": 276
-      },
-      {
-        "day": 6,
-        "secretary": 276
-      },
-      {
-        "day": 7,
-        "secretary": 275
-      }
-    ]
+    "isRare": 1,
+    "index": 105
   },
   {
-    "isRare": 1,
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 2,
         "equipIndex": 8,
+        "kaiFa": 5,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 5
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 3,
         "equipIndex": 8,
+        "kaiFa": 6,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 7,
-        "equipCount": 3,
-        "kaiFa": 6
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       },
       {
-        "gaiXiu": 8,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 4,
         "equipIndex": 8,
+        "kaiFa": 12,
         "kaiFaEnsure": 18,
         "gaiXiuEnsure": 14,
-        "equipCount": 4,
-        "kaiFa": 12
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 8
       }
     ],
-    "index": 117,
-    "nextIndex": 9,
-    "costResource": {
-      "ammo": 420,
-      "bauxite": 40,
-      "steel": 650,
-      "fuel": 40
-    },
     "nextInitialLevel": 5,
+    "costResource": {
+      "bauxite": 40,
+      "fuel": 40,
+      "steel": 650,
+      "ammo": 420
+    },
+    "nextIndex": 9,
     "available": [
       {
-        "day": 1,
-        "secretary": 131
+        "secretary": 131,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 143
+        "secretary": 143,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 143
+        "secretary": 143,
+        "day": 3
       },
       {
-        "day": 7,
-        "secretary": 131
+        "secretary": 131,
+        "day": 7
       }
-    ]
+    ],
+    "isRare": 1,
+    "index": 117
   },
   {
-    "isRare": 1,
-    "costMaterial": [
+    "costResource": {
+      "bauxite": 50,
+      "fuel": 50,
+      "steel": 800,
+      "ammo": 480
+    },
+    "available": [
       {
-        "gaiXiu": 4,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 9,
-        "kaiFaEnsure": 8,
-        "gaiXiuEnsure": 6,
-        "equipCount": 1,
-        "kaiFa": 6
+        "secretary": 143,
+        "day": 1
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "secretary": 131,
+        "day": 5
+      },
+      {
+        "secretary": 131,
+        "day": 6
+      },
+      {
+        "secretary": 143,
+        "day": 7
+      }
+    ],
+    "costMaterial": [
+      {
+        "equipCount": 1,
         "equipIndex": 9,
+        "kaiFa": 6,
+        "kaiFaEnsure": 8,
+        "gaiXiuEnsure": 6,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 4
+      },
+      {
+        "equipCount": 2,
+        "equipIndex": 9,
+        "kaiFa": 8,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 8,
-        "equipCount": 2,
-        "kaiFa": 8
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 5
       }
     ],
-    "costResource": {
-      "ammo": 480,
-      "bauxite": 50,
-      "steel": 800,
-      "fuel": 50
-    },
-    "index": 9,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 143
-      },
-      {
-        "day": 5,
-        "secretary": 131
-      },
-      {
-        "day": 6,
-        "secretary": 131
-      },
-      {
-        "day": 7,
-        "secretary": 143
-      }
-    ]
+    "isRare": 1,
+    "index": 9
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 80,
+      "fuel": 50,
+      "steel": 950,
+      "ammo": 550
+    },
+    "available": [
+      {
+        "secretary": "136,148",
+        "day": 1
+      },
+      {
+        "secretary": 136,
+        "day": 2
+      },
+      {
+        "secretary": 148,
+        "day": 3
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 5,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 2,
         "equipIndex": 9,
+        "kaiFa": 7,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 7,
-        "equipCount": 2,
-        "kaiFa": 7
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 5
       },
       {
-        "gaiXiu": 7,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 3,
         "equipIndex": 9,
+        "kaiFa": 10,
         "kaiFaEnsure": 15,
         "gaiXiuEnsure": 10,
-        "equipCount": 3,
-        "kaiFa": 10
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 7
       }
     ],
-    "costResource": {
-      "ammo": 550,
-      "bauxite": 80,
-      "steel": 950,
-      "fuel": 50
-    },
-    "index": 128,
-    "available": [
-      {
-        "day": 1,
-        "secretary": "136,148"
-      },
-      {
-        "day": 2,
-        "secretary": 136
-      },
-      {
-        "day": 3,
-        "secretary": 148
-      }
-    ]
+    "isRare": 1,
+    "index": 128
   },
   {
-    "costMaterial": [
-      {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 3,
-        "kaiFaEnsure": 2,
-        "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 1
-      },
-      {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
-        "equipIndex": 3,
-        "kaiFaEnsure": 3,
-        "gaiXiuEnsure": 2,
-        "equipCount": 2,
-        "kaiFa": 2
-      }
-    ],
     "costResource": {
-      "ammo": 20,
       "bauxite": 10,
+      "fuel": 10,
       "steel": 70,
-      "fuel": 10
+      "ammo": 20
     },
-    "index": 135,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 441
-      },
-      {
-        "day": 2,
-        "secretary": 441
-      },
-      {
-        "day": 3,
-        "secretary": 441
-      },
-      {
-        "day": 4,
-        "secretary": "441,442"
-      },
-      {
-        "day": 5,
-        "secretary": 442
-      },
-      {
-        "day": 6,
-        "secretary": 442
-      },
-      {
-        "day": 7,
-        "secretary": 442
-      }
-    ]
-  },
-  {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
+        "equipIndex": 3,
+        "kaiFa": 1,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 2,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
-        "equipIndex": 11,
-        "kaiFaEnsure": 3,
-        "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 2
-      },
-      {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
-        "equipIndex": 11,
-        "kaiFaEnsure": 4,
-        "gaiXiuEnsure": 5,
         "equipCount": 2,
-        "kaiFa": 3
+        "equipIndex": 3,
+        "kaiFa": 2,
+        "kaiFaEnsure": 3,
+        "gaiXiuEnsure": 2,
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       }
     ],
-    "index": 11,
-    "nextIndex": 65,
-    "costResource": {
-      "ammo": 60,
-      "bauxite": 0,
-      "steel": 90,
-      "fuel": 10
-    },
-    "nextInitialLevel": 0,
     "available": [
       {
-        "day": 1,
-        "secretary": "137,78,27"
+        "secretary": 441,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": "137,27"
+        "secretary": 441,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 27
+        "secretary": 441,
+        "day": 3
       },
       {
-        "day": 6,
-        "secretary": 78
+        "secretary": "441,442",
+        "day": 4
       },
       {
-        "day": 7,
-        "secretary": "137,78"
+        "secretary": 442,
+        "day": 5
+      },
+      {
+        "secretary": 442,
+        "day": 6
+      },
+      {
+        "secretary": 442,
+        "day": 7
       }
-    ]
+    ],
+    "index": 135
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
+        "kaiFa": 2,
+        "kaiFaEnsure": 2,
+        "gaiXiuEnsure": 2,
         "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
+      },
+      {
+        "equipCount": 1,
+        "equipIndex": 11,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 3,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
-        "equipIndex": 5,
+        "equipCount": 2,
+        "equipIndex": 11,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
+    "nextInitialLevel": 0,
     "costResource": {
-      "ammo": 90,
       "bauxite": 0,
-      "steel": 120,
-      "fuel": 10
+      "fuel": 10,
+      "steel": 90,
+      "ammo": 60
     },
-    "index": 134,
+    "nextIndex": 65,
     "available": [
       {
-        "day": 1,
-        "secretary": 442
+        "secretary": "137,78,27",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 441
+        "secretary": "137,27",
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 441
+        "secretary": 27,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 442
+        "secretary": 78,
+        "day": 6
       },
       {
-        "day": 5,
-        "secretary": 442
-      },
-      {
-        "day": 6,
-        "secretary": 441
-      },
-      {
-        "day": 7,
-        "secretary": "441,442"
+        "secretary": "137,78",
+        "day": 7
       }
-    ]
+    ],
+    "index": 11
   },
   {
+    "costResource": {
+      "bauxite": 0,
+      "fuel": 10,
+      "steel": 120,
+      "ammo": 90
+    },
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
+        "kaiFa": 2,
+        "kaiFaEnsure": 3,
+        "gaiXiuEnsure": 3,
         "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
+      },
+      {
+        "equipCount": 1,
+        "equipIndex": 5,
+        "kaiFa": 3,
+        "kaiFaEnsure": 4,
+        "gaiXiuEnsure": 5,
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
+      }
+    ],
+    "available": [
+      {
+        "secretary": 442,
+        "day": 1
+      },
+      {
+        "secretary": 441,
+        "day": 2
+      },
+      {
+        "secretary": 441,
+        "day": 3
+      },
+      {
+        "secretary": 442,
+        "day": 4
+      },
+      {
+        "secretary": 442,
+        "day": 5
+      },
+      {
+        "secretary": 441,
+        "day": 6
+      },
+      {
+        "secretary": "441,442",
+        "day": 7
+      }
+    ],
+    "index": 134
+  },
+  {
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 50,
+      "steel": 60,
+      "ammo": 70
+    },
+    "nextIndex": 125,
+    "costMaterial": [
+      {
+        "kaiFa": 1,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 1,
-        "kaiFa": 1
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 13,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 13,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 4,
-        "equipCount": 2,
-        "kaiFa": 3
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 2
       }
     ],
-    "costResource": {
-      "ammo": 70,
-      "bauxite": 20,
-      "steel": 60,
-      "fuel": 50
-    },
-    "index": 13,
-    "nextIndex": 125,
     "available": [
       {
-        "day": 1,
-        "secretary": 33
+        "secretary": 33,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 33
+        "secretary": 33,
+        "day": 2
       },
       {
-        "day": 4,
-        "secretary": 9
+        "secretary": 9,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 9
+        "secretary": 9,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 9
+        "secretary": 9,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 33
+        "secretary": 33,
+        "day": 7
       }
-    ]
+    ],
+    "index": 13
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 1,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 1,
-        "kaiFa": 1
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 13,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 14,
+        "kaiFa": 4,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 4
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "index": 125,
-    "nextIndex": 15,
-    "costResource": {
-      "ammo": 90,
-      "bauxite": 20,
-      "steel": 60,
-      "fuel": 60
-    },
     "nextInitialLevel": 5,
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 60,
+      "steel": 60,
+      "ammo": 90
+    },
+    "nextIndex": 15,
     "available": [
       {
-        "day": 4,
-        "secretary": 426
+        "secretary": 426,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 426
+        "secretary": 426,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 426
+        "secretary": 426,
+        "day": 6
       }
-    ]
+    ],
+    "index": 125
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 1,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 2,
-        "kaiFa": 1
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 14,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 14,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 6,
-        "equipCount": 2,
-        "kaiFa": 3
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "index": 14,
-    "nextIndex": 15,
-    "costResource": {
-      "ammo": 100,
-      "bauxite": 20,
-      "steel": 70,
-      "fuel": 70
-    },
     "nextInitialLevel": 3,
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 70,
+      "steel": 70,
+      "ammo": 100
+    },
+    "nextIndex": 15,
     "available": [
       {
         "day": 1
@@ -2032,159 +2031,159 @@
       {
         "day": 7
       }
-    ]
+    ],
+    "index": 14
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 2,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 15,
+        "kaiFa": 4,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 3,
         "equipIndex": 15,
+        "kaiFa": 5,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 11,
-        "equipCount": 3,
-        "kaiFa": 5
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 5
       }
     ],
-    "index": 15,
-    "nextIndex": 58,
-    "costResource": {
-      "ammo": 120,
-      "bauxite": 20,
-      "steel": 80,
-      "fuel": 80
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 80,
+      "steel": 80,
+      "ammo": 120
+    },
+    "nextIndex": 58,
     "available": [
       {
-        "day": 1,
-        "secretary": "24,25"
+        "secretary": "24,25",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": "24,25"
+        "secretary": "24,25",
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": "24,25"
+        "secretary": "24,25",
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": "24,25"
+        "secretary": "24,25",
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "24,25"
+        "secretary": "24,25",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "24,25"
+        "secretary": "24,25",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": "24,25"
+        "secretary": "24,25",
+        "day": 7
       }
-    ]
+    ],
+    "index": 15
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 100,
+      "steel": 90,
+      "ammo": 150
+    },
+    "available": [
+      {
+        "secretary": 50,
+        "day": 3
+      },
+      {
+        "secretary": 50,
+        "day": 4
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 5,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 58,
+        "kaiFa": 5,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 7,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 150,
-      "bauxite": 30,
-      "steel": 90,
-      "fuel": 100
-    },
-    "index": 58,
-    "available": [
-      {
-        "day": 3,
-        "secretary": 50
-      },
-      {
-        "day": 4,
-        "secretary": 50
-      }
-    ]
+    "isRare": 1,
+    "index": 58
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 1,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 2,
-        "kaiFa": 1
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 44,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 2
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 44,
+        "kaiFa": 3,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 8,
-        "equipCount": 2,
-        "kaiFa": 3
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "index": 44,
-    "nextIndex": 45,
-    "costResource": {
-      "ammo": 60,
-      "bauxite": 20,
-      "steel": 20,
-      "fuel": 10
-    },
     "nextInitialLevel": 3,
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 10,
+      "steel": 20,
+      "ammo": 60
+    },
+    "nextIndex": 45,
     "available": [
       {
         "day": 3
@@ -2192,1247 +2191,1248 @@
       {
         "day": 4
       }
-    ]
+    ],
+    "index": 44
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 10,
+      "steel": 20,
+      "ammo": 80
+    },
+    "available": [
+      {
+        "secretary": 141,
+        "day": 3
+      },
+      {
+        "secretary": 141,
+        "day": 4
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 3,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 3,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 45,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       }
     ],
-    "costResource": {
-      "ammo": 80,
-      "bauxite": 30,
-      "steel": 20,
-      "fuel": 10
-    },
-    "index": 45,
-    "available": [
-      {
-        "day": 3,
-        "secretary": 141
-      },
-      {
-        "day": 4,
-        "secretary": 141
-      }
-    ]
+    "isRare": 1,
+    "index": 45
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 2,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 46,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 46,
+        "kaiFa": 6,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 6
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "index": 46,
-    "nextIndex": 47,
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 30,
-      "steel": 30,
-      "fuel": 10
-    },
     "nextInitialLevel": 3,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 10,
+      "steel": 30,
+      "ammo": 0
+    },
+    "nextIndex": 47,
     "available": [
       {
-        "day": 1,
-        "secretary": 141
+        "secretary": 141,
+        "day": 1
       },
       {
-        "day": 5,
-        "secretary": 115
+        "secretary": 115,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 115
+        "secretary": 115,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 115
+        "secretary": 115,
+        "day": 7
       }
-    ]
+    ],
+    "index": 46
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 2,
         "gaiXiuEnsure": 2,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 46,
+        "kaiFa": 3,
         "kaiFaEnsure": 4,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 6,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 47,
+        "kaiFa": 10,
         "kaiFaEnsure": 20,
         "gaiXiuEnsure": 12,
-        "equipCount": 2,
-        "kaiFa": 10
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 6
       }
     ],
-    "index": 46,
-    "nextIndex": 149,
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 30,
-      "steel": 30,
-      "fuel": 10
-    },
     "nextInitialLevel": 0,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 10,
+      "steel": 30,
+      "ammo": 0
+    },
+    "nextIndex": 149,
     "available": [
       {
-        "day": 4,
-        "secretary": "145,141"
+        "secretary": "145,141",
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "145,141,343"
+        "secretary": "145,141,343",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "145,343"
+        "secretary": "145,343",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": "145,343"
+        "secretary": "145,343",
+        "day": 7
       }
-    ]
+    ],
+    "index": 46
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 50,
+      "fuel": 10,
+      "steel": 30,
+      "ammo": 0
+    },
+    "available": [
+      {
+        "secretary": 141,
+        "day": 7
+      },
+      {
+        "secretary": "141,115",
+        "day": 2
+      },
+      {
+        "secretary": "141,115",
+        "day": 3
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 3,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 47,
+        "kaiFa": 5,
         "kaiFaEnsure": 7,
         "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 50,
-      "steel": 30,
-      "fuel": 10
-    },
-    "index": 47,
-    "available": [
-      {
-        "day": 7,
-        "secretary": 141
-      },
-      {
-        "day": 2,
-        "secretary": "141,115"
-      },
-      {
-        "day": 3,
-        "secretary": "141,115"
-      }
-    ]
+    "isRare": 1,
+    "index": 47
   },
   {
-    "isRare": 1,
-    "costMaterial": [
+    "costResource": {
+      "bauxite": 60,
+      "fuel": 10,
+      "steel": 50,
+      "ammo": 0
+    },
+    "available": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 46,
-        "kaiFaEnsure": 7,
-        "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 5
+        "secretary": 343,
+        "day": 1
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "secretary": 343,
+        "day": 2
+      },
+      {
+        "secretary": 422,
+        "day": 3
+      },
+      {
+        "secretary": 141,
+        "day": 4
+      },
+      {
+        "secretary": 141,
+        "day": 5
+      },
+      {
+        "secretary": 141,
+        "day": 6
+      },
+      {
+        "secretary": 421,
+        "day": 7
+      }
+    ],
+    "costMaterial": [
+      {
+        "equipCount": 2,
+        "equipIndex": 46,
+        "kaiFa": 5,
+        "kaiFaEnsure": 7,
+        "gaiXiuEnsure": 5,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
+      },
+      {
+        "equipCount": 1,
         "equipIndex": 149,
+        "kaiFa": 6,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 6,
-        "equipCount": 1,
-        "kaiFa": 6
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 60,
-      "steel": 50,
-      "fuel": 10
-    },
-    "index": 149,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 343
-      },
-      {
-        "day": 2,
-        "secretary": 343
-      },
-      {
-        "day": 3,
-        "secretary": 422
-      },
-      {
-        "day": 4,
-        "secretary": 141
-      },
-      {
-        "day": 5,
-        "secretary": 141
-      },
-      {
-        "day": 6,
-        "secretary": 141
-      },
-      {
-        "day": 7,
-        "secretary": 421
-      }
-    ]
+    "isRare": 1,
+    "index": 149
   },
   {
+    "costResource": {
+      "bauxite": 10,
+      "fuel": 30,
+      "steel": 310,
+      "ammo": 150
+    },
+    "nextIndex": 116,
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 2,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 1,
-        "kaiFa": 2
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 1,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 36,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 3,
         "equipIndex": 36,
+        "kaiFa": 6,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 9,
-        "equipCount": 3,
-        "kaiFa": 6
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 150,
-      "bauxite": 10,
-      "steel": 310,
-      "fuel": 30
-    },
-    "index": 36,
-    "nextIndex": 116,
     "available": [
       {
-        "day": 1,
-        "secretary": 85
+        "secretary": 85,
+        "day": 1
       },
       {
-        "day": 3,
-        "secretary": 86
+        "secretary": 86,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 86
+        "secretary": 86,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "85,86"
+        "secretary": "85,86",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "85,86"
+        "secretary": "85,86",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 85
+        "secretary": 85,
+        "day": 7
       }
-    ]
+    ],
+    "index": 36
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 30,
+      "steel": 330,
+      "ammo": 170
+    },
+    "available": [
+      {
+        "secretary": 79,
+        "day": 1
+      },
+      {
+        "secretary": 79,
+        "day": 2
+      },
+      {
+        "secretary": 79,
+        "day": 3
+      },
+      {
+        "secretary": 78,
+        "day": 5
+      },
+      {
+        "secretary": 78,
+        "day": 6
+      },
+      {
+        "secretary": 78,
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 2,
         "equipIndex": 36,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 1,
-        "equipCount": 2,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 116,
+        "kaiFa": 4,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       }
     ],
-    "costResource": {
-      "ammo": 170,
-      "bauxite": 20,
-      "steel": 330,
-      "fuel": 30
-    },
-    "index": 116,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 79
-      },
-      {
-        "day": 2,
-        "secretary": 79
-      },
-      {
-        "day": 3,
-        "secretary": 79
-      },
-      {
-        "day": 5,
-        "secretary": 78
-      },
-      {
-        "day": 6,
-        "secretary": 78
-      },
-      {
-        "day": 7,
-        "secretary": 78
-      }
-    ]
+    "isRare": 1,
+    "index": 116
   },
   {
+    "costResource": {
+      "bauxite": 20,
+      "fuel": 10,
+      "steel": 30,
+      "ammo": 0
+    },
+    "nextIndex": 140,
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 3,
         "kaiFaEnsure": 3,
         "gaiXiuEnsure": 3,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 74,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 1,
         "equipIndex": 129,
+        "kaiFa": 5,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 7,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 20,
-      "steel": 30,
-      "fuel": 10
-    },
-    "index": 74,
-    "nextIndex": 140,
     "available": [
       {
-        "day": 1,
-        "secretary": "13,61"
+        "secretary": "13,61",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": "13,61"
+        "secretary": "13,61",
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": "13,61"
+        "secretary": "13,61",
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 34
+        "secretary": 34,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "34,55"
+        "secretary": "34,55",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "34,55"
+        "secretary": "34,55",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 55
+        "secretary": 55,
+        "day": 7
       }
-    ]
+    ],
+    "index": 74
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 20,
+      "steel": 70,
+      "ammo": 0
+    },
+    "available": [
+      {
+        "secretary": 86,
+        "day": 1
+      },
+      {
+        "secretary": 85,
+        "day": 2
+      },
+      {
+        "secretary": 85,
+        "day": 3
+      },
+      {
+        "secretary": 85,
+        "day": 4
+      },
+      {
+        "secretary": "86,85",
+        "day": 5
+      },
+      {
+        "secretary": 86,
+        "day": 6
+      },
+      {
+        "secretary": 86,
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 74,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "kaiFa": 5,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 7,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 30,
-      "steel": 70,
-      "fuel": 20
-    },
-    "index": 140,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 86
-      },
-      {
-        "day": 2,
-        "secretary": 85
-      },
-      {
-        "day": 3,
-        "secretary": 85
-      },
-      {
-        "day": 4,
-        "secretary": 85
-      },
-      {
-        "day": 5,
-        "secretary": "86,85"
-      },
-      {
-        "day": 6,
-        "secretary": 86
-      },
-      {
-        "day": 7,
-        "secretary": 86
-      }
-    ]
+    "isRare": 1,
+    "index": 140
   },
   {
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 10,
+      "steel": 20,
+      "ammo": 0
+    },
+    "nextIndex": 106,
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 3,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 27,
+        "kaiFa": 5,
         "kaiFaEnsure": 7,
         "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 1,
         "equipIndex": 89,
+        "kaiFa": 10,
         "kaiFaEnsure": 15,
         "gaiXiuEnsure": 12,
-        "equipCount": 1,
-        "kaiFa": 10
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 5
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 30,
-      "steel": 20,
-      "fuel": 10
-    },
-    "index": 27,
-    "nextIndex": 106,
     "available": [
       {
-        "day": 1,
-        "secretary": "141,422"
+        "secretary": "141,422",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": "421,422"
+        "secretary": "421,422",
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": "421,422"
+        "secretary": "421,422",
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": "145,421"
+        "secretary": "145,421",
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "145,141"
+        "secretary": "145,141",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "145,141"
+        "secretary": "145,141",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": "145,141"
+        "secretary": "145,141",
+        "day": 7
       }
-    ]
+    ],
+    "index": 27
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 40,
+      "fuel": 10,
+      "steel": 30,
+      "ammo": 0
+    },
+    "available": [
+      {
+        "secretary": 20,
+        "day": 1
+      },
+      {
+        "secretary": 20,
+        "day": 2
+      },
+      {
+        "secretary": 20,
+        "day": 3
+      },
+      {
+        "secretary": 320,
+        "day": 4
+      },
+      {
+        "secretary": "320,419",
+        "day": 5
+      },
+      {
+        "secretary": "320,419",
+        "day": 6
+      },
+      {
+        "secretary": "419,20",
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 27,
+        "kaiFa": 5,
         "kaiFaEnsure": 7,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 5
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 27,
+        "kaiFa": 7,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 8,
-        "equipCount": 2,
-        "kaiFa": 7
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 40,
-      "steel": 30,
-      "fuel": 10
-    },
-    "index": 106,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 20
-      },
-      {
-        "day": 2,
-        "secretary": 20
-      },
-      {
-        "day": 3,
-        "secretary": 20
-      },
-      {
-        "day": 4,
-        "secretary": 320
-      },
-      {
-        "day": 5,
-        "secretary": "320,419"
-      },
-      {
-        "day": 6,
-        "secretary": "320,419"
-      },
-      {
-        "day": 7,
-        "secretary": "419,20"
-      }
-    ]
+    "isRare": 1,
+    "index": 106
   },
   {
+    "costResource": {
+      "bauxite": 50,
+      "fuel": 10,
+      "steel": 40,
+      "ammo": 0
+    },
+    "nextIndex": 89,
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "kaiFa": 5,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 3,
-        "kaiFa": 5
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 30,
+        "kaiFa": 6,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 6
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 30,
+        "kaiFa": 12,
         "kaiFaEnsure": 16,
         "gaiXiuEnsure": 13,
-        "equipCount": 2,
-        "kaiFa": 12
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 5
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 50,
-      "steel": 40,
-      "fuel": 10
-    },
-    "index": 30,
-    "nextIndex": 89,
     "available": [
       {
-        "day": 1,
-        "secretary": 77
+        "secretary": 77,
+        "day": 1
       },
       {
-        "day": 3,
-        "secretary": 87
+        "secretary": 87,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 87
+        "secretary": 87,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "77,87"
+        "secretary": "77,87",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "77,87"
+        "secretary": "77,87",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 77
+        "secretary": 77,
+        "day": 7
       }
-    ]
+    ],
+    "index": 30
   },
   {
-    "isRare": 1,
-    "costMaterial": [
+    "costResource": {
+      "bauxite": 70,
+      "fuel": 10,
+      "steel": 60,
+      "ammo": 0
+    },
+    "available": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 30,
-        "kaiFaEnsure": 8,
-        "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 6
+        "secretary": 143,
+        "day": 2
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "secretary": 143,
+        "day": 3
+      },
+      {
+        "secretary": "131,143",
+        "day": 4
+      },
+      {
+        "secretary": "131,143",
+        "day": 5
+      },
+      {
+        "secretary": 131,
+        "day": 6
+      },
+      {
+        "secretary": 131,
+        "day": 7
+      }
+    ],
+    "costMaterial": [
+      {
+        "equipCount": 1,
         "equipIndex": 30,
+        "kaiFa": 6,
+        "kaiFaEnsure": 8,
+        "gaiXiuEnsure": 3,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
+      },
+      {
+        "equipCount": 2,
+        "equipIndex": 30,
+        "kaiFa": 10,
         "kaiFaEnsure": 12,
         "gaiXiuEnsure": 8,
-        "equipCount": 2,
-        "kaiFa": 10
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 70,
-      "steel": 60,
-      "fuel": 10
-    },
-    "index": 89,
-    "available": [
-      {
-        "day": 2,
-        "secretary": 143
-      },
-      {
-        "day": 3,
-        "secretary": 143
-      },
-      {
-        "day": 4,
-        "secretary": "131,143"
-      },
-      {
-        "day": 5,
-        "secretary": "131,143"
-      },
-      {
-        "day": 6,
-        "secretary": 131
-      },
-      {
-        "day": 7,
-        "secretary": 131
-      }
-    ]
+    "isRare": 1,
+    "index": 89
   },
   {
+    "costResource": {
+      "bauxite": 30,
+      "fuel": 10,
+      "steel": 30,
+      "ammo": 0
+    },
+    "nextIndex": 88,
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 28,
+        "kaiFa": 4,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 28,
+        "kaiFa": 7,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 7
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 8,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 3,
         "equipIndex": 28,
+        "kaiFa": 10,
         "kaiFaEnsure": 20,
         "gaiXiuEnsure": 14,
-        "equipCount": 3,
-        "kaiFa": 10
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 8
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 30,
-      "steel": 30,
-      "fuel": 10
-    },
-    "index": 28,
-    "nextIndex": 88,
     "available": [
       {
-        "day": 1,
-        "secretary": "87,133"
+        "secretary": "87,133",
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 133
+        "secretary": 133,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 50
+        "secretary": 50,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 50
+        "secretary": 50,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": "87,133,50"
+        "secretary": "87,133,50",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "87,133,50"
+        "secretary": "87,133,50",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 87
+        "secretary": 87,
+        "day": 7
       }
-    ]
+    ],
+    "index": 28
   },
   {
-    "isRare": 1,
-    "costMaterial": [
+    "costResource": {
+      "bauxite": 40,
+      "fuel": 10,
+      "steel": 40,
+      "ammo": 0
+    },
+    "available": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 28,
-        "kaiFaEnsure": 8,
-        "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 5
+        "secretary": 194,
+        "day": 1
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "secretary": 149,
+        "day": 2
+      },
+      {
+        "secretary": 149,
+        "day": 3
+      },
+      {
+        "secretary": "319,149",
+        "day": 4
+      },
+      {
+        "secretary": "319,194,149",
+        "day": 5
+      },
+      {
+        "secretary": "319,194",
+        "day": 6
+      },
+      {
+        "secretary": "319,194",
+        "day": 7
+      }
+    ],
+    "costMaterial": [
+      {
+        "equipCount": 1,
+        "equipIndex": 28,
+        "kaiFa": 5,
+        "kaiFaEnsure": 8,
+        "gaiXiuEnsure": 4,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
+      },
+      {
+        "equipCount": 1,
         "equipIndex": 88,
+        "kaiFa": 8,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 8,
-        "equipCount": 1,
-        "kaiFa": 8
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 40,
-      "steel": 40,
-      "fuel": 10
-    },
-    "index": 88,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 194
-      },
-      {
-        "day": 2,
-        "secretary": 149
-      },
-      {
-        "day": 3,
-        "secretary": 149
-      },
-      {
-        "day": 4,
-        "secretary": "319,149"
-      },
-      {
-        "day": 5,
-        "secretary": "319,194,149"
-      },
-      {
-        "day": 6,
-        "secretary": "319,194"
-      },
-      {
-        "day": 7,
-        "secretary": "319,194"
-      }
-    ]
+    "isRare": 1,
+    "index": 88
   },
   {
     "costMaterial": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 28,
+        "kaiFa": 6,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 6
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 28,
+        "kaiFa": 12,
         "kaiFaEnsure": 15,
         "gaiXiuEnsure": 7,
-        "equipCount": 2,
-        "kaiFa": 12
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       },
       {
-        "gaiXiu": 10,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 1,
         "equipIndex": 31,
+        "kaiFa": 15,
         "kaiFaEnsure": 22,
         "gaiXiuEnsure": 15,
-        "equipCount": 1,
-        "kaiFa": 15
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 10
       }
     ],
-    "index": 31,
-    "nextIndex": 141,
     "costResource": {
-      "ammo": 0,
       "bauxite": 50,
+      "fuel": 10,
       "steel": 60,
-      "fuel": 10
+      "ammo": 0
     },
-    "isRare": 1,
+    "nextIndex": 141,
     "available": [
       {
-        "day": 1,
-        "secretary": 87
+        "secretary": 87,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 87
+        "secretary": 87,
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": 77
+        "secretary": 77,
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 77
+        "secretary": 77,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 77
+        "secretary": 77,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 77
+        "secretary": 77,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 87
+        "secretary": 87,
+        "day": 7
       }
-    ]
+    ],
+    "isRare": 1,
+    "index": 31
   },
   {
-    "isRare": 1,
+    "costResource": {
+      "bauxite": 80,
+      "fuel": 10,
+      "steel": 100,
+      "ammo": 0
+    },
+    "available": [
+      {
+        "secretary": 77,
+        "day": 1
+      },
+      {
+        "secretary": 77,
+        "day": 2
+      },
+      {
+        "secretary": 87,
+        "day": 3
+      },
+      {
+        "secretary": 87,
+        "day": 4
+      },
+      {
+        "secretary": 87,
+        "day": 5
+      },
+      {
+        "secretary": 87,
+        "day": 6
+      },
+      {
+        "secretary": 77,
+        "day": 7
+      }
+    ],
     "costMaterial": [
       {
-        "gaiXiu": 5,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 3,
         "equipIndex": 28,
+        "kaiFa": 10,
         "kaiFaEnsure": 15,
         "gaiXiuEnsure": 6,
-        "equipCount": 3,
-        "kaiFa": 10
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 5
       },
       {
-        "gaiXiu": 7,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 31,
+        "kaiFa": 14,
         "kaiFaEnsure": 18,
         "gaiXiuEnsure": 10,
-        "equipCount": 1,
-        "kaiFa": 14
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 7
       }
     ],
-    "costResource": {
-      "ammo": 0,
-      "bauxite": 80,
-      "steel": 100,
-      "fuel": 10
-    },
-    "index": 141,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 77
-      },
-      {
-        "day": 2,
-        "secretary": 77
-      },
-      {
-        "day": 3,
-        "secretary": 87
-      },
-      {
-        "day": 4,
-        "secretary": 87
-      },
-      {
-        "day": 5,
-        "secretary": 87
-      },
-      {
-        "day": 6,
-        "secretary": 87
-      },
-      {
-        "day": 7,
-        "secretary": 77
-      }
-    ]
+    "isRare": 1,
+    "index": 141
   },
   {
+    "costResource": {
+      "bauxite": 300,
+      "fuel": 90,
+      "steel": 0,
+      "ammo": 20
+    },
+    "nextIndex": 165,
     "costMaterial": [
       {
-        "gaiXiu": 2,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 25,
+        "kaiFa": 4,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 3,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 2,
         "equipIndex": 25,
+        "kaiFa": 5,
         "kaiFaEnsure": 8,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 5
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 3
       },
       {
-        "gaiXiu": 5,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 3,
         "equipIndex": 20,
+        "kaiFa": 9,
         "kaiFaEnsure": 15,
         "gaiXiuEnsure": 10,
-        "equipCount": 3,
-        "kaiFa": 9
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 5
       }
     ],
-    "costResource": {
-      "ammo": 20,
-      "bauxite": 300,
-      "steel": 0,
-      "fuel": 90
-    },
-    "index": 25,
-    "nextIndex": 165,
     "available": [
       {
-        "day": 1,
-        "secretary": 451
+        "secretary": 451,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": 451
+        "secretary": 451,
+        "day": 2
       },
       {
-        "day": 5,
-        "secretary": "106,450,451"
+        "secretary": "106,450,451",
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": "106,450,451"
+        "secretary": "106,450,451",
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": "450,451"
+        "secretary": "450,451",
+        "day": 7
       }
-    ]
+    ],
+    "index": 25
   },
   {
-    "isRare": 1,
-    "costMaterial": [
+    "costResource": {
+      "bauxite": 270,
+      "fuel": 90,
+      "steel": 0,
+      "ammo": 40
+    },
+    "available": [
       {
-        "gaiXiu": 3,
-        "fromLevel": 0,
-        "toLevel": 5,
-        "equipIndex": 26,
-        "kaiFaEnsure": 6,
-        "gaiXiuEnsure": 5,
-        "equipCount": 1,
-        "kaiFa": 4
+        "secretary": 451,
+        "day": 1
       },
       {
-        "gaiXiu": 4,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "secretary": 451,
+        "day": 2
+      },
+      {
+        "secretary": 451,
+        "day": 3
+      },
+      {
+        "secretary": 143,
+        "day": 4
+      },
+      {
+        "secretary": 143,
+        "day": 5
+      },
+      {
+        "secretary": "451,143",
+        "day": 6
+      },
+      {
+        "secretary": 451,
+        "day": 7
+      }
+    ],
+    "costMaterial": [
+      {
+        "equipCount": 1,
+        "equipIndex": 26,
+        "kaiFa": 4,
+        "kaiFaEnsure": 6,
+        "gaiXiuEnsure": 5,
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 3
+      },
+      {
+        "equipCount": 1,
         "equipIndex": 59,
+        "kaiFa": 6,
         "kaiFaEnsure": 9,
         "gaiXiuEnsure": 7,
-        "equipCount": 1,
-        "kaiFa": 6
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 4
       }
     ],
-    "costResource": {
-      "ammo": 40,
-      "bauxite": 270,
-      "steel": 0,
-      "fuel": 90
-    },
-    "index": 59,
-    "available": [
-      {
-        "day": 1,
-        "secretary": 451
-      },
-      {
-        "day": 2,
-        "secretary": 451
-      },
-      {
-        "day": 3,
-        "secretary": 451
-      },
-      {
-        "day": 4,
-        "secretary": 143
-      },
-      {
-        "day": 5,
-        "secretary": 143
-      },
-      {
-        "day": 6,
-        "secretary": "451,143"
-      },
-      {
-        "day": 7,
-        "secretary": 451
-      }
-    ]
+    "isRare": 1,
+    "index": 59
   },
   {
+    "costResource": {
+      "bauxite": 180,
+      "fuel": 60,
+      "steel": 0,
+      "ammo": 30
+    },
+    "nextIndex": 164,
     "costMaterial": [
       {
-        "gaiXiu": 1,
-        "fromLevel": 0,
-        "toLevel": 5,
+        "equipCount": 1,
         "equipIndex": 25,
+        "kaiFa": 3,
         "kaiFaEnsure": 5,
         "gaiXiuEnsure": 2,
-        "equipCount": 1,
-        "kaiFa": 3
+        "toLevel": 5,
+        "fromLevel": 0,
+        "gaiXiu": 1
       },
       {
-        "gaiXiu": 2,
-        "fromLevel": 6,
-        "toLevel": 9,
+        "equipCount": 1,
         "equipIndex": 26,
+        "kaiFa": 4,
         "kaiFaEnsure": 6,
         "gaiXiuEnsure": 4,
-        "equipCount": 1,
-        "kaiFa": 4
+        "toLevel": 9,
+        "fromLevel": 6,
+        "gaiXiu": 2
       },
       {
-        "gaiXiu": 3,
-        "fromLevel": 10,
-        "toLevel": 10,
+        "equipCount": 2,
         "equipIndex": 25,
+        "kaiFa": 5,
         "kaiFaEnsure": 10,
         "gaiXiuEnsure": 5,
-        "equipCount": 2,
-        "kaiFa": 5
+        "toLevel": 10,
+        "fromLevel": 10,
+        "gaiXiu": 3
       }
     ],
-    "costResource": {
-      "ammo": 30,
-      "bauxite": 180,
-      "steel": 0,
-      "fuel": 60
-    },
-    "index": 163,
-    "nextIndex": 164,
     "available": [
       {
-        "day": 1,
-        "secretary": 358
+        "secretary": 358,
+        "day": 1
       },
       {
-        "day": 2,
-        "secretary": "358,447"
+        "secretary": "358,447",
+        "day": 2
       },
       {
-        "day": 3,
-        "secretary": "358,447"
+        "secretary": "358,447",
+        "day": 3
       },
       {
-        "day": 4,
-        "secretary": 358
+        "secretary": 358,
+        "day": 4
       },
       {
-        "day": 5,
-        "secretary": 358
+        "secretary": 358,
+        "day": 5
       },
       {
-        "day": 6,
-        "secretary": 446
+        "secretary": 446,
+        "day": 6
       },
       {
-        "day": 7,
-        "secretary": 446
+        "secretary": 446,
+        "day": 7
       }
-    ]
+    ],
+    "index": 163
   }
 ]
