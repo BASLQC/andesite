@@ -48,6 +48,7 @@ def ship_info():
 		mvk(ship, 'api_stype', 'ship_class')
 		mvk(ship, 'api_afterlv', 'remodel_min_lv')
 		mvk(ship, 'api_aftershipid', 'remodel_ship_id')
+		ship['remodel_ship_id'] = int(ship['remodel_ship_id'])
 
 		# split up (base, max) stats
 		sbm(ship, 'api_taik', 'hp')
