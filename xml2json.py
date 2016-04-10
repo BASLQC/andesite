@@ -38,7 +38,7 @@ def main():
 				'danYao': 'ammo',
 				'gang': 'steel',
 				'lv': 'bauxite',
-				'RanLiao': 'Oil', # resources in romanized Chinese, uppercase
+				'RanLiao': 'Fuel', # resources in romanized Chinese, uppercase
 				'DanYao': 'Ammo',
 				'Gang': 'Steel',
 				'Lv': 'Bauxite',
