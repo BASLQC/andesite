@@ -1,10 +1,10 @@
 {
   "Map": [
     {
-      "index": "11",
-      "mapName": "1",
-      "stars": "1",
-      "exp": "30",
+      "index": 11,
+      "mapName": 1,
+      "stars": 1,
+      "exp": 30,
       "areaName": "鎮守府正面海域",
       "battleName": "近海警備",
       "point": [
@@ -60,7 +60,7 @@
         },
         {
           "position": "C",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -80,10 +80,10 @@
       ]
     },
     {
-      "index": "12",
-      "mapName": "1",
-      "stars": "1",
-      "exp": "50",
+      "index": 12,
+      "mapName": 1,
+      "stars": 1,
+      "exp": 50,
       "areaName": "南西諸島沖",
       "battleName": "南西諸島沖警備",
       "point": [
@@ -121,7 +121,7 @@
         },
         {
           "position": "B",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -168,10 +168,10 @@
       ]
     },
     {
-      "index": "13",
-      "mapName": "1",
-      "stars": "2",
-      "exp": "80",
+      "index": 13,
+      "mapName": 1,
+      "stars": 2,
+      "exp": 80,
       "areaName": "製油所地帯沿岸",
       "battleName": "海上護衛作戦",
       "point": [
@@ -281,7 +281,7 @@
         },
         {
           "position": "G",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": {
             "formation": "単縦、複縦",
             "detail": "戦艦ル級、雷巡チ級、軽巡ヘ級、駆逐イ級、駆逐イ級"
@@ -291,10 +291,10 @@
       ]
     },
     {
-      "index": "14",
-      "mapName": "1",
-      "stars": "3",
-      "exp": "100",
+      "index": 14,
+      "mapName": 1,
+      "stars": 3,
+      "exp": 100,
       "areaName": "南西諸島防衛線",
       "battleName": "南1号作戦",
       "point": [
@@ -387,16 +387,16 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ロ級、駆逐ロ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             }
           ],
           "route": {
@@ -406,21 +406,21 @@
         },
         {
           "position": "F",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "空母ヲ級、軽母ヌ級、重巡リ級、軽巡ヘ級、駆逐ニ級、駆逐ニ級",
-              "diZhiKongZhi": "18",
-              "zhiKongYouShi": "27",
-              "zhiKongQueBao": "54"
+              "diZhiKongZhi": 18,
+              "zhiKongYouShi": 27,
+              "zhiKongQueBao": 54
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級、空母ヲ級、重巡リ級、重巡リ級、軽巡ヘ級、駆逐ニ級",
-              "diZhiKongZhi": "20",
-              "zhiKongYouShi": "30",
-              "zhiKongQueBao": "60"
+              "diZhiKongZhi": 20,
+              "zhiKongYouShi": 30,
+              "zhiKongQueBao": 60
             }
           ],
           "drop": "吹雪 初雪 深雪 叢雲 磯波 睦月 如月 文月 長月 菊月 三日月 暁 響 雷 電 初春 子日 若葉 初霜 白露 時雨 夕立 村雨 五月雨 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 巻雲 天龍 龍田 球磨 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 古鷹 加古 青葉 妙高 那智 足柄 羽黒 摩耶 鳥海 衣笠 千歳 千代田 赤城 鳳翔 龍驤 祥鳳"
@@ -449,23 +449,23 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ロ級、駆逐ロ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             }
           ],
           "route": [
@@ -499,10 +499,10 @@
       ]
     },
     {
-      "index": "15",
-      "mapName": "1",
-      "stars": "5",
-      "exp": "150",
+      "index": 15,
+      "mapName": 1,
+      "stars": 5,
+      "exp": 150,
       "areaName": "鎮守府近海",
       "battleName": "鎮守府近海対潜哨戒",
       "point": [
@@ -537,7 +537,7 @@
             {
               "formation": "梯形",
               "detail": "潜水カ級、潜水カ級",
-              "baseLevel": "37"
+              "baseLevel": 37
             },
             {
               "formation": "梯形",
@@ -602,17 +602,17 @@
             {
               "formation": "梯形",
               "detail": "潜水ヨ級、潜水カ級、潜水カ級",
-              "baseLevel": "49"
+              "baseLevel": 49
             },
             {
               "formation": "",
               "detail": "潜水ヨ級elite、潜水カ級、潜水カ級",
-              "baseLevel": "77"
+              "baseLevel": 77
             },
             {
               "formation": "梯形",
               "detail": "潜水ヨ級elite、潜水ヨ級、潜水カ級elite、潜水カ級",
-              "baseLevel": "99"
+              "baseLevel": 99
             }
           ],
           "route": [
@@ -647,23 +647,23 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ハ級、駆逐ハ級",
-              "baseLevel": "34"
+              "baseLevel": 34
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽巡ヘ級flagship、軽巡ホ級elite、駆逐イ級flagship、駆逐イ級flagship",
-              "baseLevel": "76",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "baseLevel": 76,
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐イ級flagship",
               "baseLevel": "80,99",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             }
           ],
           "drop": "白雪 初雪 深雪 磯波 朧 曙 漣 潮 如月 皐月 文月 長月 菊月 三日月 望月 雷 子日 若葉 初霜 時雨 村雨 夕立 五月雨 大潮 荒潮 霞 不知火 黒潮 北上 多摩 木曾 名取 由良 神通 那珂 千歳 千代田 鳳翔 伊168 伊58"
@@ -674,12 +674,12 @@
             {
               "formation": "単縦",
               "detail": "雷巡チ級elite、雷巡チ級elite、駆逐ハ級elite、駆逐ロ級、駆逐ロ級",
-              "baseLevel": "31"
+              "baseLevel": 31
             },
             {
               "formation": "",
               "detail": "雷巡チ級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "baseLevel": "41"
+              "baseLevel": 41
             },
             {
               "formation": "単縦",
@@ -697,7 +697,7 @@
         },
         {
           "position": "I",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "梯形",
@@ -720,10 +720,10 @@
       ]
     },
     {
-      "index": "16",
-      "mapName": "1",
-      "stars": "6",
-      "exp": "100",
+      "index": 16,
+      "mapName": 1,
+      "stars": 6,
+      "exp": 100,
       "areaName": "鎮守府近海航路",
       "battleName": "輸送船団護衛作戦",
       "point": [
@@ -755,9 +755,9 @@
             {
               "formation": "単縦",
               "detail": "軽巡ヘ級flagship、軽母ヌ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "単縦",
@@ -808,49 +808,49 @@
         },
         {
           "position": "D",
-          "isAir": "1",
+          "isAir": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "132",
-              "zhiKongYouShi": "198",
-              "zhiKongQueBao": "396"
+              "diZhiKongZhi": 132,
+              "zhiKongYouShi": 198,
+              "zhiKongQueBao": 396
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "71",
-              "zhiKongYouShi": "107",
-              "zhiKongQueBao": "213"
+              "diZhiKongZhi": 71,
+              "zhiKongYouShi": 107,
+              "zhiKongQueBao": 213
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "47",
-              "zhiKongYouShi": "71",
-              "zhiKongQueBao": "141"
+              "diZhiKongZhi": 47,
+              "zhiKongYouShi": 71,
+              "zhiKongQueBao": 141
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "route": {
@@ -892,63 +892,63 @@
         },
         {
           "position": "F",
-          "isAir": "1",
+          "isAir": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "52",
-              "zhiKongYouShi": "78",
-              "zhiKongQueBao": "156"
+              "diZhiKongZhi": 52,
+              "zhiKongYouShi": 78,
+              "zhiKongQueBao": 156
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "36",
-              "zhiKongYouShi": "54",
-              "zhiKongQueBao": "108"
+              "diZhiKongZhi": 36,
+              "zhiKongYouShi": 54,
+              "zhiKongQueBao": 108
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽母ヌ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "47",
-              "zhiKongYouShi": "71",
-              "zhiKongQueBao": "141"
+              "diZhiKongZhi": 47,
+              "zhiKongYouShi": 71,
+              "zhiKongQueBao": 141
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "27",
-              "zhiKongYouShi": "41",
-              "zhiKongQueBao": "81"
+              "diZhiKongZhi": 27,
+              "zhiKongYouShi": 41,
+              "zhiKongQueBao": 81
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、重巡リ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "52",
-              "zhiKongYouShi": "78",
-              "zhiKongQueBao": "156"
+              "diZhiKongZhi": 52,
+              "zhiKongYouShi": 78,
+              "zhiKongQueBao": 156
             }
           ],
           "route": {
@@ -1014,30 +1014,30 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、軽母ヌ級、軽母ヌ級、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "118",
-              "zhiKongYouShi": "177",
-              "zhiKongQueBao": "354"
+              "diZhiKongZhi": 118,
+              "zhiKongYouShi": 177,
+              "zhiKongQueBao": 354
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級、軽母ヌ級、軽巡ツ級elite、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "100",
-              "zhiKongYouShi": "150",
-              "zhiKongQueBao": "300"
+              "diZhiKongZhi": 100,
+              "zhiKongYouShi": 150,
+              "zhiKongQueBao": 300
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級、軽母ヌ級、軽母ヌ級、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "108",
-              "zhiKongYouShi": "162",
-              "zhiKongQueBao": "324"
+              "diZhiKongZhi": 108,
+              "zhiKongYouShi": 162,
+              "zhiKongQueBao": 324
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級、軽母ヌ級、駆逐イ級後期型、駆逐イ級後期型、輸送ワ級",
-              "diZhiKongZhi": "44",
-              "zhiKongYouShi": "66",
-              "zhiKongQueBao": "132"
+              "diZhiKongZhi": 44,
+              "zhiKongYouShi": 66,
+              "zhiKongQueBao": 132
             }
           ],
           "route": {
@@ -1076,49 +1076,49 @@
         },
         {
           "position": "L",
-          "isAir": "1",
+          "isAir": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "192",
-              "zhiKongYouShi": "288",
-              "zhiKongQueBao": "576"
+              "diZhiKongZhi": 192,
+              "zhiKongYouShi": 288,
+              "zhiKongQueBao": 576
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "135",
-              "zhiKongYouShi": "203",
-              "zhiKongQueBao": "405"
+              "diZhiKongZhi": 135,
+              "zhiKongYouShi": 203,
+              "zhiKongQueBao": 405
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "132",
-              "zhiKongYouShi": "198",
-              "zhiKongQueBao": "396"
+              "diZhiKongZhi": 132,
+              "zhiKongYouShi": 198,
+              "zhiKongQueBao": 396
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "71",
-              "zhiKongYouShi": "107",
-              "zhiKongQueBao": "213"
+              "diZhiKongZhi": 71,
+              "zhiKongYouShi": 107,
+              "zhiKongQueBao": 213
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽母ヌ級elite、軽巡ツ級elite、駆逐イ級、駆逐イ級、駆逐イ級",
-              "diZhiKongZhi": "47",
-              "zhiKongYouShi": "71",
-              "zhiKongQueBao": "141"
+              "diZhiKongZhi": 47,
+              "zhiKongYouShi": 71,
+              "zhiKongQueBao": 141
             }
           ],
           "route": {
@@ -1142,7 +1142,7 @@
         },
         {
           "position": "N",
-          "isGoal": "1",
+          "isGoal": 1,
           "award": {
             "detail": "燃料、弾薬、鋼材、ボーキの4種資源からいずれかが入手可能，戦闘なし"
           }
@@ -1150,10 +1150,10 @@
       ]
     },
     {
-      "index": "21",
-      "mapName": "2",
-      "stars": "3",
-      "exp": "120",
+      "index": 21,
+      "mapName": 2,
+      "stars": 3,
+      "exp": 120,
       "areaName": "カムラン半島",
       "battleName": "カ号迎撃戦",
       "point": [
@@ -1204,23 +1204,23 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、重巡リ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "drop": "白雪 初雪 深雪 叢雲 磯波 敷波 如月 菊月 三日月 望月 雷 電 子日 初霜 夕立 時雨 村雨 五月雨 大潮 満潮 荒潮 霰 霞 不知火 黒潮 天龍 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 摩耶 鳥海 千歳 千代田 鳳翔 龍驤 飛鷹 隼鷹 祥鳳"
@@ -1241,28 +1241,28 @@
         },
         {
           "position": "E",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "複縦",
               "detail": "戦艦ル級、空母ヲ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "20",
-              "zhiKongYouShi": "30",
-              "zhiKongQueBao": "60"
+              "diZhiKongZhi": 20,
+              "zhiKongYouShi": 30,
+              "zhiKongQueBao": 60
             },
             {
               "formation": "複縦",
               "detail": "戦艦ル級、空母ヲ級、空母ヲ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "20",
-              "zhiKongYouShi": "30",
-              "zhiKongQueBao": "60"
+              "diZhiKongZhi": 20,
+              "zhiKongYouShi": 30,
+              "zhiKongQueBao": 60
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級、空母ヲ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             }
           ],
           "drop": "吹雪 白雪 深雪 叢雲 綾波 敷波 睦月 如月 文月 長月 菊月 三日月 暁 雷 電 初春 子日 若葉 初霜 白露 夕立 涼風 五月雨 朝潮 大潮 満潮 荒潮 霰 陽炎 不知火 黒潮 北上 天龍 龍田 球磨 木曾 長良 五十鈴 名取 由良 川内 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -1273,23 +1273,23 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、軽母ヌ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、重巡リ級、重巡リ級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級、軽母ヌ級、軽母ヌ級、軽巡ホ級、駆逐ロ級、駆逐ロ級",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "drop": "白雪 初雪 深雪 叢雲 磯波 敷波 皐月 長月 響 電 子日 時雨 夕立 五月雨 満潮 荒潮 霰 不知火 黒潮 球磨 多摩 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 摩耶 鳥海 千歳 千代田 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 榛名 霧島 山城"
@@ -1297,10 +1297,10 @@
       ]
     },
     {
-      "index": "22",
-      "mapName": "2",
-      "stars": "4",
-      "exp": "150",
+      "index": 22,
+      "mapName": 2,
+      "stars": 4,
+      "exp": 150,
       "areaName": "バシー島沖",
       "battleName": "柳輸送作戦",
       "point": [
@@ -1399,7 +1399,7 @@
         },
         {
           "position": "F",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦、複縦",
@@ -1412,9 +1412,9 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級elite、空母ヲ級elite、重巡リ級elite、軽巡ト級、駆逐ハ級、駆逐ハ級",
-              "diZhiKongZhi": "54",
-              "zhiKongYouShi": "81",
-              "zhiKongQueBao": "162"
+              "diZhiKongZhi": 54,
+              "zhiKongYouShi": 81,
+              "zhiKongQueBao": 162
             }
           ],
           "drop": "浜風 弥生 北上 球磨 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 加賀 蒼龍 龍驤 飛鷹 隼鷹 祥鳳 伊勢 金剛 比叡 霧島 扶桑 山城"
@@ -1444,10 +1444,10 @@
       ]
     },
     {
-      "index": "23",
-      "mapName": "2",
-      "stars": "5",
-      "exp": "200",
+      "index": 23,
+      "mapName": 2,
+      "stars": 5,
+      "exp": 200,
       "areaName": "東部オリョール海",
       "battleName": "01号作戦",
       "point": [
@@ -1553,51 +1553,51 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級、戦艦ル級、軽母ヌ級、軽母ヌ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "26",
-              "zhiKongYouShi": "39",
-              "zhiKongQueBao": "78"
+              "diZhiKongZhi": 26,
+              "zhiKongYouShi": 39,
+              "zhiKongQueBao": 78
             },
             {
               "formation": "単縦",
               "detail": "戦艦ル級、軽母ヌ級、軽母ヌ級、重巡リ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "複縦",
               "detail": "重巡リ級、軽母ヌ級、軽母ヌ級、軽巡ヘ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             }
           ],
           "drop": "白雪 初雪 深雪 叢雲 磯波 綾波 睦月 如月 皐月 文月 響 雷 電 初春 子日 若葉 時雨 夕立 五月雨 涼風 大潮 満潮 荒潮 霰 霞 陽炎 不知火 黒潮 天龍 木曾 五十鈴 名取 由良 川内 神通 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 伊勢 金剛 扶桑 山城"
         },
         {
           "position": "G",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "複縦",
               "detail": "戦艦ル級elite、戦艦ル級、空母ヲ級、重巡リ級、軽巡ヘ級、軽巡ヘ級",
-              "diZhiKongZhi": "10",
-              "zhiKongYouShi": "15",
-              "zhiKongQueBao": "30"
+              "diZhiKongZhi": 10,
+              "zhiKongYouShi": 15,
+              "zhiKongQueBao": 30
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級elite、空母ヲ級、戦艦ル級、重巡リ級、重巡リ級、駆逐ニ級",
-              "diZhiKongZhi": "37",
-              "zhiKongYouShi": "56",
-              "zhiKongQueBao": "111"
+              "diZhiKongZhi": 37,
+              "zhiKongYouShi": 56,
+              "zhiKongQueBao": 111
             },
             {
               "formation": "輪形",
               "detail": "戦艦ル級、重巡リ級elite、空母ヲ級、雷巡チ級、雷巡チ級、軽巡ト級",
-              "diZhiKongZhi": "10",
-              "zhiKongYouShi": "15",
-              "zhiKongQueBao": "30"
+              "diZhiKongZhi": 10,
+              "zhiKongYouShi": 15,
+              "zhiKongQueBao": 30
             }
           ],
           "drop": "吹雪 敷波 大潮 満潮 荒潮 霰 涼風 霞 巻雲 大井 北上 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 伊168 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -1608,23 +1608,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級、戦艦ル級、軽母ヌ級、軽母ヌ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "26",
-              "zhiKongYouShi": "39",
-              "zhiKongQueBao": "78"
+              "diZhiKongZhi": 26,
+              "zhiKongYouShi": 39,
+              "zhiKongQueBao": 78
             },
             {
               "formation": "単縦",
               "detail": "戦艦ル級、軽母ヌ級、軽母ヌ級、重巡リ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "複縦",
               "detail": "重巡リ級、軽母ヌ級、軽母ヌ級、軽巡ヘ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             }
           ],
           "route": {
@@ -1659,23 +1659,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級、戦艦ル級、軽母ヌ級、軽母ヌ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "26",
-              "zhiKongYouShi": "39",
-              "zhiKongQueBao": "78"
+              "diZhiKongZhi": 26,
+              "zhiKongYouShi": 39,
+              "zhiKongQueBao": 78
             },
             {
               "formation": "単縦",
               "detail": "戦艦ル級、軽母ヌ級、軽母ヌ級、重巡リ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             },
             {
               "formation": "複縦",
               "detail": "重巡リ級、軽母ヌ級、軽母ヌ級、軽巡ヘ級、輸送ワ級、輸送ワ級",
-              "diZhiKongZhi": "16",
-              "zhiKongYouShi": "24",
-              "zhiKongQueBao": "48"
+              "diZhiKongZhi": 16,
+              "zhiKongYouShi": 24,
+              "zhiKongQueBao": 48
             }
           ],
           "drop": "初雪 白雪 叢雲 綾波 皐月 文月 時雨 村雨 夕立 涼風 荒潮 霰 陽炎 不知火 黒潮 天龍 木曾 五十鈴 名取 由良 川内 那珂 最上 妙高 足柄 羽黒 高雄 愛宕 摩耶 利根 筑摩 龍驤 飛鷹 隼鷹 祥鳳 扶桑 山城"
@@ -1683,10 +1683,10 @@
       ]
     },
     {
-      "index": "24",
-      "mapName": "2",
-      "stars": "6",
-      "exp": "300",
+      "index": 24,
+      "mapName": 2,
+      "stars": 6,
+      "exp": 300,
       "areaName": "沖ノ島海域",
       "battleName": "あ号艦隊決戦",
       "point": [
@@ -1765,23 +1765,23 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "68",
-              "zhiKongYouShi": "102",
-              "zhiKongQueBao": "204"
+              "diZhiKongZhi": 68,
+              "zhiKongYouShi": 102,
+              "zhiKongQueBao": 204
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             }
           ],
           "route": [
@@ -1830,16 +1830,16 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "68",
-              "zhiKongYouShi": "102",
-              "zhiKongQueBao": "204"
+              "diZhiKongZhi": 68,
+              "zhiKongYouShi": 102,
+              "zhiKongQueBao": 204
             }
           ],
           "route": [
@@ -1858,23 +1858,23 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "68",
-              "zhiKongYouShi": "102",
-              "zhiKongQueBao": "204"
+              "diZhiKongZhi": 68,
+              "zhiKongYouShi": 102,
+              "zhiKongQueBao": 204
             }
           ],
           "route": {
@@ -1901,7 +1901,7 @@
         },
         {
           "position": "J",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -1976,23 +1976,23 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "68",
-              "zhiKongYouShi": "102",
-              "zhiKongQueBao": "204"
+              "diZhiKongZhi": 68,
+              "zhiKongYouShi": 102,
+              "zhiKongQueBao": 204
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elte、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             }
           ],
           "drop": "島風 吹雪 初雪 深雪 綾波 朝潮 満潮 荒潮 霰 陽炎 大井 北上 天龍 龍田 多摩 由良 川内 神通 那珂 最上 加古 妙高 那智 羽黒 高雄 愛宕 鳥海 利根 筑摩 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 扶桑 山城"
@@ -2029,23 +2029,23 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、戦艦ル級、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elte、戦艦ル級、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級、空母ヲ級、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "68",
-              "zhiKongYouShi": "102",
-              "zhiKongQueBao": "204"
+              "diZhiKongZhi": 68,
+              "zhiKongYouShi": 102,
+              "zhiKongQueBao": 204
             }
           ],
           "drop": "島風 吹雪 初雪 深雪 磯波 朝潮 陽炎 不知火 黒潮 大井 北上 龍田 五十鈴 名取 那珂 最上 加古 妙高 那智 足柄 高雄 愛宕 摩耶 鳥海 利根 千歳 千代田 龍驤 飛鷹 隼鷹 祥鳳 伊勢 日向 扶桑 山城"
@@ -2053,10 +2053,10 @@
       ]
     },
     {
-      "index": "25",
-      "mapName": "2",
-      "stars": "8",
-      "exp": "250",
+      "index": 25,
+      "mapName": 2,
+      "stars": 8,
+      "exp": 250,
       "areaName": "沖ノ島沖",
       "battleName": "沖ノ島沖戦闘哨戒",
       "point": [
@@ -2124,9 +2124,9 @@
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、重巡リ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐イ級elite、駆逐イ級elite",
               "baseLevel": "59以下",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "単縦",
@@ -2137,9 +2137,9 @@
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、重巡リ級elite、重巡リ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite",
               "baseLevel": "60～89?",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "単縦",
@@ -2150,9 +2150,9 @@
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite",
               "baseLevel": "90以上?",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "単縦",
@@ -2179,7 +2179,7 @@
         },
         {
           "position": "D",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "複縦",
@@ -2277,33 +2277,33 @@
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、軽巡ホ級elite、駆逐ハ級elite、駆逐イ級elite、駆逐イ級elite",
               "baseLevel": "69以下?",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ハ級elite、駆逐ハ級elite",
               "baseLevel": "50～99",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、軽巡ト級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ニ級elite",
               "baseLevel": "70以上?",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、重巡リ級elite、軽巡ト級elite、軽巡ヘ級elite、駆逐ニ級elite、駆逐ニ級elite",
               "baseLevel": "100以上",
-              "diZhiKongZhi": "102",
-              "zhiKongYouShi": "153",
-              "zhiKongQueBao": "306"
+              "diZhiKongZhi": 102,
+              "zhiKongYouShi": 153,
+              "zhiKongQueBao": 306
             }
           ],
           "route": [
@@ -2349,7 +2349,7 @@
         },
         {
           "position": "L",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -2387,10 +2387,10 @@
       ]
     },
     {
-      "index": "31",
-      "mapName": "3",
-      "stars": "4",
-      "exp": "310",
+      "index": 31,
+      "mapName": 3,
+      "stars": 4,
+      "exp": 310,
       "areaName": "モーレイ海",
       "battleName": "モーレイ海哨戒",
       "point": [
@@ -2445,23 +2445,23 @@
             {
               "formation": "単縦",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "単縦",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "梯形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             }
           ],
           "drop": "吹雪 叢雲 磯波 綾波 敷波 五月雨 大潮 満潮 陽炎 天龍 龍田 多摩 五十鈴 名取 由良 神通 那珂 最上 加古 妙高 那智 足柄 羽黒 高雄 摩耶 鳥海 千代田 加賀 龍驤 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -2495,14 +2495,14 @@
         },
         {
           "position": "E",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、戦艦ル級flagship、戦艦ル級elite、駆逐ハ級flagship、駆逐ニ級elite、輸送ワ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "単縦",
@@ -2521,16 +2521,16 @@
             {
               "formation": "単縦",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "単縦、梯形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             }
           ],
           "drop": "吹雪 深雪 叢雲 磯波 綾波 敷波 五月雨 朝潮 大潮 満潮 霰 霞 陽炎 不知火 天龍 龍田 多摩 木曾 名取 由良 川内 最上 加古 妙高 那智 足柄 羽黒 愛宕 摩耶 鳥海 筑摩 青葉 千歳 千代田 加賀 龍驤 隼鷹 祥鳳 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -2538,10 +2538,10 @@
       ]
     },
     {
-      "index": "32",
-      "mapName": "3",
-      "stars": "5",
-      "exp": "320",
+      "index": 32,
+      "mapName": 3,
+      "stars": 5,
+      "exp": 320,
       "areaName": "キス島沖",
       "battleName": "キス島撤退作戦",
       "point": [
@@ -2596,23 +2596,23 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級elite、空母ヲ級elite、戦艦ル級elite、戦艦ル級elite、駆逐ロ級flagship、駆逐ニ級elite",
-              "diZhiKongZhi": "54",
-              "zhiKongYouShi": "81",
-              "zhiKongQueBao": "162"
+              "diZhiKongZhi": 54,
+              "zhiKongYouShi": 81,
+              "zhiKongQueBao": 162
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級elite、空母ヲ級elite、軽母ヌ級elite、重巡リ級elite、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "78",
-              "zhiKongYouShi": "117",
-              "zhiKongQueBao": "234"
+              "diZhiKongZhi": 78,
+              "zhiKongYouShi": 117,
+              "zhiKongQueBao": 234
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級elite、空母ヲ級elite、重巡リ級elite、軽巡ト級elite、重巡リ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "54",
-              "zhiKongYouShi": "81",
-              "zhiKongQueBao": "162"
+              "diZhiKongZhi": 54,
+              "zhiKongYouShi": 81,
+              "zhiKongQueBao": 162
             }
           ],
           "drop": "島風 初雪 深雪 磯波 敷波 朝潮 満潮 荒潮 霞 涼風 陽炎 不知火 黒潮 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 那珂 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 蒼龍 隼鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -2688,7 +2688,7 @@
         },
         {
           "position": "H",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "複縦",
@@ -2708,10 +2708,10 @@
       ]
     },
     {
-      "index": "33",
-      "mapName": "3",
-      "stars": "7",
-      "exp": "330",
+      "index": 33,
+      "mapName": 3,
+      "stars": 7,
+      "exp": 330,
       "areaName": "アルフォンシーノ方面",
       "battleName": "アルフォンシーノ方面進出",
       "point": [
@@ -2766,23 +2766,23 @@
             {
               "formation": "単縦",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "単縦",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "梯形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             }
           ],
           "route": {
@@ -2797,23 +2797,23 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ヘ級elite、駆逐ハ級flagship",
-              "diZhiKongZhi": "79",
-              "zhiKongYouShi": "119",
-              "zhiKongQueBao": "237"
+              "diZhiKongZhi": 79,
+              "zhiKongYouShi": 119,
+              "zhiKongQueBao": 237
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ト級elite、駆逐ハ級flagship",
-              "diZhiKongZhi": "79",
-              "zhiKongYouShi": "119",
-              "zhiKongQueBao": "237"
+              "diZhiKongZhi": 79,
+              "zhiKongYouShi": 119,
+              "zhiKongQueBao": 237
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ホ級flagship、駆逐ニ級elite",
-              "diZhiKongZhi": "79",
-              "zhiKongYouShi": "119",
-              "zhiKongQueBao": "237"
+              "diZhiKongZhi": 79,
+              "zhiKongYouShi": 119,
+              "zhiKongQueBao": 237
             }
           ],
           "drop": "島風 磯波 満潮 霞 陽炎 舞風 大井 龍田 名取 由良 那珂 最上 那智 足柄 高雄 愛宕 摩耶 鳥海 千歳 千代田 飛鷹 隼鷹 祥鳳 伊168 陸奥 伊勢 扶桑"
@@ -2824,23 +2824,23 @@
             {
               "formation": "単縦",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "単縦",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "梯形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             }
           ],
           "route": [
@@ -2865,28 +2865,28 @@
         },
         {
           "position": "G",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "複縦",
               "detail": "空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "54",
-              "zhiKongYouShi": "81",
-              "zhiKongQueBao": "162"
+              "diZhiKongZhi": 54,
+              "zhiKongYouShi": 81,
+              "zhiKongQueBao": 162
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、軽巡ト級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ホ級flagship、駆逐ニ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "54",
-              "zhiKongYouShi": "81",
-              "zhiKongQueBao": "162"
+              "diZhiKongZhi": 54,
+              "zhiKongYouShi": 81,
+              "zhiKongQueBao": 162
             }
           ],
           "drop": "島風 浜風 雪風 朝潮 大潮 陽炎 黒潮 舞風 弥生 山雲 川内 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 千代田 赤城 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 伊58 伊168 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -2906,16 +2906,16 @@
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、軽母ヌ級elite、戦艦ル級elite、軽巡ヘ級elite、駆逐ハ級flagship",
-              "diZhiKongZhi": "79",
-              "zhiKongYouShi": "119",
-              "zhiKongQueBao": "237"
+              "diZhiKongZhi": 79,
+              "zhiKongYouShi": 119,
+              "zhiKongQueBao": 237
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、戦艦ル級elite、駆逐ロ級flagship、駆逐ニ級elite",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             }
           ],
           "route": [
@@ -2947,10 +2947,10 @@
       ]
     },
     {
-      "index": "34",
-      "mapName": "3",
-      "stars": "9",
-      "exp": "350",
+      "index": 34,
+      "mapName": 3,
+      "stars": 9,
+      "exp": 350,
       "areaName": "北方海域全域",
       "battleName": "北方海域艦隊決戦",
       "point": [
@@ -3002,9 +3002,9 @@
             {
               "formation": "単縦",
               "detail": "戦艦ル級flagship、戦艦ル級elite、空母ヲ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "27",
-              "zhiKongYouShi": "41",
-              "zhiKongQueBao": "81"
+              "diZhiKongZhi": 27,
+              "zhiKongYouShi": 41,
+              "zhiKongQueBao": 81
             },
             {
               "formation": "単縦",
@@ -3013,9 +3013,9 @@
             {
               "formation": "梯形",
               "detail": "戦艦ル級flagship、軽巡ホ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "route": {
@@ -3044,16 +3044,16 @@
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ロ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ホ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             }
           ],
           "route": {
@@ -3063,28 +3063,28 @@
         },
         {
           "position": "E",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、戦艦ル級flagship、戦艦ル級elite、軽巡ホ級flagship、雷巡チ級elite",
-              "diZhiKongZhi": "56",
-              "zhiKongYouShi": "84",
-              "zhiKongQueBao": "168"
+              "diZhiKongZhi": 56,
+              "zhiKongYouShi": 84,
+              "zhiKongQueBao": 168
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、戦艦ル級flagship、軽巡ヘ級flagship、雷巡チ級elite、雷巡チ級elite",
-              "diZhiKongZhi": "56",
-              "zhiKongYouShi": "84",
-              "zhiKongQueBao": "168"
+              "diZhiKongZhi": 56,
+              "zhiKongYouShi": 84,
+              "zhiKongQueBao": 168
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、軽巡ト級elite、軽巡ト級elite",
-              "diZhiKongZhi": "56",
-              "zhiKongYouShi": "84",
-              "zhiKongQueBao": "168"
+              "diZhiKongZhi": 56,
+              "zhiKongYouShi": 84,
+              "zhiKongQueBao": 168
             }
           ],
           "drop": "雪風 叢雲 朝潮 大潮 陽炎 黒潮 初風 卯月 北上 天龍 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 赤城 加賀 蒼龍 飛龍 龍驤 飛鷹 隼鷹 祥鳳 伊58 伊168 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨"
@@ -3099,16 +3099,16 @@
             {
               "formation": "梯形",
               "detail": "戦艦ル級flagship、軽巡ホ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             },
             {
               "formation": "単縦",
               "detail": "戦艦ル級flagship、戦艦ル級elite、空母ヲ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "route": {
@@ -3158,16 +3158,16 @@
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ロ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ニ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             }
           ],
           "drop": "島風 初雪 深雪 叢雲 朝潮 荒潮 不知火 黒潮 大井 北上 天龍 五十鈴 那珂 妙高 羽黒 高雄 愛宕 筑摩 千代田 加賀 蒼龍 飛龍 飛鷹 陸奥 日向 金剛 榛名 霧島 扶桑"
@@ -3214,16 +3214,16 @@
             {
               "formation": "梯形",
               "detail": "戦艦ル級flagship、軽巡ホ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "54",
-              "zhiKongYouShi": "81",
-              "zhiKongQueBao": "162"
+              "diZhiKongZhi": 54,
+              "zhiKongYouShi": 81,
+              "zhiKongQueBao": 162
             },
             {
               "formation": "単縦",
               "detail": "戦艦ル級flagship、戦艦ル級elite、空母ヲ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "27",
-              "zhiKongYouShi": "41",
-              "zhiKongQueBao": "81"
+              "diZhiKongZhi": 27,
+              "zhiKongYouShi": 41,
+              "zhiKongQueBao": 81
             },
             {
               "formation": "単縦",
@@ -3256,23 +3256,23 @@
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、軽巡ヘ級flagship、駆逐ニ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ロ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "単縦",
               "detail": "空母ヲ級flagship、空母ヲ級elite、空母ヲ級elite、戦艦ル級flagship、駆逐ハ級flagship、駆逐ニ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             }
           ],
           "route": {
@@ -3289,10 +3289,10 @@
       ]
     },
     {
-      "index": "35",
-      "mapName": "3",
-      "stars": "9",
-      "exp": "400",
+      "index": 35,
+      "mapName": 3,
+      "stars": 9,
+      "exp": 400,
       "areaName": "北方AL海域",
       "battleName": "北方海域戦闘哨戒",
       "point": [
@@ -3380,37 +3380,37 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 重巡リ級elite、 駆逐イ級後期型、 駆逐イ級後期型",
-              "diZhiKongZhi": "112",
-              "zhiKongYouShi": "168",
-              "zhiKongQueBao": "336"
+              "diZhiKongZhi": 112,
+              "zhiKongYouShi": 168,
+              "zhiKongQueBao": 336
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 重巡リ級elite、 駆逐ロ級後期型、 駆逐ロ級後期型",
-              "diZhiKongZhi": "112",
-              "zhiKongYouShi": "168",
-              "zhiKongQueBao": "336"
+              "diZhiKongZhi": 112,
+              "zhiKongYouShi": 168,
+              "zhiKongQueBao": 336
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 駆逐ロ級後期型、 駆逐ロ級後期型",
-              "diZhiKongZhi": "214",
-              "zhiKongYouShi": "321",
-              "zhiKongQueBao": "642"
+              "diZhiKongZhi": 214,
+              "zhiKongYouShi": 321,
+              "zhiKongQueBao": 642
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、 空母ヲ級flagship、戦艦タ級flagship、 軽巡ホ級elite、駆逐イ級後期型、 駆逐イ級後期型",
-              "diZhiKongZhi": "112",
-              "zhiKongYouShi": "168",
-              "zhiKongQueBao": "336"
+              "diZhiKongZhi": 112,
+              "zhiKongYouShi": 168,
+              "zhiKongQueBao": 336
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、 空母ヲ級flagship、戦艦タ級flagship、 重巡リ級elite、 駆逐ロ級後期型、 駆逐ロ級後期型",
-              "diZhiKongZhi": "186",
-              "zhiKongYouShi": "279",
-              "zhiKongQueBao": "558"
+              "diZhiKongZhi": 186,
+              "zhiKongYouShi": 279,
+              "zhiKongQueBao": 558
             }
           ],
           "route": {
@@ -3441,16 +3441,16 @@
             {
               "formation": "複縦",
               "detail": "軽母ヌ級flagship、戦艦ル級flagship、戦艦ル級flagship、駆逐ハ級後期型、駆逐ハ級後期型、潜水カ級flagship",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "複縦",
               "detail": "軽母ヌ級flagship、戦艦ル級flagship、戦艦ル級flagship、駆逐ロ級後期型、駆逐ロ級後期型、潜水カ級flagship",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             }
           ],
           "route": {
@@ -3464,44 +3464,44 @@
             {
               "formation": "輪形",
               "detail": "北方棲姫(A)、護衛要塞(A)、護衛要塞(B)、重巡リ級flagship、駆逐ロ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "134",
-              "zhiKongYouShi": "201",
-              "zhiKongQueBao": "402"
+              "diZhiKongZhi": 134,
+              "zhiKongYouShi": 201,
+              "zhiKongQueBao": 402
             },
             {
               "formation": "輪形",
               "detail": "北方棲姫(A)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)",
-              "diZhiKongZhi": "221",
-              "zhiKongYouShi": "332",
-              "zhiKongQueBao": "663"
+              "diZhiKongZhi": 221,
+              "zhiKongYouShi": 332,
+              "zhiKongQueBao": 663
             },
             {
               "formation": "輪形",
               "detail": "北方棲姫(本気)(A)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)",
-              "diZhiKongZhi": "254",
-              "zhiKongYouShi": "381",
-              "zhiKongQueBao": "762"
+              "diZhiKongZhi": 254,
+              "zhiKongYouShi": 381,
+              "zhiKongQueBao": 762
             },
             {
               "formation": "輪形",
               "detail": "北方棲姫(B)、護衛要塞(A)、護衛要塞(B)、重巡リ級flagship、駆逐ロ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "130",
-              "zhiKongYouShi": "195",
-              "zhiKongQueBao": "390"
+              "diZhiKongZhi": 130,
+              "zhiKongYouShi": 195,
+              "zhiKongQueBao": 390
             },
             {
               "formation": "輪形",
               "detail": "北方棲姫(B)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)",
-              "diZhiKongZhi": "217",
-              "zhiKongYouShi": "326",
-              "zhiKongQueBao": "651"
+              "diZhiKongZhi": 217,
+              "zhiKongYouShi": 326,
+              "zhiKongQueBao": 651
             },
             {
               "formation": "輪形",
               "detail": "北方棲姫(本気)(B)、護衛要塞(A)、護衛要塞(B)、護衛要塞(C)、護衛要塞(B)、護衛要塞(C)",
-              "diZhiKongZhi": "250",
-              "zhiKongYouShi": "375",
-              "zhiKongQueBao": "750"
+              "diZhiKongZhi": 250,
+              "zhiKongYouShi": 375,
+              "zhiKongQueBao": 750
             }
           ],
           "route": [
@@ -3525,9 +3525,9 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、重巡リ級flagship、重巡リ級elite、駆逐ハ級後期型、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "複縦",
@@ -3536,9 +3536,9 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、重巡リ級flagship、重巡リ級elite、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             }
           ],
           "route": [
@@ -3572,7 +3572,7 @@
         },
         {
           "position": "K",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "複縦",
@@ -3600,10 +3600,10 @@
       ]
     },
     {
-      "index": "41",
-      "mapName": "4",
-      "stars": "4",
-      "exp": "310",
+      "index": 41,
+      "mapName": 4,
+      "stars": 4,
+      "exp": 310,
       "areaName": "ジャム島攻略作戦",
       "battleName": "ジャム島攻略作戦",
       "point": [
@@ -3679,21 +3679,21 @@
         },
         {
           "position": "D",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦、複縦",
               "detail": "重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ト級elite、駆逐ロ級flagship、駆逐ニ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             },
             {
               "formation": "輪形",
               "detail": "重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "drop": "雪風 島風 弥生 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 鬼怒 阿武隈 夕張 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 飛龍 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 伊168 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -3798,10 +3798,10 @@
       ]
     },
     {
-      "index": "42",
-      "mapName": "4",
-      "stars": "5",
-      "exp": "320",
+      "index": 42,
+      "mapName": 4,
+      "stars": 5,
+      "exp": 320,
       "areaName": "カレー洋制圧戦",
       "battleName": "カレー洋制圧戦",
       "point": [
@@ -3882,28 +3882,28 @@
         },
         {
           "position": "D",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
               "detail": "戦艦ル級flagship、空母ヲ級flagship、重巡リ級elite、軽巡ト級elite、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "複縦",
               "detail": "戦艦ル級flagship、空母ヲ級elite、軽巡ホ級flagship、軽巡ヘ級elite、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "27",
-              "zhiKongYouShi": "41",
-              "zhiKongQueBao": "81"
+              "diZhiKongZhi": 27,
+              "zhiKongYouShi": 41,
+              "zhiKongQueBao": 81
             },
             {
               "formation": "輪形",
               "detail": "戦艦ル級flagship、空母ヲ級elite、重巡リ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "27",
-              "zhiKongYouShi": "41",
-              "zhiKongQueBao": "81"
+              "diZhiKongZhi": 27,
+              "zhiKongYouShi": 41,
+              "zhiKongQueBao": 81
             }
           ],
           "drop": "雪風 島風 夕雲 弥生 浦風 大井 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 鬼怒 阿武隈 夕張 最上 加古 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 千歳 千代田 赤城 加賀 蒼龍 飛龍 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊168 伊58 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -3959,23 +3959,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級elite、軽巡ト級elite、駆逐ニ級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "55",
-              "zhiKongYouShi": "83",
-              "zhiKongQueBao": "165"
+              "diZhiKongZhi": 55,
+              "zhiKongYouShi": 83,
+              "zhiKongQueBao": 165
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "75",
-              "zhiKongYouShi": "113",
-              "zhiKongQueBao": "225"
+              "diZhiKongZhi": 75,
+              "zhiKongYouShi": 113,
+              "zhiKongQueBao": 225
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐イ級elite、駆逐イ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             }
           ],
           "route": [
@@ -4003,9 +4003,9 @@
             {
               "formation": "輪形",
               "detail": "軽巡ヘ級flagship、輸送ワ級、輸送ワ級、軽母ヌ級elite、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "drop": "吹雪 白雪 深雪 磯波 睦月 如月 五月雨 陽炎 不知火 黒潮 北上 天龍 龍田 多摩 木曾 五十鈴 名取 由良 川内 神通 那珂 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 千歳 千代田 加賀 龍驤 飛鷹 祥鳳 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -4013,10 +4013,10 @@
       ]
     },
     {
-      "index": "43",
-      "mapName": "4",
-      "stars": "6",
-      "exp": "330",
+      "index": 43,
+      "mapName": 4,
+      "stars": 6,
+      "exp": 330,
       "areaName": "リランカ島空襲",
       "battleName": "リランカ島空襲",
       "point": [
@@ -4049,9 +4049,9 @@
             {
               "formation": "輪形",
               "detail": "重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "route": {
@@ -4155,16 +4155,16 @@
             {
               "formation": "複縦、輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、軽巡ト級elite、駆逐ニ級elite、駆逐ハ級elite、潜水カ級elite",
-              "diZhiKongZhi": "56",
-              "zhiKongYouShi": "84",
-              "zhiKongQueBao": "168"
+              "diZhiKongZhi": 56,
+              "zhiKongYouShi": 84,
+              "zhiKongQueBao": 168
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級elite、駆逐ハ級elite、潜水ヨ級elite",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             }
           ],
           "route": [
@@ -4187,23 +4187,23 @@
             {
               "formation": "複縦",
               "detail": "戦艦タ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "複縦、輪形",
               "detail": "戦艦タ級flagship、空母ヲ級elite、空母ヲ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "54",
-              "zhiKongYouShi": "81",
-              "zhiKongQueBao": "162"
+              "diZhiKongZhi": 54,
+              "zhiKongYouShi": 81,
+              "zhiKongQueBao": 162
             }
           ],
           "drop": "綾波 暁 雷 電 時雨 夕立 陽炎 天龍 名取 由良 川内 神通 古鷹 加古 青葉 妙高 那智 足柄 羽黒 鳥海 蒼龍 鳳翔 龍驤 隼鷹 祥鳳 伊勢 日向 金剛 比叡 霧島 山城"
         },
         {
           "position": "I",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "複縦",
@@ -4216,9 +4216,9 @@
             {
               "formation": "輪形",
               "detail": "戦艦タ級flagship、空母ヲ級flagship、重巡リ級elite、潜水ヨ級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             }
           ],
           "drop": "島風 巻雲 弥生 大井 北上 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 鬼怒 阿武隈 夕張 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 三隈 衣笠 千歳 千代田 赤城 加賀 蒼龍 鳳翔 龍驤 飛鷹 祥鳳 瑞鳳 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -4237,9 +4237,9 @@
             {
               "formation": "輪形",
               "detail": "重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "route": [
@@ -4299,9 +4299,9 @@
             {
               "formation": "輪形",
               "detail": "輸送ワ級elite、輸送ワ級elite、輸送ワ級elite、空母ヲ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "複縦",
@@ -4313,10 +4313,10 @@
       ]
     },
     {
-      "index": "44",
-      "mapName": "4",
-      "stars": "8",
-      "exp": "340",
+      "index": 44,
+      "mapName": 4,
+      "stars": 8,
+      "exp": 340,
       "areaName": "カスガダマ沖海戦",
       "battleName": "カスガダマ沖海戦",
       "point": [
@@ -4371,16 +4371,16 @@
             {
               "formation": "輪形",
               "detail": "戦艦ル級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "51",
-              "zhiKongYouShi": "77",
-              "zhiKongQueBao": "153"
+              "diZhiKongZhi": 51,
+              "zhiKongYouShi": 77,
+              "zhiKongQueBao": 153
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             },
             {
               "formation": "複縦",
@@ -4419,9 +4419,9 @@
             {
               "formation": "輪形",
               "detail": "潜水カ級elite、潜水カ級、潜水カ級、軽巡ホ級elite、軽母ヌ級elite、軽母ヌ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             },
             {
               "formation": "単横",
@@ -4449,23 +4449,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級elite、駆逐ハ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "104",
-              "zhiKongYouShi": "156",
-              "zhiKongQueBao": "312"
+              "diZhiKongZhi": 104,
+              "zhiKongYouShi": 156,
+              "zhiKongQueBao": 312
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、戦艦ル級elite、重巡リ級elite、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "56",
-              "zhiKongYouShi": "84",
-              "zhiKongQueBao": "168"
+              "diZhiKongZhi": 56,
+              "zhiKongYouShi": 84,
+              "zhiKongQueBao": 168
             }
           ],
           "route": [
@@ -4481,30 +4481,30 @@
         },
         {
           "position": "H",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "装甲空母鬼、戦艦タ級elite、軽母ヌ級elite、輸送ワ級elite、駆逐ロ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "68",
-              "zhiKongYouShi": "102",
-              "zhiKongQueBao": "204"
+              "diZhiKongZhi": 68,
+              "zhiKongYouShi": 102,
+              "zhiKongQueBao": 204
             },
             {
               "formation": "輪形",
               "detail": "装甲空母姫、浮遊要塞(B)、浮遊要塞(C)、駆逐ニ級elite、駆逐ニ級elite、潜水ヨ級flagship",
               "type": "final",
-              "diZhiKongZhi": "102",
-              "zhiKongYouShi": "153",
-              "zhiKongQueBao": "306"
+              "diZhiKongZhi": 102,
+              "zhiKongYouShi": 153,
+              "zhiKongQueBao": 306
             },
             {
               "formation": "複縦",
               "detail": "戦艦タ級flagship、軽巡ヘ級flagship、軽母ヌ級elite、輸送ワ級elite、駆逐ニ級elite、潜水ヨ級elite",
               "type": "clear",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "drop": "長波 弥生 卯月 浜風 大井 天龍 龍田 球磨 多摩 木曾 長良 五十鈴 名取 由良 川内 神通 那珂 鬼怒 阿武隈 最上 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 千歳 赤城 加賀 翔鶴 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 瑞鳳 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨"
@@ -4523,9 +4523,9 @@
             {
               "formation": "輪形",
               "detail": "潜水カ級elite、潜水カ級、潜水カ級、軽巡ホ級elite、軽母ヌ級elite、軽母ヌ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "route": [
@@ -4545,16 +4545,16 @@
             {
               "formation": "輪形",
               "detail": "戦艦ル級flagship、空母ヲ級elite、軽母ヌ級elite、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "51",
-              "zhiKongYouShi": "77",
-              "zhiKongQueBao": "153"
+              "diZhiKongZhi": 51,
+              "zhiKongYouShi": 77,
+              "zhiKongQueBao": 153
             },
             {
               "formation": "複縦",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ト級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             },
             {
               "formation": "複縦",
@@ -4566,10 +4566,10 @@
       ]
     },
     {
-      "index": "45",
-      "mapName": "4",
-      "stars": "9",
-      "exp": "220",
+      "index": 45,
+      "mapName": 4,
+      "stars": 9,
+      "exp": 220,
       "areaName": "カレー洋リランカ島沖",
       "battleName": "深海東洋艦隊漸減作戦",
       "point": [
@@ -4667,7 +4667,7 @@
         },
         {
           "position": "E",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -4743,30 +4743,30 @@
             {
               "formation": "輪形",
               "detail": "軽巡棲鬼(A)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、戦艦ル級改flagship、軽巡ヘ級flagship",
-              "diZhiKongZhi": "168",
-              "zhiKongYouShi": "252",
-              "zhiKongQueBao": "504"
+              "diZhiKongZhi": 168,
+              "zhiKongYouShi": 252,
+              "zhiKongQueBao": 504
             },
             {
               "formation": "輪形",
               "detail": "軽巡棲鬼(A)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、戦艦ル級改flagship、軽巡ヘ級flagship",
-              "diZhiKongZhi": "112",
-              "zhiKongYouShi": "168",
-              "zhiKongQueBao": "336"
+              "diZhiKongZhi": 112,
+              "zhiKongYouShi": 168,
+              "zhiKongQueBao": 336
             },
             {
               "formation": "輪形",
               "detail": "軽巡棲鬼(A)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、重巡ネ級elite、軽巡ヘ級flagship",
-              "diZhiKongZhi": "112",
-              "zhiKongYouShi": "168",
-              "zhiKongQueBao": "336"
+              "diZhiKongZhi": 112,
+              "zhiKongYouShi": 168,
+              "zhiKongQueBao": 336
             },
             {
               "formation": "輪形",
               "detail": "軽巡棲鬼(B)、空母ヲ級flagship、空母ヲ級flagship、戦艦ル級改flagship、重巡ネ級elite、軽巡ヘ級flagship",
-              "diZhiKongZhi": "112",
-              "zhiKongYouShi": "168",
-              "zhiKongQueBao": "336"
+              "diZhiKongZhi": 112,
+              "zhiKongYouShi": 168,
+              "zhiKongQueBao": 336
             }
           ],
           "route": [
@@ -4813,30 +4813,30 @@
             {
               "formation": "複縦",
               "detail": "軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "複縦",
               "detail": "軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級、駆逐ハ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、戦艦タ級flagship、重巡ネ級elite、軽巡ツ級、駆逐ハ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             }
           ],
           "route": [
@@ -4864,56 +4864,56 @@
         },
         {
           "position": "M",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
               "detail": "港湾棲姫(B)、護衛要塞(B)、護衛要塞(C)、戦艦ル級改flagship、駆逐ハ級後期型、駆逐ハ級後期型",
-              "diZhiKongZhi": "138",
-              "zhiKongYouShi": "207",
-              "zhiKongQueBao": "414"
+              "diZhiKongZhi": 138,
+              "zhiKongYouShi": 207,
+              "zhiKongQueBao": 414
             },
             {
               "formation": "単縦",
               "detail": "港湾棲姫(B)、護衛要塞(B)、護衛要塞(C)、戦艦ル級改flagship、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "138",
-              "zhiKongYouShi": "207",
-              "zhiKongQueBao": "414"
+              "diZhiKongZhi": 138,
+              "zhiKongYouShi": 207,
+              "zhiKongQueBao": 414
             },
             {
               "formation": "単縦",
               "detail": "港湾棲姫(B)、護衛要塞(B)、護衛要塞(C)、戦艦ル級flagship、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "138",
-              "zhiKongYouShi": "207",
-              "zhiKongQueBao": "414"
+              "diZhiKongZhi": 138,
+              "zhiKongYouShi": 207,
+              "zhiKongQueBao": 414
             },
             {
               "formation": "単縦",
               "detail": "港湾棲姫(A)、護衛要塞(A)、護衛要塞(B)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級flagship",
-              "diZhiKongZhi": "111",
-              "zhiKongYouShi": "167",
-              "zhiKongQueBao": "333"
+              "diZhiKongZhi": 111,
+              "zhiKongYouShi": 167,
+              "zhiKongQueBao": 333
             },
             {
               "formation": "単縦",
               "detail": "港湾棲姫(A)、護衛要塞(B)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級flagship、輸送ワ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "単縦",
               "detail": "港湾棲姫(A)、護衛要塞(B)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級elite、輸送ワ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             },
             {
               "formation": "単縦",
               "detail": "港湾棲姫(A)、護衛要塞(A)、戦艦ル級改flagship、重巡ネ級elite、輸送ワ級elite、輸送ワ級elite",
-              "diZhiKongZhi": "82",
-              "zhiKongYouShi": "123",
-              "zhiKongQueBao": "246"
+              "diZhiKongZhi": 82,
+              "zhiKongYouShi": 123,
+              "zhiKongQueBao": 246
             }
           ],
           "drop": "陽炎 不知火 三日月 早霜 清霜 朝霜 野分 舞風 北上 多摩 球磨 名取 由良 長良 五十鈴 川内 神通 那珂 古鷹 加古 青葉 衣笠 愛宕 高雄 摩耶 鳥海 最上 三隈 熊野 鈴谷 妙高 那智 足柄 羽黒 利根 筑摩 加賀 飛鷹 隼鷹 龍驤 祥鳳 まるゆ 伊勢 日向 金剛 比叡 榛名 霧島"
@@ -4921,10 +4921,10 @@
       ]
     },
     {
-      "index": "51",
-      "mapName": "5",
-      "stars": "8",
-      "exp": "360",
+      "index": 51,
+      "mapName": 5,
+      "stars": 8,
+      "exp": 360,
       "areaName": "南方海域前面",
       "battleName": "南方海域進出作戦",
       "point": [
@@ -4946,16 +4946,16 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、駆逐ニ級elite、駆逐ニ級elite、潜水カ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "単縦",
@@ -5024,23 +5024,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、駆逐ハ級flagship、駆逐ハ級flagship",
-              "diZhiKongZhi": "52",
-              "zhiKongYouShi": "78",
-              "zhiKongQueBao": "156"
+              "diZhiKongZhi": 52,
+              "zhiKongYouShi": 78,
+              "zhiKongQueBao": 156
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、駆逐ハ級flagship、駆逐ハ級flagship",
-              "diZhiKongZhi": "104",
-              "zhiKongYouShi": "156",
-              "zhiKongQueBao": "312"
+              "diZhiKongZhi": 104,
+              "zhiKongYouShi": 156,
+              "zhiKongQueBao": 312
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、潜水カ級flagship",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             }
           ],
           "route": {
@@ -5054,9 +5054,9 @@
             {
               "formation": "複縦、輪形",
               "detail": "軽母ヌ級elite、戦艦ル級flagship、戦艦ル級flagship、軽巡ト級elite、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "単縦",
@@ -5080,23 +5080,23 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、重巡リ級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、軽母ヌ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "72",
-              "zhiKongYouShi": "108",
-              "zhiKongQueBao": "216"
+              "diZhiKongZhi": 72,
+              "zhiKongYouShi": 108,
+              "zhiKongQueBao": 216
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽母ヌ級elite、戦艦ル級flagship、軽巡ホ級flagship、駆逐イ級elite、駆逐イ級elite",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "route": [
@@ -5112,21 +5112,21 @@
         },
         {
           "position": "I",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、戦艦タ級flagship、重巡リ級flagship、軽巡ト級elite、駆逐ハ級flagship、駆逐ハ級flagship",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、戦艦タ級flagship、軽巡ヘ級flagship、駆逐ニ級elite、駆逐ニ級elite、潜水カ級flagship",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
@@ -5138,10 +5138,10 @@
       ]
     },
     {
-      "index": "52",
-      "mapName": "5",
-      "stars": "9",
-      "exp": "380",
+      "index": 52,
+      "mapName": 5,
+      "stars": 9,
+      "exp": 380,
       "areaName": "珊瑚諸島沖",
       "battleName": "珊瑚諸島沖海戦",
       "point": [
@@ -5188,9 +5188,9 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、駆逐ロ級flagship、駆逐ロ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "route": [
@@ -5210,23 +5210,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ロ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             }
           ],
           "route": {
@@ -5236,30 +5236,30 @@
         },
         {
           "position": "D",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "装甲空母姫、装甲空母鬼、重巡リ級flagship、軽巡ホ級flagship、軽巡ト級elite、駆逐ハ級flagship",
-              "diZhiKongZhi": "92",
-              "zhiKongYouShi": "138",
-              "zhiKongQueBao": "276"
+              "diZhiKongZhi": 92,
+              "zhiKongYouShi": 138,
+              "zhiKongQueBao": 276
             },
             {
               "formation": "輪形",
               "detail": "南方棲戦鬼、空母ヲ級flagship、空母ヲ級flagship、戦艦タ級elite、駆逐ロ級flagship、駆逐ロ級flagship",
               "type": "final",
-              "diZhiKongZhi": "97",
-              "zhiKongYouShi": "146",
-              "zhiKongQueBao": "291"
+              "diZhiKongZhi": 97,
+              "zhiKongYouShi": 146,
+              "zhiKongQueBao": 291
             },
             {
               "formation": "単縦",
               "detail": "装甲空母姫、空母ヲ級elite、戦艦タ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship",
               "type": "clear",
-              "diZhiKongZhi": "75",
-              "zhiKongYouShi": "113",
-              "zhiKongQueBao": "225"
+              "diZhiKongZhi": 75,
+              "zhiKongYouShi": 113,
+              "zhiKongQueBao": 225
             }
           ],
           "drop": "雪風 涼風 舞風 秋雲 夕雲 巻雲 浜風 大井 北上 天龍 球磨 長良 五十鈴 名取 由良 川内 夕張 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 三隈 衣笠 千歳 千代田 赤城 加賀 蒼龍 飛龍 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊58 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城 大鯨"
@@ -5287,9 +5287,9 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、駆逐ロ級flagship、駆逐ロ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "route": [
@@ -5368,23 +5368,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、戦艦タ級flagship、重巡リ級flagship、駆逐？級flagship、駆逐？級flagship",
-              "diZhiKongZhi": "52",
-              "zhiKongYouShi": "78",
-              "zhiKongQueBao": "156"
+              "diZhiKongZhi": 52,
+              "zhiKongYouShi": 78,
+              "zhiKongQueBao": 156
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ハ級elite、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             }
           ],
           "drop": "五月雨 涼風 満潮 荒潮 霞 陽炎 黒潮 秋雲 龍田 多摩 由良 神通 最上 古鷹 加古 青葉 那智 羽黒 摩耶 筑摩 千歳 龍驤 祥鳳 榛名 霧島 扶桑 山城"
@@ -5392,10 +5392,10 @@
       ]
     },
     {
-      "index": "53",
-      "mapName": "5",
-      "stars": "9",
-      "exp": "400",
+      "index": 53,
+      "mapName": 5,
+      "stars": 9,
+      "exp": 400,
       "areaName": "サブ島沖海域",
       "battleName": "第一次サーモン沖海戦",
       "point": [
@@ -5422,7 +5422,7 @@
         },
         {
           "position": "B",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "梯形",
@@ -5444,7 +5444,7 @@
         },
         {
           "position": "C",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -5466,7 +5466,7 @@
         },
         {
           "position": "D",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "複縦",
@@ -5501,23 +5501,23 @@
             {
               "formation": "複縦、輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、戦艦タ級flagship、軽巡ホ級flagship、駆逐ロ級flagship、駆逐ロ級flagship",
-              "diZhiKongZhi": "56",
-              "zhiKongYouShi": "84",
-              "zhiKongQueBao": "168"
+              "diZhiKongZhi": 56,
+              "zhiKongYouShi": 84,
+              "zhiKongQueBao": 168
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite、戦艦タ級flagship、駆逐ハ級flagship、駆逐ハ級flagship",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             }
           ],
           "drop": "吹雪 睦月 天龍 五十鈴 那珂 夕張 最上 古鷹 衣笠 摩耶 羽黒 筑摩 龍驤 比叡 霧島 山城"
         },
         {
           "position": "F",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "複縦",
@@ -5586,9 +5586,9 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、戦艦タ級flagship、駆逐ハ級flagship、駆逐ハ級flagship、潜水カ級flagship、潜水カ級flagship",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "複縦",
@@ -5599,30 +5599,30 @@
         },
         {
           "position": "K",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "輸送ワ級elite、南方棲戦姫、戦艦タ級flagship、駆逐ハ級flagship、駆逐ハ級flagship、潜水カ級flagship",
-              "diZhiKongZhi": "47",
-              "zhiKongYouShi": "71",
-              "zhiKongQueBao": "141"
+              "diZhiKongZhi": 47,
+              "zhiKongYouShi": 71,
+              "zhiKongQueBao": 141
             },
             {
               "formation": "輪形",
               "detail": "輸送ワ級elite、南方棲戦姫、戦艦タ級flagship、戦艦タ級flagship、軽巡ヘ級flagship、潜水ヨ級flagship",
               "type": "final",
-              "diZhiKongZhi": "47",
-              "zhiKongYouShi": "71",
-              "zhiKongQueBao": "141"
+              "diZhiKongZhi": 47,
+              "zhiKongYouShi": 71,
+              "zhiKongQueBao": 141
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、南方棲戦姫、重巡リ級flagship、重巡リ級flagship、駆逐ロ級flagship、駆逐ロ級flagship",
               "type": "clear",
-              "diZhiKongZhi": "75",
-              "zhiKongYouShi": "113",
-              "zhiKongQueBao": "225"
+              "diZhiKongZhi": 75,
+              "zhiKongYouShi": 113,
+              "zhiKongQueBao": 225
             }
           ],
           "drop": "秋雲 夕雲 長波 卯月 弥生 山雲 大井 北上 天龍 龍田 球磨 長良 五十鈴 名取 由良 川内 夕張 最上 古鷹 加古 青葉 妙高 那智 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 鈴谷 千歳 千代田 赤城 加賀 蒼龍 飛龍 翔鶴 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 伊168 伊58 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -5630,10 +5630,10 @@
       ]
     },
     {
-      "index": "54",
-      "mapName": "5",
-      "stars": "9",
-      "exp": "420",
+      "index": 54,
+      "mapName": 5,
+      "stars": 9,
+      "exp": 420,
       "areaName": "サーモン海域",
       "battleName": "東京急行",
       "point": [
@@ -5658,9 +5658,9 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、軽巡ヘ級flagship、駆逐ロ級flagship、駆逐ロ級flagship、駆逐イ級elite、駆逐イ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "単縦",
@@ -5697,23 +5697,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ロ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             }
           ],
           "route": {
@@ -5762,28 +5762,28 @@
         },
         {
           "position": "G",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、重巡リ級elite、軽巡ホ級flagship、駆逐ハ級flagship、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、重巡リ級flagship、駆逐ハ級flagship、駆逐ハ級elite、駆逐ハ級elite",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級elite、重巡リ級elite、軽巡ヘ級flagship、駆逐ハ級flagship、駆逐ロ級elite ",
-              "diZhiKongZhi": "28",
-              "zhiKongYouShi": "42",
-              "zhiKongQueBao": "84"
+              "diZhiKongZhi": 28,
+              "zhiKongYouShi": 42,
+              "zhiKongQueBao": 84
             }
           ],
           "route": {
@@ -5797,23 +5797,23 @@
             {
               "formation": "輪形",
               "detail": "装甲空母鬼、装甲空母鬼、空母ヲ級flagship、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "116",
-              "zhiKongYouShi": "174",
-              "zhiKongQueBao": "348"
+              "diZhiKongZhi": 116,
+              "zhiKongYouShi": 174,
+              "zhiKongQueBao": 348
             },
             {
               "formation": "輪形",
               "detail": "装甲空母鬼、空母ヲ級flagship、空母ヲ級flagship、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "100",
-              "zhiKongYouShi": "150",
-              "zhiKongQueBao": "300"
+              "diZhiKongZhi": 100,
+              "zhiKongYouShi": 150,
+              "zhiKongQueBao": 300
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、空母ヲ級elite、軽巡ホ級flagship、駆逐ロ級elite、駆逐ロ級elite",
-              "diZhiKongZhi": "83",
-              "zhiKongYouShi": "125",
-              "zhiKongQueBao": "249"
+              "diZhiKongZhi": 83,
+              "zhiKongYouShi": 125,
+              "zhiKongQueBao": 249
             }
           ],
           "route": [
@@ -5832,14 +5832,14 @@
         },
         {
           "position": "I",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "軽母ヌ級elite、駆逐ロ級flagship、駆逐ロ級flagship、潜水ヨ級flagship、潜水カ級elite、潜水カ級elite",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "単横",
@@ -5867,23 +5867,23 @@
             {
               "formation": "輪形",
               "detail": "装甲空母姫、軽母ヌ級elite、軽母ヌ級elite、戦艦ル級flagship、駆逐ニ級elite、潜水カ級elite",
-              "diZhiKongZhi": "96",
-              "zhiKongYouShi": "144",
-              "zhiKongQueBao": "288"
+              "diZhiKongZhi": 96,
+              "zhiKongYouShi": 144,
+              "zhiKongQueBao": 288
             },
             {
               "formation": "輪形",
               "detail": "装甲空母姫、空母ヲ級elite、空母ヲ級elite、重巡リ級flagship、駆逐ニ級elite、潜水ヨ級elite",
-              "diZhiKongZhi": "102",
-              "zhiKongYouShi": "153",
-              "zhiKongQueBao": "306"
+              "diZhiKongZhi": 102,
+              "zhiKongYouShi": 153,
+              "zhiKongQueBao": 306
             },
             {
               "formation": "輪形",
               "detail": "装甲空母姫、軽母ヌ級elite、軽母ヌ級elite、軽巡へ級flagship、駆逐ニ級elite、潜水カ級elite",
-              "diZhiKongZhi": "96",
-              "zhiKongYouShi": "144",
-              "zhiKongQueBao": "288"
+              "diZhiKongZhi": 96,
+              "zhiKongYouShi": 144,
+              "zhiKongQueBao": 288
             }
           ],
           "route": {
@@ -5934,7 +5934,7 @@
         },
         {
           "position": "O",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
@@ -5944,17 +5944,17 @@
               "formation": "輪形",
               "detail": "輸送ワ級flagship、戦艦タ級flagship、戦艦タ級flagship、空母ヲ級flagship、軽母ヌ級elite、軽母ヌ級elite",
               "type": "final",
-              "diZhiKongZhi": "76",
-              "zhiKongYouShi": "114",
-              "zhiKongQueBao": "228"
+              "diZhiKongZhi": 76,
+              "zhiKongYouShi": 114,
+              "zhiKongQueBao": 228
             },
             {
               "formation": "輪形",
               "detail": "輸送ワ級flagship、戦艦ル級flagship、戦艦ル級flagship、軽巡へ級flagship、軽母ヌ級elite、軽母ヌ級elite",
               "type": "clear",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "drop": "雪風 吹雪 初雪 叢雲 綾波 敷波 睦月 皐月 三日月 望月 暁 雷 電 夕立 五月雨 涼風 陽炎 黒潮 秋雲 夕雲 巻雲 長波 弥生 卯月 浜風 天龍 長良 五十鈴 川内 神通 夕張 阿賀野 古鷹 加古 青葉 妙高 足柄 羽黒 高雄 愛宕 摩耶 鳥海 利根 筑摩 衣笠 鈴谷 熊野 千歳 龍驤 飛鷹 隼鷹 翔鶴 瑞鶴 瑞鳳 伊19 伊58 陸奥 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -5962,10 +5962,10 @@
       ]
     },
     {
-      "index": "55",
-      "mapName": "5",
-      "stars": "11",
-      "exp": "450",
+      "index": 55,
+      "mapName": 5,
+      "stars": 11,
+      "exp": 450,
       "areaName": "サーモン海域北方",
       "battleName": "第二次サーモン海戦",
       "point": [
@@ -5987,23 +5987,23 @@
             {
               "formation": "単縦",
               "detail": "戦艦レ級、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "117",
-              "zhiKongYouShi": "176",
-              "zhiKongQueBao": "351"
+              "diZhiKongZhi": 117,
+              "zhiKongYouShi": 176,
+              "zhiKongQueBao": 351
             },
             {
               "formation": "輪形",
               "detail": "戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、潜水カ級elite",
-              "diZhiKongZhi": "140",
-              "zhiKongYouShi": "210",
-              "zhiKongQueBao": "420"
+              "diZhiKongZhi": 140,
+              "zhiKongYouShi": 210,
+              "zhiKongQueBao": 420
             },
             {
               "formation": "複縦",
               "detail": "戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "140",
-              "zhiKongYouShi": "210",
-              "zhiKongQueBao": "420"
+              "diZhiKongZhi": 140,
+              "zhiKongYouShi": 210,
+              "zhiKongQueBao": 420
             }
           ],
           "route": [
@@ -6026,23 +6026,23 @@
             {
               "formation": "輪形",
               "detail": "戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、潜水カ級elite",
-              "diZhiKongZhi": "140",
-              "zhiKongYouShi": "210",
-              "zhiKongQueBao": "420"
+              "diZhiKongZhi": 140,
+              "zhiKongYouShi": 210,
+              "zhiKongQueBao": 420
             },
             {
               "formation": "複縦",
               "detail": "戦艦レ級、軽母ヌ級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "140",
-              "zhiKongYouShi": "210",
-              "zhiKongQueBao": "420"
+              "diZhiKongZhi": 140,
+              "zhiKongYouShi": 210,
+              "zhiKongQueBao": 420
             },
             {
               "formation": "単縦",
               "detail": "戦艦レ級、軽母ヌ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "117",
-              "zhiKongYouShi": "176",
-              "zhiKongQueBao": "351"
+              "diZhiKongZhi": 117,
+              "zhiKongYouShi": 176,
+              "zhiKongQueBao": 351
             }
           ],
           "route": {
@@ -6052,7 +6052,7 @@
         },
         {
           "position": "C",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "梯形",
@@ -6065,9 +6065,9 @@
             {
               "formation": "単横",
               "detail": "潜水ヨ級flagship、潜水ヨ級flagship、潜水カ級flagship、潜水カ級flagship、潜水ヨ級elite、軽母ヌ級flagship",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             }
           ],
           "route": {
@@ -6081,16 +6081,16 @@
             {
               "formation": "複縦、輪形",
               "detail": "空母ヲ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、戦艦タ級elite、軽巡ヘ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "74",
-              "zhiKongYouShi": "111",
-              "zhiKongQueBao": "222"
+              "diZhiKongZhi": 74,
+              "zhiKongYouShi": 111,
+              "zhiKongQueBao": 222
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、軽母ヌ級flagship、軽母ヌ級flagship、軽母ヌ級flagship、戦艦タ級elite、駆逐イ級flagship",
-              "diZhiKongZhi": "171",
-              "zhiKongYouShi": "257",
-              "zhiKongQueBao": "513"
+              "diZhiKongZhi": 171,
+              "zhiKongYouShi": 257,
+              "zhiKongQueBao": 513
             }
           ],
           "route": {
@@ -6104,23 +6104,23 @@
             {
               "formation": "単縦",
               "detail": "戦艦レ級elite、重巡リ級elite、雷巡チ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             },
             {
               "formation": "複縦",
               "detail": "戦艦レ級elite、重巡リ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             },
             {
               "formation": "単縦",
               "detail": "戦艦レ級elite、重巡リ級flagship、軽巡ヘ級flagship、雷巡チ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             }
           ],
           "route": [
@@ -6140,9 +6140,9 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐ハ級flagship、駆逐ハ級flagship",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "単横",
@@ -6160,16 +6160,16 @@
             {
               "formation": "単縦",
               "detail": "戦艦レ級elite、重巡リ級elite、雷巡チ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             },
             {
               "formation": "複縦",
               "detail": "戦艦レ級elite、重巡リ級flagship、重巡リ級elite、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             }
           ],
           "route": [
@@ -6185,28 +6185,28 @@
         },
         {
           "position": "H",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "単縦",
               "detail": "戦艦レ級elite、重巡リ級elite、雷巡チ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             },
             {
               "formation": "",
               "detail": "戦艦レ級elite、重巡リ級flagship、重巡リ級flagship、軽巡へ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             },
             {
               "formation": "",
               "detail": "戦艦レ級elite、重巡リ級flagship、軽巡へ級flagship、雷巡チ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "107",
-              "zhiKongYouShi": "161",
-              "zhiKongQueBao": "321"
+              "diZhiKongZhi": 107,
+              "zhiKongYouShi": 161,
+              "zhiKongQueBao": 321
             }
           ],
           "drop": "白露 長良"
@@ -6237,28 +6237,28 @@
         },
         {
           "position": "K",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "単縦",
               "detail": "戦艦レ級elite、戦艦レ級、重巡リ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "201",
-              "zhiKongYouShi": "302",
-              "zhiKongQueBao": "603"
+              "diZhiKongZhi": 201,
+              "zhiKongYouShi": 302,
+              "zhiKongQueBao": 603
             },
             {
               "formation": "単縦",
               "detail": "戦艦レ級elite、戦艦レ級、雷巡チ級flagship、軽巡ホ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "201",
-              "zhiKongYouShi": "302",
-              "zhiKongQueBao": "603"
+              "diZhiKongZhi": 201,
+              "zhiKongYouShi": 302,
+              "zhiKongQueBao": 603
             },
             {
               "formation": "単縦",
               "detail": "戦艦レ級、戦艦レ級、重巡リ級flagship、軽巡ヘ級flagship、駆逐イ級flagship、駆逐イ級flagship",
-              "diZhiKongZhi": "188",
-              "zhiKongYouShi": "282",
-              "zhiKongQueBao": "564"
+              "diZhiKongZhi": 188,
+              "zhiKongYouShi": 282,
+              "zhiKongQueBao": 564
             }
           ],
           "route": [
@@ -6280,7 +6280,7 @@
         },
         {
           "position": "M",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "",
@@ -6289,9 +6289,9 @@
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽巡へ級flagship、駆逐イ級flagship、駆逐イ級flagship、駆逐ハ級flagship、駆逐ハ級flagship",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "",
@@ -6302,30 +6302,30 @@
         },
         {
           "position": "N",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、空母ヲ級flagship、戦艦レ級elite、駆逐イ級flagship、駆逐イ級flagship、潜水ヨ級elite",
-              "diZhiKongZhi": "237",
-              "zhiKongYouShi": "356",
-              "zhiKongQueBao": "711"
+              "diZhiKongZhi": 237,
+              "zhiKongYouShi": 356,
+              "zhiKongQueBao": 711
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、空母ヲ級改flagship、南方棲戦姫、駆逐イ級flagship、駆逐イ級flagship、潜水ヨ級flagship",
               "type": "final",
-              "diZhiKongZhi": "251",
-              "zhiKongYouShi": "377",
-              "zhiKongQueBao": "753"
+              "diZhiKongZhi": 251,
+              "zhiKongYouShi": 377,
+              "zhiKongQueBao": 753
             },
             {
               "formation": "輪形",
               "detail": "戦艦レ級elite、空母ヲ級改flagship、空母ヲ級flagship、駆逐イ級flagship、駆逐イ級flagship、潜水ヨ級elite",
               "type": "clear",
-              "diZhiKongZhi": "237",
-              "zhiKongYouShi": "356",
-              "zhiKongQueBao": "711"
+              "diZhiKongZhi": 237,
+              "zhiKongYouShi": 356,
+              "zhiKongQueBao": 711
             }
           ],
           "drop": "綾波 敷波 睦月 望月 白露 時雨 陽炎 涼風 秋雲 巻雲 弥生 卯月 浜風 初風 長良 由良 神通 妙高 羽黒 高雄 愛宕 摩耶 利根 筑摩 鈴谷 熊野 千歳 大鯨 龍驤 翔鶴 瑞鶴 長門 陸奥 比叡 霧島"
@@ -6333,10 +6333,10 @@
       ]
     },
     {
-      "index": "61",
-      "mapName": "6",
-      "stars": "8",
-      "exp": "380",
+      "index": 61,
+      "mapName": 6,
+      "stars": 8,
+      "exp": 380,
       "areaName": "中部海域哨戒線",
       "battleName": "潜水艦作戦",
       "point": [
@@ -6376,16 +6376,16 @@
             {
               "formation": "複縦",
               "detail": "戦艦ル級flagship、軽母ヌ級flagship、重巡リ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "単縦、複縦",
               "detail": "戦艦ル級flagship、軽母ヌ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             }
           ],
           "route": {
@@ -6486,23 +6486,23 @@
             {
               "formation": "輪形",
               "detail": "空母棲鬼、空母ヲ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "180",
-              "zhiKongYouShi": "270",
-              "zhiKongQueBao": "540"
+              "diZhiKongZhi": 180,
+              "zhiKongYouShi": 270,
+              "zhiKongQueBao": 540
             },
             {
               "formation": "輪形",
               "detail": "空母棲鬼、重巡リ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "96",
-              "zhiKongYouShi": "144",
-              "zhiKongQueBao": "288"
+              "diZhiKongZhi": 96,
+              "zhiKongYouShi": 144,
+              "zhiKongQueBao": 288
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、重巡リ級flagship、軽巡ツ級、駆逐ロ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "168",
-              "zhiKongYouShi": "252",
-              "zhiKongQueBao": "504"
+              "diZhiKongZhi": 168,
+              "zhiKongYouShi": 252,
+              "zhiKongQueBao": 504
             }
           ],
           "drop": "綾波 如月 文月 長月 菊月 三日月 望月 朧 曙 潮 五月雨 木曾 五十鈴 由良 最上 加古 青葉 妙高 那智 足柄 羽黒 愛宕 摩耶 鳥海 飛鷹 祥鳳 伊19 伊168 伊58 伊8 まるゆ 伊401"
@@ -6529,28 +6529,28 @@
         },
         {
           "position": "K",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "複縦、輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、軽巡ツ級elite、軽巡ツ級elite、駆逐ニ級後期型、駆逐ニ級後期型",
-              "diZhiKongZhi": "84",
-              "zhiKongYouShi": "126",
-              "zhiKongQueBao": "252"
+              "diZhiKongZhi": 84,
+              "zhiKongYouShi": 126,
+              "zhiKongQueBao": 252
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、軽巡ヘ級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ハ級後期型",
-              "diZhiKongZhi": "84",
-              "zhiKongYouShi": "126",
-              "zhiKongQueBao": "252"
+              "diZhiKongZhi": 84,
+              "zhiKongYouShi": 126,
+              "zhiKongQueBao": 252
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、軽巡ヘ級elite、軽巡ツ級、駆逐ハ級後期型、駆逐ハ級後期型",
-              "diZhiKongZhi": "84",
-              "zhiKongYouShi": "126",
-              "zhiKongQueBao": "252"
+              "diZhiKongZhi": 84,
+              "zhiKongYouShi": 126,
+              "zhiKongQueBao": 252
             }
           ],
           "drop": "雪風 巻雲 長波 大井 北上 天龍 龍田 長良 名取 川内 神通 那珂 鬼怒 夕張 最上 古鷹 加古 青葉 妙高 足柄 高雄 愛宕 摩耶 利根 筑摩 衣笠 鈴谷 熊野 千代田 大鯨 蒼龍 飛龍 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊168 伊58 伊19 伊8 まるゆ 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -6558,10 +6558,10 @@
       ]
     },
     {
-      "index": "62",
-      "mapName": "6",
-      "stars": "9",
-      "exp": "420",
+      "index": 62,
+      "mapName": 6,
+      "stars": 9,
+      "exp": 420,
       "areaName": "MS諸島沖",
       "battleName": "MS諸島防衛戦",
       "point": [
@@ -6583,16 +6583,16 @@
             {
               "formation": "複縦",
               "detail": "重巡リ級flagship、軽母ヌ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "複縦、輪形",
               "detail": "重巡リ級flagship、軽母ヌ級elite、軽母ヌ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "48",
-              "zhiKongYouShi": "72",
-              "zhiKongQueBao": "144"
+              "diZhiKongZhi": 48,
+              "zhiKongYouShi": 72,
+              "zhiKongQueBao": 144
             }
           ],
           "route": [
@@ -6612,23 +6612,23 @@
             {
               "formation": "複縦",
               "detail": "戦艦ル級flagship、重巡リ級elite、重巡リ級elite、軽母ヌ級elite、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             },
             {
               "formation": "輪形",
               "detail": "軽母ヌ級flagship、軽母ヌ級flagship、戦艦ル級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "46",
-              "zhiKongYouShi": "69",
-              "zhiKongQueBao": "138"
+              "diZhiKongZhi": 46,
+              "zhiKongYouShi": 69,
+              "zhiKongQueBao": 138
             },
             {
               "formation": "輪形",
               "detail": "戦艦ル級flagship、軽母ヌ級elite、重巡リ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "route": [
@@ -6672,23 +6672,23 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、空母ヲ級flagship、軽巡ツ級elite、駆逐ロ級後期型、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "168",
-              "zhiKongYouShi": "252",
-              "zhiKongQueBao": "504"
+              "diZhiKongZhi": 168,
+              "zhiKongYouShi": 252,
+              "zhiKongQueBao": 504
             },
             {
               "formation": "複縦、輪形",
               "detail": "空母ヲ級flagship、軽巡ツ級、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "84",
-              "zhiKongYouShi": "126",
-              "zhiKongQueBao": "252"
+              "diZhiKongZhi": 84,
+              "zhiKongYouShi": 126,
+              "zhiKongQueBao": 252
             },
             {
               "formation": "輪形",
               "detail": "空母ヲ級flagship、重巡リ級flagship、軽巡ツ級、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "84",
-              "zhiKongYouShi": "126",
-              "zhiKongQueBao": "252"
+              "diZhiKongZhi": 84,
+              "zhiKongYouShi": 126,
+              "zhiKongQueBao": 252
             }
           ],
           "route": {
@@ -6724,9 +6724,9 @@
             {
               "formation": "単縦",
               "detail": "戦艦ル級flagship、戦艦ル級flagship、軽母ヌ級flagship、軽巡ツ級、駆逐ハ級後期型、駆逐ニ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             },
             {
               "formation": "単縦",
@@ -6754,9 +6754,9 @@
             {
               "formation": "単縦、複縦",
               "detail": "戦艦ル級flagship、戦艦ル級flagship、軽母ヌ級flagship、軽巡ツ級、駆逐ハ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "23",
-              "zhiKongYouShi": "35",
-              "zhiKongQueBao": "69"
+              "diZhiKongZhi": 23,
+              "zhiKongYouShi": 35,
+              "zhiKongQueBao": 69
             }
           ],
           "route": [
@@ -6780,16 +6780,16 @@
             {
               "formation": "輪形",
               "detail": "空母ヲ級改flagship、戦艦ル級flagship、軽巡ツ級elite、駆逐ハ級後期型、駆逐ロ級後期型、駆逐ロ級後期型",
-              "diZhiKongZhi": "102",
-              "zhiKongYouShi": "153",
-              "zhiKongQueBao": "306"
+              "diZhiKongZhi": 102,
+              "zhiKongYouShi": 153,
+              "zhiKongQueBao": 306
             },
             {
               "formation": "複縦",
               "detail": "重巡リ級改flagship、戦艦ル級flagship、軽母ヌ級elite、軽巡ツ級、駆逐イ級後期型、駆逐イ級後期型",
-              "diZhiKongZhi": "24",
-              "zhiKongYouShi": "36",
-              "zhiKongQueBao": "72"
+              "diZhiKongZhi": 24,
+              "zhiKongYouShi": 36,
+              "zhiKongQueBao": 72
             }
           ],
           "route": {
@@ -6805,7 +6805,7 @@
         },
         {
           "position": "K",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -6814,9 +6814,9 @@
             {
               "formation": "単縦、輪形",
               "detail": "輸送ワ級flagship、空母ヲ級flagship、戦艦ル級改flagship、軽巡ツ級elite、駆逐ニ級後期型、駆逐ニ級後期型",
-              "diZhiKongZhi": "84",
-              "zhiKongYouShi": "126",
-              "zhiKongQueBao": "252"
+              "diZhiKongZhi": 84,
+              "zhiKongYouShi": 126,
+              "zhiKongQueBao": 252
             }
           ],
           "drop": "島風 霞 夕雲 巻雲 浜風 大井 長良 五十鈴 川内 神通 那珂 鬼怒 夕張 矢矧 酒匂 最上 青葉 妙高 那智 高雄 愛宕 利根 鈴谷 熊野 衣笠 千歳 翔鶴 瑞鶴 鳳翔 龍驤 飛鷹 隼鷹 祥鳳 瑞鳳 伊19 伊168 まるゆ 長門 陸奥 伊勢 日向 金剛 比叡 榛名 霧島 扶桑 山城"
@@ -6824,10 +6824,10 @@
       ]
     },
     {
-      "index": "63",
-      "mapName": "6",
-      "stars": "7",
-      "exp": "100",
+      "index": 63,
+      "mapName": 6,
+      "stars": 7,
+      "exp": 100,
       "areaName": "グアノ環礁沖海域",
       "battleName": "K作戦",
       "point": [
@@ -7027,7 +7027,7 @@
         },
         {
           "position": "J",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -7059,10 +7059,10 @@
       ]
     },
     {
-      "index": "311",
-      "mapName": "31",
-      "stars": "7",
-      "exp": "100",
+      "index": 311,
+      "mapName": 31,
+      "stars": 7,
+      "exp": 100,
       "areaName": "ショートランド沖",
       "battleName": "発動準備、第二次SN作戦！",
       "point": [
@@ -7174,7 +7174,7 @@
         },
         {
           "position": "Z",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -7190,10 +7190,10 @@
       ]
     },
     {
-      "index": "312",
-      "mapName": "31",
-      "stars": "9",
-      "exp": "100",
+      "index": 312,
+      "mapName": 31,
+      "stars": 9,
+      "exp": 100,
       "areaName": "ソロモン海",
       "battleName": "連合艦隊、ソロモン海へ！",
       "point": [
@@ -7392,7 +7392,7 @@
         },
         {
           "position": "Z",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -7408,10 +7408,10 @@
       ]
     },
     {
-      "index": "313",
-      "mapName": "31",
-      "stars": "12",
-      "exp": "100",
+      "index": 313,
+      "mapName": 31,
+      "stars": 12,
+      "exp": 100,
       "areaName": "南太平洋海域",
       "battleName": "激突！第二次南太平洋海戦",
       "point": [
@@ -7580,7 +7580,7 @@
         },
         {
           "position": "Z",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "輪形",
@@ -7596,10 +7596,10 @@
       ]
     },
     {
-      "index": "314",
-      "mapName": "31",
-      "stars": "13",
-      "exp": "100",
+      "index": 314,
+      "mapName": 31,
+      "stars": 13,
+      "exp": 100,
       "areaName": "アイアンボトムサウンド",
       "battleName": "海峡突入！敵飛行場を撃滅せよ！",
       "point": [
@@ -7671,7 +7671,7 @@
         },
         {
           "position": "E",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -7716,7 +7716,7 @@
         },
         {
           "position": "G",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -7813,7 +7813,7 @@
         },
         {
           "position": "Z",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -7829,10 +7829,10 @@
       ]
     },
     {
-      "index": "315",
-      "mapName": "31",
-      "stars": "13",
-      "exp": "100",
+      "index": 315,
+      "mapName": 31,
+      "stars": 13,
+      "exp": 100,
       "areaName": "西方海域戦線 カレー洋",
       "battleName": "奮戦！西部方面派遣艦隊",
       "point": [
@@ -8030,7 +8030,7 @@
         },
         {
           "position": "Z",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -8046,10 +8046,10 @@
       ]
     },
     {
-      "index": "316",
-      "mapName": "31",
-      "stars": "14",
-      "exp": "100",
+      "index": 316,
+      "mapName": 31,
+      "stars": 14,
+      "exp": 100,
       "areaName": "ソロモン海東部海域",
       "battleName": "反攻作戦！FS方面進出",
       "point": [
@@ -8107,7 +8107,7 @@
         },
         {
           "position": "D",
-          "isNight": "1",
+          "isNight": 1,
           "enemy": {
             "formation": "",
             "detail": ""
@@ -8266,7 +8266,7 @@
         },
         {
           "position": "Z",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
@@ -8282,10 +8282,10 @@
       ]
     },
     {
-      "index": "317",
-      "mapName": "31",
-      "stars": "15",
-      "exp": "100",
+      "index": 317,
+      "mapName": 31,
+      "stars": 15,
+      "exp": 100,
       "areaName": "FS方面海域",
       "battleName": "FS作戦",
       "point": [
@@ -8563,7 +8563,7 @@
         },
         {
           "position": "Z",
-          "isBoss": "1",
+          "isBoss": 1,
           "enemy": [
             {
               "formation": "単縦",
