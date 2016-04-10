@@ -59,6 +59,7 @@ def ship_info():
 		
 		# derived variables from Ship.json
 		# look through extra_ship_data for matching index, then grab data from there
+		found = False
 		for extra_ship in extra_ship_data:
 			if (extra_ship['index'] == ship['api_id']):
 				# ASW: Anti-sub
@@ -87,13 +88,17 @@ def ship_info():
 						ship['seiyuu'] = ""
 				else:
 					ship['seiyuu'] = ""
+				
+				# ship found, stop searching
+				found = True
+				break
 			
-			else: # give default values if info not found
-				ship['antisub'] = 0
-				ship['line_of_sight'] = 0
-				ship['evasion'] = 0
-				ship['illustrator'] = ""
-				ship['seiyuu'] = ""
+		if found == False: # give default values if info not found
+			ship['antisub'] = 0
+			ship['line_of_sight'] = 0
+			ship['evasion'] = 0
+			ship['illustrator'] = ""
+			ship['seiyuu'] = ""
 				
 		#print(ship['api_id'], ship['name_roma'], extra_ship_data[ship['api_id'] - 1])
 		
