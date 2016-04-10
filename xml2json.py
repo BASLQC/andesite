@@ -6,8 +6,9 @@ import sys
 import os
 import fnmatch
 
-# default output dir
-output_dir = "en"
+# matches the structure of the Resources folder
+input_dir = "Data/ja"
+output_dir = "Data/en"
 
 def mkdirs(path):
 	"""Make directory, if it doesn't exist."""
@@ -23,10 +24,10 @@ def convert(xml_file, xml_attribs=True):
 def main():
 	mkdirs(output_dir)
 	
-	for file in os.listdir('.'):
+	for file in os.listdir(input_dir):
 		if fnmatch.fnmatch(file, '*.xml'):
 			# parse out all the quoted lone integers
-			json_data = convert(file)
+			json_data = convert(os.path.join(input_dir, file))
 			json_data = re.sub('\"(\d+)\"', r'\1', json_data)
 
 			# make multiple regex replace with a single pass
@@ -59,7 +60,8 @@ def main():
 
 			# save as converted JSON
 			with open(os.path.join(output_dir, os.path.splitext(file)[0] + ".json"), 'w') as f:
-				f.write(new_json_data)
+				# to remove the item[] nesting artifact of XML, only dump the contents of item[]
+				f.write(json.dumps(json.loads(new_json_data)[os.path.splitext(file)[0]]['item'], indent=2, ensure_ascii=False))
 
 # display some lines
 
