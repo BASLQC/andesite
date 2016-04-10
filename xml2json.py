@@ -34,7 +34,7 @@ def main():
 			# http://rc98.net/multiple_replace
 			subs = {
 				'"@': '"',        # remove XML artifact
-				'ranLiao': 'oil', # resources in romanized Chinese
+				'ranLiao': 'fuel', # resources in romanized Chinese
 				'danYao': 'ammo',
 				'gang': 'steel',
 				'lv': 'bauxite',

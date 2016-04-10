@@ -1,285 +1,285 @@
 [
   {
-    "name": "舰载机",
     "flagship": "空母",
+    "name": "舰载机",
     "recipe": [
       {
-        "ammo": 60,
-        "steel": 10,
+        "fuel": 20,
         "result": "流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)",
-        "oil": 20,
         "bauxite": 100,
-        "major": 1
+        "ammo": 60,
+        "major": 1,
+        "steel": 10
       },
       {
-        "ammo": 60,
-        "steel": 10,
+        "fuel": 20,
         "result": "流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲",
-        "oil": 20,
         "bauxite": 110,
-        "major": 1
-      },
-      {
-        "ammo": 90,
-        "steel": 60,
-        "result": "流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、三式弾",
-        "oil": 20,
-        "bauxite": 100,
-        "major": 0
-      },
-      {
         "ammo": 60,
-        "steel": 30,
-        "result": "流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲、二式艦上偵察機",
-        "oil": 50,
-        "bauxite": 130,
-        "major": 0
+        "major": 1,
+        "steel": 10
       },
       {
-        "ammo": 10,
-        "steel": 20,
-        "result": "零式水上観測機",
-        "oil": 10,
-        "bauxite": 20,
-        "major": 1
-      },
-      {
-        "ammo": 10,
-        "steel": 10,
-        "result": "零式水上観測機",
-        "oil": 20,
-        "bauxite": 20,
-        "major": 1
-      },
-      {
-        "ammo": 20,
-        "steel": 10,
-        "result": "烈風、紫電改二",
-        "oil": 20,
-        "bauxite": 90,
-        "major": 0
-      },
-      {
-        "ammo": 30,
-        "steel": 10,
-        "result": "彗星一二型甲、零式艦戦62型(爆戦)",
-        "oil": 20,
-        "bauxite": 40,
-        "major": 0
-      },
-      {
-        "ammo": 10,
-        "steel": 10,
-        "result": "彩雲、二式艦上偵察機",
-        "oil": 30,
-        "bauxite": 130,
-        "major": 0
-      },
-      {
-        "ammo": 30,
-        "steel": 10,
-        "result": "烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)",
-        "oil": 20,
-        "bauxite": 90,
-        "major": 0
-      },
-      {
-        "ammo": 20,
-        "steel": 10,
-        "result": "烈風、紫電改二、彩雲、二式艦上偵察機",
-        "oil": 30,
-        "bauxite": 130,
-        "major": 0
-      },
-      {
-        "ammo": 30,
-        "steel": 10,
-        "result": "烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲、二式艦上偵察機",
-        "oil": 30,
-        "bauxite": 130,
-        "major": 0
-      }
-    ]
-  },
-  {
-    "name": "機銃・砲・砲弾",
-    "flagship": "戦艦",
-    "recipe": [
-      {
-        "ammo": 251,
-        "steel": 250,
-        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾",
-        "oil": 10,
-        "bauxite": 10,
-        "major": 1
-      },
-      {
-        "ammo": 300,
-        "steel": 250,
-        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾",
-        "oil": 10,
-        "bauxite": 10,
-        "major": 1
-      },
-      {
-        "ammo": 251,
-        "steel": 250,
-        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾、強化型艦本式缶、改良型艦本式タービン",
-        "oil": 100,
-        "bauxite": 30,
-        "major": 0
-      },
-      {
-        "ammo": 251,
-        "steel": 250,
-        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾、強化型艦本式缶、改良型艦本式タービン、22号対水上電探、33号対水上電探",
-        "oil": 100,
-        "bauxite": 150,
-        "major": 0
-      },
-      {
+        "fuel": 20,
+        "result": "流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、三式弾",
+        "bauxite": 100,
         "ammo": 90,
-        "steel": 90,
-        "result": "15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾",
-        "oil": 10,
-        "bauxite": 30,
-        "major": 1
+        "major": 0,
+        "steel": 60
       },
       {
-        "ammo": 30,
-        "steel": 90,
-        "result": "15.5cm三連装砲(副砲)、九一式徹甲弾",
-        "oil": 10,
-        "bauxite": 10,
-        "major": 0
+        "fuel": 50,
+        "result": "流星改、流星、烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲、二式艦上偵察機",
+        "bauxite": 130,
+        "ammo": 60,
+        "major": 0,
+        "steel": 30
       },
       {
-        "ammo": 20,
-        "steel": 50,
-        "result": "15.5cm三連装砲(副砲)、15.2cm連装砲",
-        "oil": 10,
-        "bauxite": 10,
-        "major": 0
-      }
-    ]
-  },
-  {
-    "name": "ソナー・爆雷",
-    "flagship": "駆逐・軽巡・雷巡",
-    "recipe": [
-      {
-        "ammo": 10,
-        "steel": 10,
-        "result": "三式水中探信儀、九三式水中聴音機",
-        "oil": 10,
+        "fuel": 10,
+        "result": "零式水上観測機",
         "bauxite": 20,
-        "major": 1
-      },
-      {
         "ammo": 10,
-        "steel": 10,
-        "result": "九三式水中聴音機",
-        "oil": 10,
-        "bauxite": 11,
-        "major": 0
+        "major": 1,
+        "steel": 20
       },
       {
-        "ammo": 30,
-        "steel": 10,
-        "result": "三式爆雷投射機、九四式爆雷投射機",
-        "oil": 10,
-        "bauxite": 10,
-        "major": 1
+        "fuel": 20,
+        "result": "零式水上観測機",
+        "bauxite": 20,
+        "ammo": 10,
+        "major": 1,
+        "steel": 10
       },
       {
-        "ammo": 30,
-        "steel": 10,
-        "result": "三式水中探信儀、九三式水中聴音機、三式爆雷投射機、九四式爆雷投射機",
-        "oil": 10,
-        "bauxite": 31,
-        "major": 1
-      },
-      {
-        "ammo": 50,
-        "steel": 10,
-        "result": "三式水中探信儀、九三式水中聴音機、三式爆雷投射機、九四式爆雷投射機、25mm三連装機銃",
-        "oil": 10,
-        "bauxite": 51,
-        "major": 0
-      }
-    ]
-  },
-  {
-    "name": "電探",
-    "flagship": "戦艦・潜母・空母",
-    "recipe": [
-      {
-        "ammo": 11,
-        "steel": 251,
-        "result": "33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、中型バルジ(秘書：戦艦)",
-        "oil": 10,
-        "bauxite": 250,
-        "major": 1
-      },
-      {
-        "ammo": 11,
-        "steel": 300,
-        "result": "33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、中型バルジ(秘書：戦艦)、大型バルジ(秘書：戦艦)",
-        "oil": 10,
-        "bauxite": 250,
-        "major": 0
-      },
-      {
+        "fuel": 20,
+        "result": "烈風、紫電改二",
+        "bauxite": 90,
         "ammo": 20,
-        "steel": 250,
-        "result": "33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、烈風(秘書：空母)",
-        "oil": 20,
-        "bauxite": 250,
-        "major": 0
+        "major": 0,
+        "steel": 10
+      },
+      {
+        "fuel": 20,
+        "result": "彗星一二型甲、零式艦戦62型(爆戦)",
+        "bauxite": 40,
+        "ammo": 30,
+        "major": 0,
+        "steel": 10
+      },
+      {
+        "fuel": 30,
+        "result": "彩雲、二式艦上偵察機",
+        "bauxite": 130,
+        "ammo": 10,
+        "major": 0,
+        "steel": 10
+      },
+      {
+        "fuel": 20,
+        "result": "烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)",
+        "bauxite": 90,
+        "ammo": 30,
+        "major": 0,
+        "steel": 10
+      },
+      {
+        "fuel": 30,
+        "result": "烈風、紫電改二、彩雲、二式艦上偵察機",
+        "bauxite": 130,
+        "ammo": 20,
+        "major": 0,
+        "steel": 10
+      },
+      {
+        "fuel": 30,
+        "result": "烈風、紫電改二、彗星一二型甲、零式艦戦62型(爆戦)、彩雲、二式艦上偵察機",
+        "bauxite": 130,
+        "ammo": 30,
+        "major": 0,
+        "steel": 10
       }
     ]
   },
   {
-    "name": "機関",
-    "flagship": "戦艦・空母",
+    "flagship": "戦艦",
+    "name": "機銃・砲・砲弾",
     "recipe": [
       {
-        "ammo": 10,
-        "steel": 200,
-        "result": "強化型艦本式缶、改良型艦本式タービン",
-        "oil": 100,
+        "fuel": 10,
+        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾",
         "bauxite": 10,
-        "major": 1
-      },
-      {
         "ammo": 251,
-        "steel": 250,
-        "result": "強化型艦本式缶、改良型艦本式タービン、46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾",
-        "oil": 100,
+        "major": 1,
+        "steel": 250
+      },
+      {
+        "fuel": 10,
+        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾",
         "bauxite": 10,
-        "major": 0
+        "ammo": 300,
+        "major": 1,
+        "steel": 250
+      },
+      {
+        "fuel": 100,
+        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾、強化型艦本式缶、改良型艦本式タービン",
+        "bauxite": 30,
+        "ammo": 251,
+        "major": 0,
+        "steel": 250
+      },
+      {
+        "fuel": 100,
+        "result": "46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾、強化型艦本式缶、改良型艦本式タービン、22号対水上電探、33号対水上電探",
+        "bauxite": 150,
+        "ammo": 251,
+        "major": 0,
+        "steel": 250
+      },
+      {
+        "fuel": 10,
+        "result": "15.5cm三連装砲(副砲)、九一式徹甲弾、三式弾",
+        "bauxite": 30,
+        "ammo": 90,
+        "major": 1,
+        "steel": 90
+      },
+      {
+        "fuel": 10,
+        "result": "15.5cm三連装砲(副砲)、九一式徹甲弾",
+        "bauxite": 10,
+        "ammo": 30,
+        "major": 0,
+        "steel": 90
+      },
+      {
+        "fuel": 10,
+        "result": "15.5cm三連装砲(副砲)、15.2cm連装砲",
+        "bauxite": 10,
+        "ammo": 20,
+        "major": 0,
+        "steel": 50
       }
     ]
   },
   {
-    "name": "ドラム缶",
-    "flagship": "軽巡・駆逐",
+    "flagship": "駆逐・軽巡・雷巡",
+    "name": "ソナー・爆雷",
     "recipe": [
       {
+        "fuel": 10,
+        "result": "三式水中探信儀、九三式水中聴音機",
+        "bauxite": 20,
         "ammo": 10,
-        "steel": 10,
-        "result": "ドラム缶",
-        "oil": 10,
-        "bauxite": 10,
-        "major": 1
+        "major": 1,
+        "steel": 10
       },
       {
+        "fuel": 10,
+        "result": "九三式水中聴音機",
+        "bauxite": 11,
         "ammo": 10,
-        "steel": 30,
-        "result": "ドラム缶、10cm連装高角砲",
-        "oil": 10,
+        "major": 0,
+        "steel": 10
+      },
+      {
+        "fuel": 10,
+        "result": "三式爆雷投射機、九四式爆雷投射機",
         "bauxite": 10,
-        "major": 0
+        "ammo": 30,
+        "major": 1,
+        "steel": 10
+      },
+      {
+        "fuel": 10,
+        "result": "三式水中探信儀、九三式水中聴音機、三式爆雷投射機、九四式爆雷投射機",
+        "bauxite": 31,
+        "ammo": 30,
+        "major": 1,
+        "steel": 10
+      },
+      {
+        "fuel": 10,
+        "result": "三式水中探信儀、九三式水中聴音機、三式爆雷投射機、九四式爆雷投射機、25mm三連装機銃",
+        "bauxite": 51,
+        "ammo": 50,
+        "major": 0,
+        "steel": 10
+      }
+    ]
+  },
+  {
+    "flagship": "戦艦・潜母・空母",
+    "name": "電探",
+    "recipe": [
+      {
+        "fuel": 10,
+        "result": "33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、中型バルジ(秘書：戦艦)",
+        "bauxite": 250,
+        "ammo": 11,
+        "major": 1,
+        "steel": 251
+      },
+      {
+        "fuel": 10,
+        "result": "33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、中型バルジ(秘書：戦艦)、大型バルジ(秘書：戦艦)",
+        "bauxite": 250,
+        "ammo": 11,
+        "major": 0,
+        "steel": 300
+      },
+      {
+        "fuel": 20,
+        "result": "33号対水上電探、14号対空電探、32号対水上電探、零式水上観測機(秘書：空母)、烈風(秘書：空母)",
+        "bauxite": 250,
+        "ammo": 20,
+        "major": 0,
+        "steel": 250
+      }
+    ]
+  },
+  {
+    "flagship": "戦艦・空母",
+    "name": "機関",
+    "recipe": [
+      {
+        "fuel": 100,
+        "result": "強化型艦本式缶、改良型艦本式タービン",
+        "bauxite": 10,
+        "ammo": 10,
+        "major": 1,
+        "steel": 200
+      },
+      {
+        "fuel": 100,
+        "result": "強化型艦本式缶、改良型艦本式タービン、46cm三連装砲、15.5cm三連装砲(副砲)、九一式徹甲弾",
+        "bauxite": 10,
+        "ammo": 251,
+        "major": 0,
+        "steel": 250
+      }
+    ]
+  },
+  {
+    "flagship": "軽巡・駆逐",
+    "name": "ドラム缶",
+    "recipe": [
+      {
+        "fuel": 10,
+        "result": "ドラム缶",
+        "bauxite": 10,
+        "ammo": 10,
+        "major": 1,
+        "steel": 10
+      },
+      {
+        "fuel": 10,
+        "result": "ドラム缶、10cm連装高角砲",
+        "bauxite": 10,
+        "ammo": 10,
+        "major": 0,
+        "steel": 30
       }
     ]
   }
