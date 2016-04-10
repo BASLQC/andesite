@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # Reprocess the JSON to use value 0 rather than just nonexistence
+# not made to process within keys that have their own subkeys
 import json
 import sys
 
